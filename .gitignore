@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups e testes
+*.bak
+*.bak_*
+_shots/
+_preview_*.png
+test_*.png
+*.log
+
+# Nintendo DS ROMs e dados temporários de rebuild
+*.nds
+*.sav
+*.dsv
+arm7.bin
+y7.bin
+y9.bin
+header.bin
+sound_data.sdat
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.swp

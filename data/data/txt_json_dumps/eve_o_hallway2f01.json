@@ -1,0 +1,123 @@
+{
+  "file": "eve_o_hallway2f01.bin",
+  "total_dialogues": 9,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 9,
+      "type": "group_6",
+      "texts": {
+        "JA": "こっちの世界でも、\nここがボタンのママと\nパパの寝室なのかな？",
+        "EN": "Is my other \nparents' bedroom \njust like the one \nin the real world?",
+        "FR": "Est-ce que la \nchambre de mes \nautres parents est \nla même que dans \nle monde réel ?",
+        "DE": "Sieht das \nSchlafzimmer \nmeiner anderen \nEltern genauso aus \nwie das in der \nechten Welt?",
+        "ES": "¿Será la \nhabitación de mis \notros padres como \nla del mundo real?",
+        "IT": "La stanza dei miei \naltri genitori \nsarà uguale a \nquella del mondo \nreale?"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 15,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン。\nそこには入れないわよ。",
+        "EN": "Coraline, you \ncan't go in there.",
+        "FR": "Coraline, tu n'as \npas le droit \nd'entrer là.",
+        "DE": "Coraline, da \ndarfst du nicht \nrein.",
+        "ES": "Coraline, no \npuedes entrar ahí.",
+        "IT": "Coraline, non puoi \nentrare lì."
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 21,
+      "type": "group_6",
+      "texts": {
+        "JA": "あなたの寝室は、\nこっちじゃないでしょ？\nパパとママの寝室に\n入ってはいけないわ。",
+        "EN": "This isn't your \nbedroom, sweetie.",
+        "FR": "Ce n'est pas ta \nchambre ma chérie.",
+        "DE": "Das ist nicht dein \nSchlafzimmer, \nSüße.",
+        "ES": "Ésa no es tu \nhabitación, cielo.",
+        "IT": "Questa non è la \ntua stanza, \ntesorino."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 27,
+      "type": "group_6",
+      "texts": {
+        "JA": "ごめんなさい、ママ。\nもう寝るわね。",
+        "EN": "Sorry, I'll go \nback to sleep.",
+        "FR": "Désolée, je \nretourne me \ncoucher.",
+        "DE": "Tut mir leid, ich \ngeh wieder \nschlafen.",
+        "ES": "Lo siento, me \nvolveré a dormir.",
+        "IT": "Scusa, torno a \ndormire."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 33,
+      "type": "group_6",
+      "texts": {
+        "JA": "ここが、\nママとパパの寝室なの？",
+        "EN": "Is this your \nbedroom?",
+        "FR": "C'est votre \nchambre là ?",
+        "DE": "Ist das dein \nSchlafzimmer?",
+        "ES": "¿Ésta es tu \nhabitación?",
+        "IT": "Questa è la tua \nstanza?"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 39,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうよ。\nあっちの世界と同じよ。",
+        "EN": "Yes darling, it is.",
+        "FR": "Oui, ma chérie, \nc'est notre \nchambre.",
+        "DE": "Ja, Liebling.",
+        "ES": "Sí, querida, así \nes.",
+        "IT": "Sì cara, è \nquesta."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 45,
+      "type": "group_6",
+      "texts": {
+        "JA": "さ、今日はもうお休み\nなさいな。愛しい、\nいたずらっ子さん。",
+        "EN": "Why don't you go \nback to bed now, \nsweetie?",
+        "FR": "Allez, retourne te \ncoucher ma puce.",
+        "DE": "Geh doch wieder \nins Bett, meine \nSüße.",
+        "ES": "¿Por qué no te \nvuelves a la cama, \ncielo?",
+        "IT": "Perché non torni \na letto ora, \ntesorino?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 51,
+      "type": "group_6",
+      "texts": {
+        "JA": "この部屋は、\nカギがかかってるのね。",
+        "EN": "This room's locked.",
+        "FR": "Cette pièce est \nfermée.",
+        "DE": "Dieses Zimmer ist \nabgeschlossen.",
+        "ES": "Esta habitación \nestá cerrada.",
+        "IT": "La stanza è \nchiusa a chiave."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 57,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

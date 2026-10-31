@@ -1,0 +1,578 @@
+{
+  "file": "eve_o_study01.bin",
+  "total_dialogues": 44,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 12,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ……？",
+        "EN": "Dad.....?",
+        "FR": "Papa... ?",
+        "DE": "Papa...?",
+        "ES": "¿Papá...?",
+        "IT": "Papà..?"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 18,
+      "type": "group_6",
+      "texts": {
+        "JA": "やあ！　コラライン。\nとうとう、\n来てくれたんだね。",
+        "EN": "Coraline！ You're \nfinally home！",
+        "FR": "Coraline ! Tu es \nenfin rentrée !",
+        "DE": "Coraline! Endlich \nbist du zu Hause!",
+        "ES": "¡Coraline! ¡Por \nfin estás en casa!",
+        "IT": "Coraline! \nFinalmente sei a \ncasa!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 24,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうも、そうみたい。\n……やっぱり、パパも\nボタンの目なのね。",
+        "EN": "I guess you could \nsay that.",
+        "FR": "On peut dire ça \ncomme ça oui...",
+        "DE": "Ich schätze, das \nkönnte man sagen.",
+        "ES": "Sí, se podría \ndecir así.",
+        "IT": "Sì, suppongo di \nsì."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 30,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nここじゃ、みんな\nそうなのさ。\nさ、一曲どうだい？　\nキミのために歌うよ。",
+        "EN": "Want to hear my \nnew song?",
+        "FR": "Tu veux entendre \nma nouvelle \nchanson ?",
+        "DE": "Willst du mein \nneues Lied hören?",
+        "ES": "¿Quieres oír mi \nnueva canción?",
+        "IT": "Vuoi sentire la \nmia nuova canzone?"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 36,
+      "type": "group_6",
+      "texts": {
+        "JA": "ありがとう。\nでも、あたしのパパは\nピアノなんて\nひけないのに。",
+        "EN": "My father can't \nplay the piano.",
+        "FR": "Mon père ne sait \npas jouer du piano.",
+        "DE": "Mein Vater kann \nkein Klavier \nspielen.",
+        "ES": "Mi padre no sabe \ntocar el piano.",
+        "IT": "Il mio papà non \nsa suonare il \npiano."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 42,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nちょっと違うよ、コラライン。\nボクがピアノをひくん\nじゃない。\nピアノがボクに\nひかせるんだ！",
+        "EN": "Ah, but I'm not \nplaying the \npiano...the piano \nis playing me！",
+        "FR": "Ah, mais moi je ne \njoue pas du piano, \nc'est le piano qui \njoue pour moi !",
+        "DE": "Ah, aber ich \nspiele nicht \nKlavier... das \nKlavier spielt \nmich!",
+        "ES": "Ah, pero yo no \ntoco el piano... \n¡es el piano el \nque me toca a mí!",
+        "IT": "Ah, ma io non \nsuono il piano... \nè il piano che \nsuona me!"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 48,
+      "type": "group_6",
+      "texts": {
+        "JA": "♪ああ〜。コララインの\nために歌おう〜♪",
+        "EN": "♪My little \nCoraline\"\"♪",
+        "FR": "♪ Ma petite \nCoraline\"\"♪",
+        "DE": "♪Meine kleine \nCoraline\"\"♪",
+        "ES": "♪Mi pequeña \nCoraline\"\"♪",
+        "IT": "♪La mia piccola \nCoraline\"\"♪"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 54,
+      "type": "group_6",
+      "texts": {
+        "JA": "♪コラライン。\nかわいい魔女よ。キミは、\n夜空にきらめくボタンさ。\n♪コラライン。\nピュアなわたしの人形よ。\nキミをぎゅっと抱きしめたい。",
+        "EN": "♪a peach, a doll, \na pal of mine.. ",
+        "FR": "♪ Ma pêche, ma \nfille, ma \ntourmaline...",
+        "DE": "♪Ein Pfirsich, \nein Püppchen, \neine Apfelsine. ",
+        "ES": "♪un melocotón, \nuna muñeca, una \namiga de cine... ",
+        "IT": "♪una pesca, una \nbambola, \nun'amica..."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 60,
+      "type": "group_6",
+      "texts": {
+        "JA": "♪コラライン。ああ、\nわたしの全て！\n♪コラライン。ああ、\nみんなのアイドル！\n♪コラライン。ああ、\n楽しき世界がキミを\n待っている。",
+        "EN": "♪Cute as a \nbutton, sweeter \nthan mutton, \neveryone loves \nCoraline！♪",
+        "FR": "♪ Belle comme un \nbouton, plus douce \nqu’un mouton, on \naime tous \nCoraline ! ♪",
+        "DE": "♪Süß wie ein \nKnöpfchen, \nhübscher als ein \nZöpfchen, alle \nlieben Coraline!♪",
+        "ES": "♪¡Bonita como \nun botón, más \ndulce que un \nmelón, todos \nquieren a \nCoraline!♪",
+        "IT": "♪Bella come un \nbottone, dolce \ncome il torrone, \ntutti amano \nCoraline!♪"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 66,
+      "type": "group_6",
+      "texts": {
+        "JA": "♪ああ〜。コラライン\nに贈ろう〜♪\n♪ああ〜。\nこの祝福の歌を〜〜♪",
+        "EN": "♪When she comes \naround exploring, \nit's never boring, \nour eyes on you \nsweet Coraline！ ♪",
+        "FR": "♪ Lorsque la \nmaison elle \nexplore, on \nl’adore, notre \ngentille petite \nCoraline! ♪",
+        "DE": "♪Wenn sie \nerkunden geht, die \nLangeweile \nvergeht, unser \nBlick verfolgt \ndich, süße \nCoraline! ♪",
+        "ES": "♪Cuando ella \nexplora, a todos \nnos enamora, \nnuestros ojos son \npara ti, dulce \nCoraline! ♪",
+        "IT": "♪Quando in casa \nva esplorando, va \ncontenta \nfischiettando, \ndolce Coraline!♪"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 72,
+      "type": "group_6",
+      "texts": {
+        "JA": "すごい！\n芸術的ね！！",
+        "EN": "Um, that's very... \nartistic.",
+        "FR": "Euh... c'est \ntrès... \nartistique.",
+        "DE": "Äh, das ist \nsehr... \nkünstlerisch \nwertvoll.",
+        "ES": "Um, es muy... \nartístico.",
+        "IT": "Uh, è molto... \nartistico."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 78,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nありがとう。\nでは、\nもう一曲……。",
+        "EN": "Ha ha！ Thanks！ \nHow about one more?",
+        "FR": "Haha ! Merci ! \nJ'en joue une \nautre ?",
+        "DE": "Ha ha! Danke! \nWillst du noch \neins?",
+        "ES": "¡Ja ja! \n¡Gracias! \n¿Quieres otra \nmás?",
+        "IT": "Ha ha! Grazie! \nAllora continuo?"
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 84,
+      "type": "group_6",
+      "texts": {
+        "JA": "ちょ、\nちょっと待って。\nありがとう。\nだけど、ママが\n呼んでるの。\n食事にしましょうって。",
+        "EN": "Well...she said to \ntell you dinner's \nready. ",
+        "FR": "Euh... elle a dit \nque le dîner \nétait servi.",
+        "DE": "Also... sie sagte, \nich soll dir \nsagen, das Essen \nsei fertig.",
+        "ES": "Bueno...ella me ha \ndicho que la cena \nestá lista. ",
+        "IT": "Beh... lei ha \ndetto di dirti che \nla cena è pronta."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 90,
+      "type": "group_6",
+      "texts": {
+        "JA": "ああ、なんてことだろうね！\n食事なんて、\nすばらしい音楽に\n比べれば、とるに\nたらないものだ\nというのに！",
+        "EN": "Coraline, food is \nnothing compared \nto beautiful \nmusic！",
+        "FR": "Coraline, il n'y a \nrien de mieux que \nde la belle \nmusique, pas vrai ?",
+        "DE": "Coraline, Essen \nist nichts im \nVergleich zu \nschöner Musik!",
+        "ES": "Coraline, ¡la \ncomida no se puede \ncomparar con la \nbuena música!",
+        "IT": "Coraline, il cibo \nè niente in \nconfronto alla \nbuona musica!"
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 96,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも、キミのママは\n絶対なのさ。\nさ、ディナーを\n楽しもう。まったく\nホントにオイシイ料理\nばかりなのはうけおうよ。",
+        "EN": "But on the other \nhand...I'm \nstarving. Okay \nlet's go！",
+        "FR": "Bon, c'est vrai \nque je meurs de \nfaim ! Allons-y \nalors !",
+        "DE": "Aber \nandererseits... \nIch bin am \nVerhungern. Okay, \ngehen wir!",
+        "ES": "Pero por otro \nlado... estoy \nhambriento. ¡De \nacuerdo, vamos!",
+        "IT": "Effettivamente... \nsto morendo di \nfame! Ok, andiamo!"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 102,
+      "type": "group_6",
+      "texts": {
+        "JA": "おいしい！\nねぇ、ママ。\nホントに\nおいしいわ！",
+        "EN": "Wow, this is \nreally great！",
+        "FR": "Ouah, c'est super \nça !!",
+        "DE": "Wow, das ist echt \ntoll!",
+        "ES": "¡Guau, esto está \nbuenísimo!",
+        "IT": "Wow, che buono!!!"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 108,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！　\n言ったとおりだろう？\nママに祝福を！　\nこの金色のロースト\nチキンなんて芸術だよ！",
+        "EN": "Mother's golden \nroasted chicken \nbreast is a work \nof art！",
+        "FR": "Le poulet rôti de \nta mère est un \nvrai régal !",
+        "DE": "Mutters golden \ngeröstete \nHähnchenbrust ist \nein Kunstwerk!",
+        "ES": "¡La pechuga de \npollo dorada de \nmamá es una obra \nde arte!",
+        "IT": "I petti di pollo \narrosto dorati \ndella mamma sono \nuna vera opera \nd'arte!"
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 114,
+      "type": "group_6",
+      "texts": {
+        "JA": "よかったわ。\nコララインが喜んで\nくれて。\nさあ、いっぱい\n食べなさい。チキンは\nどう？",
+        "EN": "I'm glad you like \nit. Would you like \nsome gravy?",
+        "FR": "Je suis contente \nque ça te plaise. \nTu veux de la \nsauce ?",
+        "DE": "Schön, dass es \ndir schmeckt. \nMöchtest du noch \nSoße?",
+        "ES": "Me alegra que te \nguste. ¿Quieres \nun poco de salsa?",
+        "IT": "Sono contenta che \nti piacciano. Vuoi \nun po' di salsa?"
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 120,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん！　もらう！",
+        "EN": "Absolutely！",
+        "FR": "Oui !",
+        "DE": "Auf jeden Fall!",
+        "ES": "¡Pues claro!",
+        "IT": "Certo! "
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 126,
+      "type": "group_6",
+      "texts": {
+        "JA": "すっご〜い！\nチキンが、いくらでも\n食べられるなんて！　\nまるで夢のようだわ！",
+        "EN": "I'd looooove some \ngravy！",
+        "FR": "J'adooooore la \nsauce !",
+        "DE": "Ich hätte sehr \ngeeern Soße!",
+        "ES": "¡Me encaaaaanta \nla salsa!",
+        "IT": "Dev'essere \ndelizioso questa \nsalsa!"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 132,
+      "type": "group_6",
+      "texts": {
+        "JA": "よかったわ。コララインが\n喜んでくれて。\nここが、あなたが\nいるべき場所に\nなるのよ。",
+        "EN": "Anything you want, \nhoney. We're so \nglad you're here.",
+        "FR": "Mange tout ce que \ntu veux ma \nchérie. Nous \nsommes si heureux \nde t'avoir.",
+        "DE": "Was du willst, \nSchatz. Wir freuen \nuns, dass du hier \nbist.",
+        "ES": "Lo que quieras, \ncariño. Estamos \nmuy contentos de \nque estés aquí.",
+        "IT": "Prendine quanta ne \nvuoi, tesoro. \nSiamo così \ncontenti di averti \nqui tra noi."
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 138,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうとも。\nおかえりなさい、\n我がむすめよ！",
+        "EN": "That's right！ \nWelcome home \nsweetie！",
+        "FR": "Oui ! Bienvenue à \nla maison ma puce !",
+        "DE": "Genau! Willkommen \nzu Hause, Süße!",
+        "ES": "¡Eso es! \n¡Bienvenida a \ncasa, cielo!",
+        "IT": "Esatto! Benvenuta \na casa, tesorino!"
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 144,
+      "type": "group_6",
+      "texts": {
+        "JA": "あたしの……\nいるべき、場所？\nで、でも……。",
+        "EN": "Welcome home?",
+        "FR": "Bienvenue à la \nmaison ?",
+        "DE": "Willkommen zu \nHause?",
+        "ES": "¿Bienvenida a \ncasa?",
+        "IT": "Benvenuta a casa?"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 150,
+      "type": "group_6",
+      "texts": {
+        "JA": "ずっと、あなたを\n待っていたのよ。",
+        "EN": "That's right！ \nWe've been waiting \nfor you.",
+        "FR": "Oui, ça fait \nlongtemps qu'on \nt'attend !",
+        "DE": "Genau! Wir haben \nschon auf dich \ngewartet.",
+        "ES": "¡Eso es! Te \nestábamos \nesperando.",
+        "IT": "Esatto! Ti abbiamo \naspettato tanto."
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 156,
+      "type": "group_6",
+      "texts": {
+        "JA": "ああ。\nもう、キミなしでは\nいられないよ。",
+        "EN": "We were lost \nwithout you！",
+        "FR": "Nous étions \nperdus sans toi !",
+        "DE": "Ohne dich waren \nwir verloren!",
+        "ES": "¡Estábamos \nperdidos sin ti!",
+        "IT": "Ci sentivamo soli \nsenza di te!"
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 162,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも……だけど、\nもう一人のママが\n心配しているわ。",
+        "EN": "But...I should get \nhome. My other \nmother will be \nworried.",
+        "FR": "Mais... je ferais \nmieux de rentrer. \nMon autre mère va \ns'inquiéter.",
+        "DE": "Aber... ich sollte \nnach Hause gehen. \nMeine andere \nMutter wird sich \nSorgen machen.",
+        "ES": "Pero... tengo que \nirme a casa. Mi \notra madre estará \npreocupada.",
+        "IT": "Ma... io dovrei \nrientrare a casa. \nLa mia altra mamma \nsarà preoccupata."
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 168,
+      "type": "group_6",
+      "texts": {
+        "JA": "あら？\nもう一人のママは、\nわたしよ？",
+        "EN": "But I'm your other \nmother.",
+        "FR": "C'est moi ton \nautre mère.",
+        "DE": "Aber ich bin deine \nandere Mutter.",
+        "ES": "Pero yo soy tu \notra madre.",
+        "IT": "Ma sono io l'altra \nmamma."
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 174,
+      "type": "group_6",
+      "texts": {
+        "JA": "あっちの……\n本当のママのことよ。",
+        "EN": "I meant my other \nother mother.",
+        "FR": "Je veux dire, mon \nautre autre mère.",
+        "DE": "Ich meinte meine \nandere andere \nMutter.",
+        "ES": "Quiero decir mi \notra otra madre.",
+        "IT": "Intendevo l'altra \naltra mamma."
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 180,
+      "type": "group_6",
+      "texts": {
+        "JA": "あら。\nわたしも本当の\nママなのに？",
+        "EN": "Excuse me?",
+        "FR": "Pardon ?",
+        "DE": "Wie bitte?",
+        "ES": "¿Perdón?",
+        "IT": "Come?"
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 186,
+      "type": "group_6",
+      "texts": {
+        "JA": "あたしが言っているのは、\nあっちのもう一人の\nママのことよ！",
+        "EN": "You know...my real \nmother.",
+        "FR": "Euh, je veux \ndire... ma vraie \nmère.",
+        "DE": "Du weißt schon... \nmeine echte Mutter.",
+        "ES": "Ya sabes... mi \nmadre auténtica.",
+        "IT": "Sai... la mia \nmamma vera."
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 192,
+      "type": "group_6",
+      "texts": {
+        "JA": "冗談よ。\nもちろん、わかってるわ\n愛しい子。",
+        "EN": "Oh, of course！ \nI'm just kidding \nwith you, my dear.",
+        "FR": "Oh, oui, bien \nsûr ! Je te \ntaquine, ma \nchérie.",
+        "DE": "Ach, natürlich! \nIch mach nur ein \nSpäßchen mit \ndir, meine Liebe.",
+        "ES": "¡Oh, por \nsupuesto! Sólo \nestaba bromeando, \nquerida.",
+        "IT": "Oh, ma certo! \nStavo solo \nscherzando, mia \npiccola."
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 198,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ。そろそろ\nお休みをする時間だ。",
+        "EN": "Wow, I can't \nbelieve it's \nbedtime already！",
+        "FR": "Eh ben, c'est \ndéjà l'heure \nd'aller au lit !",
+        "DE": "Wow, nicht zu \nfassen, dass es \nschon \nSchlafenszeit ist!",
+        "ES": "Vaya, ¡ya es la \nhora de irse a la \ncama!",
+        "IT": "Wow, non riesco a \ncredere che sia \ngià ora di andare \na dormire!"
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 204,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうね。寝室の準備も\nできているわ。\nそれじゃ、ごちそうさま\nをしましょう。",
+        "EN": "Your father's \nright, it's time \nfor bed. Are you \nfinished eating?",
+        "FR": "Ton père a \nraison, c'est \nl'heure. Tu as \nfini de manger ?",
+        "DE": "Dein Vater hat \nRecht, es ist \nZeit, ins Bett zu \ngehen. Hast du \nfertig gegessen?",
+        "ES": "Tu padre tiene \nrazón, hay que \nirse a dormir. \n¿Has acabado de \ncomer?",
+        "IT": "Tuo padre ha \nragione, è ora di \nandare a letto. \nHai finito di \nmangiare?"
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 210,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボタンのパパ……。",
+        "EN": "The Other Dad...",
+        "FR": "L'Autre Père...",
+        "DE": "Der andere \nPapa......",
+        "ES": "El Otro Padre...",
+        "IT": "L'altro \npapà... ..."
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 216,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうしたんだい、\nコラライン。泣きそうな\n顔をしているよ？",
+        "EN": "Coraline, are you \nok?",
+        "FR": "Tu vas bien, \nCoraline ?",
+        "DE": "Coraline, ist \nalles okay?",
+        "ES": "Coraline, ¿estás \nbien?",
+        "IT": "Coraline, va tutto \nbene?"
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 222,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんなこと、ないわ。",
+        "EN": "No... not really.",
+        "FR": "Non, pas vraiment.",
+        "DE": "Nein... eigentlich \nnicht.",
+        "ES": "En realidad...no.",
+        "IT": "No... veramente no."
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 228,
+      "type": "group_6",
+      "texts": {
+        "JA": "この世界にいれば、\nいつも楽しく暮らせるよ。\nパパも、\nそれを望んでいるんだ。",
+        "EN": "You can live \nhappily forever in \nthis world. ",
+        "FR": "Ici, tu peux être \nheureuse pour la \nvie.",
+        "DE": "Du kannst in \ndieser Welt immer \nglücklich leben.",
+        "ES": "Puedes vivir feliz \npara siempre en \neste mundo. ",
+        "IT": "Puoi vivere \nfelicemente qui e \nper sempre."
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 234,
+      "type": "group_6",
+      "texts": {
+        "JA": "わかってるわ。わかってる。\nでも……やっぱり、いやよ。",
+        "EN": "I know. I know \nthat... but I \ncan't.",
+        "FR": "Je sais. Mais... \nje ne peux pas.",
+        "DE": "Ich weiß. Ich \nweiß das... aber \nich kann nicht.",
+        "ES": "Lo sé. Lo sé... \npero no puedo.",
+        "IT": "Lo so. Questo lo \nso... ma non posso."
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 240,
+      "type": "group_6",
+      "texts": {
+        "JA": "あたしは、本当のパパと\nママにも会いたいの。",
+        "EN": "I want to see my \nreal parents.",
+        "FR": "Je veux voir mes \nvrais parents.",
+        "DE": "Ich will meine \nechten Eltern \nsehen.",
+        "ES": "Quiero ver a mis \nauténticos padres.",
+        "IT": "Voglio vedere i \nmiei veri genitori."
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 246,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................\n",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 252,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン……。\n愛しい、娘……。",
+        "EN": "Coraline... \nSweetie...",
+        "FR": "Coraline... Ma \npuce...",
+        "DE": "Coraline..... \nSüße.....",
+        "ES": "Coraline... \nCielo...",
+        "IT": "Coraline... \nTesorino..."
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 258,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん、わかってる。\nごめんなさい。",
+        "EN": "Goodbye Other Dad.",
+        "FR": "Au revoir, Autre \nPapa.",
+        "DE": "Wiedersehen, \nanderer Papa.",
+        "ES": "Adiós, Otro Padre.",
+        "IT": "Addio, altro papà."
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 264,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 270,
+      "type": "group_6",
+      "texts": {
+        "JA": "おいしそうな\nローストチキン！\nもも肉をタッチして、\nお皿にスライドさせよう。",
+        "EN": "Yummy-looking \nroasted chicken！ \nTouch the leg and \ndrag it on a \nplate. ",
+        "FR": "Du poulet rôti ! \nMiam ! Touche la \ncuisse et \nglisse-la dans ton \nassiette. ",
+        "DE": "Ein lecker \naussehendes \nBrathähnchen! \nBerühre die Keule \nund zieh sie auf \neinen Teller.",
+        "ES": "¡Pollo asado con \nun aspecto \nriquísimo! Toca \nel muslo y \narrástralo a un \nplato. ",
+        "IT": "Un appetitoso \npollo arrosto! \nTocca la coscia e \ntrascinala su un \npiatto. "
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "file": "eve_sto_theater01.bin",
+  "total_dialogues": 9,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 3,
+      "type": "group_6",
+      "texts": {
+        "JA": "あった！　\nあの袋のなか……\nたぶん、まちがいないわ。",
+        "EN": "I see it！...in \nthe sack！",
+        "FR": "Là... dans le \nsac !!",
+        "DE": "Ich sehe es!... im \nSack!",
+        "ES": "¡Ya lo veo!... \n¡Al saco!",
+        "IT": "Lo vedo!... Dentro \nil sacco!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 9,
+      "type": "group_6",
+      "texts": {
+        "JA": "どれどれ……？",
+        "EN": "Let's see....",
+        "FR": "Voyons voir...",
+        "DE": "Mal sehen...",
+        "ES": "Veamos...",
+        "IT": "Vediamo..."
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 15,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん、やっぱり！\nこの指輪についてる石が\n「目」なんだわ。",
+        "EN": "This is it！ The \nstone in this ring \nmust be the \"EYE\".",
+        "FR": "Ça y est ! La \npierre, ça doit \nêtre l'Œil !",
+        "DE": "Das ist es! Der \nStein in diesem \nRing muss das AUGE \nsein.",
+        "ES": "¡Eso es! La \npiedra de este \nanillo debe ser \nel \"OJO\".",
+        "IT": "Trovato! La pietra \ndi questo anello \ndeve essere \nl'OCCHIO."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 21,
+      "type": "group_6",
+      "texts": {
+        "JA": "青色の目\nを取りました。",
+        "EN": "You got the Blue \nEye！",
+        "FR": "Tu as obtenu \nl'œil bleu !",
+        "DE": "Du hast das blaue \nAuge!",
+        "ES": "¡Has conseguido \nel Ojo Azul!",
+        "IT": "Hai l'occhio \nazzurro!"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 27,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも……この手は？",
+        "EN": "But....This \nhand...?",
+        "FR": "Mais... cette \nmain.... ?",
+        "DE": "Aber... Diese \nHand...?",
+        "ES": "Pero... ¿Esta \nmano...?",
+        "IT": "Ma... Questa mano?"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 33,
+      "type": "group_6",
+      "texts": {
+        "JA": "ど、ど、どろぼぼおおおぉ\nぉぉぉぉぉぉぉぉぉぉ…………。",
+        "EN": "S..S..Stop \nthieffffff-----！",
+        "FR": "Arrêtez !! Au \nvoleuuuur !!",
+        "DE": "S...S... Stopp \nDieeeeb...!",
+        "ES": "¡A..A..Alto \nladrónnnnn-----!",
+        "IT": "F...F...Fermati \nladroooooo......!"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 39,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわああああああああっ！！",
+        "EN": "Aaaaahhhhhhh！",
+        "FR": "Aaaaahhhhhhh !",
+        "DE": "Aaaaahhhhhhh!",
+        "ES": "¡Aaaaahhhhhhh!",
+        "IT": "Aaaaaaaaahhhhhhhhhh\n"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 45,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわ！\nうわ！\nうわわぁっ！！",
+        "EN": "Wow！ Wow！ \nWooooooow！",
+        "FR": "Wouaou ! Wouaou ! \nWouaouuuuu !",
+        "DE": "Wow! Wow! \nWooooooow!",
+        "ES": "¡Guau! ¡Guau! \n¡Guauuuuuu!",
+        "IT": "Wow! Wow! \nWooooooow!"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 51,
+      "type": "group_6",
+      "texts": {
+        "JA": "袋の中には何が\nあるのかな？\n袋をタッチして\n開けてみよう。",
+        "EN": "What's in the \nsack? Slide across \nthe Touch Screen \nto open the bag.",
+        "FR": "Fais glisser sur \nl'écran tactile \npour ouvrir le sac.",
+        "DE": "Was ist im Sack? \nBerühre und \nöffne ihn.",
+        "ES": "Roza la pantalla \ntáctil para abrir \nla bolsa.",
+        "IT": "Cosa c'è nel \nsacco? Toccalo per \naprirlo."
+      }
+    }
+  ]
+}

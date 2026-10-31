@@ -1,0 +1,396 @@
+{
+  "file": "eve_hallway1f01.bin",
+  "total_dialogues": 30,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 44,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................\n",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 50,
+      "type": "group_6",
+      "texts": {
+        "JA": "なにかしらこれ",
+        "EN": "What is this?",
+        "FR": "C'est quoi ça ?",
+        "DE": "Was ist das?",
+        "ES": "¿Qué es esto?",
+        "IT": "Cos'è questa cosa?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 56,
+      "type": "group_6",
+      "texts": {
+        "JA": "ノォォォォォォォ\nォォォッ！！\nデ、データが！　\nデータがああああっ！！",
+        "EN": "No, no, no, \nno...GAAAH...！",
+        "FR": "Non non non ! \nAAAH !",
+        "DE": "Nein, nein, nein, \nnein... GAAAH...!",
+        "ES": "¡No, no, no, \nno...GAAAH...!",
+        "IT": "No, no, no, no... \nAAAAGH!!!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 62,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ？\nなにがあったのかしら。",
+        "EN": "Dad, are you okay?",
+        "FR": "Ça va, 'pa ?",
+        "DE": "Dad, ist alles \nokay?",
+        "ES": "Papá, ¿estás \nbien?",
+        "IT": "Papà, tutto bene?"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 68,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふーん。\nこれに触ると、家の電気が\nきれちゃうんだ……\nおもしろーい。",
+        "EN": "Oh no, this button \nshuts off the \nelectricity！",
+        "FR": "Oh non, ce \nbouton-là coupe \nle courant !",
+        "DE": "Oh nein, dieser \nKnopf schaltet den \nStrom aus!",
+        "ES": "Oh no, ¡este \nbotón apaga la \nelectricidad!",
+        "IT": "Oh no! Questo \ninterruttore \nstacca la corrente!"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 74,
+      "type": "group_6",
+      "texts": {
+        "JA": "ネズミ？\n……にしては、\nちょっと変わってるけど。",
+        "EN": "Is that a \nmouse? ...It looks \na bit strange for \na mouse",
+        "FR": "C'est une souris \nça ? Plutôt \nbizarre pour une \nsouris...",
+        "DE": "Ist das eine \nMaus? ... Für \neine Maus sieht \nsie reichlich \nseltsam aus.",
+        "ES": "¿Eso es un \nratón? ...Parece \nun poco extraño \npara ser un ratón.",
+        "IT": "Ma quello è un \ntopo? ... Che \nstrano topo..."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 80,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nなにかしら、これ。",
+        "EN": "What is this?",
+        "FR": "C'est quoi ça ?",
+        "DE": "Was ist das?",
+        "ES": "¿Qué es esto?",
+        "IT": "E questo cos'è?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 86,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン？\nそのボイラーを\nいじらないで！電源が\n不安定になるんだから。",
+        "EN": "Coraline, don't \ntouch that \nboiler！ It's not \nsafe！",
+        "FR": "Coraline, ne \ntouche pas à \nça ! Tu vas te \nbrûler !",
+        "DE": "Coraline, fass den \nBoiler nicht an! \nDas ist \ngefährlich!",
+        "ES": "¡Coraline, no \ntoques esa \ncaldera! ¡No es \nsegura!",
+        "IT": "Coraline, non \ntoccare quello \nscaldacqua! Può \nessere pericoloso!"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 92,
+      "type": "group_6",
+      "texts": {
+        "JA": "暗くて、\nよく見えないわね。",
+        "EN": "I can't see much - \nit's too dark.",
+        "FR": "Je n'y vois rien ; \nil fait trop \nsombre.",
+        "DE": "Ich sehe nicht \nviel - es ist zu \ndunkel.",
+        "ES": "No veo nada+ está \ndemasiado oscuro.",
+        "IT": "Non vedo niente, \nè troppo buio."
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 98,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれ？\n鍵がかかってる。",
+        "EN": "Hmm...the door's \nlocked.",
+        "FR": "Mince, la porte \nest fermée à \nclé.",
+        "DE": "Hmm... die Tür \nist verschlossen.",
+        "ES": "Hmm... la puerta \nestá cerrada.",
+        "IT": "Hmm... la porta è \nchiusa a chiave."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 104,
+      "type": "group_6",
+      "texts": {
+        "JA": "見つけた。\nやっぱり、あなたが\n音の犯人なのね？",
+        "EN": "Aha...I knew you \nwere the culprit！",
+        "FR": "Ah, je savais que \nc'était vous !",
+        "DE": "Aha... Ich wusste, \ndass du der \nÜbeltäter bist!",
+        "ES": "Ajá... ¡sabía \nque erais los \nculpables!",
+        "IT": "Ehi! Lo sapevo che \neravate voi!"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 110,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、待って！！",
+        "EN": "Oh, wait！！",
+        "FR": "Oh, attendez !!",
+        "DE": "Oh, warte!!",
+        "ES": "¡¡Oh, esperad!!",
+        "IT": "Ehi, aspettate!!"
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 116,
+      "type": "group_6",
+      "texts": {
+        "JA": "鍵がかかってる……。\nお仕事の部屋は、かってに\n入らないでって\n言ってたけど……。",
+        "EN": "The door is \nlocked. .... I was \ntold not to go \ninto their offices \nwithout \npermission....",
+        "FR": "La porte est \nfermée... Je n'ai \npas le droit \nd'aller dans leur \nbureau sans leur \npermission...",
+        "DE": "Die Tür ist \nabgeschlossen... \nIch soll ohne \nErlaubnis nicht in \nihre Arbeitszimmer \ngehen...",
+        "ES": "La puerta está \ncerrada. .... Me \nhan dicho que no \nentrase en sus \ndespachos sin \npermiso...",
+        "IT": "La porta è chiusa \na chiave..... Mi \nhanno sempre detto \ndi non entrare nei \nloro uffici senza \npermesso..."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 122,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれ？\n鍵がかかってる。",
+        "EN": "Hmm...the door's \nlocked.",
+        "FR": "Mince, la porte \nest fermée à \nclé.",
+        "DE": "Hmm... die Tür \nist verschlossen.",
+        "ES": "Hmm... la puerta \nestá cerrada.",
+        "IT": "Hmm... la porta è \nchiusa a chiave."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 128,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、また…………。",
+        "EN": "Um, one more time?",
+        "FR": "Euh... tu peux \nrépéter ?",
+        "DE": "Äh, noch einmal?",
+        "ES": "Um, ¿una vez más?",
+        "IT": "Oh, un'altra volta?"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 134,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ！\nママ！！",
+        "EN": "Mom！ Dad！",
+        "FR": "Maman ! Papa !",
+        "DE": "Mama! Papa!",
+        "ES": "¡Mamá! ¡Papá!",
+        "IT": "Mamma! Papà!"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 140,
+      "type": "group_6",
+      "texts": {
+        "JA": "やっぱり……やっぱり、\nあの魔女がパパとママを\nつれていったのね？",
+        "EN": "Did the Beldam \ntake my parents?",
+        "FR": "Tu crois que \nl'Autre Mère a \nenlevé mes \nparents ?",
+        "DE": "Hat die Beldam \nmeine Eltern \ngeholt?",
+        "ES": "¿Ha capturado la \nBeldam a mis \npadres?",
+        "IT": "La megera avrà \ncatturato i miei \ngenitori?"
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 146,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうしよう……\nどうしたらいい？\nパパとママを、\n助けなくちゃ！",
+        "EN": "What can I do? I \nhave to save Mom \nand Dad！",
+        "FR": "Qu'est-ce que je \npourrais faire ? \nJe dois sauver mes \nparents !",
+        "DE": "Was soll ich tun? \nIch muss Mama und \nPapa retten!",
+        "ES": "¿Qué puedo \nhacer? ¡Tengo que \nsalvar a mamá y a \npapá!",
+        "IT": "Cosa posso fare? \nDevo assolutamente \nsalvare mamma e \npapà!"
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 152,
+      "type": "group_6",
+      "texts": {
+        "JA": "あなた……。\n鏡の世界で、あたしを\n助けてくれてありがとう。",
+        "EN": "Hey, you.... Thank \nyou for helping me \nin the mirror \nworld.",
+        "FR": "Salut toi... Merci \nde m'avoir aidée \ndans le monde du \nmiroir.",
+        "DE": "Hey, du... Vielen \nDank für deine \nHilfe in der \nSpiegelwelt.",
+        "ES": "Eh, tú... Gracias \npor ayudarme en el \nmundo del espejo.",
+        "IT": "Ehi tu... Grazie \nper avermi aiutato \nnel mondo dello \nspecchio."
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 158,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ？\n助けてくれたついでに、\nあたしのパパとママを\n知らない？",
+        "EN": "Do you know where \nmy parents are?",
+        "FR": "Tu sais où sont \nmes parents ?",
+        "DE": "Weißt du, wo \nmeine Eltern sind?",
+        "ES": "¿Sabes dónde \nestán mis padres?",
+        "IT": "Sai dove sono i \nmiei genitori?"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 164,
+      "type": "group_6",
+      "texts": {
+        "JA": "え？\nど、どうしたの？",
+        "EN": "Huh? W...What \nhappened?",
+        "FR": "Euh... Qu'est-ce \nqu'il s'est passé \n?",
+        "DE": "Hä? W... was ist \npassiert?",
+        "ES": "¿Eh? ¿Q... Qué \nha pasado?",
+        "IT": "Eh? C... Cosa è \nsuccesso?"
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 170,
+      "type": "group_6",
+      "texts": {
+        "JA": "この鏡が……\nどうかしたの？",
+        "EN": "Mirror....What \nabout it?",
+        "FR": "Quoi, le miroir ?",
+        "DE": "Der Spiegel... Was \nist damit?",
+        "ES": "El espejo... \n¿Qué ha pasado?",
+        "IT": "Specchio... che \nc'entra lo \nspecchio?"
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 176,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ！\nママ！！",
+        "EN": "Mom！ Dad！",
+        "FR": "Maman ! Papa !",
+        "DE": "Mama! Papa!",
+        "ES": "¡Mamá! ¡Papá!",
+        "IT": "Mamma! Papà!"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 182,
+      "type": "group_6",
+      "texts": {
+        "JA": "待ってて！！\nぜったいに……\nぜったいに助ける\nからね！！",
+        "EN": "Wait for me！ I'm \non my way！",
+        "FR": "Ne vous inquiétez \npas ! J'arrive !",
+        "DE": "Wartet auf mich! \nIch bin unterwegs!",
+        "ES": "¡Esperadme! ¡Voy \npara allá!",
+        "IT": "Aspettatemi! Sto \narrivando!"
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 188,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパとママは\nうつってないわ……。\nきっと、\nもう閉じこめられて\nないんだ……きっと。",
+        "EN": "I can't find them！",
+        "FR": "Je ne les trouve \npas !",
+        "DE": "Ich kann sie nicht \nfinden!",
+        "ES": "¡No los encuentro!",
+        "IT": "Non riesco a \ntrovarli!"
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 194,
+      "type": "group_6",
+      "texts": {
+        "JA": "やっぱり、\nカギはかかってるままだわ。",
+        "EN": "They have to be \naround.",
+        "FR": "Ils ne doivent pas \nêtre bien loin.",
+        "DE": "Sie müssen \nirgendwo sein.",
+        "ES": "Tienen que estar \npor aquí.",
+        "IT": "Devono essere qui \nda qualche parte."
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 200,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ！？\nママ！！？",
+        "EN": "Mom！? Dad！！?",
+        "FR": "Maman ?! Papa ?!",
+        "DE": "Mama!? Papa!!?",
+        "ES": "¿¡Mamá!? \n¿¡¡Papá!!?",
+        "IT": "Mamma!? Papà!?"
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 206,
+      "type": "group_6",
+      "texts": {
+        "JA": "鍵がかかってるわね……。",
+        "EN": "It's \nlocked.........",
+        "FR": "Elle est fermée \nà clé.",
+        "DE": "Es ist \nabgeschlossen..\n",
+        "ES": "Está \ncerrada.........",
+        "IT": "È chiusa a \nchiave ..........."
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 212,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 218,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボイラーには、\n「触るな！」と書いて\nあるけれど・・・・・・",
+        "EN": "It says, \"Don't \ntouch the boiler\", \nbut...",
+        "FR": "Il est écrit \n« Ne pas toucher \n» mais....",
+        "DE": "Da steht+ Den \nBoiler nicht \nberühren, aber...",
+        "ES": "Dice, \"No tocar la \ncaldera\", pero...",
+        "IT": "Dice+ Non toccare \nlo scaldacqua, \nma..."
+      }
+    }
+  ]
+}

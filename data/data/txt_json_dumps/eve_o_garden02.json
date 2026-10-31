@@ -1,0 +1,695 @@
+{
+  "file": "eve_o_garden02.bin",
+  "total_dialogues": 53,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 16,
+      "type": "group_6",
+      "texts": {
+        "JA": "やあ！　コラライン。\n愛しい娘。\nよく帰ってきて\nくれたね。",
+        "EN": "My darling \nCoraline！ I'm so \nglad you're home！",
+        "FR": "Ma petite \nCoraline ! Je suis \ncontent que tu \nsois rentrée.",
+        "DE": "Mein Liebling \nCoraline! Ich bin \nso froh, dass du \nzu Hause bist!",
+        "ES": "¡Mi querida \nCoraline! Estoy \nmuy contento de \nque estés en casa.",
+        "IT": "Mia piccola \nCoraline! Sono \ncosì contento di \nrivederti!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 22,
+      "type": "group_6",
+      "texts": {
+        "JA": "う、うん。ただいま。\nねぇ、もう一人のママが\nパパが何かを用意してる\nって……。",
+        "EN": "Um, thanks...it's \ngood to  see you \ntoo. I was told \nyou have something \nfor me?",
+        "FR": "Euh... merci. Je \nsuis contente moi \naussi. Tu as \nquelque chose pour \nmoi ?",
+        "DE": "Äh, danke... auch \nschön, euch zu \nsehen. Man sagte \nmir, du hast was \nfür mich?",
+        "ES": "Um, gracias... \ntambién me alegro \nde verte. Me han \ndicho que tienes \nalgo para mí.",
+        "IT": "Hmm, grazie... \nanch'io. Mi hanno \ndetto che hai \nqualcosa per me?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 28,
+      "type": "group_6",
+      "texts": {
+        "JA": "ああ、そうさ。\nそのとーおり！\nコラライン、愛しい娘に\nよろこんでもらいたいのさ、\nボクらは。",
+        "EN": "Oh, yes- that's \nright！",
+        "FR": "Ah oui, c'est \nvrai !",
+        "DE": "Ach ja - das \nstimmt!",
+        "ES": "Oh, sí, ¡es \ncierto!",
+        "IT": "Oh, certo!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 34,
+      "type": "group_6",
+      "texts": {
+        "JA": "ほら、この庭！\nボクがキミのために\nつくりあげた庭なんだ。",
+        "EN": "Go look in the \ngarden. I made a \npresent for you！",
+        "FR": "Va voir dans le \njardin. Je t'ai \npréparé une \nsurprise !",
+        "DE": "Geh mal im Garten \nnachsehen. Ich hab \nein Geschenk für \ndich gemacht!",
+        "ES": "Ve a mirar al \njardín. ¡He \nhecho un regalo \npara ti! ",
+        "IT": "Vai a guardare in \ngiardino. Ti ho \nfatto un regalo!"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 40,
+      "type": "group_6",
+      "texts": {
+        "JA": "キミへのプレゼントを\n置いてきたから、それを\n見つけてきてごらん。",
+        "EN": "Just go have a \nlook！",
+        "FR": "Allez, va voir !",
+        "DE": "Geh einfach \nnachsehen!",
+        "ES": "¡Ve a echar un \nvistazo!",
+        "IT": "Avanti, vai a dare \nun'occhiata!"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 46,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nさあ、行ってきてごらん。\n楽しんでもらえると\n思うよ。",
+        "EN": "I'm sure you'll \nlove it！",
+        "FR": "Tu vas être \ncontente !",
+        "DE": "Bestimmt gefällt \nes dir!",
+        "ES": "¡Seguro que te \ngusta!",
+        "IT": "Sono sicuro che ti \npiacerà \nmoltissimo!"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 52,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわ！　なんかスゴイ。\nカマキリそっくりの車\nみたいだけど……\n動くのかな？",
+        "EN": "Wow！ This is \ncrazy！ But...can \nI drive it?",
+        "FR": "Ouah ! C'est \ndingue ! Mais... \nje peux le \nconduire ?",
+        "DE": "Wow! Das ist ja \nverrückt! Aber... \ndarf ich fahren?",
+        "ES": "¡Guau! ¡Es \nincreíble! \nPero... ¿puedo \nmontar?",
+        "IT": "Wow! Ma è \nstupendo! Ma... io \nposso guidarlo?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 58,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\n行ってきておいで。\n楽しんでもらえると\nうれしいよ！",
+        "EN": "Ha-ha！ Now, go \nget it Honey. I \nhope you enjoy \nit！ ",
+        "FR": "Ha ha ! Allez, \nvas-y ma puce ! \nJ'espère que ça \nva te plaire !",
+        "DE": "Ha-ha! Jetzt geh's \ndir holen, Schatz. \nIch hoffe, dir \ngefällt's!",
+        "ES": "¡Ja, ja! Todo \ntuyo, cariño. \n¡Espero que lo \ndisfrutes! ",
+        "IT": "Ha-ha! Dai, vai a \nprenderlo, tesoro. \nSpero che ti \npiaccia!"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 64,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nかくしたプレゼントは、\nぜんぶ見つけられ\nちゃったなぁ。\n楽しかったかい？",
+        "EN": "Ha-ha！ You found \nall the presents I \nhid！ Did you have \nfun?",
+        "FR": "Ha ha ! Tu as \ntrouvé tous les \ncadeaux ! Tu t'es \nbien amusée ?",
+        "DE": "Ha-ha! Du hast \nalle versteckten \nGeschenke \ngefunden. Hat's \nSpaß gemacht?",
+        "ES": "¡Ja, ja! ¡Has \nencontrado todos \nlos regalos que \nescondí! ¿Te has \ndivertido?",
+        "IT": "Ha-ha! Hai trovato \ntutti i regali che \nti ho nascosto! Ti \nsei divertita?"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 70,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nちゃんとプレゼントを\n見つけられたみたいだね！\n楽しかったかい。",
+        "EN": "Ha-ha！ You found \nthe present. Did \nyou have fun?",
+        "FR": "Ha ha ! Tu as \ntrouvé le \ncadeau ! Tu t'es \nbien amusée ?",
+        "DE": "Ha-ha! Du hast das \nGeschenk gefunden. \nHat's Spaß \ngemacht?",
+        "ES": "¡Ja, ja! Has \nencontrado el \nregalo. ¿Te has \ndivertido?",
+        "IT": "Ha-ha! Hai trovato \nil regalo. Ti sei \ndivertita?"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 76,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nザンネン。プレゼントは\n見つけられなかった\nみたいだね。",
+        "EN": "Oh no！ It \ndoesn’t look like \nyou found \nanything, sweetie！",
+        "FR": "Oh non, j'ai bien \npeur que tu n'aies \nencore rien \ntrouvé !",
+        "DE": "Oh nein! Sieht \nnicht so aus, als \nhättest du was \ngefunden, Süße!",
+        "ES": "¡Oh, no! ¡Parece \nque no has \nencontrado nada, \ncielo!",
+        "IT": "Oh no! Sembra che \nnon sia riuscita a \ntrovare niente, \ntesoro!"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 82,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボタンの目をした\nアマガエルを\n入手しました。",
+        "EN": "You got the \nButton-Eyed Rain \nFrog.",
+        "FR": "Tu as obtenu la \ngrenouille en \npeluche.",
+        "DE": "Du hast den \nknopfäugigen \nRegenfrosch.",
+        "ES": "Has conseguido la \nRana con Ojos de \nBotones.",
+        "IT": "Hai la rana con i \nbottoni sugli \nocchi."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 88,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボタン１０個\nを入手しました。",
+        "EN": "You got 10 Buttons.",
+        "FR": "Tu as obtenu 10 \nboutons.",
+        "DE": "Du hast 10 Knöpfe.",
+        "ES": "Has conseguido 10 \nBotones.",
+        "IT": "Hai 10 bottoni."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 94,
+      "type": "group_6",
+      "texts": {
+        "JA": "レインコートを\n入手しました。",
+        "EN": "You got a Raincoat.",
+        "FR": "Tu as obtenu un \nimperméable.",
+        "DE": "Du hast einen \nRegenmantel.",
+        "ES": "Has conseguido un \nImpermeable.",
+        "IT": "Hai un \nimpermeabile."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 100,
+      "type": "group_6",
+      "texts": {
+        "JA": "さ！\nそれじゃ、メイン\nディッシュの\nプレゼントだ！",
+        "EN": "Coraline - here's \nthe grand prize！！",
+        "FR": "Coraline... voici \nle gros lot !",
+        "DE": "Coraline - hier \nist der große \nPreis!",
+        "ES": "Coraline, \n¡¡aquí está el \npremio gordo!!",
+        "IT": "Coraline, questo \nè il premio più \ngrande!"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 106,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ、乗って乗って！",
+        "EN": "Here, get in...get \nin！",
+        "FR": "Allez, monte \ndedans, vas-y !",
+        "DE": "Hier, steig ein... \nsteig ein!",
+        "ES": "¡Aquí, entra... \nentra!",
+        "IT": "Qui, entra... \nentra!"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 112,
+      "type": "group_6",
+      "texts": {
+        "JA": "うっわぁ！！\nすっごーい。",
+        "EN": "Whoa...this is \nunbelievable！",
+        "FR": "Ouah... c'est \nincroyable !",
+        "DE": "Boah... das ist \nunglaublich!",
+        "ES": "¡Guau... esto es \nincreíble!",
+        "IT": "Ehi... è \nincredibile!!"
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 118,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nこれが本当のプレゼント\nだよ。コラライン。\nキミのためにつくった\n庭なんだ。",
+        "EN": "Ha-ha！ This is \nthe true present \nfor you. Mother \nmade this garden \nfor you.",
+        "FR": "Ha ha ! Le vrai \ncadeau pour toi, \nc'est ça ! Ta \nMère a créé ce \njardin pour toi !",
+        "DE": "Ha-ha! Das ist das \nwahre Geschenk \nfür dich. Mutter \nhat diesen Garten \nfür dich gemacht.",
+        "ES": "¡Ja, ja! Éste es \nel auténtico \nregalo para ti. \nMamá ha hecho \neste jardín para \nti.",
+        "IT": "Ha-ha! Questo è \nil vero regalo per \nte. La mamma ha \ncreato questo \ngiardino per te."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 124,
+      "type": "group_6",
+      "texts": {
+        "JA": "♪ああ〜、コラライン。\n♪ボクらの全て〜。\n♪キミは、ボタンの\nようにカンペキさ！",
+        "EN": "♪Coraline... \n♪You are the \nperfect find. ♪On \ngolden chicken \nwe'll dine...",
+        "FR": "♪Coraline... \n♪Tu es une \npetite fille \nparfaite. ♪Ce \nsoir à table, ce \nsera la fête...",
+        "DE": "♪Coraline... \n♪Du bist einfach \nperfekt. \n♪Goldenes \nHähnchen speisen \nwir...",
+        "ES": "♪Coraline... \n♪Eres el \nhallazgo perfecto. \n♪En el pollo \ndorado que \ncenaremos...",
+        "IT": "♪Coraline... \n♪Sei un vero \ntesoro... ♪Ora \nmangiamo bel pollo \nall'alloro..."
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 130,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうだい？\nよろこんでくれたかな？",
+        "EN": "How is it? I hope \nyou're delighted.",
+        "FR": "Ça te plaît ? \nJ'espère que tu \nes contente.",
+        "DE": "Wie ist das? Ich \nhoffe, du bist \nbegeistert.",
+        "ES": "¿Qué tal? Espero \nque estés \nencantada.",
+        "IT": "Che te ne pare? Ti \npiace?"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 136,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん、もちろんよ！\nこんなステキな\nプレゼント、\nあたしはじめて！",
+        "EN": "Yeah！ Of course！ \nThis is the \ngreatest present \never！！！",
+        "FR": "Oui ! Bien sûr ! \nC'est le plus \ncadeau que j'aie \njamais eu !!",
+        "DE": "Ja! Natürlich! \nDas ist das \ntollste Geschenk \naller Zeiten!!!",
+        "ES": "¡Sí! ¡Por \nsupuesto! ¡¡¡Es \nel mejor regalo \nque he recibido!!!",
+        "IT": "Sì! Certo! Questo \nè il regalo più \nbello in assoluto!!"
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 142,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\nいやー、それはなにより。\n娘がよろこんでくれる\nことほどウレシイことは\nないんだよ。",
+        "EN": "Ha-ha！ Well, I am \nglad to hear that. \nI've never been \nhappier than when \nyou're happy.",
+        "FR": "Ha ha ! Eh bien \ntant mieux. Tout \nce que je \nsouhaite, c'est \nton bonheur...",
+        "DE": "Ha-ha! Na, das \nfreut mich zu \nhören. Ich bin \nnie glücklicher \nals wenn du \nglücklich bis.",
+        "ES": "¡Ja, ja! Bien, me \nalegro de oír \neso. No somos \nfelices más que \ncuando tú lo eres.",
+        "IT": "Ha-ha! Bene, mi fa \npiacere sentirlo. \nVederti felice mi \nrende felicissimo."
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 148,
+      "type": "group_6",
+      "texts": {
+        "JA": "見つけた！\nあの中ね。",
+        "EN": "I found it！ It's \nin there！",
+        "FR": "Je l'ai trouvé ! \nIl est là-dedans !",
+        "DE": "Ich hab's \ngefunden! Es ist \nda drin!",
+        "ES": "¡Lo encontré! \n¡Está ahí!",
+        "IT": "L'ho trovato! È \nqui dentro!"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 154,
+      "type": "group_6",
+      "texts": {
+        "JA": "え？　ええっ？？",
+        "EN": "Huh? Whaaat??",
+        "FR": "Hein ? Quoi ?!",
+        "DE": "Hä? Waaas??",
+        "ES": "¿Eh? ¿¿Quéee??",
+        "IT": "Eeeh? Coooomeeee?!"
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 160,
+      "type": "group_6",
+      "texts": {
+        "JA": "に、に、\n逃げてくれぇぇぇ！\nコ、コラライン！\nいとしい子！！",
+        "EN": "R..R..Run \nawayyyy！ \nCo..Coraline！ My \ndear girl！",
+        "FR": "Cours... Va-t-en \nd'ici ! \nCo..Coraline ! Ma \npetite fille !",
+        "DE": "L... L... Lauf \nweeeeg! Co... \nCoraline! Mein \nliebes Mädchen!",
+        "ES": "¡M..M..Marchateeee! \n¡Mi querida niña!",
+        "IT": "C..C..Coorrrriiii! \nCo..Coraline! La \nmia bambina!"
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 166,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、このシフトノブが\n目なんだ！\nしかし！　しかし！　わ、\nわたしはあの人に\n言われている。",
+        "EN": "T..This shift knob \nis the eye！ \nBut.., but..., the \nOther Mother told \nme..",
+        "FR": "Cette poignée, \nlà, c'est \nl'œil ! Mais... \nl'Autre Mère m'a \ndit de...",
+        "DE": "D... Dieser \nDrehknauf ist das \nAuge! Aber... \naber... die andere \nMutter hat mir \ngesagt...",
+        "ES": "¡E..Esta palanca \nde cambio es el \nojo! Pero.., \npero..., la Otra \nMadre me dijo...",
+        "IT": "Il ... Il pomello \ndi questa leva è \nun occhio! Ma..., \nma..., l'altra \nmadre mi ha \ndetto..."
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 172,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、これを\n渡してはいけない、と！\nゆ、ゆるしてくれぇぇぇぇ。",
+        "EN": "...not to give \nthis to you. \nP..Please forgive \nme...！",
+        "FR": "...de ne pas te \ndonner ça... \nPardonne-moi !!",
+        "DE": "... ich soll dir \ndas nicht geben.  \nB... Bitte verzeih \nmir...!",
+        "ES": "...que no te lo \ndiese.  ¡P..Por \nfavor, \nperdóname...!",
+        "IT": "... di non \ndartelo. Ti...Ti \nprego, \nperdonami...!"
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 178,
+      "type": "group_6",
+      "texts": {
+        "JA": "に、にげきれた……かしら？",
+        "EN": "D..Did I \noutrun.....?",
+        "FR": "Je suis allée \nplus vite que... ?",
+        "DE": "B... Bin ich ihm \nentkommen...?",
+        "ES": "¿H...he \nperdido...?",
+        "IT": "T... ti ho \nsuperato......?"
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 184,
+      "type": "group_6",
+      "texts": {
+        "JA": "うおおおおおおお\nああああ！！\nコ、コラライン！\nに、に、に、に、\nにげ…………。",
+        "EN": "Ohhhhhhhhhhhhhh！！ \n",
+        "FR": "Ohhhh ! \nCouuuuuurs !!",
+        "DE": "Ohhhhhhhhhhhhhh!! \nL... L... L... \nLauuuuuf!",
+        "ES": "¡¡Ohhhhhhhhhhhhhh!! \n",
+        "IT": "Oooooohhhhhh! \nC.C.C.C.Coooorrrriiiiiiiii!\n"
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 190,
+      "type": "group_6",
+      "texts": {
+        "JA": "パ、パパ！？",
+        "EN": "D..Dad！?",
+        "FR": "Papa ?",
+        "DE": "P... Papa!?",
+        "ES": "¿¡P..Papá!?",
+        "IT": "P...papà?"
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 196,
+      "type": "group_6",
+      "texts": {
+        "JA": "コ、コラライン！\nありがとう！ありがとう！",
+        "EN": "C..Coraline！ \nThank you！ Thank \nyou！",
+        "FR": "Coraline ! Merci ! \nMerci !",
+        "DE": "C... Coraline! \nDanke! Danke!",
+        "ES": "¡C..Coraline! \n¡Gracias! \n¡Gracias!",
+        "IT": "C...Coraline! \nGrazie! Grazie!"
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 202,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボクは……ボクは……\nキミにあえて……\nキミのパパになれれば……\nほんとうに…………。",
+        "EN": "I...I...was happy \nthat I met \nyou..... I \nwish...I could be \nyour \nfather..really....",
+        "FR": "Je... J'aurais \ntellement aimé \nêtre ton... ton \npère... pour de \nvrai...",
+        "DE": "Ich... Ich... war \nso froh, dass ich \ndich getroffen \nhabe... Ich \nwünschte... ich \nkönnte dein Vater \nsein... wirklich...",
+        "ES": "Yo...Yo...estaba \ncontento de \nverte... Me \ngustaría... ser \ntu padre... de \nverdad...",
+        "IT": "S...S...Sono stato \nfelice di \nconoscerti... \nMagari... mi \npiacerebbe essere \nil tuo vero... \npadre..."
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 208,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ、早く！\nこれを！　これを！！",
+        "EN": "Hey, hurry up！ \nTake this！！",
+        "FR": "Allez, va vite !! \nPrends ça !",
+        "DE": "Hey, beeil dich! \nNimm dies!!",
+        "ES": "¡Eh, deprisa! \n¡¡Toma esto!!",
+        "IT": "Ehi, sbrigati! \nPrendi questo!"
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 214,
+      "type": "group_6",
+      "texts": {
+        "JA": "オレンジ色の目\nをうけとりました。",
+        "EN": "You got the Orange \nEye！",
+        "FR": "Tu as obtenu \nl'œil orange !",
+        "DE": "Du hast das \norangefarbene Auge!",
+        "ES": "¡Has conseguido \nel Ojo Naranja!",
+        "IT": "Hai l'occhio \narancione!"
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 220,
+      "type": "group_6",
+      "texts": {
+        "JA": "ご、ごめんね……。\nパパ…………。",
+        "EN": "I..I am sorry.... \nDad......",
+        "FR": "Je suis \ndésolée...papa...",
+        "DE": "Es... Es tut mir \nleid... Papa......",
+        "ES": "Lo..Lo siento... \nPapá......",
+        "IT": "Mi... mi \ndispiace... \nPapà......"
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 226,
+      "type": "group_6",
+      "texts": {
+        "JA": "な…………！？",
+        "EN": "Wh.....！?",
+        "FR": "Quoi...?!",
+        "DE": "W...!?",
+        "ES": "¿¡Qu.....!?",
+        "IT": "Ch... !?"
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 232,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、こ、これを……\nう、うけとってくれ！！\nは、はやく！！",
+        "EN": "This...please take \nthis！ \nHu...hurry！！",
+        "FR": "Tiens... prends \nça ! \nDépêche-toi !!",
+        "DE": "Das... bitte nimm \ndas! Be... beeil \ndich!!",
+        "ES": "¡Esto...toma \nesto! \n¡¡De...deprisa!!",
+        "IT": "Ecco... prendi \nquesto, ti prego! \nFai in... fretta!!!"
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 238,
+      "type": "group_6",
+      "texts": {
+        "JA": "パ、パパ……？",
+        "EN": "Da...dad....?",
+        "FR": "Papa... ?",
+        "DE": "Pa... Papa....?",
+        "ES": "¿Pa...papá....?",
+        "IT": "Pa... papà?"
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 244,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、これを、\nさがしているんだろう？\nさあ！　はやく！！",
+        "EN": "You...you are \nlooking for this, \nright? Here you \ngo. Hurry up！！",
+        "FR": "C'est ça que tu \ncherches, non ? \nTiens... \nDépêche-toi !!",
+        "DE": "Du... du suchst \ndas hier, \nstimmt's? Hier, \nbitte. Mach \nschnell!!",
+        "ES": "Estás...buscando \nesto, ¿verdad? \nAquí tienes. \n¡¡Deprisa!!",
+        "IT": "Stai... Stai \ncercando questo, \nnon è vero? Ecco, \nè tuo. Fai in \nfretta!!"
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 250,
+      "type": "group_6",
+      "texts": {
+        "JA": "オレンジ色の目\nをうけとりました。",
+        "EN": "You got the Orange \nEye！",
+        "FR": "Tu as obtenu \nl'œil orange !",
+        "DE": "Du hast das \norangefarbene Auge!",
+        "ES": "¡Has conseguido \nel Ojo Naranja!",
+        "IT": "Hai l'occhio \narancione!"
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 256,
+      "type": "group_6",
+      "texts": {
+        "JA": "パ、パパ！？",
+        "EN": "D..Dad！?",
+        "FR": "Papa ?",
+        "DE": "P... Papa!?",
+        "ES": "¿¡P..Papá!?",
+        "IT": "P...papà?"
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 262,
+      "type": "group_6",
+      "texts": {
+        "JA": "コ、コラライン……。\nありがとう……\nほんとうに、ありがとう！",
+        "EN": "Co...Coraline....thank \nmuch. \nI...love...you...！",
+        "FR": "Coraline ! Merci ! \nMerci !",
+        "DE": "Co... Coraline... \nvielen... Dank. \nIch... liebe... \ndich...!",
+        "ES": "Co...Coraline....muchas...gracias. \n",
+        "IT": "Co... Coraline... \nGrazie... grazie \nmille. Ti ... \nvoglio.... Bene...!"
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 268,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボクは……ボクは……\nキミにあえて……\nキミのパパになれれば……\nほんとうに…………。",
+        "EN": "I...I...was happy \nthat I met \nyou..... I \nwish...I could be \nyour \nfather..really....",
+        "FR": "Je... J'aurais \ntellement aimé \nêtre ton... ton \npère... pour de \nvrai...",
+        "DE": "Ich... Ich... war \nso froh, dass ich \ndich getroffen \nhabe... Ich \nwünschte... ich \nkönnte dein Vater \nsein... wirklich...",
+        "ES": "Yo...Yo...estaba \ncontento de \nverte... Me \ngustaría... ser \ntu padre... de \nverdad...",
+        "IT": "S...S...Sono stato \nfelice di \nconoscerti... \nMagari... mi \npiacerebbe essere \nil tuo vero... \npadre..."
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 274,
+      "type": "group_6",
+      "texts": {
+        "JA": "さすがに、もうないわね。",
+        "EN": "There is nothing \nanymore.",
+        "FR": "Il ne reste plus \nrien...",
+        "DE": "Da ist jetzt \nnichts mehr.",
+        "ES": "No hay nada más.",
+        "IT": "Non c'è più \nniente."
+      }
+    },
+    {
+      "id": 44,
+      "base_chunk": 280,
+      "type": "group_6",
+      "texts": {
+        "JA": "もう一人のパパが乗った\nカマキリトラクターが\nおそってくる！",
+        "EN": "The Other Father's \nMantis Tractor is \nafter you！",
+        "FR": "Attention à la \ntracto-mante de \nl’Autre Père !",
+        "DE": "Der Mantis-Traktor \ndes anderen Vaters \nist hinter dir her!",
+        "ES": "¡El Tractor \nMantis que conduce \nel Otro Padre se \nacerca para \natacarte!",
+        "IT": "Il \nTrattore-mantide \ndell'altro padre \nti sta dando la \ncaccia!"
+      }
+    },
+    {
+      "id": 45,
+      "base_chunk": 286,
+      "type": "group_6",
+      "texts": {
+        "JA": "カマキリトラクターの\n攻撃をかわしつつ、\n追いつかれないよう\n逃げ延びよう。",
+        "EN": "Avoid the attacks \nand stay ahead of \nit.",
+        "FR": "Esquive les \nattaques et garde \nle contrôle.",
+        "DE": "Weiche den \nAngriffen aus und \nsei ihnen voraus.",
+        "ES": "Evita los ataques \ny procura que no \nte alcance.",
+        "IT": "Evita gli attacchi \ne non farti \nraggiungere."
+      }
+    },
+    {
+      "id": 46,
+      "base_chunk": 292,
+      "type": "group_6",
+      "texts": {
+        "JA": "岩につまずいて\n転んだときは、\nコララインをタッチペンで\nこすって起き上がらせよう。",
+        "EN": "If Coraline trips \nover a rock and \nfalls down, rub \nher with the \nstylus and get her \nback up.",
+        "FR": "Si Coraline \ntrébuche sur un \ncaillou et tombe, \nfrotte-la avec le \nstylet pour la \nrelever.",
+        "DE": "Wenn Coraline \nüber einen Stein \nstolpert und \nhinfällt, streich \nmit dem Touchpen \nüber sie, damit \nsie wieder \naufsteht.",
+        "ES": "Si Coraline \ntropieza con una \npiedra y se cae, \nfrótala con el \nlápiz táctil y \nse volverá a \nlevantar.",
+        "IT": "Se Coraline \ninciampa su una \npietra e cade, \nstrofinala con lo \nstilo per farla \nrialzare."
+      }
+    },
+    {
+      "id": 47,
+      "base_chunk": 298,
+      "type": "group_6",
+      "texts": {
+        "JA": "穴の空いた石には\n不思議な力があります。",
+        "EN": "The 100 year old \ncandy has a \nmagical power.",
+        "FR": "Le bonbon \ncentenaire a un \npouvoir magique.",
+        "DE": "Das 100 Jahre alte \nBonbon hat \nZauberkräfte.",
+        "ES": "El caramelo de 100 \naños tiene \npoderes mágicos.",
+        "IT": "La caramella \nvecchia di \ncent'anni ha un \npotere magico."
+      }
+    },
+    {
+      "id": 48,
+      "base_chunk": 304,
+      "type": "group_6",
+      "texts": {
+        "JA": "その力で、\n３人の幽霊たちの目を\n見つけることが\nできるのです。\nしかし、それが使える\n場所は限られています。",
+        "EN": "The power will \nhelp you find the \nthree ghosts' \neyes, but you can \nuse it only in a \nlimited area.",
+        "FR": "Le pouvoir magique \nt’aidera à \ntrouver trois yeux \nde fantôme mais \ntu ne peux pas \nl’utiliser \npartout.",
+        "DE": "Mit der \nZauberkraft kannst \ndu die Augen der \ndrei Geister \nfinden, aber sie \nwirkt nur in einem \nbegrenztem Bereich.",
+        "ES": "Los poderes te \nayudarán a \nencontrar los tres \nojos de los \nfantasmas, pero \nsólo puedes \nusarlo en un área \nlimitada.",
+        "IT": "Il potere ti \naiuterà a trovare \ni tre occhi dei \nfantasmi, ma puoi \nusarlo solo in \nun'area limitata."
+      }
+    },
+    {
+      "id": 49,
+      "base_chunk": 310,
+      "type": "group_6",
+      "texts": {
+        "JA": "画面に石が\n表示されたら、石を\nタッチしてみましょう。\n穴の空いた石をのぞき\n見ることができます。",
+        "EN": "Touch the candy \nwhen it appears on \nthe screen. You \ncan peer inside \nthrough the hole.",
+        "FR": "Touche le bonbon \nlorsqu’il \napparaît sur \nl'écran tactile. \nTu peux voir ce \nqu’il y a à \nl’intérieur à \ntravers le trou.",
+        "DE": "Berühre das \nBonbon, wenn es \nauf dem Bildschirm \nerscheint. Du \nkannst durch das \nLoch schauen.",
+        "ES": "Toca el caramelo \ncuando aparezca en \nla pantalla \ntáctil. Puedes \nmirar a través \ndel agujero.",
+        "IT": "Tocca la caramella \nquando appare \nsullo schermo. \nPuoi sbirciare \nattraverso il buco."
+      }
+    },
+    {
+      "id": 50,
+      "base_chunk": 316,
+      "type": "group_6",
+      "texts": {
+        "JA": "穴の空いた石を覗いて、\nまわりをよく見て\nみましょう。画面の端を\nタッチすると画面が\nスクロールします。",
+        "EN": "Peer into the hole \nand look around. \nYou can scroll the \nviewing area by \ntouching the edge \nof the Touch \nScreen.",
+        "FR": "Regarde à travers \nle trou du bonbon. \nTu peux explorer \nles lieux en \ntouchant les bords \nde l’écran \ntactile.",
+        "DE": "Schau durch das \nLoch und sieh dich \num. Du kannst den \nBlickbereich \nändern, indem du \nden Rand des \nBildschirms \nberührst.",
+        "ES": "Mira dentro del \nagujero y examina \nlos alrededores. \nPuedes desplazar \nel área de \nvisualización \ntocando el borde \nde la pantalla \ntáctil.",
+        "IT": "Sbircia attraverso \nil buco e guardati \nintorno. Puoi far \nscorrere l'area \ninquadrata \ntoccando il bordo \ndello schermo."
+      }
+    },
+    {
+      "id": 51,
+      "base_chunk": 322,
+      "type": "group_6",
+      "texts": {
+        "JA": "幽霊たちの目を\n見つけたら、目に\nタッチしてください。",
+        "EN": "Touch the ghost's \neye when you find \nit！",
+        "FR": "Pointe l’œil de \nfantôme dès que \ntu le trouves !",
+        "DE": "Berühre das \nGeisterauge, wenn \ndu es findest!",
+        "ES": "¡Toca el ojo del \nfantasma cuando lo \nencuentres!",
+        "IT": "Tocca l'occhio del \nfantasma quando lo \ntrovi!"
+      }
+    },
+    {
+      "id": 52,
+      "base_chunk": 328,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

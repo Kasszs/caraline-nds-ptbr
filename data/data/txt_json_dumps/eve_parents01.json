@@ -1,0 +1,84 @@
+{
+  "file": "eve_parents01.bin",
+  "total_dialogues": 6,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 12,
+      "type": "group_6",
+      "texts": {
+        "JA": "動物園に行ったときに\n撮った写真だわ。",
+        "EN": "This is the \npicture we took at \nthe zoo！",
+        "FR": "C'est la photo \nqu'on a prise au \nzoo !",
+        "DE": "Das ist das Bild, \ndas wir im Zoo \ngemacht haben!",
+        "ES": "¡Ésta es la foto \nque hicimos en el \nzoo!",
+        "IT": "Questa è la foto \nche abbiamo fatto \nallo zoo!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 18,
+      "type": "group_6",
+      "texts": {
+        "JA": "あー、\nミシガンがなつかしいなぁ。",
+        "EN": "Gosh...I miss \nMichigan.",
+        "FR": "Pff... le Michigan \nme manque.",
+        "DE": "Mann... Ich \nvermisse Michigan.",
+        "ES": "Caramba... echo de \nmenos Michigan.",
+        "IT": "Oddio... quando mi \nmanca il Michigan."
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 24,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパもママも、どこに\n行っちゃったのかしら……。",
+        "EN": "Where did my \nparents go?",
+        "FR": "Ils sont passés \noù mes parents ?",
+        "DE": "Wo sind meine \nEltern hin?",
+        "ES": "¿Adónde se han \nido mis padres?",
+        "IT": "Dove sono andati i \nmiei genitori?"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 30,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ、ママ……。\n待っててね。絶対に\nパパとママを助けて\nみせるから。",
+        "EN": "Mom...Dad... Wait \nfor me. I'm coming \nto save you！",
+        "FR": "Maman... Papa... \nJe vais vous \nsauver !",
+        "DE": "Mama... Papa... \nWartet auf mich. \nIch komme euch \nretten!",
+        "ES": "Mamá...papá... \nEsperadme. ¡Voy a \nsalvaros!",
+        "IT": "Mamma... Papà... \nAspettatemi! Vengo \na salvarvi!"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 36,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ、ママ……。\n今、どこにいるの？？",
+        "EN": "Mom, Dad...? Where \nare you ?",
+        "FR": "Maman, papa... Où \nêtes-vous ?",
+        "DE": "Mama, Papa... Wo \nseid ihr ??",
+        "ES": "Mamá, papá... \n¿¿Dónde \nestáis??",
+        "IT": "Mamma, Papà... \nDove siete??"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 42,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

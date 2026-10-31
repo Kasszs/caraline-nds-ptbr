@@ -1,0 +1,240 @@
+{
+  "file": "eve_o_palacefront01.bin",
+  "total_dialogues": 18,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 24,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................\n",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 30,
+      "type": "group_6",
+      "texts": {
+        "JA": "今日は、本当に\nたのしかったわね。\nそうでしょ？",
+        "EN": "We had a really \ngood time today, \ndidn't we?",
+        "FR": "On s'est bien \namusé \naujourd'hui, hein \n?!",
+        "DE": "Wir hatten heute \neine richtig \nschöne Zeit, \nnicht wahr?",
+        "ES": "Hoy nos lo hemos \npasado genial, \n¿verdad?",
+        "IT": "Ci siamo divertiti \nveramente tanto \noggi, vero?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 36,
+      "type": "group_6",
+      "texts": {
+        "JA": "あなたって、ほんとうに\nシャイね！でも、あっちの\nワイビーなんかより、\nずっとステキかな。",
+        "EN": "You're so shy！ \nBut I think I like \nyou more than the \nreal Wybie.",
+        "FR": "Quel timide tu \nfais ! Mais je \ncrois que je te \npréfère comme \nça...",
+        "DE": "Du bist so \nschüchtern! Aber \nich glaube, ich \nmag dich mehr als \nden echten Wybie.",
+        "ES": "¡Eres muy \ntímido! Pero creo \nque me gustas más \nque el Wybie \nauténtico.",
+        "IT": "Sei così timido! \nMa sei più \nsimpatico del vero \nWybie."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 42,
+      "type": "group_6",
+      "texts": {
+        "JA": "また、一緒に\n遊んでくれるでしょ？",
+        "EN": "Do you want to \nplay with me again?",
+        "FR": "Tu voudras bien \nqu'on rejoue \nensemble ?",
+        "DE": "Willst du wieder \nmit mir spielen?",
+        "ES": "¿Querrás volver \na jugar conmigo?",
+        "IT": "Vuoi giocare \nancora con me?"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 48,
+      "type": "group_6",
+      "texts": {
+        "JA": "よかった！\nそれじゃ、またね！",
+        "EN": "Great！ See you \nthen！",
+        "FR": "Super ! Alors à \nplus tard !",
+        "DE": "Toll! Bis dann!",
+        "ES": "¡Genial! ¡Nos \nvemos, entonces!",
+        "IT": "Benissimo! Ci \nvediamo allora!"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 54,
+      "type": "group_6",
+      "texts": {
+        "JA": "またね！\nこんど会うときを\n楽しみにしてるわ。",
+        "EN": "See you later！",
+        "FR": "À plus tard !",
+        "DE": "Bis später!",
+        "ES": "¡Nos vemos!",
+        "IT": "A dopo!"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 60,
+      "type": "group_6",
+      "texts": {
+        "JA": "やあ、コラライン。\nミス・スピンクと\nミス・フォーシブルの劇を\n見に行ってたんだって？\n楽しかったかい？",
+        "EN": "Hi, Coraline. I \nheard you went to \nsee Ms. Spink and \nMs. Forcible's \nshow. How was it?",
+        "FR": "Bonjour, Coraline. \nIl paraît que tu \nes allée chez \nMelles Spink et \nForcible. C'était \ncomment ?",
+        "DE": "Hi, Coraline. Ich \nhörte, du warst \nbei Ms. Spink und \nMs. Forcible. Wie \nwar's?",
+        "ES": "Hola, Coraline. He \noído que querías \nver a la Sra. \nSpink y la Sra. \nForcible. ¿Qué \nte ha parecido?",
+        "IT": "Ciao, Coraline. Ho \nsentito che sei \nandata a trovare \nMiss Spink e Miss \nForcible. Com'è \nandata?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 66,
+      "type": "group_6",
+      "texts": {
+        "JA": "もっちろん！\n最高だったわ。",
+        "EN": "It was excellent！ ",
+        "FR": "C'était super !",
+        "DE": "Es war fabelhaft!",
+        "ES": "¡Ha sido \nexcelente! ",
+        "IT": "È stato \nbellissimo!"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 72,
+      "type": "group_6",
+      "texts": {
+        "JA": "それは、よかった。\nどうだい？　こっちの\n世界は気に入ったかい？",
+        "EN": "That's good！ So \nhow are you liking \nthis world so far?",
+        "FR": "Bien ! Alors \ncomment tu le \ntrouves ce monde ?",
+        "DE": "Das ist gut! Wie \ngefällt dir diese \nWelt bis jetzt?",
+        "ES": "¡Muy bien! \nEntonces, ¿te \nestá gustando \neste mundo?",
+        "IT": "Bene! Allora, ti \npiace questo mondo?"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 78,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん。\nもう、ずっとこっちに\nいたいぐらいよ。",
+        "EN": "You know, I think \nI want to stay in \nthis world forever.",
+        "FR": "Eh bien je crois \nque j'aimerais \nbien y rester pour \ntoujours.",
+        "DE": "Weißt du, ich \nglaube, ich will \nfür immer in \ndieser Welt \nbleiben.",
+        "ES": "Ya sabes que me \ngustaría quedarme \naquí para siempre.",
+        "IT": "Sai, credo di \nvoler restare in \nquesto mondo per \nsempre."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 84,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうだろうね。\nああ、コララインが\nそうしてくれると、\nパパもとてもウレシイよ。",
+        "EN": "Well, I have some \ngreat news for you.",
+        "FR": "Dans ce cas, j'ai \nune bonne nouvelle.",
+        "DE": "Na, da habe ich \ntolle Neuigkeiten \nfür dich+",
+        "ES": "Entonces tengo \nbuenas noticias \npara ti.",
+        "IT": "Bene, ho grandi \nnotizie per te."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 90,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうと決まれば、\n善は急げ、だ。\nキミが、こっちの世界に\nずっといられるように\nなるために、ママが準備を\nしてくれてるよ。",
+        "EN": "Mother is making \narrangements right \nnow for you to be \nable to stay \nhere...forever.",
+        "FR": "Ta Mère est en \ntrain de \ns'organiser pour \nque tu puisses \nrester avec nous \npour toujours.",
+        "DE": "Mutter richtet es \ngerade so ein, \ndass es dir \nmöglich ist, hier \nzu bleiben... für \nimmer.",
+        "ES": "Mamá está \nhaciendo los \npreparativos para \nque puedas \nquedarte aquí... \npara siempre.",
+        "IT": "La mamma sta \norganizzando tutto \nperché tu possa \nstare qui... per \nsempre!"
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 96,
+      "type": "group_6",
+      "texts": {
+        "JA": "準備？",
+        "EN": "Arrangements?",
+        "FR": "S'organiser ?",
+        "DE": "Richtet es ein?",
+        "ES": "¿Preparativos?",
+        "IT": "Organizzando?"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 102,
+      "type": "group_6",
+      "texts": {
+        "JA": "行けば、わかるさ。\nさ、早く行っておいで。",
+        "EN": "You'll find out \nwhen you meet her. \nNow, hurry up.",
+        "FR": "Elle va \nt'expliquer tout \nça. Allez, \ndépêche-toi.",
+        "DE": "Du wirst es \nherausfinden, wenn \ndu sie siehst. \nJetzt beeil dich.",
+        "ES": "Lo sabrás cuando \nla veas. Ahora, \ndate prisa.",
+        "IT": "Lo saprai quando \nla vedrai. Ora \nsbrigati."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 108,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママは、ダイニングに\nいるはずさ。\nさ、早く行っておいで。",
+        "EN": "Mother will be in \nthe kitchen. Go \non！",
+        "FR": "Ta Mère est dans \nla cuisine. Va !",
+        "DE": "Mutter wird in der \nKüche sein. Na \nlos!",
+        "ES": "Mamá estará en \nla cocina. ¡Vamos!",
+        "IT": "La mamma è in \ncucina. Avanti!"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 114,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわっ！\nなにコレ……。",
+        "EN": "Wow！ What is \nTHIS....?",
+        "FR": "Ouah ! C'est quoi \nÇA ?!",
+        "DE": "Wow! Was ist \nDAS...?",
+        "ES": "¡Guau! ¿Qué es \nESTO...?",
+        "IT": "Wow! E QUESTO \ncos'è?"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 120,
+      "type": "group_6",
+      "texts": {
+        "JA": "また、ここも……。\n世界が、溶けちゃう……？",
+        "EN": " This world is \nstarting to \nmelt...?",
+        "FR": "Ce monde commence \nà fondre !",
+        "DE": " Diese Welt fängt \nan zu schmelzen...?",
+        "ES": " ¿Este mundo \nestá empezando a \ndesaparecer...?",
+        "IT": "Questo mondo sta \nper sciogliersi?"
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 126,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

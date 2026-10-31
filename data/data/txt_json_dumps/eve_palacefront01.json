@@ -1,0 +1,1436 @@
+{
+  "file": "eve_palacefront01.bin",
+  "total_dialogues": 110,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 53,
+      "type": "group_6",
+      "texts": {
+        "JA": "？　これ、表札かしら。",
+        "EN": "...\nIsso é uma placa\nindicativa?",
+        "FR": "... ? C'est un \npanneau ça ?",
+        "DE": "...? Ist das ein \nWegweiser?",
+        "ES": "...? ¿Esto es una \nseñal?",
+        "IT": "... ? Cos'è, un \ncartello?"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 59,
+      "type": "group_6",
+      "texts": {
+        "JA": "この上：ボビンスキーの部屋",
+        "EN": "Acima: Casa\ndo Bobinsky",
+        "FR": "Au-dessus + chez \nM. Bobinsky",
+        "DE": "Oben+ Bobinskys \nWohnung",
+        "ES": "Encima+ Casa de \nBobinsky",
+        "IT": "Sopra+ Casa di \nBobinsky"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 65,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうだい、コラライン。",
+        "EN": "Olá, Coraline.",
+        "FR": "Bonjour Coraline.",
+        "DE": "Hallo, Coraline.",
+        "ES": "Hola, Coraline.",
+        "IT": "Ciao Coraline!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 71,
+      "type": "group_6",
+      "texts": {
+        "JA": "今日からは、\nここがボクらの家さ。\nすばらしいだろう？",
+        "EN": "Nossa casa nova é\nalgo especial,\nnão é?",
+        "FR": "Elle est super \nnotre nouvelle \nmaison, tu trouves \npas ?",
+        "DE": "Unser neues Haus \nist wirklich toll, \nnicht wahr?",
+        "ES": "Nuestra nueva casa \ntiene algo \nespecial, ¿no?",
+        "IT": "La nostra nuova \ncasa è molto \nbella, vero?"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 77,
+      "type": "group_6",
+      "texts": {
+        "JA": "壁がピンク色なのね。",
+        "EN": "Aquela parede está\npintada de rosa.",
+        "FR": "Ce mur est peint \nen rose.",
+        "DE": "Diese Wand ist \npink angestrichen.",
+        "ES": "Esa pared está \npintada de rosa.",
+        "IT": "Quel muro è \ndipinto di rosa."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 83,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうさ。きれいだろう？\nみんなからは、\nピンクパレス\nってよばれてるのさ。",
+        "EN": "Este lugar não é\nlindo? Chamam de\nPalácio Rosa.",
+        "FR": "Tu ne la trouves \npas magnifique ? \nIls l'appellent le \nPalais rose.",
+        "DE": "Ist das nicht ein \nschönes Haus? Man \nnennt es den \nPinkfarbenen \nPalast.",
+        "ES": "¿No te parece \nbonito este sitio? \nLo llaman el \nPalacio Rosa.",
+        "IT": "Non è bellissimo \nquesto posto? Lo \nchiamano il \nPalazzo rosa."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 89,
+      "type": "group_6",
+      "texts": {
+        "JA": "みんなって？",
+        "EN": "Quem chama assim?",
+        "FR": "Qui ça, ils ?",
+        "DE": "Wer nennt das so?",
+        "ES": "¿Quién lo llama \nasí?",
+        "IT": "Chi è che lo \nchiama così?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 95,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボクだろ。母さんだろ。\nそれにもちろん、\nコラライン\nキミもそうだろう？",
+        "EN": "Todo mundo. Não\nacha grande o\nbastante para ser\num palácio?",
+        "FR": "Tout le monde. \nParce qu'elle est \naussi grande qu'un \npalais.",
+        "DE": "Alle. Findest du \nnicht, dass es ein \nPalast sein \nkönnte?",
+        "ES": "Todo el mundo. \n¿No te parece lo \nbastante grande \npara ser un \npalacio?",
+        "IT": "Tutti! Non credi \nche sia grande \nabbastanza per \nessere considerato \nun palazzo?"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 101,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうね。\nねぇ？　\n家の中を探検して\nきていい？",
+        "EN": "Acho que sim. Posso\ndar uma olhada\npor aí?",
+        "FR": "Ah, c'est pour \nça... Je peux \naller faire un \ntour ?",
+        "DE": "Kann sein. Darf \nich mich mal \numsehen?",
+        "ES": "Supongo que sí. \n¿Puedo echar un \nvistazo?",
+        "IT": "Forse sì. Posso \ndare un'occhiata?"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 107,
+      "type": "group_6",
+      "texts": {
+        "JA": "もちろんさ。\nだけど、ママやパパの\n邪魔はしないでくれよ。",
+        "EN": "Claro, desde que\ndeixe sua mãe e eu\nem paz para\nterminar o trabalho.",
+        "FR": "Oui, laisse-nous \ntravailler ta \nmère et moi.",
+        "DE": "Klar, solange du \nmich und deine \nMutter in Ruhe \nunsere Arbeit \nmachen lässt.",
+        "ES": "Claro, con tal de \nque nos dejes \nsolos a tu madre y \na mí para que \nacabemos el \ntrabajo.",
+        "IT": "Certo, basta che \nlasci in pace me e \ntua madre, \ndobbiamo finire il \nnostro lavoro."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 113,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうしたんだい？\n家の中を探検\nしてくるんじゃ\nなかったのかい？",
+        "EN": "Achei que estivesse\nexplorando a casa.",
+        "FR": "Je te croyais en \ntrain d'explorer \nla maison ?",
+        "DE": "Ich dachte, du \nerkundest das Haus?",
+        "ES": "Pensaba que \nestabas explorando \nla casa.",
+        "IT": "Pensavo volessi \nesplorare la casa?"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 119,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、ヘビの抜け殻\nみっけ！",
+        "EN": "Nossa, eu nunca vi\numa cobra trocar\nde pele antes.",
+        "FR": "Ouah, je n’avais \nencore jamais vu \nde serpent muer.",
+        "DE": "Wow, ich hab noch \nnie gesehen, wie \nsich eine Schlange \nhäutet.",
+        "ES": "Guau, nunca había \nvisto a una \nserpiente mudar la \npiel.",
+        "IT": "Wow, non avevo mai \nvisto un serpente \ncambiare pelle \nprima d'ora."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 125,
+      "type": "group_6",
+      "texts": {
+        "JA": "キレイな抜け殻ね！\nへへへ〜。宝モノに\nしちゃおっと。",
+        "EN": "Que daora! Vou ter\nque guardar isso!",
+        "FR": "Super ! Je vais en \nprendre bien soin !",
+        "DE": "Wie cool! Das \nwerde ich behalten!",
+        "ES": "¡Qué bien! \n¡Tendré que \nconservar esto!",
+        "IT": "Ma è stupendo! Mi \npiace un sacco!"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 131,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘビの抜け殻\nを見つけました。",
+        "EN": "Você encontrou o\nCouro de Cobra.",
+        "FR": "Tu as trouvé la \nmue du serpent.",
+        "DE": "Du hast die \nSchlangenhaut \ngefunden.",
+        "ES": "Has encontrado la \nPiel de la \nSerpiente.",
+        "IT": "Hai trovato la \npelle del serpente."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 137,
+      "type": "group_6",
+      "texts": {
+        "JA": "なに、これ？\nこんなにたくさんの手紙、\nだれからだろ？",
+        "EN": "Quem diabos recebe\ntanto correio assim?",
+        "FR": "Eh ben, il est \npour qui tout ce \ncourrier ?",
+        "DE": "Wer zum Kuckuck \nkriegt so viel \nPost?",
+        "ES": "¿Quién recibe \ntanto correo?",
+        "IT": "Chi riceverà \ntutta questa posta?"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 143,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nあて先は……\nボ、ボビンスキー？",
+        "EN": "Está endereçado a...\nBo... Bobinsky?",
+        "FR": "C'est pour... M. \nBo...Bobinsky ?",
+        "DE": "Sie ist adressiert \nan......Bo... \nBobinsky?",
+        "ES": "¿Va dirigido \na...Bo...Bobinsky?",
+        "IT": "È indirizzata \na ... Bo.. \nBobinsky?"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 149,
+      "type": "group_6",
+      "texts": {
+        "JA": "つまり……まちがって、\n配達された手紙なわけね。\nとどけてあげたほうが、\nいいかしら。",
+        "EN": "Devem ter entregado\naqui por engano.\nTalvez eu mesma\ndevia entregar.",
+        "FR": "Le facteur a dû \nse tromper. Je \ndevrais peut-être \naller lui porter \nmoi-même.",
+        "DE": "Die muss aus \nVersehen hier \nabgegeben worden \nsein. Vielleicht \nsollte ich sie \nselbst übergeben.",
+        "ES": "Deben haberlo \nentregado aquí \npor error. Creo \nque se lo \nentregaré yo \nmisma. ",
+        "IT": "Dev'essere \narrivata qui per \nsbaglio. Forse \ndovrei consegnarla \nio personalmente."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 155,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボビンスキー氏への手紙\nを手に入れました。",
+        "EN": "Você pegou as cartas\npara o Sr. Bobinsky.",
+        "FR": "Tu as livré du \ncourrier à M. \nBobinsky.",
+        "DE": "Du hast einige \nBriefe an Mr. \nBobinsky.",
+        "ES": "Has obtenido \ncartas para el Sr. \nBobinsky.",
+        "IT": "Hai delle lettere \nper Mr. Bobinsky."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 161,
+      "type": "group_6",
+      "texts": {
+        "JA": "それにしても、\nこの手紙……なんか\nクサイ。なにが入ってる\nのよ、もう。",
+        "EN": "Eca, que fedor!\nO que tem aqui dentro?",
+        "FR": "Oh quelle horreur \n? Il y a quoi \ndedans ?",
+        "DE": "Wow, das stinkt! \nWas ist da drin??",
+        "ES": "¡Guau, esto \napesta! ¿¿Qué \nhay dentro??",
+        "IT": "Puah, che schifo! \nCosa c'è qui \ndentro??"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 167,
+      "type": "group_6",
+      "texts": {
+        "JA": "こんにちわ。\n黒ネコちゃん。",
+        "EN": "Olá, Sr. Gato.\nSou sua nova vizinha.",
+        "FR": "Bonjour, M. le \nChat. Je suis ta \nnouvelle voisine.",
+        "DE": "Hallo, Herr Kater. \nIch bin deine neue \nNachbarin.",
+        "ES": "Hola, Sr. Gato.  \nSoy tu nueva \nvecina.",
+        "IT": "Buongiorno, signor \ngatto. Sono la tua \nnuova vicina."
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 173,
+      "type": "group_6",
+      "texts": {
+        "JA": "うーわ！　無視された。\nほんと性悪なネコねぇ。",
+        "EN": "Nossa... Não sabia\nque gatos faziam\ncaretas assim.\nQue grosseiro.",
+        "FR": "Ouah, je ne savais \npas que les chats \npouvaient faire \nça. Quel \nmalpoli...",
+        "DE": "Wow... ich wusste \nnicht, dass Katzen \nsolche Gesichter \nmachen können. \nWie ungezogen.",
+        "ES": "Guau... No sabía \nque los gatos \npudieran poner \ncaras así. Qué \ngrosero.",
+        "IT": "Ooh... Non sapevo \nche i gatti \nriuscissero a fare \nsmorfie come \nquella! Che \nmaleducato!"
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 179,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワイビー？\nいったい、\nどうしたのよ？",
+        "EN": "Wybie? O que deu em\nvocê? O que está\nfazendo aqui?",
+        "FR": "Wybie? Qu'est-ce \nqu'il t'arrive ? \nQu'est-ce que tu \nfais là ?",
+        "DE": "Wybie? Was ist mit \ndir? Was machst du \nhier?",
+        "ES": "¿Wybie? ¿Qué te \nsucede, Wybie? \n¿Qué haces aquí?",
+        "IT": "Wybie? Cosa c'è \nche non va? Cosa \nci fai qui?"
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 185,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、あー。\nいや、オイラが\nどこかにいるのに\n理由がいるのかね。",
+        "EN": "Nada... Por que acha\nque tem algo de\nerrado comigo?",
+        "FR": "Euh rien... \npourquoi tu me \ndemandes ça ?",
+        "DE": "Nichts... wieso \nglaubst du, mit \nmir stimmt was \nnicht?",
+        "ES": "Nada... pero, \n¿por qué piensas \nque me pasa algo?",
+        "IT": "Niente... perché \ncredi che ci sia \nqualcosa che non \nva?"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 191,
+      "type": "group_6",
+      "texts": {
+        "JA": "べっつにー。\nでも、そんなこと\n言ってると本当に\nストーカーに思われるわ。",
+        "EN": "Você está parado na\nfrente da minha casa\ncom cara de culpado.",
+        "FR": "Tu es devant chez \nmoi et on dirait \nque tu as quelque \nchose à te \nreprocher.",
+        "DE": "Du stehst so \nschuldbewusst vor \nmeinem Haus.",
+        "ES": "Estás delante de \nmi casa con cara \nde culpable.",
+        "IT": "Sei qui, davanti a \ncasa mia, con \nquell'aria da \ncolpevole."
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 197,
+      "type": "group_6",
+      "texts": {
+        "JA": "ご、ごめん。\nべ、べつに用がある\nワケじゃないんだ。",
+        "EN": "Culpado? Eu não sou\nculpado, só estou\nsendo eu mesmo.",
+        "FR": "Qui moi ? Pas du \ntout, je suis \ncomme d'habitude.",
+        "DE": "Tut... Tut mir \nleid. Ich habe nur \nmeine Zeit \nvertrödelt.",
+        "ES": "¿Culpable?  No \nsoy culpable, \nsólo soy yo mismo.",
+        "IT": "Mi... dispiace. \nSto solo sprecando \nil mio tempo."
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 203,
+      "type": "group_6",
+      "texts": {
+        "JA": "ご、ごめん。\nべ、べつに用がある\nワケじゃないんだ。\nほんとに。",
+        "EN": "Culpado? Eu não sou\nculpado, só estou\nsendo eu mesmo.",
+        "FR": "Qui moi ? Pas du \ntout, je suis \ncomme d'habitude.",
+        "DE": "Schuldbewusst? Bin \nich nicht, ich bin \nso wie immer.",
+        "ES": "¿Culpable?  No \nsoy culpable, \nsólo soy yo mismo.",
+        "IT": "Colpevole? Non ho \nfatto niente, sono \nsolo me stesso."
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 209,
+      "type": "group_6",
+      "texts": {
+        "JA": "こら！\nこんなところで、\nなにしてるのよ、\nストーカーさん。",
+        "EN": "Ei, o que está\nfazendo,\nPor-Que-Nasceu?",
+        "FR": "Hé, qu'est-ce que \ntu fais, \nmonsieur-pot-de-\ncolle ",
+        "DE": "Hey, was machst du \nda, \nWarum-bist-du-auf-\n",
+        "ES": "Eh, ¿qué estás \nhaciendo, \nWybi-lo-que-sea?",
+        "IT": "Ehi, tu \nwycometichiami, \ncosa stai facendo?"
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 215,
+      "type": "group_6",
+      "texts": {
+        "JA": "ス、ストーカーじゃ\nねぇよ！オイラは\nただ……。",
+        "EN": "Hã? Eu só estava\ntentando...",
+        "FR": "Hein ? J'essaie \njuste de...",
+        "DE": "Hä? Ich versuche \nnur...",
+        "ES": "¿Eh? Sólo \nintentaba...",
+        "IT": "Eh? Stavo \nprovando..."
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 221,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふん？\nただ、なによ？",
+        "EN": "Tentando fazer o quê?",
+        "FR": "Tu essaies de \nfaire quoi ?",
+        "DE": "Was versuchst du?",
+        "ES": "¿Qué intentabas?",
+        "IT": "Provando a fare \ncosa?"
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 227,
+      "type": "group_6",
+      "texts": {
+        "JA": "……な、なんでも\nねぇよ。",
+        "EN": "Bem... nada, na\nverdade.",
+        "FR": "Euh... non, rien.",
+        "DE": "Also... eigentlich \nnichts.",
+        "ES": "Bueno... en \nrealidad, nada.",
+        "IT": "Beh... in realtà \nniente."
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 233,
+      "type": "group_6",
+      "texts": {
+        "JA": "……ま、いいわ。\nそれより、\n聞きたいことが\nあったんだけど。",
+        "EN": "Tá, esquece. Olha,\njá que está aqui,\ntenho uma pergunta\npara você.",
+        "FR": "Bon, alors... \ntiens, puisque tu \nes là, j'ai une \nquestion pour toi.",
+        "DE": "Okay, vergiss es. \nSchau mal, da du \nschon mal hier \nbist, habe ich \neine Frage an dich.",
+        "ES": "Vale, olvídalo. \nMira, ya que \nestás aquí, \nquiero hacerte una \npregunta.",
+        "IT": "Ok, nessun \nproblema. Senti, \ndal momento che \nsei qui, ho una \ndomanda da farti."
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 239,
+      "type": "group_6",
+      "texts": {
+        "JA": "あの人形。あれって、\nあんたが作ったの？\nあたしをモデルにして。",
+        "EN": "Foi você quem fez\na boneca?",
+        "FR": "C'est toi qui as \nfait la poupée ?",
+        "DE": "Hast du die Puppe \ngemacht?",
+        "ES": "¿Hiciste tú la \nmuñeca?",
+        "IT": "Hai fatto tu la \nbambola?"
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 245,
+      "type": "group_6",
+      "texts": {
+        "JA": "えええ？なに言ってんだ。\nあいつは、もともと\nバアちゃんのものだって\n言わなかったっけか？",
+        "EN": "O quê? Do que está\nfalando? Eu te disse\nque era da minha avó.",
+        "FR": "Quoi ? N'importe \nquoi ! Je t'ai dit \nqu'elle était à \nma grand-mère.",
+        "DE": "Was? Wovon redest \ndu? Ich sagte \ndoch, sie gehörte \nmeiner Oma.",
+        "ES": "¿Qué? ¿De qué \nestás hablando? \nTe dije que era de \nmi abuela.",
+        "IT": "Cosa? Di cosa stai \nparlando?  Ti ho \ndetto che era di \nmia nonna."
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 251,
+      "type": "group_6",
+      "texts": {
+        "JA": "ず、ずいぶん古い\n人形だぜ。もしかしたら、\nこのピンクパレスより\n古いんじゃないか？",
+        "EN": "Aquela boneca é bem\nvelha. Provavelmente\nmais velha do que o\nPalácio Rosa.",
+        "FR": "Elle est vieille \ncette poupée. \nSûrement plus \nvieille que le \npalais rose.",
+        "DE": "Diese Puppe ist \nziemlich alt. Die \nist bestimmt \nälter als der \nPinkfarbene Palast.",
+        "ES": "Esa muñeca es \nbastante antigua. \nProbablemente más \nantigua que el \nPalacio Rosa.",
+        "IT": "Quella bambola è \nmolto vecchia. \nProbabilmente più \nvecchia del \nPalazzo rosa."
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 257,
+      "type": "group_6",
+      "texts": {
+        "JA": "いいかげんなこと\n言わないで！\nどう見たって、あれは\nあたしじゃない。",
+        "EN": "Que loucura!",
+        "FR": "N'importe quoi !",
+        "DE": "Das ist verrückt!",
+        "ES": "¡Esto es una \nlocura!",
+        "IT": "Roba da pazzi!"
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 263,
+      "type": "group_6",
+      "texts": {
+        "JA": "し、知らねぇよ！\nだいたい、なんで\nオイラが、オマエの人形をつ、\nつくるんだよ。",
+        "EN": "P... por que eu\nfaria uma boneca\nigual a você?",
+        "FR": "Et pourquoi je te \nferais une poupée \n?",
+        "DE": "W-warum sollte ich \nvon dir eine Puppe \nmachen?",
+        "ES": "¿P... por qué \nharía una muñeca \nigual que tú?",
+        "IT": "Ma... perché \ndovrei fare una \nbambola uguale a \nte?"
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 269,
+      "type": "group_6",
+      "texts": {
+        "JA": "だから、ストーカーだって\n言ってるんでしょ！",
+        "EN": "Porque você é um\nperseguidor, por\nisso!",
+        "FR": "Parce que t'es un \npot de colle, \nvoilà pourquoi !",
+        "DE": "Weil du ein \nStalker bist, \ndarum!",
+        "ES": "¡Porque eres un \nacosador, ése es \nel motivo!",
+        "IT": "Perché sei un \nmaniaco, ecco \nperché!"
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 275,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 281,
+      "type": "group_6",
+      "texts": {
+        "JA": "図星でしょ？",
+        "EN": "Eu tenho razão,\nnão tenho?",
+        "FR": "J'ai raison, non ?",
+        "DE": "Ich hab doch \nRecht, oder?",
+        "ES": "Estoy en lo \ncierto, ¿verdad?",
+        "IT": "Ho ragione, vero?"
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 287,
+      "type": "group_6",
+      "texts": {
+        "JA": "そこまで言うなら、\n教えてやるよ。",
+        "EN": "Olha, a história é\na seguinte...",
+        "FR": "Écoute, je vais \nte dire la \nvérité...",
+        "DE": "Hör mal, die \nGeschichte geht \nso...",
+        "ES": "Mira, ésta es la \nhistoria...",
+        "IT": "Ascolta, la storia \nè questa..."
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 293,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、あの人形はさ。\nもともとは、バアちゃんの\n妹のものだったんだ。\n子供のころ、バアちゃんも、\nその妹も、このピンクパレスに\n住んでいたんだってよ。",
+        "EN": "Aquela boneca era da\nirmã da minha avó.\nQuando eram crianças,\nelas moravam aqui\nno Palácio Rosa.",
+        "FR": "Cette poupée \nappartenait à la \nsœur de ma \ngrand-mère. Quand \nelles étaient \npetites, elles \nvivaient au palais \nrose.",
+        "DE": "Die Puppe gehörte \nder Schwester \nmeiner Oma. Als \nmeine Oma und ihre \nSchwester noch \nklein waren, \nwohnten sie im \nPinkfarbenen \nPalast.",
+        "ES": "Esa muñeca \npertenecía a la \nhermana de mi \nabuela. De \npequeñas, mi \nabuela y su \nhermana vivían en \nel Palacio Rosa. ",
+        "IT": "La bambola era \ndella sorella di \nmia nonna. Quando \nmia nonna e sua \nsorella erano \nbambine, vivevano \nnel Palazzo rosa."
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 299,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも、ある日。\nバアちゃんの妹が、\nとつぜんいなくなって\nしまったのさ！\nバアちゃんは、彼女が\nゆうかいされたんだって\n言ってたぜ。",
+        "EN": "Um dia, a irmã da\nminha avó sumiu.\nMinha avó disse que\nela tinha sido\nsequestrada.",
+        "FR": "Un jour, la sœur \nde ma grand-mère \na disparu et \nd'après ma \ngrand-mère, elle \ns'est fait enlever.",
+        "DE": "Eines Tages \nverschwand die \nSchwester meiner \nOma. Meine Oma \nsagte, ihre \nSchwester sei \nentführt worden.",
+        "ES": "Un día, la \nhermana de mi \nabuela \ndesapareció. Mi \nabuela decía que \nsu hermana había \nsido secuestrada.",
+        "IT": "Un giorno, la \nsorella di mia \nnonna è \nscomparsa. Secondo \nmia nonna, era \nstata rapita."
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 305,
+      "type": "group_6",
+      "texts": {
+        "JA": "ゆ、ゆうかい！？",
+        "EN": "Sequestrada?",
+        "FR": "Enlever ?",
+        "DE": "Entführt?",
+        "ES": "¿Secuestrada?",
+        "IT": "Rapita?"
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 311,
+      "type": "group_6",
+      "texts": {
+        "JA": "ああ。\nだから、オイラは\nこのピンクパレスには\n入らないのさ。\n行方不明になんて、\nなりたくないからさ。",
+        "EN": "É. Por isso eu não\nentro no Palácio\nRosa. Não quero ser\nsequestrado.",
+        "FR": "Ouais. C'est pour \nça que je ne vais \npas dans le palais \nrose. Je n'ai pas \nenvie de me faire \nenlever.",
+        "DE": "Ja. Deshalb \nbetrete ich den \nPinkfarbenen \nPalast nicht. Ich \nwill nicht \nentführt werden.",
+        "ES": "Si. Por eso no \nentro en el \nPalacio Rosa. No \nquiero que me \nsecuestren.",
+        "IT": "Esatto. È per \nquesto che non \nvado al Palazzo \nrosa. Non voglio \nessere rapito."
+      }
+    },
+    {
+      "id": 44,
+      "base_chunk": 317,
+      "type": "group_6",
+      "texts": {
+        "JA": "アンタも、ゆうかい\nされなきゃいいよな〜。",
+        "EN": "Espero que você\ntambém não seja\nsequestrada.",
+        "FR": "Et j'espère que \ntu ne te feras pas \nenlever non plus.",
+        "DE": "Ich hoffe, du \nwirst nicht auch \nentführt.",
+        "ES": "Espero que a ti \ntampoco te \nsecuestren.",
+        "IT": "E spero che \nnemmeno tu venga \nrapita."
+      }
+    },
+    {
+      "id": 45,
+      "base_chunk": 323,
+      "type": "group_6",
+      "texts": {
+        "JA": "いまの話、ほ、本当なの？",
+        "EN": "Você é sempre assim?",
+        "FR": "Tu es toujours \ncomme ça ?",
+        "DE": "Bist du immer so?",
+        "ES": "¿Siempre eres \nasí?",
+        "IT": "Ma tu sei sempre \ncosì?"
+      }
+    },
+    {
+      "id": 46,
+      "base_chunk": 329,
+      "type": "group_6",
+      "texts": {
+        "JA": "はっはーん。\nやっぱ、コワイんだろ？",
+        "EN": "Aposto que está com\nmedo agora!",
+        "FR": "Tu as la trouille \nmaintenant hein !",
+        "DE": "Ich wette, jetzt \nhast du Angst!",
+        "ES": "¡Seguro que \nestás asustada!",
+        "IT": "Scommetto che ora \nhai paura!"
+      }
+    },
+    {
+      "id": 47,
+      "base_chunk": 335,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんなこと、ないわ。",
+        "EN": "Não... na verdade não.",
+        "FR": "Non, pas vraiment.",
+        "DE": "Nein... eigentlich \nnicht.",
+        "ES": "En realidad...no.",
+        "IT": "No... veramente no."
+      }
+    },
+    {
+      "id": 48,
+      "base_chunk": 341,
+      "type": "group_6",
+      "texts": {
+        "JA": "残念ながら、\nホントのことさ。\n妹がいなくなった後、\n人形はバアちゃんが\nもらったのさ。",
+        "EN": "Infelizmente... minha\navó achou a boneca\ndepois que a irmã\ndela desapareceu.",
+        "FR": "C'est dommage... \nma grand-mère a \neu la poupée \naprès la \ndisparition de sa \nsœur.",
+        "DE": "Leider... bekam \nmeine Oma die \nPuppe, nachdem \nihre Schwester \nverschwunden war.",
+        "ES": "Por desgracia... \nmi abuela \nconsiguió la \nmuñeca después \nde que su hermana \ndesapareciese.",
+        "IT": "Purtroppo... la \nbambola è \ndiventata di mia \nnonna dopo che sua \nsorella sparì."
+      }
+    },
+    {
+      "id": 49,
+      "base_chunk": 347,
+      "type": "group_6",
+      "texts": {
+        "JA": "その人形が……\nアンタにそっくり\nだってんだから！\nくっくく……。",
+        "EN": "e ela é a sua cara.",
+        "FR": "Et c'est ton \nportrait tout \ncraché.",
+        "DE": "Und sie sieht \ngenauso aus wie du.",
+        "ES": "Y se parece a ti.",
+        "IT": "E devo ammettere \nche ti somiglia \nmolto."
+      }
+    },
+    {
+      "id": 50,
+      "base_chunk": 353,
+      "type": "group_6",
+      "texts": {
+        "JA": "サ、サイテーね！\nあなたも！",
+        "EN": "Tenho que ir. Se\ncuida, Caroline.",
+        "FR": "Je dois y aller. \nFais attention à \ntoi Caroline.",
+        "DE": "Ich muss los. Pass \ngut auf dich auf, \nCaroline.",
+        "ES": "Me tengo que ir. \nTen cuidado, \nCaroline.",
+        "IT": "Ora devo andare. \nStai in guardia, \nCaroline."
+      }
+    },
+    {
+      "id": 51,
+      "base_chunk": 359,
+      "type": "group_6",
+      "texts": {
+        "JA": "ごきげんよう、\n黒猫ちゃん。\n今日もごきげんそうに\n寝てるわね。",
+        "EN": "Olá, gatinho medroso.\nParece que está numa\nboa soneca.",
+        "FR": "Bonjour, sac à \npuces. Tu dors \nbien là, on \ndirait...",
+        "DE": "Hallo, alte feige \nMiezekatze. Du \nsiehst aus, als \nhältst du ein \nschönes \nNickerchen.",
+        "ES": "Hola, viejo \ngatito. Parece que \nte estás echando \nuna buena siesta.",
+        "IT": "Salve, vecchio \ngattaccio \nmalefico. Stai \nschiacciando un \nbel pisolino?"
+      }
+    },
+    {
+      "id": 52,
+      "base_chunk": 365,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ。\n寝ちゃいないってよ。",
+        "EN": "Na verdade, ele não\nestá dormindo.",
+        "FR": "Il ne dort pas.",
+        "DE": "Eigentlich \nschläft er nicht.",
+        "ES": "En realidad, no \nestá durmiendo.",
+        "IT": "Veramente non sta \ndormendo."
+      }
+    },
+    {
+      "id": 53,
+      "base_chunk": 371,
+      "type": "group_6",
+      "texts": {
+        "JA": "あんたも、\nなんでこんなヤツと一緒に\nいるのよ。",
+        "EN": "Por que você anda\ncom ele?",
+        "FR": "Pourquoi tu es \ntoujours avec lui ?",
+        "DE": "Warum gibst du \ndich mit ihm ab?",
+        "ES": "¿Por qué andas \ncon él?",
+        "IT": "Ma tu che ci fai \ncon lui?"
+      }
+    },
+    {
+      "id": 54,
+      "base_chunk": 377,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワイビー！！",
+        "EN": "Wybie----!!",
+        "FR": "Wybie !!",
+        "DE": "Wybie...!!",
+        "ES": "¡¡Wybie----!!",
+        "IT": "Wybie...!!"
+      }
+    },
+    {
+      "id": 55,
+      "base_chunk": 383,
+      "type": "group_6",
+      "texts": {
+        "JA": "や、やあ、コラライン！\nよ、よかった。ようやく\n帰ってきたんだ。",
+        "EN": "Oi, Jonesy.",
+        "FR": "Salut Caro.",
+        "DE": "Hi, Jonesy.",
+        "ES": "Hola, Jonesy.",
+        "IT": "Ciao, ragazzina."
+      }
+    },
+    {
+      "id": 56,
+      "base_chunk": 389,
+      "type": "group_6",
+      "texts": {
+        "JA": "……なんの用よ。",
+        "EN": "...O que você quer?",
+        "FR": "Qu'est-ce que tu \nveux ?",
+        "DE": "... Was willst du?",
+        "ES": "...¿Qué es lo \nque quieres?",
+        "IT": "... ...Cosa vuoi?"
+      }
+    },
+    {
+      "id": 57,
+      "base_chunk": 395,
+      "type": "group_6",
+      "texts": {
+        "JA": "ん？　あ、ああ、その……\nあの人形を返して\nほしくて。婆ちゃんに\nだまって持ち出したのが\nバレちまってさ。",
+        "EN": "Eu, é... queria que\nme devolvesse a\nboneca. Minha avó\ndescobriu que peguei\nsem falar para ela.",
+        "FR": "Je... euh... je \nveux que tu me \nrendes la poupée. \nMa grand-mère a \nappris que je \nl’avais prise \nsans lui demander.",
+        "DE": "Ich, ähm, will, \ndass du mir die \nPuppe \nzurückgibst. \nMeine Oma hat \nherausgefunden, \ndass ich sie \ngenommen habe, \nohne ihr was zu \nsagen.",
+        "ES": "Yo, um, quiero que \nme devuelvas la \nmuñeca. Mi abuela \nha descubierto que \nse la quité sin \ndecírselo.",
+        "IT": "Io... beh, \nrivoglio la mia \nbambola. La nonna \nsi è accorta che \nl'ho presa senza \nil suo permesso."
+      }
+    },
+    {
+      "id": 58,
+      "base_chunk": 401,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 59,
+      "base_chunk": 407,
+      "type": "group_6",
+      "texts": {
+        "JA": "わ、わりぃけど、\nあの人形を返してくれよ。\nまた、今度おわびの\nプレゼントはするから。",
+        "EN": "Por favor, me devolve.\nTe dou um presente\nda próxima vez para\ncompensar.",
+        "FR": "Tu peux me la \nrendre, s’il te \nplait ? Je te \ndonnerai autre \nchose à la \nplace...",
+        "DE": "Bitte gib sie mir \nwieder. Ich gebe \ndir beim nächsten \nMal dafür ein \nGeschenk.",
+        "ES": "Por favor, \ndevuélvemela. Te \ndaré un regalo la \npróxima vez en \ncompensación.",
+        "IT": "Ti prego, \nrestituiscimela. \nTi darò un regalo \nla prossima volta, \nper farmi \nperdonare."
+      }
+    },
+    {
+      "id": 60,
+      "base_chunk": 413,
+      "type": "group_6",
+      "texts": {
+        "JA": "おことわりよ！あんたの\nプレゼントなんて！！",
+        "EN": "Não, obrigada, Wybie.",
+        "FR": "Non merci, Wybie !",
+        "DE": "Nein, danke, Wybie.",
+        "ES": "No, gracias, Wybie.",
+        "IT": "No, grazie Wybie."
+      }
+    },
+    {
+      "id": 61,
+      "base_chunk": 419,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、な、な………\nど、どうしたって、\nい、いうのさ？",
+        "EN": "Qual é o problema?",
+        "FR": "Qu'est-ce qui te \nprend ?",
+        "DE": "Was ist los? ",
+        "ES": "¿Qué pasa?",
+        "IT": "C'è qualche \nproblema?"
+      }
+    },
+    {
+      "id": 62,
+      "base_chunk": 425,
+      "type": "group_6",
+      "texts": {
+        "JA": "最初から、あたしを\nだましてたのね！\n魔女の人形なんか\nわたして！　\nあたしを見張るために！！",
+        "EN": "Você me enganou\ndesde o começo, né?\nMe deu a boneca da\nBeldam para me\nespiar!!",
+        "FR": "Tu te moques de \nmoi depuis le \ndébut ! Tu m’as \ndonné la poupée \nde l'Autre Mère \npour \nm’espionner !",
+        "DE": "Du hast mich von \nAnfang an \nhintergangen, \nnicht wahr? Du \nhast mir die Puppe \nder Beldam \ngegeben, damit sie \nmich ausspioniert!!",
+        "ES": "Me engañaste \ndesde el \nprincipio, \n¿verdad? ¡¡Me \ndiste la muñeca \nde la Beldam para \nespiarme!!",
+        "IT": "Mi hai imbrogliato \nfin dall'inizio, \nnon è così? Mi \nhai dato la \nbambola della \nmegera per \nspiarmi!!"
+      }
+    },
+    {
+      "id": 63,
+      "base_chunk": 431,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、な、\nなにいってるのさ。\nオ、オイラには、\nさ、さっぱり……",
+        "EN": "Do que você está\nfalando?",
+        "FR": "Mais de quoi tu \nparles ?",
+        "DE": "Wovon redest du \ndenn?",
+        "ES": "¿De qué estás \nhablando?",
+        "IT": "Ma di cosa stai \nparlando?"
+      }
+    },
+    {
+      "id": 64,
+      "base_chunk": 437,
+      "type": "group_6",
+      "texts": {
+        "JA": "うるさい！あんたなんて、\n信じられるもんですか！　\nあっちのワイビーは、\n本当に紳士的だったのに！\nあんたはサイテーよっ！！",
+        "EN": "Cala a boca! Eu não\nconfio em você!",
+        "FR": "Tais-toi ! Je ne \nte croirai plus !",
+        "DE": "Sei still! Ich \ntraue dir nicht!",
+        "ES": "¡Cállate! ¡No \nte creo!",
+        "IT": "Zitto! Non mi fido \ndi te!"
+      }
+    },
+    {
+      "id": 65,
+      "base_chunk": 443,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、なんだよ。\nワ、ワケわかんねぇこと\nばっかり言って。\nもういいさ！　オマエ、\nどっかおかしくなっち\nまったんだろうさ！",
+        "EN": "Qual é! Você perdeu o\njuízo! Eu só quero\na boneca.",
+        "FR": "Mais arrête ! Tu \ndébloques ou quoi \n? Je veux juste \nque tu me la \nrendes !",
+        "DE": "Komm schon! Du \nverlierst deinen \nVerstand! Ich will \nnur die Puppe.",
+        "ES": "¡Vamos! ¡Estás \nperdiendo la \ncabeza!  Sólo \nquiero la muñeca.",
+        "IT": "Ma andiamo! Sei \nfuori di testa! Io \nvoglio solo la \nbambola."
+      }
+    },
+    {
+      "id": 66,
+      "base_chunk": 449,
+      "type": "group_6",
+      "texts": {
+        "JA": "もう、オ、オマエのこと\nなんて、し、知らねぇよ。\nあばよ！",
+        "EN": "Já cansei disso...\nadeus!",
+        "FR": "J'en ai marre de \ntoi... salut !",
+        "DE": "Mir reicht's... \nWiedersehen!",
+        "ES": "¡Ya he tenido \nsuficiente...adiós!\n",
+        "IT": "Ne ho \nabbastanza... \naddio!"
+      }
+    },
+    {
+      "id": 67,
+      "base_chunk": 455,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパー！\nママーっ！！",
+        "EN": "MAMÃE! PAPAI!",
+        "FR": "MAMAN ! PAPA !",
+        "DE": "MAMA! PAPA!",
+        "ES": "¡MAMÁ! ¡PAPÁ!",
+        "IT": "MAMMA! PAPÀ!"
+      }
+    },
+    {
+      "id": 68,
+      "base_chunk": 461,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン！",
+        "EN": "Coraline!",
+        "FR": "Coraline !",
+        "DE": "Coraline!",
+        "ES": "¡Coraline!",
+        "IT": "Coraline! "
+      }
+    },
+    {
+      "id": 69,
+      "base_chunk": 467,
+      "type": "group_6",
+      "texts": {
+        "JA": "よかった！\n本当によかった！\n無事だったのね！！",
+        "EN": "Que bom que vocês\nestão a salvo!!",
+        "FR": "Je suis si \nheureuse de te \nvoir vivant !",
+        "DE": "Ich bin so froh, \ndass ihr in \nSicherheit seid!!",
+        "ES": "¡¡Qué contenta \nestoy de que \nestéis a salvo!!",
+        "IT": "Sono così felice \nche stiate bene!!"
+      }
+    },
+    {
+      "id": 70,
+      "base_chunk": 473,
+      "type": "group_6",
+      "texts": {
+        "JA": "ははは！\nあたりまえじゃないか。",
+        "EN": "Ha-ha! A salvo? Nós\nestamos ótimos.",
+        "FR": "Ah oui ? Vivant ? \nBen oui, tout va \nbien, merci.",
+        "DE": "Ha-ha! In \nSicherheit? Uns \ngeht's gut.",
+        "ES": "¡Ja, ja! ¿A \nsalvo?  Estamos \nbien.",
+        "IT": "Ha ha! Bene? Certo \nche stiamo bene."
+      }
+    },
+    {
+      "id": 71,
+      "base_chunk": 479,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ、今日はゴチソウだ！\nさっそく出かけよう\nじゃないか！",
+        "EN": "Vamos comemorar!",
+        "FR": "Allons fêter ça !",
+        "DE": "Gehen wir feiern!",
+        "ES": "¡Vamos a \ncelebrarlo!",
+        "IT": "Andiamo a \nfesteggiare!"
+      }
+    },
+    {
+      "id": 72,
+      "base_chunk": 485,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうね！\n魔女から逃げられた\nお祝いよ！",
+        "EN": "Isso aí! Vamos\ncelebrar a fuga da\nBeldam!",
+        "FR": "Bonne idée ! \nAllons célébrer \nnotre victoire sur \nl'Autre Mère !",
+        "DE": "Alles klar! Feiern \nwir die Flucht vor \nder Beldam! ",
+        "ES": "¡De acuerdo! \n¡Vamos a celebrar \nque hemos escapado \nde la Beldam! ",
+        "IT": "Va bene! \nFesteggiamo la \nnostra fuga dalla \nmegera!"
+      }
+    },
+    {
+      "id": 73,
+      "base_chunk": 491,
+      "type": "group_6",
+      "texts": {
+        "JA": "魔女？\n何言ってるのよ、\nコラライン。\nおかしな子ねぇ。",
+        "EN": "Beldam!? Do que está\nfalando, Coraline?",
+        "FR": "L'Autre Mère ? \nQu'est-ce que \nc'est encore que \ncette histoire ?",
+        "DE": "Beldam!? Wovon \nredest du denn, \nCoraline?",
+        "ES": "¿¡Beldam!? ¿De \nqué estás \nhablando, Coraline?",
+        "IT": "Megera!? Ma di \ncosa stai \nparlando, Coraline?"
+      }
+    },
+    {
+      "id": 74,
+      "base_chunk": 497,
+      "type": "group_6",
+      "texts": {
+        "JA": "え？\nだって……お祝いだって。",
+        "EN": "Ué? Você falou em...\ncomemoração.",
+        "FR": "Hein ? Tu as \nparlé de... \nfêter quelque \nchose...",
+        "DE": "Hä? Du hast \ngesagt... feiern..",
+        "ES": "¿Eh? Has \ndicho...celebrarlo\n",
+        "IT": "Eh? Hai detto... \nfesteggiamo?"
+      }
+    },
+    {
+      "id": 75,
+      "base_chunk": 503,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうともさ！\n聞いてくれ、\nコラライン！！",
+        "EN": "Isso mesmo!",
+        "FR": "Absolument !",
+        "DE": "Das stimmt!",
+        "ES": "¡Eso es!",
+        "IT": "Certo!"
+      }
+    },
+    {
+      "id": 76,
+      "base_chunk": 509,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパの記事が賞を\nもらったんだよ！！\nこんな……こんなカンゲキ！\nうぉぉぉぉぉぉっ！！",
+        "EN": "Sua mãe e eu\nterminamos o nosso\ncatálogo! O dia do\npagamento chegou!",
+        "FR": "Ta mère et moi \navons terminé \nnotre catalogue ! \nNous allons être \npayés !",
+        "DE": "Deine Mutter und \nich haben unseren \nKatalog fertig! \nBald ist Zahltag!",
+        "ES": "¡Tu madre y yo \nhemos acabado de \ntrabajar en el \ncatálogo! ¡Día \nde pago, allá \nvamos!",
+        "IT": "Io e tua madre \nabbiamo finito il \ncatalogo a cui \nstavamo lavorando! \nAssegno, stiamo \narrivando!"
+      }
+    },
+    {
+      "id": 77,
+      "base_chunk": 515,
+      "type": "group_6",
+      "texts": {
+        "JA": "もしかして……\nおぼえてないの？\n二人とも？　ほんとうに？",
+        "EN": "Então vocês não se\nlembram de nada?",
+        "FR": "Mais alors, vous \nne vous souvenez \nde rien ?!",
+        "DE": "Ihr erinnert euch \nalso an nichts?",
+        "ES": "Entonces, ¿no \nrecuerdas nada?",
+        "IT": "Allora non vi \nricordate niente \ndi niente?"
+      }
+    },
+    {
+      "id": 78,
+      "base_chunk": 521,
+      "type": "group_6",
+      "texts": {
+        "JA": "やあねぇ、さっきから\nどうしたのよ。ほんとうに。\n魔女って、なんのハナシ？",
+        "EN": "De nada o quê? E o\nque é uma Beldam?",
+        "FR": "De quoi tu parles \n? Et c'est quoi \ncette histoire \nd'autre mère ?",
+        "DE": "An was denn? Und \nwas ist eine \nBeldam?",
+        "ES": "¿Nada de qué? \n¿Y qué es una \nBeldam?",
+        "IT": "Niente di cosa? E \ncos'è la storia \ndella megera?"
+      }
+    },
+    {
+      "id": 79,
+      "base_chunk": 527,
+      "type": "group_6",
+      "texts": {
+        "JA": "ううん……。\nううん、なんでもないの。",
+        "EN": "É... deixa para lá.",
+        "FR": "Euh... Laisse \ntomber.",
+        "DE": "Das ist... Ach, \nschon gut.",
+        "ES": "Es... no importa.",
+        "IT": "È... Non importa."
+      }
+    },
+    {
+      "id": 80,
+      "base_chunk": 533,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ！\nおめでとう！！",
+        "EN": "...parabéns, papai.",
+        "FR": "Félicitations \npapa !",
+        "DE": "... herzlichen \nGlückwunsch, \nPapa...",
+        "ES": "...enhorabuena, \npapá...",
+        "IT": "... Complimenti, \npapà..."
+      }
+    },
+    {
+      "id": 81,
+      "base_chunk": 539,
+      "type": "group_6",
+      "texts": {
+        "JA": "やあ、コラライン。\nおわかれに来たんだ。",
+        "EN": "Olá, Coraline.\nViemos aqui para nos\ndespedir de você.",
+        "FR": "Bonjour Coraline. \nNous sommes venus \nte dire au revoir.",
+        "DE": "Hallo, Coraline. \nWir sind hier, um \nuns von dir zu \nverabschieden.",
+        "ES": "Hola, Coraline. \nHemos venido a \ndespedirnos de ti.",
+        "IT": "Ciao, Coraline. \nSiamo venuti a \nsalutarti."
+      }
+    },
+    {
+      "id": 82,
+      "base_chunk": 545,
+      "type": "group_6",
+      "texts": {
+        "JA": "…………ああ、\nこれはユメなのね。\nとってもキレイな草原。\nそれに、\nあなたたちがいるもの……。",
+        "EN": "Vocês parecem tão\ndiferentes agora!",
+        "FR": "J'ai failli ne pas \nvous reconnaître !",
+        "DE": "Ihr seht jetzt so \nanders aus!",
+        "ES": "¡Ahora parecéis \nmuy diferentes!",
+        "IT": "Siete \ncompletamente \ndiversi ora!"
+      }
+    },
+    {
+      "id": 83,
+      "base_chunk": 551,
+      "type": "group_6",
+      "texts": {
+        "JA": "あなたのおかげよ。\nわたくしたち、ほら！\nもう幽霊なんかじゃないの！",
+        "EN": "Coraline, graças a\nvocê, nós não somos\nmais fantasmas!",
+        "FR": "Coraline, grâce \nà toi nous ne \nsommes plus des \nfantômes.",
+        "DE": "Coraline, dank dir \nsind wir jetzt \nkeine Geister mehr!",
+        "ES": "Coraline, gracias \na ti, ¡ya no \nsomos fantasmas!",
+        "IT": "Coraline, grazie a \nte, non siamo più \ndei fantasmi!"
+      }
+    },
+    {
+      "id": 84,
+      "base_chunk": 557,
+      "type": "group_6",
+      "texts": {
+        "JA": "ありがとう。\n本当にありがとう。\nあなたのおかげで、\nわたしたち、本当に\n行くべきところに行けるの。",
+        "EN": "Agora podemos ir\npara onde devemos\nestar.",
+        "FR": "Et nous pouvons \nnous en aller.",
+        "DE": "Jetzt können wir \ndorthin, wo wir \nsein sollten.",
+        "ES": "Ahora podemos \nvolver donde \ntenemos que estar. ",
+        "IT": "Ora possiamo \ntornare a casa \nnostra."
+      }
+    },
+    {
+      "id": 85,
+      "base_chunk": 563,
+      "type": "group_6",
+      "texts": {
+        "JA": "よかった……。\nみんな、よかったわ……。",
+        "EN": "Que fantástico! Fico\ntão feliz que todos\nestão livres...",
+        "FR": "Je suis tellement \ncontente que vous \nsoyez libres !",
+        "DE": "Das ist \nfantastisch! Ich \nfreu mich so, dass \nihr alle frei \nseid...",
+        "ES": "¡Fantástico! Me \nalegro mucho de \nque estéis \nlibres...",
+        "IT": "È fantastico! \nSono così \ncontenta che siate \ntutti liberi..."
+      }
+    },
+    {
+      "id": 86,
+      "base_chunk": 569,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも…………\nでもね…………。",
+        "EN": "Mas.......... mas...",
+        "FR": "Mais... mais...",
+        "DE": "Aber..........aber\n",
+        "ES": "Pero..........pero\n",
+        "IT": "Ma....... \nMa............"
+      }
+    },
+    {
+      "id": 87,
+      "base_chunk": 575,
+      "type": "group_6",
+      "texts": {
+        "JA": "……まだ、なにかあるのね。\nなんとなく、わかるわ。\n雨の気配があるみたいな\n感じ。",
+        "EN": "...Tem mais alguma\ncoisa, não tem? Algo\nnão está bem.",
+        "FR": "Vous ne m'avez pas \ntout dit, c'est \nça ?",
+        "DE": "......Da ist doch \nnoch etwas \nanderes, nicht \nwahr? Irgendwas \nstimmt nicht ganz.",
+        "ES": "......Hay algo \nmás, ¿verdad? \nAlgo que no está \ndel todo bien.",
+        "IT": "............ C'è \nancora qualcosa \nche non va, vero?"
+      }
+    },
+    {
+      "id": 88,
+      "base_chunk": 581,
+      "type": "group_6",
+      "texts": {
+        "JA": "そう。まだ、\n終わってはいないんだ。\nだから、さいごに警告を。",
+        "EN": "Nós queríamos te\navisar...",
+        "FR": "Nous voulions te \nprévenir...",
+        "DE": "Wir wollten dich \nwarnen...",
+        "ES": "Queríamos \navisarte...",
+        "IT": "Volevamo \navvertirti...."
+      }
+    },
+    {
+      "id": 89,
+      "base_chunk": 587,
+      "type": "group_6",
+      "texts": {
+        "JA": "右手よ！\n右手！\n魔女の右手に気をつけて！",
+        "EN": "Você precisa tomar\ncuidado com a mão\ndireita da Beldam!",
+        "FR": "Fais attention à \nla main droite de \nla sorcière !",
+        "DE": "Du musst dich vor \nder rechten Hand \nder Beldam in Acht \nnehmen!",
+        "ES": "¡Ten cuidado con \nla mano derecha de \nla Beldam!",
+        "IT": "Devi stare attenta \nalla mano destra \ndella megera!"
+      }
+    },
+    {
+      "id": 90,
+      "base_chunk": 593,
+      "type": "group_6",
+      "texts": {
+        "JA": "あのとき……あなたが、\n本当の世界に帰った時、\n魔女の一部分もまた、\nこの世界に入ってきたの。",
+        "EN": "Ela não vai parar\npor nada.",
+        "FR": "Rien ne \nl'arrêtera.",
+        "DE": "Sie macht vor \nnichts Halt.",
+        "ES": "No se detendrá \nante nada.",
+        "IT": "Non si fermerà \ndavanti a nulla!"
+      }
+    },
+    {
+      "id": 91,
+      "base_chunk": 599,
+      "type": "group_6",
+      "texts": {
+        "JA": "魔女は、まだキミを\nあきらめてなんか\nいないんだ。黒いカギを\nとりもどして、\nキミをあの世界に\n連れ戻そうとしている。",
+        "EN": "Ela quer a Chave\nPreta para abrir a\nporta e levar você\nde volta com ela.",
+        "FR": "Elle veut la clé \nnoire pour ouvrir \nla porte... et \nt'emmener avec \nelle.",
+        "DE": "Sie will den \nschwarzen \nSchlüssel, um die \nTür zu öffnen \nund dich dann \nmitzunehmen.",
+        "ES": "Quiere la Llave \nNegra para abrir \nla puerta y \nllevarte con ella.",
+        "IT": "Lei vuole la \nchiave nera per \naprire la porta e \nriportarti \nindietro."
+      }
+    },
+    {
+      "id": 92,
+      "base_chunk": 605,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんな……どうしたら！",
+        "EN": "O que eu devo fazer?",
+        "FR": "Qu'est-ce que je \ndois faire ?",
+        "DE": "Was soll ich tun? ",
+        "ES": "¿Qué puedo hacer?",
+        "IT": "Cosa devo fare?"
+      }
+    },
+    {
+      "id": 93,
+      "base_chunk": 611,
+      "type": "group_6",
+      "texts": {
+        "JA": "わからないかい？\n黒いカギだよ。",
+        "EN": "Livre-se da\nChave Preta.",
+        "FR": "Débarrasse-toi de \nla clé.",
+        "DE": "Lass den schwarzen \nSchlüssel \nverschwinden.",
+        "ES": "Deshacerte de la \nLlave Negra.",
+        "IT": "Sbarazzati della \nchiave nera."
+      }
+    },
+    {
+      "id": 94,
+      "base_chunk": 617,
+      "type": "group_6",
+      "texts": {
+        "JA": "この世界とあの世界は、\nあの黒いカギでふさがれて\nいるわ。だから、\nあのカギを魔女にわたして\nしまったらダメ。",
+        "EN": "A passagem para o\nOutro Mundo está\ntrancada por ela.\nMantenha a chave bem\nlonge dela.",
+        "FR": "La porte qui mène \nà l'Autre Monde \nest fermée à \nclé. Ne laisse \npas traîner la \nclé.",
+        "DE": "Der Eingang zur \nanderen Welt wird \nmit dem Schlüssel \nversperrt. Also \nhalte den \nSchlüssel fern \nvon ihr.",
+        "ES": "La entrada al Otro \nMundo está \ncerrada con la \nllave. No dejes \nque se apodere de \nella.",
+        "IT": "L'entrata per \nl'altro mondo è \nchiusa grazie a \nquella chiave. \nQuindi, tieni la \nchiave lontana da \nlei."
+      }
+    },
+    {
+      "id": 95,
+      "base_chunk": 623,
+      "type": "group_6",
+      "texts": {
+        "JA": "始末するのよ！　カギを！\nだれにも手に\n入らないように！！",
+        "EN": "Livre-se dela! A\nchave! Esconda num\nlugar onde ninguém\nconsiga alcançar!!",
+        "FR": "Débarrasse-toi de \nla clé ! Cache-la \nquelque part où \npersonne ne la \ntrouvera !",
+        "DE": "Werde ihn los! Den \nSchlüssel! \nVersteck ihn \nirgendwo, wo \nkeiner an ihn \nrankommt!!",
+        "ES": "¡Deshazte de \nella! ¡La llave! \n¡¡Escóndela \ndonde nadie pueda \nencontrarla!!",
+        "IT": "Sbarazzatene! La \nchiave! Nascondila \ndove nessuno può \ntrovarla!!"
+      }
+    },
+    {
+      "id": 96,
+      "base_chunk": 629,
+      "type": "group_6",
+      "texts": {
+        "JA": "それが、唯一の道だよ。\nさあ、寝ている時間はない。\n早く、あのカギを…………。",
+        "EN": "É o único jeito.\nDepressa, dê um fim\nnessa chave...",
+        "FR": "C'est la seule \nsolution. \nDépêche-toi...",
+        "DE": "Nur so geht es. \nSpute dich und \nkümmere dich um \nden Schlüssel...",
+        "ES": "Es la única \nforma. Date prisa \ny ocúpate de la \nllave...",
+        "IT": "È 'unica maniera. \nFai in fretta e \nliberati della \nchiave....."
+      }
+    },
+    {
+      "id": 97,
+      "base_chunk": 635,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 98,
+      "base_chunk": 641,
+      "type": "group_6",
+      "texts": {
+        "JA": "そっか、\nまだ終わってないんだ……。\nあのカギを……\nなんとかしなくちゃ。",
+        "EN": "Certo, é hora de dar\num fim nessa chave!",
+        "FR": "Bon, je vais \nm'occuper de cette \nclé !",
+        "DE": " Okay, Zeit, mich \num den Schlüssel \nzu kümmern!",
+        "ES": " ¡De acuerdo, es \nla hora de \nocuparse de esa \nllave!",
+        "IT": "Ok, è arrivato il \nmomento di \noccuparmi della \nchiave!"
+      }
+    },
+    {
+      "id": 99,
+      "base_chunk": 647,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "De onde será que\nveio esse botão...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 100,
+      "base_chunk": 653,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ。ダンゴムシだ。",
+        "EN": "Olha. É um tatuzinho\nde jardim.",
+        "FR": "Regarde, un \ncloporte.",
+        "DE": "Sieh nur. Es ist \nein Pillendreher.",
+        "ES": "Mira. Es una \ncochinilla.",
+        "IT": "Guarda. È un \ninsetto palla."
+      }
+    },
+    {
+      "id": 101,
+      "base_chunk": 659,
+      "type": "group_6",
+      "texts": {
+        "JA": "わ！\nおっきなムカデ\nみーつけた。",
+        "EN": "Nossa! Achei uma\ncentopeia enorme.",
+        "FR": "Ouah ! J'ai \ntrouvé un gros \nmille-pattes.",
+        "DE": "Wow! Ich habe \neinen großen \nTausendfüßer \ngefunden.",
+        "ES": "¡Guau! He \nencontrado un \nciempiés enorme.",
+        "IT": "Wow! Ho trovato un \ngrosso millepiedi."
+      }
+    },
+    {
+      "id": 102,
+      "base_chunk": 665,
+      "type": "group_6",
+      "texts": {
+        "JA": "ナメクジでベトベトだわ。\nでも、かわいい〜。",
+        "EN": "Eca, minhas mãos\nestão grudentas de\nbabosa. Mas ela é\ngracinha.",
+        "FR": "Ahhh, mes mains \nsont toutes \ncollantes. Mais \nj'aime bien les \nlimaces.",
+        "DE": "Öh, meine Hände \nsind von der \nNacktschnecke ganz \nklebrig. Aber sie \nist niedlich.",
+        "ES": "Puaj, tengo las \nmanos pegajosas \npor culpa de la \nbabosa. Pero es \nbonita.",
+        "IT": "Agh... Mi ha \nappiccicato tutte \nle mani con la \nbava. Ma è carino."
+      }
+    },
+    {
+      "id": 103,
+      "base_chunk": 671,
+      "type": "group_6",
+      "texts": {
+        "JA": "わ……なんか逃げてった。\nいまの、\nなんだったのかしら？",
+        "EN": "Ei... Alguma coisa\nsaiu correndo. O que\nera aquilo?",
+        "FR": "Hé, j'ai entendu \ncourir. C'était \nquoi ?",
+        "DE": "Hey... Da ist was \nweggelaufen. Was \nwar das?",
+        "ES": "Eh... Algo ha \nsalido corriendo. \n¿Qué es esto?",
+        "IT": "Ehi... Qualcuno \nstava scappando \nvia. Che cos'era?"
+      }
+    },
+    {
+      "id": 104,
+      "base_chunk": 677,
+      "type": "group_6",
+      "texts": {
+        "JA": "んふふ。\nダンゴムシが\nいっぱーい。\nころころころ\nころころころ……。",
+        "EN": "Ahá. Um monte de\ntatuzinhos. Rolando,\nrolando, rolando,\nrolando...",
+        "FR": "Ahh... Il y a des \ncloportes partout. \nÇa grouille \ngrouille \ngrouille...",
+        "DE": "Aha. Unmengen an \nPillendrehern... \nRollen, rollen, \nrollen, rollen...",
+        "ES": "Ajá Montones de \ncochinillas. \nRodando, rodando, \nrodando, rodando...",
+        "IT": "Aha. Milioni di \ninsetti palla. \nRotolano, \nrotolano, \nrotolano, \nrotolano......"
+      }
+    },
+    {
+      "id": 105,
+      "base_chunk": 683,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、アリの\n巣はっけーん。",
+        "EN": "Olha só, achei um\nformigueiro.",
+        "FR": "Oh, une \nfourmilière.",
+        "DE": "Oh, ich hab ein \nAmeisennest \ngefunden.",
+        "ES": "Oh, he encontrado \nun hormiguero.",
+        "IT": "Oh, ho trovato un \nnido di formiche."
+      }
+    },
+    {
+      "id": 106,
+      "base_chunk": 689,
+      "type": "group_6",
+      "texts": {
+        "JA": "ちぇっ。\nハズレだわ。\nなーんにも、いないなんて。",
+        "EN": "Droga! Não achei\nnada. Não tem nada.",
+        "FR": "Chut ! Il n'y a \nrien.",
+        "DE": "Ts! Das war eine \nNiete. Da ist \nnichts.",
+        "ES": "¡Vaya! No he \nconseguido nada. \nNo hay nada.",
+        "IT": "Oh! Ho preso un \nabbaglio. Non c'è \nniente."
+      }
+    },
+    {
+      "id": 107,
+      "base_chunk": 695,
+      "type": "group_6",
+      "texts": {
+        "JA": "あら。\nこんなところに\nボタンが落ちてる。",
+        "EN": "Olha, tem um botão\nno chão.",
+        "FR": "Tiens, il y a un \nbouton par terre.",
+        "DE": "Sieh nur, da liegt \nein Knopf auf dem \nBoden.",
+        "ES": "Mira, hay un \nbotón en el suelo.",
+        "IT": "Guarda, c'è un \nbottone qui per \nterra."
+      }
+    },
+    {
+      "id": 108,
+      "base_chunk": 701,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、卵だ！\nあたし知ってる。\nこれテントウムシの卵よね。",
+        "EN": "Ah! Um ovinho! Eu\nconheço isso! É um\novinho de joaninha.",
+        "FR": "Ah ! Un œuf ! Je \nsuis sûre que \nc'est un œuf de \ncoccinelle !",
+        "DE": "Ah! Ein Ei! Das \nkenne ich! Das ist \nein \nMarienkäfer-Ei.",
+        "ES": "¡Ah! ¡Un huevo! \n¡Sé lo que es! \nEs un huevo de \nmariquita.",
+        "IT": "Ah! Un uovo! Lo \nriconosco! È un \nuovo di coccinella."
+      }
+    },
+    {
+      "id": 109,
+      "base_chunk": 707,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわ、すごいニオイ……。\nなんだろ、この虫。",
+        "EN": "Eca! Que cheiro\nhorrível. Que bicho\né esse?",
+        "FR": "Ahhh, ça sent \nmauvais ! C'est \nquoi cet insecte ?!",
+        "DE": "Argh! Es stinkt \nfürchterlich. Was \nist das für ein \nKäfer?",
+        "ES": "¡Argh! Huele \nhorrible. ¿Qué \nes este bicho?",
+        "IT": "Puah! Che puzza! \nChe razza di \ninsetto è questo?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+AUDITORIA DA CAIXA DE TEXTO - Coraline DS
+Caixa: 140 px x 3 linhas | fonte 15x16
+Falas verificadas: 1604 | estouram a largura: 8 | com mais de 3 linhas (pagina): 219
+
+[144px, 4 linhas] eve_o_living01.bin #43: BESOUROS DE CHOCOLATE? Tem uma pata saindo da sua boca...
+[144px, 3 linhas] eve_o_palacel01.bin #1: Minha querida Coraline! Que bom que voltou para casa!
+[141px, 3 linhas] eve_o_palacer01.bin #3: Tem uma tenda aqui... Será que a  gente entra?
+[141px, 3 linhas] eve_o_bedroom01.bin #40: As cores vibrantes estão desbotando aos poucos.
+[141px, 2 linhas] eve_o_palacel01.bin #38: Você acha que ela pode ser... uma bruxa?
+[141px, 2 linhas] eve_o_palacel01.bin #36: Oi, Outro Pai. Para onde a Outra Mãe foi?
+[141px, 1 linhas] eve_o_palacel01.bin #16: Você pegou 12 Botões.
+[141px, 1 linhas] eve_o_palacel01.bin #14: Você pegou 10 Botões.

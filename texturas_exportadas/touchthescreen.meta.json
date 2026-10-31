@@ -1,0 +1,12 @@
+{
+  "source_ncgr": "C:\\Users\\Kassio\\Downloads\\dslazy\\NDS_UNPACK\\data\\data\\info\\touchthescreen.NCGR",
+  "target_ncgr": "C:\\Users\\Kassio\\Downloads\\dslazy\\NDS_UNPACK\\data\\data\\info\\touchthescreen.NCGR",
+  "palette_path": "C:\\Users\\Kassio\\Downloads\\dslazy\\NDS_UNPACK\\data\\data\\info\\touchthescreen.NCLR",
+  "screen_path": null,
+  "is_4bpp": true,
+  "tw": 24,
+  "th": 4,
+  "num_tiles": 96,
+  "image_width": 192,
+  "image_height": 32
+}

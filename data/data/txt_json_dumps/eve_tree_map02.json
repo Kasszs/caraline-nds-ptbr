@@ -1,0 +1,253 @@
+{
+  "file": "eve_tree_map02.bin",
+  "total_dialogues": 19,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 27,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれ？さっきと同じ\nようなところに\n来ちゃったわね。",
+        "EN": "I feel like I've \nbeen here before.",
+        "FR": "J'ai l'impression \nd'être déjà \nvenue.",
+        "DE": "Mir ist, als wär \nich schon mal hier \ngewesen.",
+        "ES": "Me siento como si \nya hubiese estado \naquí.",
+        "IT": "Mi sembra di \nessere già stata \nqui."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 33,
+      "type": "group_6",
+      "texts": {
+        "JA": "もしかして……迷った？",
+        "EN": "Where the heck am \nI?",
+        "FR": "Mais c'est quoi \ncet endroit ?",
+        "DE": "Wo zum Kuckuck bin \nich?",
+        "ES": "¿Dónde narices \nestoy?",
+        "IT": "Ma dove diavolo \nsono?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 39,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、キノコはっけーん。",
+        "EN": "Check out these \nmushrooms！",
+        "FR": "Oh regarde ces \nchampignons !",
+        "DE": "Sieh dir diese \nPilze an!",
+        "ES": "¡Mira estos \nhongos!",
+        "IT": "Guarda che funghi!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 45,
+      "type": "group_6",
+      "texts": {
+        "JA": "へへへ〜。なんか、\nすごいニオイのキノコだわ。\n宝モノにしちゃおっと。",
+        "EN": "This is cool！ I \nthink I'll keep it.",
+        "FR": "Super ! Je vais \nles garder !",
+        "DE": "Das ist cool. Ich \nglaube, das nehm \nich mit.",
+        "ES": "¡Cómo molan! \nCreo que me los \nllevo.",
+        "IT": "Fantastico. Me lo \ntengo."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 51,
+      "type": "group_6",
+      "texts": {
+        "JA": "茶色の毒キノコを\n見つけました。",
+        "EN": "You found a Black \nPoisonous Mushroom.",
+        "FR": "Tu as trouvé un \nchampignon \nvénéneux noir.",
+        "DE": "Du hast einen \nschwarzen Giftpilz \ngefunden.",
+        "ES": "Has encontrado un \nHongo Negro \nVenenoso.",
+        "IT": "Hai trovato un \nfungo nero \nvelenoso."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 57,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふふ！\nやっぱり、あなたも\nそう思うのね。",
+        "EN": "What do you think?",
+        "FR": "Qu'est-ce que tu \nen penses ?",
+        "DE": "Was meinst du?",
+        "ES": "¿Qué piensas?",
+        "IT": "Cosa ne pensi?"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 63,
+      "type": "group_6",
+      "texts": {
+        "JA": "あのカギは、井戸に\n捨ててしまえばいいって。",
+        "EN": "Do you think we \nshould throw the \nkey into the well?",
+        "FR": "Tu crois qu'on \ndevrait jeter la \nclé dans le puits \n?",
+        "DE": "Glaubst du, wir \nsollten den \nSchlüssel in den \nBrunnen werfen?",
+        "ES": "¿Crees que \ndeberíamos lanzar \nla llave al pozo?",
+        "IT": "Pensi che dovremmo \nbuttare la chiave \nnel pozzo?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 69,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nどうしたのかな？？",
+        "EN": "What happened??",
+        "FR": "Qu'est-ce qui \ns'est passé ?",
+        "DE": "Was ist passiert??",
+        "ES": "¿¿Qué ha \nsucedido??",
+        "IT": "Ma cosa è \nsuccesso??"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 75,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 81,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ。ダンゴムシだ。",
+        "EN": "Look. It's a pill \nbug.",
+        "FR": "Regarde, un \ncloporte.",
+        "DE": "Sieh nur. Es ist \nein Pillendreher.",
+        "ES": "Mira. Es una \ncochinilla.",
+        "IT": "Guarda. È un \ninsetto palla."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 87,
+      "type": "group_6",
+      "texts": {
+        "JA": "わ！\nおっきなムカデ\nみーつけた。",
+        "EN": "Wow！ I found a \nlarge centipede.",
+        "FR": "Ouah ! J'ai \ntrouvé un gros \nmille-pattes.",
+        "DE": "Wow! Ich habe \neinen großen \nTausendfüßer \ngefunden.",
+        "ES": "¡Guau! He \nencontrado un \nciempiés enorme.",
+        "IT": "Wow! Ho trovato un \ngrosso millepiedi."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 93,
+      "type": "group_6",
+      "texts": {
+        "JA": "ナメクジでベトベトだわ。\nでも、かわいい〜。",
+        "EN": "Ugh, my hands are \nsticky from the \nslug. But it's \ncute.",
+        "FR": "Ahhh, mes mains \nsont toutes \ncollantes. Mais \nj'aime bien les \nlimaces.",
+        "DE": "Öh, meine Hände \nsind von der \nNacktschnecke ganz \nklebrig. Aber sie \nist niedlich.",
+        "ES": "Puaj, tengo las \nmanos pegajosas \npor culpa de la \nbabosa. Pero es \nbonita.",
+        "IT": "Agh... Mi ha \nappiccicato tutte \nle mani con la \nbava. Ma è carino."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 99,
+      "type": "group_6",
+      "texts": {
+        "JA": "わ……なんか逃げてった。\nいまの、\nなんだったのかしら？",
+        "EN": "Hey.....Something \nran away. What was \nthat?",
+        "FR": "Hé, j'ai entendu \ncourir. C'était \nquoi ?",
+        "DE": "Hey... Da ist was \nweggelaufen. Was \nwar das?",
+        "ES": "Eh... Algo ha \nsalido corriendo. \n¿Qué es esto?",
+        "IT": "Ehi... Qualcuno \nstava scappando \nvia. Che cos'era?"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 105,
+      "type": "group_6",
+      "texts": {
+        "JA": "んふふ。\nダンゴムシが\nいっぱーい。\nころころころ\nころころころ……。",
+        "EN": "Aha. Tons of pill \nbugs. Rollin', \nrollin', rollin', \nrollin'.....",
+        "FR": "Ahh... Il y a des \ncloportes partout. \nÇa grouille \ngrouille \ngrouille...",
+        "DE": "Aha. Unmengen an \nPillendrehern... \nRollen, rollen, \nrollen, rollen...",
+        "ES": "Ajá Montones de \ncochinillas. \nRodando, rodando, \nrodando, rodando...",
+        "IT": "Aha. Milioni di \ninsetti palla. \nRotolano, \nrotolano, \nrotolano, \nrotolano......"
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 111,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、アリの\n巣はっけーん。",
+        "EN": "Oh, I found an ant \nnest.",
+        "FR": "Oh, une \nfourmilière.",
+        "DE": "Oh, ich hab ein \nAmeisennest \ngefunden.",
+        "ES": "Oh, he encontrado \nun hormiguero.",
+        "IT": "Oh, ho trovato un \nnido di formiche."
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 117,
+      "type": "group_6",
+      "texts": {
+        "JA": "ちぇっ。\nハズレだわ。\nなーんにも、いないなんて。",
+        "EN": "Tut！ I drew a \nblank. There's \nnothing.",
+        "FR": "Chut ! Il n'y a \nrien.",
+        "DE": "Ts! Das war eine \nNiete. Da ist \nnichts.",
+        "ES": "¡Vaya! No he \nconseguido nada. \nNo hay nada.",
+        "IT": "Oh! Ho preso un \nabbaglio. Non c'è \nniente."
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 123,
+      "type": "group_6",
+      "texts": {
+        "JA": "あら。\nこんなところに\nボタンが落ちてる。",
+        "EN": "Look, there's a \nbutton on the \nfloor.",
+        "FR": "Tiens, il y a un \nbouton par terre.",
+        "DE": "Sieh nur, da liegt \nein Knopf auf dem \nBoden.",
+        "ES": "Mira, hay un \nbotón en el suelo.",
+        "IT": "Guarda, c'è un \nbottone qui per \nterra."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 129,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、卵だ！\nあたし知ってる。\nこれテントウムシの卵よね。",
+        "EN": "Ah！ An egg！ I \nknow this！ This \nis a ladybug egg.",
+        "FR": "Ah ! Un œuf ! Je \nsuis sûre que \nc'est un œuf de \ncoccinelle !",
+        "DE": "Ah! Ein Ei! Das \nkenne ich! Das ist \nein \nMarienkäfer-Ei.",
+        "ES": "¡Ah! ¡Un huevo! \n¡Sé lo que es! \nEs un huevo de \nmariquita.",
+        "IT": "Ah! Un uovo! Lo \nriconosco! È un \nuovo di coccinella."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 135,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわ、すごいニオイ……。\nなんだろ、この虫。",
+        "EN": "Argh！ It smells \nawful. What is \nthis bug?",
+        "FR": "Ahhh, ça sent \nmauvais ! C'est \nquoi cet insecte ?!",
+        "DE": "Argh! Es stinkt \nfürchterlich. Was \nist das für ein \nKäfer?",
+        "ES": "¡Argh! Huele \nhorrible. ¿Qué \nes este bicho?",
+        "IT": "Puah! Che puzza! \nChe razza di \ninsetto è questo?"
+      }
+    }
+  ]
+}

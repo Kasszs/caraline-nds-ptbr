@@ -1,0 +1,760 @@
+{
+  "file": "eve_o_closet01.bin",
+  "total_dialogues": 58,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 49,
+      "type": "group_6",
+      "texts": {
+        "JA": "あら。\nここは物置きになってるのね。",
+        "EN": "Oh, there's a \ncloset here.",
+        "FR": "Tiens, un placard.",
+        "DE": "Oh, hier ist ja \nein Schrank.",
+        "ES": "Oh, aquí hay un \narmario.",
+        "IT": "Oh, c'è un \narmadio qui."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 55,
+      "type": "group_6",
+      "texts": {
+        "JA": "ノゥ！ノゥ！ノゥ！\nここはマイホーム！\n失礼なことを言わないように。",
+        "EN": "This is my home！ \nDon't insult me \nlike that！",
+        "FR": "C'est chez moi \nici ! Un peu de \nrespect s'il te \nplaît !",
+        "DE": "Das ist mein \nZuhause! Beleidige \nmich nicht so!",
+        "ES": "¡Ésta es mi \ncasa! ¡No me \ninsultes de esa \nforma!",
+        "IT": "Questa è casa \nmia! Non mi \ninsultare in \nquesto modo!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 61,
+      "type": "group_6",
+      "texts": {
+        "JA": "しゃ、しゃべった！？\nあ、あなた……\nおもちゃよね？　オウムの。",
+        "EN": "You can talk！ \nBut...you're a toy \nparrot.",
+        "FR": "Un perroquet en \npeluche qui... \nparle ?!",
+        "DE": "Du kannst \nsprechen! Aber... \ndu bist ein \nSpielzeugpapagei.",
+        "ES": "¡Puedes hablar! \nPero... eres un \nloro de peluche.",
+        "IT": "Ma tu parli?! \nMa... sei un \npappagallo di \npeluche!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 67,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！おもちゃが\nしゃべっちゃオカシイかい？",
+        "EN": "Hey, what does \nthat mean?！?",
+        "FR": "Et où est le \nproblème ?",
+        "DE": "Hey, was soll das \nheißen?!?",
+        "ES": "¿¡¿Eh, qué \nquieres decir con \neso?!?",
+        "IT": "Ma cosa stai \ndicendo?!?"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 73,
+      "type": "group_6",
+      "texts": {
+        "JA": "ううん。\nおもちゃだって、\nしゃべった方がとてもステキ！",
+        "EN": "Oh...nothing. \nNothing at all.",
+        "FR": "Euh... non, il n'y \na pas de problème.",
+        "DE": "Ach... nichts. Gar \nnichts.",
+        "ES": "Oh... nada. Nada \nen absoluto.",
+        "IT": "Oh... niente. \nNiente."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 79,
+      "type": "group_6",
+      "texts": {
+        "JA": "だろう？\nさすがに、わかってる\nじゃないか。ハッハハー！",
+        "EN": "Mmm hmm.",
+        "FR": "Mmm hmm.",
+        "DE": "Mmm hmm.",
+        "ES": "Mmm hmm.",
+        "IT": "Hmm Hmm."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 85,
+      "type": "group_6",
+      "texts": {
+        "JA": "それで？\nユーは、こんなところで\n何してるんだい？",
+        "EN": "What are you doing \nhere?",
+        "FR": "Qu'est-ce que tu \nfais ici ?",
+        "DE": "Was machst du hier?",
+        "ES": "¿Qué estás \nhaciendo aquí?",
+        "IT": "Cosa ci fai qui?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 91,
+      "type": "group_6",
+      "texts": {
+        "JA": "はやく、あんたの本当の\nママに会うこった。彼女、\n首をながーくして\n待ってるぜ。",
+        "EN": "Your better Mom \nhas been waiting \nfor you for a long \ntime; you should \nmeet her.",
+        "FR": "Ta super maman \nt’attend depuis \nlongtemps. Tu \ndevrais aller la \nvoir.",
+        "DE": "Deine bessere Mama \nwartet schon lange \nauf dich; du \nsolltest sie \nkennenlernen.",
+        "ES": "Tu mejor mamá \nlleva esperándote \nmucho tiempo; \ntendrías que ir a \nverla.",
+        "IT": "La tua mamma \nmigliore ti ha \naspettato a lungo, \ndovresti andare a \nconoscerla."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 97,
+      "type": "group_6",
+      "texts": {
+        "JA": "本当のママ？",
+        "EN": "Better Mom?",
+        "FR": "Ma super maman ?",
+        "DE": "Bessere Mama?",
+        "ES": "¿Mejor mamá?",
+        "IT": "Mamma migliore?"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 103,
+      "type": "group_6",
+      "texts": {
+        "JA": "おっと。\nどうもオウムってのは、\nしゃべりすぎなのがタマに\nキズってやつ。\nさあ、とっとと行きなYo！",
+        "EN": "That's right！",
+        "FR": "Oui !",
+        "DE": "Genau!",
+        "ES": "¡Eso es!",
+        "IT": "Esatto!"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 109,
+      "type": "group_6",
+      "texts": {
+        "JA": "はやく、あんたの本当の\nママに会うこった。\n彼女、首をながーくして\n待ってるぜ。",
+        "EN": "Your better Mom \nhas been waiting \nfor you for a long \ntime; you should \nmeet her.",
+        "FR": "Ta super maman \nt’attend depuis \nlongtemps. Tu \ndevrais aller la \nvoir.",
+        "DE": "Deine bessere Mama \nwartet schon lange \nauf dich; du \nsolltest sie \nkennenlernen.",
+        "ES": "Tu mejor mamá \nlleva esperándote \nmucho tiempo; \ntendrías que ir a \nverla.",
+        "IT": "La tua mamma \nmigliore ti ha \naspettato a lungo, \ndovresti andare a \nconoscerla."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 115,
+      "type": "group_6",
+      "texts": {
+        "JA": "ストライプセーター\nを見つけました。",
+        "EN": "You found a \nStriped Sweater.",
+        "FR": "Tu as trouvé un \nsweat rayé.",
+        "DE": "Du hast einen \ngestreiften \nPullover gefunden.",
+        "ES": "Has encontrado un \nSuéter a rayas.",
+        "IT": "Hai trovato un \nMaglione a righe."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 121,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！　それはミーからの\nプレゼントさ！\nお近づきのシルシってやつ。\nハッハハハー！",
+        "EN": "Hey！ That \npresent's from \nME！ A token of my \nfriendship, if you \nwill.",
+        "FR": "Hé ! Ce cadeau, \nlà, c'est de ma \npart ! Je veux \nqu'on soit amis !",
+        "DE": "Hey! Das ist ein \nGeschenk von MIR! \nAls Zeichen meiner \nFreundschaft, wenn \ndu willst.",
+        "ES": "¡Eh! ¡Ese regalo \nes MÍO! Una \nprueba de mi \namistad, si lo \nprefieres.",
+        "IT": "Ehi! Quel regalo \nl'ho fatto IO! In \nsegno di amicizia."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 127,
+      "type": "group_6",
+      "texts": {
+        "JA": "それで？\nユーは、こんなところで\n何してるんだい？",
+        "EN": "What are you doing \nhere?",
+        "FR": "Qu'est-ce que tu \nfais ici ?",
+        "DE": "Was machst du hier?",
+        "ES": "¿Qué estás \nhaciendo aquí?",
+        "IT": "Cosa ci fai qui?"
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 133,
+      "type": "group_6",
+      "texts": {
+        "JA": "早くパパを呼びに\nいかなきゃならないん\nじゃないのかい？\nそうすりゃ、家族団らんの\n始まりさ。\nハッピーハッピー！",
+        "EN": "You need to find \nyour father for \ndinner, right?",
+        "FR": "Le dîner est \nprêt et tu \ncherches ton \npère, c'est ça ?",
+        "DE": "Du musst deinen \nVater zum Essen \nholen, stimmt's?",
+        "ES": "Tienes que \nencontrar a tu \npadre para cenar, \n¿no?",
+        "IT": "Devi andare a \nchiamare tuo padre \nper la cena, vero?"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 139,
+      "type": "group_6",
+      "texts": {
+        "JA": "それで？\nユーは、こんなところで\n何してるんだい？\nよい子はオネムの時間だぜ！\nオウムもオネムの時間だぜ！\nハッハハハー！！",
+        "EN": "And then? What are \nyou doing here? \nIt's time for good \ngirls to sleep. Ha \nha ha！",
+        "FR": "Dis donc... \nQu'est-ce que tu \nfais là ? Tu \ndevrais dormir à \ncette heure-ci. Ha \nha ha !",
+        "DE": "Und dann? Was \nmachst du hier? Es \nwird Zeit, dass \nbrave Mädchen \nschlafen. Ha ha ha!",
+        "ES": "¿Y entonces? \n¿Qué estás \nhaciendo aquí? Es \nla hora de que las \nniñas buenas se \nvayan a dormir. \n¡Ja ja ja!",
+        "IT": "E allora? Cosa \nstai facendo qui? \nÈ ora che le \nbrave bambine \nvadano a letto. Ha \nha ha!!!"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 145,
+      "type": "group_6",
+      "texts": {
+        "JA": "パジャマ\nを見つけました。",
+        "EN": "You found a Pair \nof Pajamas.",
+        "FR": "Tu as trouvé un \npyjama.",
+        "DE": "Du hast einen \nPyjama gefunden.",
+        "ES": "Has encontrado un \nPar de Pijamas.",
+        "IT": "Hai trovato un \npigiama."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 151,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！　それはミーからの\nプレゼントさ！\nよーく眠れるようにってな。\nハッハハハー！",
+        "EN": "Hey！ That's the \npresent from ME so \nthat you can sleep \nwell！ Ha ha ha！",
+        "FR": "Hé ! C'est MOI \nqui te l'ai offert \npour que tu fasses \nde beaux rêves ! \nHa ha ha !",
+        "DE": "Hey! Das ist das \nGeschenk von MIR, \ndamit du gut \nschlafen kannst! \nHa ha ha!",
+        "ES": "¡Eh! ¡Este es MI \nregalo para que \npuedas dormir \nbien! ¡Ja ja ja!",
+        "IT": "Ehi! Questo è un \nregalo da parte \nMIA per farti \ndormire meglio! Ha \nha ha!"
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 157,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！\nコララインが帰ってきた！",
+        "EN": "Hey！ Coraline's \nback！",
+        "FR": "Hé ! Coraline est \nde retour !",
+        "DE": "Hey! Coraline ist \nwieder da!",
+        "ES": "¡Eh! ¡Coraline \nha vuelto!",
+        "IT": "Ehi! Coraline è \ntornata!"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 163,
+      "type": "group_6",
+      "texts": {
+        "JA": "ユーがいれば、\nみんなみんな\nベリーハッピーだぜ。\nハッピーハッピー！",
+        "EN": "Everyone's so \nhappy when you \ncome around！",
+        "FR": "On est tellement \ncontent quand tu \nreviens !",
+        "DE": "Alle freuen sich \nso, wenn du mal \nkommst!",
+        "ES": "¡Todos se ponen \nmuy contentos \ncuando vienes!",
+        "IT": "Siamo tutti così \ncontenti quando \nvieni qui!"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 169,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！\nコラライン！　\nとうとうこっちの世界に\nくることにしたんだって？",
+        "EN": "Hey, Coraline！ I \nheard you've \ndecided to stay \nhere...finally.",
+        "FR": "Hé Coraline ! On \nm'a dit que tu \navais enfin \ndécidé de rester \nici...",
+        "DE": "Hey, Coraline! Ich \nhab gehört, du \nhast dich \nentschieden, \nhierzubleiben... \nendlich.",
+        "ES": "¡Eh, Coraline! He \noído que has \ndecidido quedarte \naquí...por fin.",
+        "IT": "Ehi Coraline! Ho \nsentito dire che \nhai deciso di \nrimanere qui... \nalla fine."
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 175,
+      "type": "group_6",
+      "texts": {
+        "JA": "そりゃハッピーハッピー！\nボタンでハッピーさ！",
+        "EN": "Then everyone will \nbe HAPPY HAPPY \nHAPPY with \nbuttons！",
+        "FR": "Comme ça tout le \nmonde sera CONTENT \nCONTENT CONTENT !",
+        "DE": "Dann sind alle \nGLÜCKLICH, \nGLÜCKLICH! \nGLÜCKLICH mit \nKnöpfen!",
+        "ES": "¡Entonces todos \nserán FELICES \nFELICES! ¡FELICES \ncon los botones!",
+        "IT": "Così tutti \nsaranno FELICI \nFELICI!! FELICI \ncon i bottoni!"
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 181,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！\nコラライン！　\nはやくボタンの目を\nつけなけりゃ！",
+        "EN": "Coraline！  You \nhave to get your \nbutton eyes now！",
+        "FR": "Coraline ! Va te \nfaire coudre tes \nboutons !",
+        "DE": "Coraline!  Du \nmusst jetzt deine \nKnopfaugen kriegen!",
+        "ES": "¡Coraline!  \n¡Tienes que \nponerte tus ojos \nde botones!",
+        "IT": "Coraline! Accetta \ni bottoni sugli \nocchi, subito!"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 187,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうすりゃ、みんなで\nハッピーハッピー！\nボタンでハッピーさ！",
+        "EN": "Then everyone will \nbe HAPPY HAPPY \nHAPPY with \nbuttons！",
+        "FR": "Et tout le monde \nvivra HEUREUX \nHEUREUX HEUREUX \navec des boutons !",
+        "DE": "Dann werden alle \nGLÜCKLICH \nGLÜCKLICH! \nGLÜCKLICH mit \nKnöpfen!",
+        "ES": "¡Entonces todos \nserán FELICES \nFELICES! ¡FELICES \ncon los botones!",
+        "IT": "Così tutti \nsaranno FELICI \nFELICI! FELICI con \ni bottoni!"
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 193,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！コラライン！\nハッピーになりたいかい？",
+        "EN": "Coraline - don't \nyou want to be \nhappy?",
+        "FR": "Coraline, ne \nveux-tu pas être \nheureuse ?",
+        "DE": "Coraline - willst \ndu denn nicht \nglücklich sein?",
+        "ES": "Coraline ¿quieres \nser feliz?",
+        "IT": "Coraline... non \nvuoi essere felice?"
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 199,
+      "type": "group_6",
+      "texts": {
+        "JA": "あんたをハッピーにして\nやるために、オイラも\nいろいろシアンチュウさ！\nおたのしみにな！",
+        "EN": "I'm trying to find \na way to make you \nhappy forever！",
+        "FR": "Je voudrais que tu \nsois heureuse pour \ntoujours !",
+        "DE": "Ich versuche, \neinen Weg zu \nfinden, dich für \nimmer glücklich \nzu machen!",
+        "ES": "¡Estoy buscando \nuna forma de \nhacerte feliz para \nsiempre!",
+        "IT": "Sto cercando un \nmodo per renderti \nfelice per sempre!"
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 205,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！コラライン！\nハッピーになりたいかい？",
+        "EN": "Coraline - don't \nyou want to be \nhappy?",
+        "FR": "Coraline, ne \nveux-tu pas être \nheureuse ?",
+        "DE": "Coraline - willst \ndu denn nicht \nglücklich sein?",
+        "ES": "Coraline ¿quieres \nser feliz?",
+        "IT": "Coraline... non \nvuoi essere felice?"
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 211,
+      "type": "group_6",
+      "texts": {
+        "JA": "あんたをハッピーにして\nやるために、オイラも\nいろいろシアンチュウさ！　\nおたのしみにな！",
+        "EN": "I'm trying to find \na way to make you \nhappy forever！",
+        "FR": "Je voudrais que tu \nsois heureuse pour \ntoujours !",
+        "DE": "Ich versuche, \neinen Weg zu \nfinden, dich für \nimmer glücklich \nzu machen!",
+        "ES": "¡Estoy buscando \nuna forma de \nhacerte feliz para \nsiempre!",
+        "IT": "Sto cercando un \nmodo per renderti \nfelice per sempre!"
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 217,
+      "type": "group_6",
+      "texts": {
+        "JA": "さがしものかい？\nボタン１０まいで\n１回チャンスをやろうか、\nハッピー？",
+        "EN": "Are you looking \nfor something?  I \ncan give you one \nchance in exchange \nfor 10 buttons.",
+        "FR": "Tu cherches \nquelque chose ? Je \npeux te donner une \nchance contre 10 \nboutons.",
+        "DE": "Suchst du etwas?  \nIch gebe dir eine \nChance im Tausch \nfür 10 Knöpfe.",
+        "ES": "¿Estás buscando \nalgo?  Te puedo \ndar una \noportunidad a \ncambio de 10 \nbotones.",
+        "IT": "Cerchi qualcosa? \nTi posso dare una \npossibilità in \ncambio di 10 \nbottoni."
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 223,
+      "type": "group_6",
+      "texts": {
+        "JA": "あいよ！\nハッピー、マイドアリー。",
+        "EN": "You bet. HAPPY！ \nThank you！",
+        "FR": "Oui ! Ça va \nm'aider, merci !",
+        "DE": "Da kannst du drauf \nwetten. \nGLÜCKLICH! Danke!",
+        "ES": "Apuestas. ¡FELIZ! \n¡Gracias!",
+        "IT": "Puoi scommetterci. \nFELICE! Grazie!"
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 229,
+      "type": "group_6",
+      "texts": {
+        "JA": "オウ！なんということ。\nボタン１０枚も\nないなんて。",
+        "EN": "Oh my Gosh！ You \ndon't even have 10 \nbuttons.",
+        "FR": "Mince alors ! Tu \nne les as pas les \n10 boutons.",
+        "DE": "Ach du liebe Zeit! \nDu hast nicht mal \n10 Knöpfe.",
+        "ES": "¡Oh, caramba! Ni \nsiquiera tienes 10 \nbotones.",
+        "IT": "Oddio! Non hai \nnemmeno 10 bottoni."
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 235,
+      "type": "group_6",
+      "texts": {
+        "JA": "しかたないなぁ。\nそれでもハッピーに\nさせてやるよ。\nハッピーハッピー！",
+        "EN": "Okay. Still I can \nmake you HAPPY！ \nHAPPY HAPPY！",
+        "FR": "Bon. Je peux quand \nmême te faire \nplaisir. PLAISIR ! \nPLAISIR !",
+        "DE": "Okay. Trotzdem \nkann ich dich \nGLÜCKLICH machen! \nGLÜCKLICH \nGLÜCKLICH!",
+        "ES": "Vale. ¡Aún puedo \nhacerte FELIZ! \n¡FELIZ FELIZ!",
+        "IT": "Ok. Potrei \ncomunque renderti \nFELICE! FELICE \nFELICE!"
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 241,
+      "type": "group_6",
+      "texts": {
+        "JA": "さーて、それじゃ\n選んでみな。\nおさがしのものが\n見つかるといいね。\nそうすりゃ、\nハッピー！ハッピーさ！",
+        "EN": "Hey, please pick \none of these. I \nhope you can find \nwhat you are \nlooking for. Then \nHAPPY HAPPY！",
+        "FR": "Allez, fais ton \nchoix. J'espère \nque tu vas y \ntrouver ton \nbonheur. BONHEUR ! \nBONHEUR !",
+        "DE": "Hey, bitte nimm \neins davon. Ich \nhoffe, du findest, \nwas du suchst. \nDann GLÜCKLICH \nGLÜCKLICH!",
+        "ES": "Eh, elige uno de \nestos. Espero que \nencuentres lo que \nestás buscando. \n¡Y luego, FELIZ \nFELIZ!",
+        "IT": "Ehi, prendi uno di \nquesti. Spero che \npossa trovare \nquello che cerchi. \nE allora FELICE \nFELICE!"
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 247,
+      "type": "group_6",
+      "texts": {
+        "JA": "オーウ……。\nそりゃまた、\nアンハッピー！",
+        "EN": "Ohh..... \nThat's...UNHAPPY！",
+        "FR": "Ohh... Pas de \nchance...",
+        "DE": "Ohh... Das ist... \nUNGLÜCKLICH!",
+        "ES": "Ohh... ¡Eso \nes...INFELIZ!",
+        "IT": "Ooh... Ma è... \nTRISTE!"
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 253,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！コラライン！\nハッピーかい？",
+        "EN": "Hey, Coraline！ \nAre you HAPPY?",
+        "FR": "Hé Coraline ! Tu \nes HEUREUSE ?",
+        "DE": "Hey, Coraline! \nBist du GLÜCKLICH?",
+        "ES": "¡Eh, Coraline! \n¿Eres FELIZ?",
+        "IT": "Ehi Coraline! Sei \nFELICE?"
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 259,
+      "type": "group_6",
+      "texts": {
+        "JA": "ええ！\nあなたのおかげで、\nハッピーになれそうよ。",
+        "EN": "I'll be HAPPY if \nyou stop talking.",
+        "FR": "Fais-moi PLAISIR \net tais-toi !",
+        "DE": "Ich wäre \nGLÜCKLICH, wenn \ndu aufhörst zu \nreden.",
+        "ES": "Estaría FELIZ si \ndejases de hablar.",
+        "IT": "Io sarò FELICE se \nsmetti di parlare."
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 265,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！\nそいつは『蝶の箱』さ！\n開けてみるかい？",
+        "EN": "Hey！ That's \"\nButterfly Box\"！ \nDo you want to \nopen it?",
+        "FR": "Hé ! C'est la \nboîte à \npapillons ! Tu \nveux l'ouvrir ?",
+        "DE": "Hey! Das ist die \nSchmetterlingsbox! \nWillst du sie \naufmachen?",
+        "ES": "¡Eh! ¡Eso es \nuna \"Caja de \nMariposa\"! \n¿Quieres abrirla?",
+        "IT": "Ehi! Questa è la \nScatola delle \nfarfalle! Vuoi \naprirla?"
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 271,
+      "type": "group_6",
+      "texts": {
+        "JA": "ザンネン！\nはずれさー。",
+        "EN": "Too bad！ That's a \nlosing guess----！",
+        "FR": "Dommage ! Mauvaise \npioche...",
+        "DE": "Wie schade! Das \nwar falsch \ngeraten...!",
+        "ES": "¡Mala suerte! \n¡Creo que has \nperdido----!",
+        "IT": "Ahi, molto male! \nHai sbagliato...!"
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 277,
+      "type": "group_6",
+      "texts": {
+        "JA": "それじゃ、またねー。",
+        "EN": "See you again--！",
+        "FR": "À une prochaine !",
+        "DE": "Bis später...!",
+        "ES": "¡Nos vemos--!",
+        "IT": "Ci vediamo...!"
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 283,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、なによぉ。\nまったくもう！！",
+        "EN": "Shoot！ That \nfigures.",
+        "FR": "Zut alors !",
+        "DE": "Mist! Konnte ich \nmir denken.",
+        "ES": "¡Mecachis! No me \nextraña.",
+        "IT": "Spara! Le cose \nquadrano."
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 289,
+      "type": "group_6",
+      "texts": {
+        "JA": "オーケイ！\nんじゃ、どうするんだい？",
+        "EN": "Okay！ Then, what \ndo you want to do?",
+        "FR": "Bon, allez ! \nQu'est-ce que tu \nveux faire \nmaintenant ?",
+        "DE": "Okay! Also, was \nwillst du dann tun?",
+        "ES": "¡De acuerdo! \nEntonces, ¿qué \nquieres hacer?",
+        "IT": "Ok! Allora, cosa \nvuoi fare?"
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 295,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！そいつは\n『ボタンの箱』さ！\n開けてみるかい？",
+        "EN": "Hey！ That's \"\nButton Box\"！ Do \nyou want to open \nit?",
+        "FR": "Hé ! C'est la \nboîte à \nboutons ! Tu veux \nl'ouvrir ?",
+        "DE": "Hey! Das ist die \nKnopfbox! Willst \ndu sie aufmachen?",
+        "ES": "¡Eh! ¡Eso es \nuna \"Caja de \nbotones\"! \n¿Quieres abrirla?",
+        "IT": "Ehi! Questa è la \nScatola dei \nbottoni! Vuoi \naprirla?"
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 301,
+      "type": "group_6",
+      "texts": {
+        "JA": "ザンネン！\nはずれさー。",
+        "EN": "Too bad！ That's a \nlosing guess----！",
+        "FR": "Dommage ! Mauvaise \npioche...",
+        "DE": "Wie schade! Das \nwar falsch \ngeraten...!",
+        "ES": "¡Mala suerte! \n¡Creo que has \nperdido----!",
+        "IT": "Ahi, molto male! \nHai sbagliato...!"
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 307,
+      "type": "group_6",
+      "texts": {
+        "JA": "それじゃ、\nまたねー。",
+        "EN": "See you again--！",
+        "FR": "À une prochaine !",
+        "DE": "Bis später...!",
+        "ES": "¡Nos vemos--!",
+        "IT": "Ci vediamo...!"
+      }
+    },
+    {
+      "id": 44,
+      "base_chunk": 313,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、なによぉ。\nまったくもう！！",
+        "EN": "Shoot！ That \nfigures.",
+        "FR": "Zut alors !",
+        "DE": "Mist! Konnte ich \nmir denken.",
+        "ES": "¡Mecachis! No me \nextraña.",
+        "IT": "Spara! Le cose \nquadrano."
+      }
+    },
+    {
+      "id": 45,
+      "base_chunk": 319,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！\nそいつは『熊の箱』さ！\n開けてみるかい？",
+        "EN": "Hey！ That's \"Bear \nBox\"！ Do you want \nto open it?",
+        "FR": "Hé ! C'est la \nboîte à ours ! \nTu veux l'ouvrir ?",
+        "DE": "Hey! Das ist die \nBärbox! Willst du \nsie aufmachen?",
+        "ES": "¡Eh! ¡Eso es \nuna \"Caja de oso\"! \n¿Quieres abrirla?",
+        "IT": "Ehi! Questa è la \nScatola dell'orso! \nVuoi aprirla?"
+      }
+    },
+    {
+      "id": 46,
+      "base_chunk": 325,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ、ハッピー！\nゴメイトウ、\nア・タ・リだっ！！",
+        "EN": "Hey, HAPPY！ \nThat's the right \none！ Jackpot！",
+        "FR": "Quel PLAISIR ! Tu \nas gagné le gros \nlot !",
+        "DE": "Hey, GLÜCKLICH! \nDas ist die \nrichtige! Der \nJackpot!",
+        "ES": "¡Eh, FELIZ! \n¡Ésa es la \ncorrecta! ¡Premio!",
+        "IT": "Ehi, FELICE! \nQuesta è quella \ngiusta! Il monte \npremi!"
+      }
+    },
+    {
+      "id": 47,
+      "base_chunk": 331,
+      "type": "group_6",
+      "texts": {
+        "JA": "へ？\nあたり？ただの\nスノーグローブじゃ……",
+        "EN": "Huh? Is this a \njackpot? Looks \nlike just a \nsnowglobe......",
+        "FR": "Hein ? C'est ça \nle gros lot ? \nC'est juste une \nboule à neige...",
+        "DE": "Hä? Das ist ein \nJackpot? Sieht aus \nwie eine \nSchneekugel......",
+        "ES": "¿Eh? ¿Esto es un \npremio? Parece \nsólo una bola de \nnieve...",
+        "IT": "Eh? Questo è il \nmonte premi? \nSembra una \nsemplice sfera di \nneve......"
+      }
+    },
+    {
+      "id": 48,
+      "base_chunk": 337,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ！？\nママ！！",
+        "EN": "Dad！ Mom！",
+        "FR": "Papa ! Maman !",
+        "DE": "Papa! Mama!",
+        "ES": "¡Papá! ¡Mamá!",
+        "IT": "Papà! Mamma!"
+      }
+    },
+    {
+      "id": 49,
+      "base_chunk": 343,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうさ！そいつが、\nあんたのハッピーさ！\nそうだろ？",
+        "EN": "Yes！ That makes \nyou HAPPY！ Right?",
+        "FR": "Oui ! Ça te fait \nPLAISIR, non ?",
+        "DE": "Ja! Das macht dich \nGLÜCKLICH! \nStimmt's?",
+        "ES": "¡Sí! ¡Eso te \nhace FELIZ! \n¿Verdad?",
+        "IT": "Sì! Questo ti \nrende FELICE! Non \nè così?"
+      }
+    },
+    {
+      "id": 50,
+      "base_chunk": 349,
+      "type": "group_6",
+      "texts": {
+        "JA": "それじゃ、またねー。",
+        "EN": "See you again--！",
+        "FR": "À une prochaine !",
+        "DE": "Bis später...!",
+        "ES": "¡Nos vemos--!",
+        "IT": "Ci vediamo...!"
+      }
+    },
+    {
+      "id": 51,
+      "base_chunk": 355,
+      "type": "group_6",
+      "texts": {
+        "JA": "スノーグローブ\nを見つけました。",
+        "EN": "You found a \nSnowglobe.",
+        "FR": "Tu as trouvé une \nboule à neige.",
+        "DE": "Du hast eine \nSchneekugel \ngefunden.",
+        "ES": "Has encontrado una \nBola de Nieve.",
+        "IT": "Hai trovato una \nsfera di neve."
+      }
+    },
+    {
+      "id": 52,
+      "base_chunk": 361,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん……これが、\nあたしのハッピーよ。\nありがとう！",
+        "EN": "Yeah！....This \nmakes me HAPPY！ \nThank you！",
+        "FR": "Oui ! Ça me fait \nPLAISIR ! Merci !",
+        "DE": "Ja!... Das macht \nmich GLÜCKLICH! \nDanke!",
+        "ES": "¡Sí!....¡Eso me \nhace FELIZ! \n¡Gracias!",
+        "IT": "Sì! ... Questo mi \nrende FELICE! \nGrazie!"
+      }
+    },
+    {
+      "id": 53,
+      "base_chunk": 367,
+      "type": "group_6",
+      "texts": {
+        "JA": "ヘイ！\nそいつは『花の箱』さ！\n開けてみるかい？",
+        "EN": "Hey！ That's \"\nFlower Box\"！ Do \nyou want to open \nit?",
+        "FR": "Hé ! C'est la \nboîte à fleurs ! \nTu veux l'ouvrir ?",
+        "DE": "Hey! Das ist die \nBlumenbox! Willst \ndu sie aufmachen?",
+        "ES": "¡Eh! ¡Eso es \nuna \"Caja de \nflores\"! ¿Quieres \nabrirla?",
+        "IT": "Ehi! Questa è la \nScatola dei fiori! \nVuoi aprirla?"
+      }
+    },
+    {
+      "id": 54,
+      "base_chunk": 373,
+      "type": "group_6",
+      "texts": {
+        "JA": "ザンネン！\nはずれさー。",
+        "EN": "Too bad！ That's a \nlosing guess----！",
+        "FR": "Dommage ! Mauvaise \npioche...",
+        "DE": "Wie schade! Das \nwar falsch \ngeraten...!",
+        "ES": "¡Mala suerte! \n¡Creo que has \nperdido----!",
+        "IT": "Ahi, molto male! \nHai sbagliato...!"
+      }
+    },
+    {
+      "id": 55,
+      "base_chunk": 379,
+      "type": "group_6",
+      "texts": {
+        "JA": "それじゃ、またねー。",
+        "EN": "See you again--！",
+        "FR": "À une prochaine !",
+        "DE": "Bis später...!",
+        "ES": "¡Nos vemos--!",
+        "IT": "Ci vediamo...!"
+      }
+    },
+    {
+      "id": 56,
+      "base_chunk": 385,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、なによぉ。\nまったくもう！！",
+        "EN": "Shoot！ That \nfigures.",
+        "FR": "Zut alors !",
+        "DE": "Mist! Konnte ich \nmir denken.",
+        "ES": "¡Mecachis! No me \nextraña.",
+        "IT": "Spara! Le cose \nquadrano."
+      }
+    },
+    {
+      "id": 57,
+      "base_chunk": 391,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

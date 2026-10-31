@@ -1,0 +1,279 @@
+{
+  "file": "eve_tunnel01.bin",
+  "total_dialogues": 21,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 12,
+      "type": "group_6",
+      "texts": {
+        "JA": "あなた……\nあなたって、本当にシ、\nシ、シンジュクキバツね。",
+        "EN": "I have to go back.",
+        "FR": "Je dois y \nretourner.",
+        "DE": "Ich muss zurück.",
+        "ES": "Tengo que volver.",
+        "IT": "Devo tornare \nindietro."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 18,
+      "type": "group_6",
+      "texts": {
+        "JA": "……\nシンシュツキボツだ。\nていどが知れるぞ、\nおろか者め。",
+        "EN": "You're walking \nright into her \ntrap, you know.",
+        "FR": "Tu vas droit dans \nla gueule du loup \nlà.",
+        "DE": "Du läufst ihr \ndirekt in die \nFalle, weißt du.",
+        "ES": "Sabes que vas \ndirecta a su \ntrampa.",
+        "IT": "Ti stai dirigendo \ndritta nella sua \ntrappola, sai?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 24,
+      "type": "group_6",
+      "texts": {
+        "JA": "うるさいわね。",
+        "EN": "I have to save my \nmom and dad.",
+        "FR": "Mais je dois \nsauver mes \nparents !",
+        "DE": "Ich muss meine \nEltern retten.",
+        "ES": "Tengo que salvar a \nmamá y a papá.",
+        "IT": "Devo salvare la \nmia mamma e il mio \npapà."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 30,
+      "type": "group_6",
+      "texts": {
+        "JA": "それよりも、だ。\nおまえは、両親を\nとりもどしたいの\nだろう？",
+        "EN": "Why would you risk \nyour life going \nback there?",
+        "FR": "Tu sais que tu \nrisques ta vie en \ny retournant ?!",
+        "DE": "Warum riskierst du \ndein Leben, indem \ndu zurückgehst?",
+        "ES": "¿Por qué \narriesgas tu vida \nvolviendo allí?",
+        "IT": "Perché dovresti \nrischiare la vita \ntornando laggiù?"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 36,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうよ。それに、\n３人の子供たちの目も。\nでも、どうやったら\nいいのか分からないの。",
+        "EN": "Because they're my \nparents.",
+        "FR": "Oui, mais ce sont \nmes parents.",
+        "DE": "Weil sie meine \nEltern sind.",
+        "ES": "Porque son mis \npadres.",
+        "IT": "Perché sono i \nmiei genitori."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 42,
+      "type": "group_6",
+      "texts": {
+        "JA": "分からないくせに魔女の\nもとへと戻るのか？\nやはり、おろかだな。",
+        "EN": "Well, you need a \nplan.",
+        "FR": "Alors il te faut \nun plan d'attaque.",
+        "DE": "Also, du brauchst \neinen Plan.",
+        "ES": "Bueno, necesitas \nun plan.",
+        "IT": "Ok, ma hai bisogno \ndi un piano."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 48,
+      "type": "group_6",
+      "texts": {
+        "JA": "うるさいわね！\nだったら、どうしたら\nいいか教えてよ。",
+        "EN": "So what do I do?",
+        "FR": "Alors je fais quoi \n?",
+        "DE": "Und was mache ich \njetzt?",
+        "ES": "Entonces, ¿qué \nhago?",
+        "IT": "E io cosa posso \nfare?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 54,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふむ……そうだな。\nでは、魔女に勝負を\nいどむことだな。",
+        "EN": "If you're \ninsistant on \npersuing this, \nthen you'll have \nto challenge her.",
+        "FR": "Si tu veux \nvraiment y \nretourner, tu dois \nlui lancer un \ndéfi.",
+        "DE": "Wenn du darauf \nbestehst, die \nSache zu \nverfolgen, musst \ndu sie \nherausfordern.",
+        "ES": "Si insistes en \nseguir con esto, \ntendrás que \nenfrentarte a ella.",
+        "IT": "Se insisti nel \nvoler andare \navanti, allora \ndevi sfidarla."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 60,
+      "type": "group_6",
+      "texts": {
+        "JA": "勝負？",
+        "EN": "Challenge her?",
+        "FR": "Un défi ?",
+        "DE": "Sie herausfordern?",
+        "ES": "¿Enfrentarme a \nella?",
+        "IT": "Sfidarla?"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 66,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうだ。\nあの手合いは、\nそういうのが\n大好きだからな。",
+        "EN": "To a game of some \nsort. She may not \nplay fair, but she \nwon't refuse.",
+        "FR": "Oui, à un jeu par \nexemple. Elle \ntrichera sûrement \nmais elle ne \nrefusera pas.",
+        "DE": "Zu einer Art \nSpiel. Sie mag \nzwar nicht fair \nspielen, aber sie \nwird nicht \nablehnen.",
+        "ES": "En una especia de \njuego. Ella no \njuega limpio, pero \nno se negará.",
+        "IT": "Sfidarla a qualche \ngioco. Magari non \ngioca pulito, ma \nnon si tirerà \nindietro."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 72,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふーん…………？",
+        "EN": "Are you sure?",
+        "FR": "Tu en es sûr ?",
+        "DE": "Bist du dir sicher?",
+        "ES": "¿Estás seguro?",
+        "IT": "Sei sicuro?"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 78,
+      "type": "group_6",
+      "texts": {
+        "JA": "あとは、おまえの\nウデしだいだ。\nいや、クチしだいか？",
+        "EN": "Yes...she has a \nthing for games.",
+        "FR": "Oui... elle est \ntrès joueuse.",
+        "DE": "Ja... sie spielt \nfür ihr Leben \ngern.",
+        "ES": "Sí... es una \nmaniática de los \njuegos.",
+        "IT": "Sì... ha il vizio \ndel gioco."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 84,
+      "type": "group_6",
+      "texts": {
+        "JA": "やれやれ。\nヒドイ目にあった。",
+        "EN": "You used me！",
+        "FR": "Tu t'es servie de \nmoi !",
+        "DE": "Du hast mich \nbenutzt!",
+        "ES": "¡Me has utilizado!",
+        "IT": "Mi hai usato!"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 90,
+      "type": "group_6",
+      "texts": {
+        "JA": "だから、\n先にあやまって\nおいたじゃない。",
+        "EN": "I know, I'm \nsorry.  That's why \nI apologized in \nadvance.",
+        "FR": "Je sais... et \nc'est pour ça que \nje me suis \nexcusée tout à \nl'heure.",
+        "DE": "Ich weiß, es tut \nmir leid. Deshalb \nhabe ich mich im \nVoraus \nentschuldigt.",
+        "ES": "Lo sé, lo \nsiento.  Ése es \nel motivo de que \nme disculpase.",
+        "IT": "Lo so, mi \ndispiace. È per \nquesto che mi \nstavo scusando in \nanticipo."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 96,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうだったな。\nそれより、急げ。\n魔女が追ってくるぞ。",
+        "EN": "Hurry up！ The \nBeldam is right \nbehind us..",
+        "FR": "Vite ! La \nsorcière est \nderrière nous !",
+        "DE": "Beeil dich! Die \nBeldam ist direkt \nhinter uns...",
+        "ES": "¡Deprisa! La \nBeldam está justo \ndetrás.",
+        "IT": "Presto! La megera \nci sta seguendo..."
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 102,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン！",
+        "EN": "Coraline, you \nselfish brat！",
+        "FR": "Coraline, tu n'es \nqu'une sale \ngamine !",
+        "DE": "Coraline, du \nselbstsüchtiges \nGör!",
+        "ES": "¡Coraline, mocosa \negoísta!",
+        "IT": "Coraline, piccola \npeste!"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 108,
+      "type": "group_6",
+      "texts": {
+        "JA": "おのれ！　ダメよ。\n逃がさないわ。決して！！",
+        "EN": "I will never let \nyou go...Never！",
+        "FR": "Je ne te laisserai \npas partir... \nJamais !",
+        "DE": "Ich werde dich \nniemals gehen \nlassen... Niemals!",
+        "ES": "¡Nunca dejaré \nque te marches! \n¡Nunca!",
+        "IT": "Non ti permetterò \ndi scappare... Mai!"
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 114,
+      "type": "group_6",
+      "texts": {
+        "JA": "やった！\nあとは、早く扉を\nしめて……。",
+        "EN": "We did it！ All we \nneed to do is \nclose the door....",
+        "FR": "On a réussi ! Il \nne nous reste plus \nqu'à refermer la \nporte !",
+        "DE": "Wir haben's \ngeschafft! Jetzt \nmüssen wir nur \nnoch die Tür \nschließen...",
+        "ES": "¡Lo logramos! \nTodo lo que \ntenemos que hacer \nes cerrar la \npuerta...",
+        "IT": "Ce l'abbiamo \nfatta! Ora \ndobbiamo solo \nchiudere la \nporta..."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 120,
+      "type": "group_6",
+      "texts": {
+        "JA": "いいえ！\n逃がさないわよ！！",
+        "EN": "No！！ You're not \ngetting away from \nme！！！！！",
+        "FR": "Non !! Tu ne \nm'échapperas \npas !!!",
+        "DE": "Nein!! Du \nentkommst mir \nnicht!!!!!",
+        "ES": "¡¡No!! \n¡¡¡¡¡No \nescaparéis de \nmí!!!!!",
+        "IT": "No!!! Non \nriuscirai a \nsfuggirmi!!!!!"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 126,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 132,
+      "type": "group_6",
+      "texts": {
+        "JA": "魔女がしつこく\n追いかけてくる！\n急いで扉をしめよう！",
+        "EN": "The Beldam is \nstill after you！ \nClose the door as \nfast as possible！",
+        "FR": "L’Autre Mère \nest derrière \ntoi ! Ferme la \nporte aussi vite \nque possible !",
+        "DE": "Die Beldam ist \nimmer noch hinter \ndir her! Mach die \nTür so schnell \nwie möglich zu!",
+        "ES": "La Beldam no deja \nde perseguirte. \n¡Cierra la puerta \nlo más rápido \nque puedas!",
+        "IT": "La Beldam ti sta \nancora dando la \ncaccia! Chiudi la \nporta più in \nfretta che puoi!"
+      }
+    }
+  ]
+}

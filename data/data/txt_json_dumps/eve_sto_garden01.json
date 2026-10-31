@@ -1,0 +1,188 @@
+{
+  "file": "eve_sto_garden01.bin",
+  "total_dialogues": 14,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 5,
+      "type": "group_6",
+      "texts": {
+        "JA": "見つけた！\nあの中ね。",
+        "EN": "I found it！ It's \nin there！",
+        "FR": "Je l'ai trouvé ! \nIl est là-dedans !",
+        "DE": "Ich hab's \ngefunden! Es ist \nda drin!",
+        "ES": "¡Lo encontré! \n¡Está ahí!",
+        "IT": "L'ho trovato! È \nqui dentro!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 11,
+      "type": "group_6",
+      "texts": {
+        "JA": "え？　ええっ？？",
+        "EN": "Huh? Whaaat??",
+        "FR": "Hein ? Quoi ?!",
+        "DE": "Hä? Waaas??",
+        "ES": "¿Eh? ¿¿Quéee??",
+        "IT": "Eeeh? Coooomeeee?!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 17,
+      "type": "group_6",
+      "texts": {
+        "JA": "に、に、\n逃げてくれぇぇぇ！\nコ、コラライン！\nいとしい子！！",
+        "EN": "R..R..Run \nawayyyy！ \nCo..Coraline！ My \ndear girl！",
+        "FR": "Cours... Va-t-en \nd'ici ! \nCo..Coraline ! Ma \npetite fille !",
+        "DE": "L... L... Lauf \nweeeeg! Co... \nCoraline! Mein \nliebes Mädchen!",
+        "ES": "¡M..M..Marchateeee! \n¡Mi querida niña!",
+        "IT": "C..C..Coorrrriiii! \nCo..Coraline! La \nmia bambina!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 23,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、このシフトノブが\n目なんだ！\nしかし！　しかし！　わ、\nわたしはあの人に\n言われている。",
+        "EN": "T..This shift knob \nis the eye！ \nBut.., but..., the \nOther Mother told \nme..",
+        "FR": "Cette poignée, \nlà, c'est \nl'œil ! Mais... \nl'Autre Mère m'a \ndit de...",
+        "DE": "D... Dieser \nDrehknauf ist das \nAuge! Aber... \naber... die andere \nMutter hat mir \ngesagt...",
+        "ES": "¡E..Esta palanca \nde cambio es el \nojo! Pero.., \npero..., la Otra \nMadre me dijo...",
+        "IT": "Il ... Il pomello \ndi questa leva è \nun occhio! Ma..., \nma..., l'altra \nmadre mi ha \ndetto..."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 29,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、これを\n渡してはいけない、と！\nゆ、ゆるしてくれぇぇぇぇ。",
+        "EN": "...not to give \nthis to you. \nP..Please forgive \nme...！",
+        "FR": "...de ne pas te \ndonner ça... \nPardonne-moi !!",
+        "DE": "... ich soll dir \ndas nicht geben.  \nB... Bitte verzeih \nmir...!",
+        "ES": "...que no te lo \ndiese.  ¡P..Por \nfavor, \nperdóname...!",
+        "IT": "... di non \ndartelo. Ti...Ti \nprego, \nperdonami...!"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 35,
+      "type": "group_6",
+      "texts": {
+        "JA": "に、にげきれた……かしら？",
+        "EN": "D..Did I \noutrun.....?",
+        "FR": "Je suis allée \nplus vite que... ?",
+        "DE": "B... Bin ich ihm \nentkommen...?",
+        "ES": "¿H...he \nperdido...?",
+        "IT": "T... ti ho \nsuperato......?"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 41,
+      "type": "group_6",
+      "texts": {
+        "JA": "うおおおおお\nおおああああ！！\nに、に、に、に、\nにげーーー。",
+        "EN": "Ohhhhhhhhhhhhhh！！ \n",
+        "FR": "Ohhhh ! \nCouuuuuurs !!",
+        "DE": "Ohhhhhhhhhhhhhh!! \nL... L... L... \nLauuuuuf!",
+        "ES": "¡¡Ohhhhhhhhhhhhhh!! \n",
+        "IT": "Oooooohhhhhh! \nC.C.C.C.Coooorrrriiiiiiiii!\n"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 47,
+      "type": "group_6",
+      "texts": {
+        "JA": "パ、パパ！？",
+        "EN": "D..Dad！?",
+        "FR": "Papa ?",
+        "DE": "P... Papa!?",
+        "ES": "¿¡P..Papá!?",
+        "IT": "P...papà?"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 53,
+      "type": "group_6",
+      "texts": {
+        "JA": "コ、コラライン！\nありがとう！ありがとう！",
+        "EN": "C..Coraline！ \nThank you！ Thank \nyou！",
+        "FR": "Coraline ! Merci ! \nMerci !",
+        "DE": "C... Coraline! \nDanke! Danke!",
+        "ES": "¡C..Coraline! \n¡Gracias! \n¡Gracias!",
+        "IT": "C...Coraline! \nGrazie! Grazie!"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 59,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボクは……ボクは……\nキミにあえて……\nキミのパパになれれば……\nほんとうに…………。",
+        "EN": "I...I...was happy \nthat I met \nyou..... I \nwish...I could be \nyour \nfather..really....",
+        "FR": "Je... J'aurais \ntellement aimé \nêtre ton... ton \npère... pour de \nvrai...",
+        "DE": "Ich... Ich... war \nso froh, dass ich \ndich getroffen \nhabe... Ich \nwünschte... ich \nkönnte dein Vater \nsein... wirklich...",
+        "ES": "Yo...Yo...estaba \ncontento de \nverte... Me \ngustaría... ser \ntu padre... de \nverdad...",
+        "IT": "S...S...Sono stato \nfelice di \nconoscerti... \nMagari... mi \npiacerebbe essere \nil tuo vero... \npadre..."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 65,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ、早く！\nこれを！　これを！！",
+        "EN": "Hey, hurry up！ \nTake this！！",
+        "FR": "Allez, va vite !! \nPrends ça !",
+        "DE": "Hey, beeil dich! \nNimm dies!!",
+        "ES": "¡Eh, deprisa! \n¡¡Toma esto!!",
+        "IT": "Ehi, sbrigati! \nPrendi questo!"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 71,
+      "type": "group_6",
+      "texts": {
+        "JA": "オレンジ色の目\nをうけとりました。",
+        "EN": "You got the Orange \nEye！",
+        "FR": "Tu as obtenu \nl'œil orange !",
+        "DE": "Du hast das \norangefarbene Auge!",
+        "ES": "¡Has conseguido \nel Ojo Naranja!",
+        "IT": "Hai l'occhio \narancione!"
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 77,
+      "type": "group_6",
+      "texts": {
+        "JA": "ご、ごめんね……。\nパパ…………。",
+        "EN": "I..I am sorry.... \nDad......",
+        "FR": "Je suis \ndésolée...papa...",
+        "DE": "Es... Es tut mir \nleid... Papa......",
+        "ES": "Lo..Lo siento... \nPapá......",
+        "IT": "Mi... mi \ndispiace... \nPapà......"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 83,
+      "type": "group_6",
+      "texts": {
+        "JA": "さすがに、もうないわね。",
+        "EN": "There is nothing \nanymore.",
+        "FR": "Il ne reste plus \nrien...",
+        "DE": "Da ist jetzt \nnichts mehr.",
+        "ES": "No hay nada más.",
+        "IT": "Non c'è più \nniente."
+      }
+    }
+  ]
+}

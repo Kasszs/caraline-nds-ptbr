@@ -1,0 +1,396 @@
+{
+  "file": "eve_bedroom02.bin",
+  "total_dialogues": 30,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 26,
+      "type": "group_6",
+      "texts": {
+        "JA": "バスルームで虫たたき",
+        "EN": "Bug smashing in \nthe bathroom",
+        "FR": "Écrabouillage \nd’insectes.",
+        "DE": "Käfer \nzerquetschen im \nBadezimmer.",
+        "ES": "Caza de bichos en \nel baño",
+        "IT": "A caccia di \ninsetti in bagno."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 32,
+      "type": "group_6",
+      "texts": {
+        "JA": "バスルームには、かさかさと\n動き回る虫がいっぱい！",
+        "EN": "The bathroom is \nfull of disgusting \nbugs！",
+        "FR": "La salle de bains \nest pleine \nd’insectes \ndégoûtants !",
+        "DE": "Das Badezimmer ist \nvoller ekliger \nKäfer!",
+        "ES": "¡El baño está \nlleno de bichos \nque se mueven!",
+        "IT": "Il bagno è pieno \ndi insetti \ndisgustosi!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 38,
+      "type": "group_6",
+      "texts": {
+        "JA": "タッチペンで虫をたたいて、\n退治しよう。",
+        "EN": "Get rid of them by \nswatting them off \nthe wall！",
+        "FR": "Débarrasse-toi \nd’eux en les \nécrasant sur les \nmurs !",
+        "DE": "Werde sie los, \nindem du sie an \nder Wand \nzerklatschst!",
+        "ES": "¡Líbrate de \nellos a manotazos!",
+        "IT": "Eliminali \nschiacciandoli \ncontro la parete!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 44,
+      "type": "group_6",
+      "texts": {
+        "JA": "緑色の虫をたたくと、\n残り時間が増えて、",
+        "EN": "Smash a green bug, \nyou get more time,",
+        "FR": "Si tu écrases un \ninsecte vert, tu \ngagnes du temps.",
+        "DE": "Durch das \nZerquetschen von \ngrünen Käfern \ngewinnst du mehr \nZeit.",
+        "ES": "Si aplastas un \nbicho verde, \nconsigues más \ntiempo.",
+        "IT": "Se schiacci un \ninsetto verde, \nguadagni più \ntempo."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 50,
+      "type": "group_6",
+      "texts": {
+        "JA": "紫色の虫をたたくと、\n虫が速く動きだすよ",
+        "EN": "Smash a purple \nbug, the bugs move \nfaster.",
+        "FR": "Si tu écrases un \ninsecte violet, \nles insectes vont \nplus vite.",
+        "DE": "Das Zerquetschen \nvon lila Käfern \nbeschleunigt die \nKäfer.",
+        "ES": "Si aplastas un \nbicho morado, los \nbichos se mueven \nmás rápido.",
+        "IT": "Se schiacci un \ninsetto viola, gli \naltri diventano \npiù veloci."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 56,
+      "type": "group_6",
+      "texts": {
+        "JA": "恐ろしいユメ……\nコララインは、もとの\n世界に帰れるのだろうか。",
+        "EN": "Nightmare... can \nCoraline go back \nto the real world?",
+        "FR": "Quel cauchemar... \nCoraline \nretournera-t-elle \ndans le monde \nréel ?",
+        "DE": "Ein Albtraum... \nkann Coraline \nzurück in die \nechte Welt?",
+        "ES": "Una pesadilla.... \n¿podrá Coraline \nvolver al mundo \nreal?",
+        "IT": "Un incubo... \nriuscirà Coraline \na tornare nel \nmondo reale?"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 62,
+      "type": "group_6",
+      "texts": {
+        "JA": "悪夢に捕まらないように\n逃げよう。もし捕まって\nしまったら、タッチペンで\nこすって逃げ出そう。",
+        "EN": "Run away from the \nnightmare！ If you \nget caught, get \naway by rubbing \nthe Touch Screen \nwith the stylus.",
+        "FR": "Échappe-toi de ce \ncauchemar ! Si tu \nte fais attraper, \néchappe-toi en \nfrottant le stylet \nsur l’écran \ntactile.",
+        "DE": "Lauf weg vor dem \nAlbtraum! Wenn du \ngefangen wirst, \nentkommst du, \nindem du mit dem \nTouchpen auf den \nBildschirm \nstreichst.",
+        "ES": "¡Escapa de la \npesadilla! Si te \natrapa, escapa \nfrotando la \npantalla táctil \ncon el lápiz.",
+        "IT": "Sfuggi all'incubo! \nSe ti prende, \nliberati \nstrofinando lo \nschermo con lo \nstilo."
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 68,
+      "type": "group_6",
+      "texts": {
+        "JA": "たまに走って来る黒猫を\nタッチすると、一緒に\n歩いてくれるよ。",
+        "EN": "Sometimes, if you \ntouch the black \ncat when it's \nrunning, it might \ncome walk with you.",
+        "FR": "Si tu touches le \nchat pendant \nqu’il court, il \nviendra parfois \nmarcher à côté \nde toi.",
+        "DE": "Manchmal kommt die \nKatze mit, wenn du \nsie während des \nLaufens berührst.",
+        "ES": "A veces, si tocas \nal gato negro \ncuando está \ncorriendo, puede \nvenir a andar \ncontigo.",
+        "IT": "A volte, se tocchi \nil gatto mentre \nsta correndo, \nverrà in giro con \nte."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 74,
+      "type": "group_6",
+      "texts": {
+        "JA": "そのとき、もう一度\n黒猫をタッチすると・・・。",
+        "EN": "And if you touch \nthe black cat one \nmore time...",
+        "FR": "Et si tu touches \nle chat encore une \nfois...",
+        "DE": "Und wenn du die \nKatze noch einmal \nberührst...",
+        "ES": "Y si tocas al gato \nnegro una vez \nmás...",
+        "IT": "E se tocchi il \ngatto un'altra \nvolta..."
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 80,
+      "type": "group_6",
+      "texts": {
+        "JA": "庭のなかには、もう一人の\nパパが隠したプレゼントが\nあるよ。全部、\n見つけられるかな。",
+        "EN": "The Other Father \nhid some presents \nin the garden. Can \nyou find all of \nthem?",
+        "FR": "L’Autre Père a \ncaché des cadeaux \ndans le jardin. \nEssaie de tous les \ntrouver !",
+        "DE": "Der andere Vater \nhat im Garten \nGeschenke \nversteckt. Kannst \ndu sie alle finden?",
+        "ES": "Aquí están los \nregalos que el \nOtro Padre ha \nescondido en el \njardín. ¿Puedes \nencontrarlos todos?",
+        "IT": "L'altro padre ha \nnascosto dei \nregali in \ngiardino. \nRiuscirai a \ntrovarli tutti?"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 86,
+      "type": "group_6",
+      "texts": {
+        "JA": "プレゼントはある程度\n近づくと、光りだすよ。",
+        "EN": "Presents will \nshine if you get \nclose enough to \nthem.",
+        "FR": "Les cadeaux \nbrillent si tu \nt’approches \nsuffisamment d'eux.",
+        "DE": "Die Geschenke \nleuchten auf, wenn \ndu nahe genug bist.",
+        "ES": "Los regalos \nbrillarán cuando \nte acerques a \nellos.",
+        "IT": "I doni \nluccicheranno se \nti avvicini a \nsufficienza."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 92,
+      "type": "group_6",
+      "texts": {
+        "JA": "カミツキ草につかまった\nときは、タッチペンで\nこすって逃げだそう。",
+        "EN": "When you get \ncaught by a \ncarnivorous plant, \nget away from it \nby rubbing it with \nthe stylus.",
+        "FR": "Si tu te fais \nattraper par une \nplante carnivore, \néchappe-toi en \nfrottant le stylet \ndessus.",
+        "DE": "Wenn du von einer \nfleischfressenden \nPflanze gefangen \nwirst, entkommst \ndu ihr, indem du \nmit dem Touchpen \nüber sie \nstreichst.",
+        "ES": "Cuando te atrape \nuna planta \ncarnívora, \nlíbrate de ella \nfrotándola con el \nlápiz táctil.",
+        "IT": "Se una pianta \ncarnivora ti \ncattura, liberati \nstrofinandola con \nlo stilo."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 98,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ！　あなたも\nネズミたちといっしょに\n音楽をかなでよう。",
+        "EN": "Now！ Join in and \nmake some music \nwith the mice.",
+        "FR": "Allez, viens faire \nde la musique avec \nles souris !",
+        "DE": "Jetzt! Mach mit \nund musiziere mit \nden Mäusen.",
+        "ES": "¡Ahora! \nAcompáñame y haz \nmúsica con los \nratones.",
+        "IT": "Dai, fai un po' di \nmusica con i topi!"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 104,
+      "type": "group_6",
+      "texts": {
+        "JA": "音楽にあわせて、指示\nされた楽器をタッチしよう。\nボタンでも操作できるよ。",
+        "EN": "Touch the \nindicated \ninstrument in time \nwith the music. \nYou can also use \nthe buttons \ninstead.",
+        "FR": "Touche le bon \ninstrument au bon \nmoment. Tu peux \naussi utiliser les \nboutons.",
+        "DE": "Berühre das \nangezeigte \nInstrument im Takt \nmit der Musik. Du \nkannst auch die \nKnöpfe verwenden.",
+        "ES": "Toca el \ninstrumento \nindicado para \nhacer música. \nTambién puedes \nutilizar los \nbotones.",
+        "IT": "Tocca lo strumento \nindicato a tempo \ncon la musica. \nPuoi anche usare i \npulsanti, se \npreferisci."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 110,
+      "type": "group_6",
+      "texts": {
+        "JA": "連続で成功すると、\n上の画面でネズミたちが\n踊りだすよ。",
+        "EN": "If you succeed a \nfew times in a \nrow, the mice on \nthe top screen \nwill start dancing.",
+        "FR": "Si tu joues du bon \ninstrument, les \nsouris se mettront \nà danser sur \nl'écran \nsupérieur.",
+        "DE": "Wenn du immer das \nkorrekte \nInstrument \nspielst, fangen \ndie Mäuse auf dem \noberen Bildschirm \nan zu tanzen.",
+        "ES": "Si lo logras \nvarias veces \nseguidas, los \nratones de la \npantalla superior \nempezarán a \nbailar.",
+        "IT": "Continua a suonare \nlo strumento \ngiusto e i topi \nsullo schermo \nsuperiore \ncominceranno a \nballare."
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 116,
+      "type": "group_6",
+      "texts": {
+        "JA": "大ネズミが大切な「目」を\nもって逃げ回っているよ。",
+        "EN": "The big mouse has \nthe ghost eye.",
+        "FR": "C’est la grosse \nsouris qui a \nl’œil de \nfantôme.",
+        "DE": "Die große Maus \nhat das \nGeisterauge.",
+        "ES": "El ratón grande \nestá correteando \ncon el precioso \nojo.",
+        "IT": "Il topo grosso ha \nl'occhio del \nfantasma."
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 122,
+      "type": "group_6",
+      "texts": {
+        "JA": "サーカステントの中にある\nボールを投げつけて、\n大ネズミから「目」を\n取り戻そう。",
+        "EN": "Get the eye back \nby throwing a ball \nat the big mouse.",
+        "FR": "Récupère \nl’œil en jetant \nune balle sur la \ngrosse souris.",
+        "DE": "Gewinne das Auge \nzurück, indem du \nder großen Maus \neinen Ball \nanwirfst.",
+        "ES": "Recupera el ojo \ndel ratón grande \nlanzándole una \nbola en una tienda \ndel circo.",
+        "IT": "Riprenditi \nl'occhio lanciando \nuna palla contro \nil grosso topo."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 128,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボールをとったら、\nタッチペンを勢いよく\nスライドさせると、\nボールを投げることが\nできるよ。",
+        "EN": "When you get a \nball, you can \nthrow it by \nswiftly sliding \nthe stylus on the \nTouch Screen \ntowards the mouse.",
+        "FR": "Pour lancer une \nballe, fais \nglisser le stylet \nfermement sur \nl’écran tactile \nen direction de la \nsouris.",
+        "DE": "Wenn du einen Ball \nhast, kannst du \nihn werfen, indem \ndu den Touchpen \nauf dem Bildschirm \nauf die Maus \nzubewegst.",
+        "ES": "Cuando consigas la \nbola, podrás \nlanzarla \ndeslizando rápido \nel lápiz por la \npantalla táctil.",
+        "IT": "Se hai una palla, \npuoi lanciarla \nfacendo scivolare \nrapidamente lo \nstilo sullo \nschermo in \ndirezione del topo."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 134,
+      "type": "group_6",
+      "texts": {
+        "JA": "たまに出てくる大きな\nボールは、小さなボール\nよりも強くて便利なので、\n見つけたら消える前に\nとって、投げてみよう。",
+        "EN": "The big balls that \nappear sometimes \nare stronger and \neasier to use than \nthe small balls, \nso if you find \nthem, catch it and \nthrow it before \nthey disappear.",
+        "FR": "Les grosses balles \nsont plus solides \net plus faciles à \nutiliser que les \npetites. Si tu en \ntrouves une, \nattrape-la et \nlance-la avant \nqu’elle ne \ndisparaisse.",
+        "DE": "Die größeren \nBälle, die \nmanchmal \nerscheinen, sind \nstärker und \nleichter zu \nspielen als die \nkleinen. Wenn du \neinen findest, \nfang und wirf ihn, \nbevor er wieder \nverschwindet.",
+        "ES": "Las bolas grandes \nque aparecen a \nveces son más \nfuertes y fáciles \nde utilizar que \nlas bolas \npequeñas, así \nque si las \nencuentras, \natrápalas y \nlánzalas antes de \nque desaparezcan.",
+        "IT": "Le palle più \ngrandi che \nappaiono a volte \nsono più forti e \npiù facili da \nusare di quelle \npiccole. Se ne \ntrovi una, \nafferrala e \nlanciala prima che \nsparisca! "
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 140,
+      "type": "group_6",
+      "texts": {
+        "JA": "大変！　ワイビーが井戸に\n落ちてしまった。それに、\n魔女の右手がワイビーの\n体を登ってこようと\nしている！",
+        "EN": "Oh no！ Wybie fell \ndown the well. And \nthe witch's right \nhand is trying to \nclimb up Wybie's \nbody！",
+        "FR": "Oh non ! Wybie est \ntombé dans le \npuits et la main \ndroite de \nl’Autre Mère \nlui grimpe dessus !",
+        "DE": "Oh nein! Wybie ist \nin den Brunnen \ngefallen, und die \nrechte Hand der \nBeldam klettert an \nseinem Körper \nhoch!",
+        "ES": "¡Oh, no! Wybie se \nha caído al pozo. \n¡Y la mano \nderecha de la \nbruja está \nintentando subir \npor el cuerpo de \nWybie!",
+        "IT": "Oh no! Wybie è \ncaduto nel pozzo e \nla mano destra \ndella strega sta \ncercando di \narrampicarsi su di \nlui!"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 146,
+      "type": "group_6",
+      "texts": {
+        "JA": "タッチペンで魔女の右手を\n叩いて、井戸の底に\n落とすんだ！\nでも、ワイビーを\n叩いたらダメだよ。",
+        "EN": "Touch the Beldam's \nhand with the \nstylus and drop it \ninto the well. \nDon't hit Wybie, \nthough！",
+        "FR": "Frappe la main de \nl’Autre Mère \navec le stylet et \nfais-la tomber \ndans le puits. \nAttention à ne \npas frapper \nWybie !",
+        "DE": "Haue mit dem \nTouchpen auf die \nHand der Beldam \nund wirf sie in \nden Brunnen. \nSchlage aber nicht \nauf Wybie!",
+        "ES": "Golpea a la mano \nderecha de la \nBeldam con el \nlápiz para que \ncaiga al pozo. \nPero no golpees a \nWybie.",
+        "IT": "Colpisci la mano \ndella Beldam con \nlo stilo e falla \ncadere nel pozzo. \nAttenta a non \ncolpire Wybie, \nperò!"
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 152,
+      "type": "group_6",
+      "texts": {
+        "JA": "魔女の右手はどんどん\n速く動くようになるから、\n落ち着いて確実に叩こう。",
+        "EN": "The witch's right \nhand will move \nfaster and faster, \nso pay attention \nand tap accurately.",
+        "FR": "La main ira de \nplus en plus vite \nalors fais \nattention et \npointe avec \nprécision.",
+        "DE": "Die Hand wird \nimmer schneller, \nalso pass gut auf \nund tippe sie \ngenau an.",
+        "ES": "La mano derecha de \nla bruja se mueve \ncada vez más \nrápido, así que \npresta atención y \ntoca con \nprecisión.",
+        "IT": "Fa' attenzione e \ntocca lo schermo \nal momento giusto+ \nla mano diventerà \nsempre più veloce."
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 158,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 164,
+      "type": "group_6",
+      "texts": {
+        "JA": "井戸の深さを調べるなら\n石を落とすのがイチバン！\n小石をタッチし、\n井戸までスライド\nさせてみよう。",
+        "EN": "Dropping a stone \nis the best way to \nmeasure the depth \nof the well. Touch \nthe stone and drag \nit to the well.",
+        "FR": "Pour savoir si le \npuits est profond, \njette une pierre \nà l’intérieur. \nPointe la pierre \net glisse-la \njusqu’au puits.",
+        "DE": "Die Tiefe eines \nBrunnens misst man \nam besten, indem \nman einen Stein \nhineinwirft. \nBerühre den Stein \nund zieh ihn zum \nBrunnen.",
+        "ES": "Soltar una piedra \nes la mejor forma \nde medir la \nprofundidad del \npozo. Toca la \npiedra y \narrástrala hasta \nel pozo.",
+        "IT": "Il sistema \nmigliore per \nmisurare la \nprofondità di un \npozzo è buttarci \ndentro una pietra. \nTocca la pietra e \ntrascinala sul \npozzo."
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 170,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワイビーが井戸に\n落ちた！？早く魔女の糸\nをきって、ワイビーを\n助けにいかないと……！",
+        "EN": "Did Wybie just \nfall into the \nwell?！ Cut the \nBeldam's thread \nand go to help \nhim！   ",
+        "FR": "Wybie vient de \ntomber dans le \npuits ?! Coupe la \ntoile de l’Autre \nMère et va \nl’aider !",
+        "DE": "Ist Wybie eben in \nden Brunnen \ngefallen?! \nSchneide den Faden \nder Beldam durch \nund hilf ihm!",
+        "ES": "¿Se ha caído \nWybie en el pozo? \n¡Corta el hilo de \nla Beldam y ve a \nayudarle!   ",
+        "IT": "Wybie è caduto \nnel pozzo?! Taglia \nil filo della \nBeldam e vai ad \naiutarlo!   "
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 176,
+      "type": "group_6",
+      "texts": {
+        "JA": "もう一人のパパが乗った\nカマキリトラクターが\nおそってくる！",
+        "EN": "The Other Father's \nMantis Tractor is \nafter you！",
+        "FR": "Attention à la \ntracto-mante de \nl’Autre Père !",
+        "DE": "Der Mantis-Traktor \ndes anderen Vaters \nist hinter dir her!",
+        "ES": "¡El Tractor \nMantis que conduce \nel Otro Padre se \nacerca para \natacarte!",
+        "IT": "Il \nTrattore-mantide \ndell'altro padre \nti sta dando la \ncaccia!"
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 182,
+      "type": "group_6",
+      "texts": {
+        "JA": "カマキリトラクターの\n攻撃をかわしつつ、\n追いつかれないよう\n逃げ延びよう。",
+        "EN": "Avoid the attacks \nand stay ahead of \nit.",
+        "FR": "Esquive les \nattaques et garde \nle contrôle.",
+        "DE": "Weiche den \nAngriffen aus und \nsei ihnen voraus.",
+        "ES": "Evita los ataques \ny procura que no \nte alcance.",
+        "IT": "Evita gli attacchi \ne non farti \nraggiungere."
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 188,
+      "type": "group_6",
+      "texts": {
+        "JA": "岩につまずいて\n転んだときは、\nコララインをタッチペンで\nこすって起き上がらせよう。",
+        "EN": "If Coraline trips \nover a rock and \nfalls down, rub \nher with the \nstylus and get her \nback up.",
+        "FR": "Si Coraline \ntrébuche sur un \ncaillou et tombe, \nfrotte-la avec le \nstylet pour la \nrelever.",
+        "DE": "Wenn Coraline \nüber einen Stein \nstolpert und \nhinfällt, streich \nmit dem Touchpen \nüber sie, damit \nsie wieder \naufsteht.",
+        "ES": "Si Coraline \ntropieza con una \npiedra y se cae, \nfrótala con el \nlápiz táctil y \nse volverá a \nlevantar.",
+        "IT": "Se Coraline \ninciampa su una \npietra e cade, \nstrofinala con lo \nstilo per farla \nrialzare."
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 194,
+      "type": "group_6",
+      "texts": {
+        "JA": "３人の幽霊たちと、\nかくれんぼ。",
+        "EN": "Hide-and-seek with \nthree ghosts.",
+        "FR": "Cache-cache avec \ntrois fantômes.",
+        "DE": "Versteckspiel mit \ndrei Geistern.",
+        "ES": "Juega al escondite \ncon tres fantasmas.",
+        "IT": "Gioca a nascondino \ncon tre fantasmi."
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 200,
+      "type": "group_6",
+      "texts": {
+        "JA": "タッチペンで\nコララインを移動させて、\n姿をあらわした\n幽霊たちをつかまえよう。",
+        "EN": "Move Coraline with \nthe stylus and \ncatch the ghosts \nwhen they appear \non the screen. ",
+        "FR": "Déplace Coraline \navec le stylet et \nattrape les \nfantômes \nlorsqu’ils \napparaissent sur \nl'écran tactile.",
+        "DE": "Bewege Coraline \nmit dem Touchpen \nund fange die \nGeister, wenn sie \nauf dem Bildschirm \nauftauchen.",
+        "ES": "Mueve a Coraline \ncon el lápiz y \natrapa a los \nfantasmas cuando \naparezcan en la \npantalla táctil. ",
+        "IT": "Sposta Coraline \ncon lo stilo e \ncattura i fantasmi \nquando appaiono \nsullo schermo. "
+      }
+    }
+  ]
+}

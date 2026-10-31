@@ -1,0 +1,71 @@
+{
+  "file": "eve_sto_tent01.bin",
+  "total_dialogues": 5,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 2,
+      "type": "group_6",
+      "texts": {
+        "JA": "やった！\n見つけたわ。",
+        "EN": "Cool！ I found it！",
+        "FR": "Génial ! Je l'ai !",
+        "DE": "Cool! Ich hab's \ngefunden!",
+        "ES": "¡Genial! ¡Lo \nencontré!",
+        "IT": "Stupendo! L'ho \ntrovato!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 8,
+      "type": "group_6",
+      "texts": {
+        "JA": "大ネズミが大切な「目」を\nもって逃げ回っているよ。",
+        "EN": "The big mouse has \nthe ghost eye.",
+        "FR": "C’est la grosse \nsouris qui a \nl’œil de \nfantôme.",
+        "DE": "Die große Maus \nhat das \nGeisterauge.",
+        "ES": "El ratón grande \nestá correteando \ncon el precioso \nojo.",
+        "IT": "Il topo grosso ha \nl'occhio del \nfantasma."
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 14,
+      "type": "group_6",
+      "texts": {
+        "JA": "サーカステントの中にある\nボールを投げつけて、\n大ネズミから「目」を\n取り戻そう。",
+        "EN": "Get the eye back \nby throwing a ball \nat the big mouse.",
+        "FR": "Récupère \nl’œil en jetant \nune balle sur la \ngrosse souris.",
+        "DE": "Gewinne das Auge \nzurück, indem du \nder großen Maus \neinen Ball \nanwirfst.",
+        "ES": "Recupera el ojo \ndel ratón grande \nlanzándole una \nbola en una tienda \ndel circo.",
+        "IT": "Riprenditi \nl'occhio lanciando \nuna palla contro \nil grosso topo."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 20,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボールをとったら、\nタッチペンを勢いよく\nスライドさせると、\nボールを投げることが\nできるよ。",
+        "EN": "When you get a \nball, you can \nthrow it by \nswiftly sliding \nthe stylus on the \nTouch Screen \ntowards the mouse.",
+        "FR": "Pour lancer une \nballe, fais \nglisser le stylet \nfermement sur \nl’écran tactile \nen direction de la \nsouris.",
+        "DE": "Wenn du einen Ball \nhast, kannst du \nihn werfen, indem \ndu den Touchpen \nauf dem Bildschirm \nauf die Maus \nzubewegst.",
+        "ES": "Cuando consigas la \nbola, podrás \nlanzarla \ndeslizando rápido \nel lápiz por la \npantalla táctil.",
+        "IT": "Se hai una palla, \npuoi lanciarla \nfacendo scivolare \nrapidamente lo \nstilo sullo \nschermo in \ndirezione del topo."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 26,
+      "type": "group_6",
+      "texts": {
+        "JA": "たまに出てくる大きな\nボールは、小さなボール\nよりも強くて便利なので、\n見つけたら消える前に\nとって、投げてみよう。",
+        "EN": "The big balls that \nappear sometimes \nare stronger and \neasier to use than \nthe small balls, \nso if you find \nthem, catch it and \nthrow it before \nthey disappear.",
+        "FR": "Les grosses balles \nsont plus solides \net plus faciles à \nutiliser que les \npetites. Si tu en \ntrouves une, \nattrape-la et \nlance-la avant \nqu’elle ne \ndisparaisse.",
+        "DE": "Die größeren \nBälle, die \nmanchmal \nerscheinen, sind \nstärker und \nleichter zu \nspielen als die \nkleinen. Wenn du \neinen findest, \nfang und wirf ihn, \nbevor er wieder \nverschwindet.",
+        "ES": "Las bolas grandes \nque aparecen a \nveces son más \nfuertes y fáciles \nde utilizar que \nlas bolas \npequeñas, así \nque si las \nencuentras, \natrápalas y \nlánzalas antes de \nque desaparezcan.",
+        "IT": "Le palle più \ngrandi che \nappaiono a volte \nsono più forti e \npiù facili da \nusare di quelle \npiccole. Se ne \ntrovi una, \nafferrala e \nlanciala prima che \nsparisca! "
+      }
+    }
+  ]
+}

@@ -1,0 +1,1397 @@
+{
+  "file": "eve_kitchen01.bin",
+  "total_dialogues": 107,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 58,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママ――。",
+        "EN": "Mom...",
+        "FR": "M'man...",
+        "DE": "Mama...",
+        "ES": "Mamá...",
+        "IT": "Mamma..."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 64,
+      "type": "group_6",
+      "texts": {
+        "JA": "しっ。ちょっと黙ってて。\n今、たいせつなとこなの。",
+        "EN": "Be quiet Coraline \n- I'm almost done.",
+        "FR": "Chut Coraline. \nJ'ai presque fini.",
+        "DE": "Sei still, \nCoraline - ich bin \nfast fertig.",
+        "ES": "Silencio, \nCoraline. Casi he \nterminado.",
+        "IT": "Silenzio \nCoraline... ho \nquasi finito."
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 70,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママ――。",
+        "EN": "Mom...",
+        "FR": "M'man...",
+        "DE": "Mama...",
+        "ES": "Mamá...",
+        "IT": "Mamma..."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 76,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン。\nそう何度も話しかけないで\nちょうだい。",
+        "EN": "Why do you keep \ndistracting me??",
+        "FR": "Pourquoi faut-il \ntoujours que tu me \ndéranges ?!",
+        "DE": "Warum störst du \nmich immer??",
+        "ES": "¿¿Por qué \nsigues \ndistrayéndome??",
+        "IT": "Perché continui a \ndistrarmi?"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 82,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママは今いそがしいのよ。\n締め切りの足音がすぐ\nそこで聞こえているの。",
+        "EN": "I'm busy right \nnow. I'm on a \ndeadline.",
+        "FR": "Je n'ai pas le \ntemps, j'ai un \npapier à rendre.",
+        "DE": "Ich hab zu tun. \nDas ist eine \nTerminsache.",
+        "ES": "Ahora estoy \nocupada. Tengo una \nentrega.",
+        "IT": "Sono molto \noccupata ora. La \ndata di consegna \nè alle porte."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 88,
+      "type": "group_6",
+      "texts": {
+        "JA": "だって、\nつまらないんだもん。",
+        "EN": "But Mom, I'm soooo \nbored.",
+        "FR": "Mais m'man, je \nm'ennuie moi.",
+        "DE": "Aber Mama, mir ist \nsoooo langweilig.",
+        "ES": "Pero mamá, estoy \nmuuuy aburrida.",
+        "IT": "Ma mamma, io mi \nannooooiooo..."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 94,
+      "type": "group_6",
+      "texts": {
+        "JA": "新しい家なんだから、\nなんだって楽しいこと\nあるでしょう？\nそこら中を探検して\nみるとか。",
+        "EN": "Coraline, why \ndon't you explore \nyour new home?",
+        "FR": "Tiens, je sais, tu \npeux explorer la \nmaison !",
+        "DE": "Coraline, wieso \nerkundest du nicht \ndein neues Zuhause?",
+        "ES": "Coraline, ¿por \nqué no exploras \ntu nueva casa?",
+        "IT": "Coraline, perché \nnon esplori la \nnuova casa?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 100,
+      "type": "group_6",
+      "texts": {
+        "JA": "記事のネタはママが\n考えるから、遊びの\nネタぐらいは、\n自分で考えなさい。",
+        "EN": "I need to get this \narticle done.",
+        "FR": "Je dois finir cet \narticle.",
+        "DE": "Ich muss den \nArtikel fertig \nkriegen.",
+        "ES": "Tengo que terminar \neste artículo.",
+        "IT": "Devo assolutamente \nfinire questo \narticolo."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 106,
+      "type": "group_6",
+      "texts": {
+        "JA": "はーい。",
+        "EN": "Okay Mom...",
+        "FR": "D'accord...",
+        "DE": "Okay, Mama...",
+        "ES": "Vale, mamá...",
+        "IT": "Va bene, mamma."
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 112,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、そうだ。\nもし外を探検しにいくの\nなら、井戸には\n近づかないように\n気をつけてね。",
+        "EN": "If you go outside, \ndon't go near the \nwell.",
+        "FR": "Si tu vas dehors, \nne vas pas près \ndu puits.",
+        "DE": "Wenn du rausgehst, \ngeh nicht zum \nBrunnen.",
+        "ES": "Si sales a la \ncalle, no te \nacerques al pozo.",
+        "IT": "Se vai fuori, non \navvicinarti al \npozzo."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 118,
+      "type": "group_6",
+      "texts": {
+        "JA": "井戸って？",
+        "EN": "There's a well \naround here?",
+        "FR": "Où est-ce qu'il y \na un puits ?",
+        "DE": "Hier gibt's einen \nBrunnen?",
+        "ES": "¿Hay un pozo por \naquí?",
+        "IT": "C'è un pozzo qui?"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 124,
+      "type": "group_6",
+      "texts": {
+        "JA": "あるのよ。近くの丘にね。",
+        "EN": "It's on a nearby \nhill.",
+        "FR": "Pas très loin \nd'ici, sur une \ncolline.",
+        "DE": "Auf einem Hügel \nin der Nähe.",
+        "ES": "Está en una \ncolina cercana.",
+        "IT": "È su una collina \nqui vicino."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 130,
+      "type": "group_6",
+      "texts": {
+        "JA": "もう使われていない\n井戸だけど、ずいぶん\n深いらしいから。だから、\n近づいちゃダメよ。",
+        "EN": "I heard it's very \ndeep...stay away \nfrom it！",
+        "FR": "Et il est très \nprofond alors ne \nt'en approche pas !",
+        "DE": "Er soll sehr tief \nsein... halte dich \ndavon fern!",
+        "ES": "He oído que es \nmuy profundo... \n¡aléjate de él!",
+        "IT": "Ho sentito che è \nmolto profondo... \nnon ti ci \navvicinare!"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 136,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん、もちろん\nわかってるわ。",
+        "EN": "Sure Mom. No \nproblem.",
+        "FR": "Oui, m'man. J'ai \ncompris.",
+        "DE": "Klar, Mama. Kein \nProblem.",
+        "ES": "Claro, mamá. \nNingún problema.",
+        "IT": "Sì, mamma, non \npreoccuparti."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 142,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................\n",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 148,
+      "type": "group_6",
+      "texts": {
+        "JA": "しなびた野菜と\n古いミルクだけ。\nあーあ、うちの食事って、\nがっかりするのよね……。",
+        "EN": "Ugh！  Only wilted \nvegetables and old \nmilk... they're \ntrying to poison \nme, aren't they?",
+        "FR": "Ahh !  Des vieux \nlégumes et du \nlait caillé... \nIls veulent \nvraiment \nm’empoisonner !!",
+        "DE": "Öh! Nur welkes \nGemüse und alte \nMilch... sie \nwollen mich wohl \nvergiften, was?",
+        "ES": "¡Puaj!  Sólo \nverdura mustia y \nleche pasada... \n¿Es que quieren \nenvenenarme?",
+        "IT": "Aagh! Solo queste \nverdure marce e \nlatte rancido... \nHanno forse \nintenzione di \navvelenarmi?"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 154,
+      "type": "group_6",
+      "texts": {
+        "JA": "あーあ……。\nあっちのママがつくって\nくれた料理は、とっても\nおいしかったのになぁ……。",
+        "EN": "*sigh*... The food \nthat the other Mom \nprepared for me \nwas so much \nbetter...",
+        "FR": "*soupir*... \nL’Autre Mère \nest bien meilleure \ncuisinière...",
+        "DE": "*seufz*... Das \nEssen, das die \nandere Mutter mir \ngekocht hat, war \nviel besser...",
+        "ES": "*suspiro*... La \ncomida que me \npreparaba la Otra \nMadre estaba mucho \nmejor...",
+        "IT": "*sigh*... Il cibo \nche mi preparava \nl'altra mamma era \nmolto più \ngustoso..."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 160,
+      "type": "group_6",
+      "texts": {
+        "JA": "お願いだから、\n静かにしていてくれない。\nそれと、\n井戸には近づいちゃ\nダメよ。",
+        "EN": "Coraline, \nplease...I have \nwork to do！ And \nstay away from \nthat well.",
+        "FR": "Allez, Coraline, \nlaisse-moi, j'ai \ndu travail ! Et ne \nt'approche pas du \npuits !",
+        "DE": "Coraline, bitte... \nich muss arbeiten! \nUnd bleib weg von \ndem Brunnen.",
+        "ES": "Coraline, por \nfavor...¡Tengo \ntrabajo que hacer! \nY no te acerques a \nese pozo.",
+        "IT": "Coraline per \nfavore... Ho molto \nda fare! E stai \nlontana da quel \npozzo."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 166,
+      "type": "group_6",
+      "texts": {
+        "JA": "チャーリーったら、\n大声だしたりなんかして、\nやかましいわね。",
+        "EN": "Why is your father \nscreaming like \nthat?",
+        "FR": "Pourquoi il hurle \ncomme ça ton \npère ?",
+        "DE": "Warum schreit dein \nVater so?",
+        "ES": "¿Por qué grita \nasí tu padre?",
+        "IT": "Cos'ha tuo padre \nda gridare tanto?"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 172,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうせまたデータが\n消えたとかでしょうけど。\nバックアップをとって\nおかないから、いっつも\n泣くハメになるのにね。",
+        "EN": "Something must \nhave happened to \nhis computer. I \ntold him to back \nup his work and \nget a laptop.",
+        "FR": "Je suis sûre que \nc'est son \nordinateur. Je lui \nai pourtant dit de \nfaire des \nsauvegardes et de \ns'acheter un \nportable !",
+        "DE": "Es muss etwas mit \nseinem Computer \nsein. Ich habe ihm \ngesagt, er soll \nSicherungskopien \nanlegen und sich \neinen Laptop \nbesorgen.",
+        "ES": "Le habrá pasado \nalgo a su \nordenador. Le dije \nque hiciera una \ncopia de su \ntrabajo y que se \ncomprase un \nportátil.",
+        "IT": "Dev'essere \nsuccesso qualcosa \nal suo computer. \nGli avevo detto di \nfare una copia del \nlavoro e di \nprendersi un \nportatile!"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 178,
+      "type": "group_6",
+      "texts": {
+        "JA": "さーて。\nそんなコトより、\n仕事、仕事……。",
+        "EN": "Well, he can \nfigure it out. \nI've got work to \ndo.",
+        "FR": "Bon, il va se \ndébrouiller. Moi \nj'ai du travail.",
+        "DE": "Na, das soll er \nselbst sehen. Ich \nhab noch zu \narbeiten.",
+        "ES": "Bueno, logrará \nresolverlo. Tengo \ntrabajo que hacer.",
+        "IT": "Beh, troverà una \nsoluzione. Io devo \nlavorare!"
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 184,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。",
+        "EN": "Hi, Mom.",
+        "FR": "Salut m'man.",
+        "DE": "Hi, Mama.",
+        "ES": "Hola, mamá.",
+        "IT": "Ciao mamma."
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 190,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................\n",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 196,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママぁ。",
+        "EN": "Hey, Mom.",
+        "FR": "Dis, m'man...",
+        "DE": "Hey, Mama.",
+        "ES": "Oye, mamá",
+        "IT": "Ehi, mamma."
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 202,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................\n",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 208,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママったらぁ！！",
+        "EN": "Moooom！！ \nHelloooo? ",
+        "FR": "M'man !! MA-MAAAN !",
+        "DE": "Maaaamaaaa!! \nHalloooo? ",
+        "ES": "¡¡Mamaaaá!! \n¿Holaaaa? ",
+        "IT": "Maaammmmaaaa! \nEeehhiiiii!"
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 214,
+      "type": "group_6",
+      "texts": {
+        "JA": "うるさいわねっ！！",
+        "EN": "Be quiet！！",
+        "FR": "Chut !!",
+        "DE": "Sei still!!",
+        "ES": "¡¡Silencio!!",
+        "IT": "Silenzio!"
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 220,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン。\nいったい何のつもり？\nママが仕事をしている\nのが、わからないの？\nママのじゃまをして\n楽しいわけ？",
+        "EN": "Coraline, what do \nyou think you're \ndoing? Can't you \nsee that I'm \nworking?",
+        "FR": "Qu’est-ce qui te \nprend de crier \ncomme ça ? Tu ne \nvois pas que je \ntravaille ? ",
+        "DE": "Coraline, was \nglaubst du, was du \nda tust? Siehst du \nnicht, dass ich \narbeite?",
+        "ES": "Coraline, ¿qué \nhaces? ¿No ves \nque estoy \ntrabajando?",
+        "IT": "Coraline, la vuoi \nfinire? Non vedi \nche sto lavorando? "
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 226,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんなんじゃないわ。\nちょっと、見て欲しい\nものがあるの。",
+        "EN": "There's something \nI want to show \nyou！",
+        "FR": "Je voudrais te \nmontrer quelque \nchose !",
+        "DE": "Ich will dir was \nzeigen!",
+        "ES": "¡Quiero \nenseñarte una \ncosa!",
+        "IT": "C'è una cosa che \nvoglio mostrarti!"
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 232,
+      "type": "group_6",
+      "texts": {
+        "JA": "あー、もう！",
+        "EN": "Okay, Okay...",
+        "FR": "Bon, bon, \nd'accord...",
+        "DE": "Okay, okay...",
+        "ES": "Vale, vale...",
+        "IT": "Ok, ok..."
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 238,
+      "type": "group_6",
+      "texts": {
+        "JA": "わかったわよ。\nいったい、なんだって\nいうの？　\n言ってみなさい。",
+        "EN": "What do you want \nto show me?",
+        "FR": "Qu'est-ce que tu \nveux me montrer ?",
+        "DE": "Was willst du mir \nzeigen?",
+        "ES": "¿Qué quieres \nenseñarme?",
+        "IT": "Cosa vuoi \nmostrarmi?"
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 244,
+      "type": "group_6",
+      "texts": {
+        "JA": "あのね。\nリビングルームで、\nへんなとびらを\n見つけたの。",
+        "EN": "I found a tiny \ndoor in the living \nroom.",
+        "FR": "J'ai trouvé une \npetite porte dans \nle salon.",
+        "DE": "Ich hab im \nWohnzimmer eine \nwinzige Tür \ngefunden.",
+        "ES": "He encontrado una \npuerta diminuta en \nel salón.",
+        "IT": "Ho trovato una \nporticina in \nsoggiorno."
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 250,
+      "type": "group_6",
+      "texts": {
+        "JA": "小さなとびら\nなんだけど、カベ紙で\n隠されてて……。\nあのとびらの\n向こうは、どうなってる\nのかなって。",
+        "EN": "The door's covered \nwith wallpaper. I \nwant to see what's \non the other side.",
+        "FR": "Elle est \nrecouverte de \npapier peint. Je \nveux voir ce \nqu’il y a de \nl’autre côté.",
+        "DE": "Die Tür ist mit \nTapete zugeklebt. \nIch will wissen, \nwas auf der \nanderen Seite ist.",
+        "ES": "La puerta está \ntapada con papel \npintado. Quiero \nver qué hay al \notro lado.",
+        "IT": "La porta è \ncoperta dalla \ncarta da parati. \nVorrei sapere cosa \nc'è dall'altra \nparte."
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 256,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうね。\nそのナゾを教えて\nあげるから、\n一つ約束して。",
+        "EN": "Okay, I'll show \nyou what's on the \nother side, but \nyou have to \npromise me \nsomething.",
+        "FR": "Très bien, je \nvais te montrer. \nMais tu dois \nd’abord me \npromettre quelque \nchose.",
+        "DE": "Okay, ich zeige \ndir, was auf der \nanderen Seite ist, \naber du musst mir \nwas versprechen.",
+        "ES": "Vale, te \nenseñaré lo que \nhay al otro lado, \npero tienes que \nprometerme una \ncosa.",
+        "IT": "Ok, ti farò \nvedere cosa c'è \ndall'altra parte, \nma tu devi \npromettermi una \ncosa."
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 262,
+      "type": "group_6",
+      "texts": {
+        "JA": "とびらを開けてあげたら、\nあとはママのジャマを\nぜったいにしないこと。\nわかった？",
+        "EN": "Once I open the \ndoor for you, let \nme finish my work. \nOK?",
+        "FR": "J’ouvre la porte \net après tu me \nlaisses \ntranquille, \nd’accord ?",
+        "DE": "Wenn ich dir die \nTür aufgemacht \nhabe, lässt du \nmich arbeiten. \nOkay?",
+        "ES": "Cuando te abra la \npuerta, me \ndejarás acabar mi \ntrabajo. ¿Vale?",
+        "IT": "Una volta aperta \nquesta porta, mi \nlascerai lavorare. \nIntesi?"
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 268,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん、わかった。\n約束します。",
+        "EN": "No problemo mom. I \npromise.",
+        "FR": "Oui, m'man. Promis.",
+        "DE": "Null problemo, \nMama. Ich \nverspreche es.",
+        "ES": "De acuerdo, mamá. \nTe lo prometo.",
+        "IT": "Certo, mamma. Te \nlo prometto."
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 274,
+      "type": "group_6",
+      "texts": {
+        "JA": "はい。\nそれじゃ、このカギを\nつかって、\n開けてみなさい。",
+        "EN": "Here. Use this key \nto open the door.",
+        "FR": "Tiens. Ouvre la \nporte avec cette \nclé.",
+        "DE": "Hier. Öffne die \nTür mit diesem \nSchlüssel.",
+        "ES": "Aquí. Usa esta \nllave para abrir \nla puerta.",
+        "IT": "Ecco. Usa questa \nchiave per aprire \nla porta."
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 280,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒いカギ\nを受け取りました。",
+        "EN": "You got a Black \nKey.",
+        "FR": "Tu as obtenu une \nclé noire.",
+        "DE": "Du hast einen \nschwarzen \nSchlüssel.",
+        "ES": "Has conseguido una \nLlave Negra.",
+        "IT": "Hai una chiave \nnera."
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 286,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。\n今日もお仕事なの？",
+        "EN": "Hi Mom...you busy?",
+        "FR": "Hé m'man, t'as \nune minute ?",
+        "DE": "Hi, Mama... hast \ndu zu tun?",
+        "ES": "Hola, \nmamá...¿estás \nocupada?",
+        "IT": "Ciao mamma... sei \noccupata?"
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 292,
+      "type": "group_6",
+      "texts": {
+        "JA": "仕事は毎日あるものよ。\nお休みは、たま〜に\nやってくるだけ。\n残念だけどね！",
+        "EN": "Coraline, you know \nwhen it's this \nbusy, we have to \nwork everyday.",
+        "FR": "Coraline, tu sais \nbien que quand on \nest débordé \ncomme ça, on \nn’a pas le temps.",
+        "DE": "Coraline, du \nweißt, wenn so \nviel los ist, \nmüssen wir jeden \nTag arbeiten.",
+        "ES": "Coraline, sabes \nque, cuando \nestamos tan \nocupados, tenemos \nque trabajar todos \nlos días.",
+        "IT": "Coraline, lo sai \nche ho un sacco di \nlavoro in questo \nperiodo."
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 298,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。\nなにして遊んだら\nいいと思う？",
+        "EN": "Mom, what do you \nthink I should do \nnow?",
+        "FR": "Maman, qu'est-ce \nque je pourrais \nfaire à ton avis ?",
+        "DE": "Mama, was meinst \ndu, soll ich jetzt \ntun?",
+        "ES": "Mamá, ¿qué \npiensas que \ndebería hacer?",
+        "IT": "Mamma, cosa posso \nfare ora?"
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 304,
+      "type": "group_6",
+      "texts": {
+        "JA": "昨日も言わなかった\nかしら？\n遊ぶネタぐらいは、\n自分で考えなさいよ。",
+        "EN": "I don't know, \nyou'll find \nsomething to do.",
+        "FR": "Je ne sais pas \nmais réfléchis \ntoi et tu vas \ntrouver.",
+        "DE": "Ich weiß es \nnicht, du wirst \nschon was finden.",
+        "ES": "No lo sé, ya \nencontrarás algo \nque hacer.",
+        "IT": "Non lo so, \ninventati qualcosa."
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 310,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも、なんにも\nないんだもん。\nミシガンのほうが、\nよかったよ。",
+        "EN": "Michigan was so \nmuch more fun.",
+        "FR": "Je préférais où \non habitait avant.",
+        "DE": "In Michigan war \nviel mehr los.",
+        "ES": "Michigan era mucho \nmás divertido.",
+        "IT": "Nel Michigan mi \ndivertivo molto di \npiù."
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 316,
+      "type": "group_6",
+      "texts": {
+        "JA": "学校が始まったら、\n面白くなるわよ。\nそういうものでしょ？",
+        "EN": "Once school starts \nyou won't be so \nbored.",
+        "FR": "Profite donc de \ntes journées \navant la rentrée.",
+        "DE": "Wenn die Schule \nanfängt, ist dir \nnicht mehr so \nlangweilig.",
+        "ES": "En cuanto empiece \nel colegio, no te \naburrirás.",
+        "IT": "Quando la scuola \ncomincerà non ti \nannoierai più."
+      }
+    },
+    {
+      "id": 44,
+      "base_chunk": 322,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。\nパパはどこに行ったの？",
+        "EN": "Mom, where did Dad \ngo?",
+        "FR": "Maman, il est \nparti où papa ?",
+        "DE": "Mama, wo ist Papa \nhin?",
+        "ES": "Mamá, ¿adonde ha \nido papá?",
+        "IT": "Mamma, dov'è \nandato papà?"
+      }
+    },
+    {
+      "id": 45,
+      "base_chunk": 328,
+      "type": "group_6",
+      "texts": {
+        "JA": "チャーリーはお買い物に\n行ったわよ。でも、\nじきに帰ってくるわよ。",
+        "EN": "Your father went \nshopping. He'll be \nback home soon.",
+        "FR": "Ton père est \nsorti faire les \ncourses. Il n'en a \npas pour longtemps.",
+        "DE": "Dein Vater ist \neinkaufen. Er \nkommt bald nach \nHause.",
+        "ES": "Tu padre se ha ido \na comprar. \nVolverá pronto.",
+        "IT": "Tuo padre è \nandato a fare la \nspesa. Tornerà \npresto."
+      }
+    },
+    {
+      "id": 46,
+      "base_chunk": 334,
+      "type": "group_6",
+      "texts": {
+        "JA": "で、いつになったら\n静かにしてくれる\nのかしらね？",
+        "EN": "Do you think you \ncan be quiet for \nme?",
+        "FR": "Tu veux bien \nrester sage s'il \nte plaît ?",
+        "DE": "Meinst du, du \nkönntest mal \nstill sein?",
+        "ES": "¿Podrías hacerme \nun favor y estar \nen silencio?",
+        "IT": "Credi che \nriuscirai a stare \nzitta per un po'?"
+      }
+    },
+    {
+      "id": 47,
+      "base_chunk": 340,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。",
+        "EN": "Hi, Mom.",
+        "FR": "Salut m'man.",
+        "DE": "Hi, Mama.",
+        "ES": "Hola, mamá.",
+        "IT": "Ciao mamma."
+      }
+    },
+    {
+      "id": 48,
+      "base_chunk": 346,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン！\nいい加減に静かにして。\nママに、仕事をさせて\nちょうだい！！",
+        "EN": "Coraline - how \nmany times do I \nhave to tell you??",
+        "FR": "Coraline -- il \nfaut que je te le \ndise comment ?",
+        "DE": "Coraline - wie oft \nmuss ich dir das \nsagen??",
+        "ES": "Coraline \n¿¿cuántas veces \ntengo que \ndecírtelo??",
+        "IT": "Coraline, quante \nvolte devo \nripetertelo?!"
+      }
+    },
+    {
+      "id": 49,
+      "base_chunk": 352,
+      "type": "group_6",
+      "texts": {
+        "JA": "わかったわよ。",
+        "EN": "Oh, all right.",
+        "FR": "Oh, bon, d'accord.",
+        "DE": "Oh, schon gut.",
+        "ES": "Vale, vale.",
+        "IT": "Oh, va bene."
+      }
+    },
+    {
+      "id": 50,
+      "base_chunk": 358,
+      "type": "group_6",
+      "texts": {
+        "JA": "どこに行ってたの？\nコラライン。",
+        "EN": "Where have you \nbeen, Coraline?",
+        "FR": "Où tu étais, \nCoraline ?",
+        "DE": "Wo warst du denn, \nCoraline?",
+        "ES": "¿Dónde has \nestado, Coraline?",
+        "IT": "Dove sei stata, \nCoraline?"
+      }
+    },
+    {
+      "id": 51,
+      "base_chunk": 364,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボビンスキーさんの\nところよ。",
+        "EN": "Mr. Bobinsky's \nhouse.",
+        "FR": "Chez M. Bobinsky.",
+        "DE": "Bei Mr. Bobinsky.",
+        "ES": "En la casa del Sr. \nBobinsky.",
+        "IT": "A casa di Mr. \nBobinsky."
+      }
+    },
+    {
+      "id": 52,
+      "base_chunk": 370,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボビンスキー？\nああ、天井裏に\n住んでるヘンな\nロシア人ね。",
+        "EN": "Bobinsky? That \nweird Russian guy \nin the attic?",
+        "FR": "Bobinsky? Le russe \nà moitié bizarre \nqui vit en haut?",
+        "DE": "Bobinsky? Der \nkomische Russe im \nDachgeschoss?",
+        "ES": "¿Bobinsky? ¿Ese \nruso extraño de \nla buhardilla?",
+        "IT": "Bobinsky? Quel \ntipo strano, \nrusso, che vive \nnella mansarda?"
+      }
+    },
+    {
+      "id": 53,
+      "base_chunk": 376,
+      "type": "group_6",
+      "texts": {
+        "JA": "べつに？\nヘンな人じゃ\nなかったわ。",
+        "EN": "He's not that \nweird.",
+        "FR": "Il n'est pas si \nbizarre que ça.",
+        "DE": "So komisch ist er \nnicht.",
+        "ES": "Tampoco es tan \nextraño.",
+        "IT": "Non è così \nstrano."
+      }
+    },
+    {
+      "id": 54,
+      "base_chunk": 382,
+      "type": "group_6",
+      "texts": {
+        "JA": "そう。\nたしかに、ご近所さんと\n仲良くするのは、\n悪いことじゃないわね。",
+        "EN": "Well, at least \nyou're making \nfriends.",
+        "FR": "Bon, au moins tu \nte fais des amis.",
+        "DE": "Na, wenigstens \nfindest du Freunde.",
+        "ES": "Bueno, al menos \nestás haciendo \namigos.",
+        "IT": "Beh, almeno stai \nfacendo amicizia."
+      }
+    },
+    {
+      "id": 55,
+      "base_chunk": 388,
+      "type": "group_6",
+      "texts": {
+        "JA": "やっほい！\nさあ、料理が\nできあがったぞ。さあ、\nみんなの食事の時間さ！",
+        "EN": "Dinner's ready！",
+        "FR": "Le dîner est \nservi !",
+        "DE": "Das Abendessen ist \nfertig!",
+        "ES": "¡La cena está \nlista!",
+        "IT": "La cena è pronta!"
+      }
+    },
+    {
+      "id": 56,
+      "base_chunk": 394,
+      "type": "group_6",
+      "texts": {
+        "JA": "…………。\nねぇ、今までもなんども\n聞いたけど\n……どうしてウチは、パパが\nご飯をつくってるの？",
+        "EN": "Ugh. Why don't you \never cook, Mom?",
+        "FR": "Berk. Pourquoi tu \nne cuisines \njamais, m'man ?",
+        "DE": "Uäh. Warum kochst \ndu nie, Mama?",
+        "ES": "Puaj. ¿Por qué \nnunca cocinas, \nmamá?",
+        "IT": "Aah. Perché tu \nnon cucini mai, \nmamma?"
+      }
+    },
+    {
+      "id": 57,
+      "base_chunk": 400,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうね。なんども\n答えたわよ。パパが料理、\nママが掃除。\nほら、りっぱな役わり\n分担じゃない？",
+        "EN": "Coraline, I keep \ntelling you+ your \ndad cooks, I \nclean...and you \nstay out of the \nway.",
+        "FR": "Coraline, tu sais \ntrès bien que moi \nje m'occupe du \nménage. C’est \ncomme ça et pas \nautrement...",
+        "DE": "Coraline, wie ich \ndir immer sage+ \nDein Papa kocht, \nich mache \nsauber... und du \nhältst dich raus.",
+        "ES": "Coraline, siempre \nte lo digo+ papá \ncocina, yo \nlimpio... y tú te \nquitas de en medio.",
+        "IT": "Coraline, te l'ho \ngià detto+ tuo \npadre cucina, io \nfaccio le \npulizie... e non \nstare in mezzo ai \npiedi."
+      }
+    },
+    {
+      "id": 58,
+      "base_chunk": 406,
+      "type": "group_6",
+      "texts": {
+        "JA": "あたし、たまにはママの\nつくった料理を食べて\nみたい。",
+        "EN": "Can't you cook \njust once?",
+        "FR": "Tu pourrais pas \ncuisiner... juste \nune fois ?",
+        "DE": "Kannst du nicht \nwenigstens einmal \nkochen?",
+        "ES": "¿No podrías \ncocinar una sola \nvez?",
+        "IT": "Ma non puoi \ncucinare almeno \nuna volta?"
+      }
+    },
+    {
+      "id": 59,
+      "base_chunk": 412,
+      "type": "group_6",
+      "texts": {
+        "JA": "おーおおう。\nカワイイ魔女さんは、\n何がフマンなんだい？\n今日もいいデキじゃないか！",
+        "EN": "Here you go, my \ntwitchy witchy \ngirl！",
+        "FR": "Attention ma puce, \nc'est chaud !",
+        "DE": "Hier, bitte, mein \nkleines \nHexenmädchen!",
+        "ES": "¡Aquí tienes, mi \npequeña \nimpaciente!",
+        "IT": "Ecco qui, \nbambinetta \nstreghetta \ncuriosetta!"
+      }
+    },
+    {
+      "id": 60,
+      "base_chunk": 418,
+      "type": "group_6",
+      "texts": {
+        "JA": "オートミールの粥に\nフダンソウの蒸し煮、\nそれに冷たいアイス\nクリームだ！さあ、\nたくさん食べてごらん。",
+        "EN": "Oatmeal porridge, \nSwiss chard \nbraise, and tofu \nice cream！",
+        "FR": "Croustillon de \nfeuilles de \nblettes \nbraisées... et \nglace au tofu !",
+        "DE": "Haferbrei, \ngeschmorter \nMangold und \nTofu-Eis!",
+        "ES": "¡Gachas de avena, \nestofado con \nacelgas y helado \nde tofu!",
+        "IT": "Porridge, stufato \ndi bietole e \ngelato al tofu!"
+      }
+    },
+    {
+      "id": 61,
+      "base_chunk": 424,
+      "type": "group_6",
+      "texts": {
+        "JA": "どう見たって白と緑の\nスライムよ、これ……。",
+        "EN": "That chard looks \nlike green slime. \nGross-gusting！",
+        "FR": "Ahhh... on dirait \ndes vers de terre. \nC'est dégoûtant !",
+        "DE": "Der Mangold sieht \naus wie grüner \nSchleim. \nEkel-widerlich!",
+        "ES": "Esas acelgas \nparecen cieno \nverde. \n¡Asquer-inmundo!",
+        "IT": "Quelle bietole \nsembrano alghe. \nSuper disgustose!"
+      }
+    },
+    {
+      "id": 62,
+      "base_chunk": 430,
+      "type": "group_6",
+      "texts": {
+        "JA": "やあ、コラライン。\nもう少しで、\n料理ができあがるぞ。\nそうしたら食事にしよう",
+        "EN": "Coraline, dinner \nwill be ready \nsoon！",
+        "FR": "Coraline, le \ndîner est presque \nprêt !",
+        "DE": "Coraline, das \nEssen ist bald \nfertig!",
+        "ES": "¡Coraline, la \ncena estará lista \npronto!",
+        "IT": "Coraline, la cena \nè quasi pronta!"
+      }
+    },
+    {
+      "id": 63,
+      "base_chunk": 436,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ！\nちょっと見て欲しいの！",
+        "EN": "Mom, can you take \na look?",
+        "FR": "Maman, tu peux \nvenir voir ?",
+        "DE": "Mama, kommst du \nmal gucken?",
+        "ES": "¿Mamá, puedes \nechar un vistazo?",
+        "IT": "Mamma, puoi dare \nun'occhiata?"
+      }
+    },
+    {
+      "id": 64,
+      "base_chunk": 442,
+      "type": "group_6",
+      "texts": {
+        "JA": "もぉ、ダメよ！ \nちょうど今忙しいの！\n後にしてちょうだい！",
+        "EN": "Coraline, I'm \nstill busy. I'll \nlook at it later.",
+        "FR": "Pas maintenant \nCoraline. Je n'ai \npas le temps.",
+        "DE": "Coraline, ich hab \nimmer noch zu tun. \nIch seh's mir \nspäter an.",
+        "ES": "Coraline, sigo \nocupada. Lo \nmiraré más tarde.",
+        "IT": "Coraline, sto \nancora lavorando. \nCi guardo dopo."
+      }
+    },
+    {
+      "id": 65,
+      "base_chunk": 448,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも！",
+        "EN": "But....",
+        "FR": "Mais...",
+        "DE": "Aber...",
+        "ES": "Pero...",
+        "IT": "Ma..."
+      }
+    },
+    {
+      "id": 66,
+      "base_chunk": 454,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン！\nあなたの、くだらない\n遊びでママのジャマを\nしないで！！",
+        "EN": "Coraline don’t \nbother me with \nsilly stuff right \nnow！",
+        "FR": "Ne me dérange pas \nmaintenant avec \ntes broutilles !",
+        "DE": "Coraline, stör \nmich doch jetzt \nnicht mit so einem \nBlödsinn!",
+        "ES": "¡Coraline, no me \nmolestes ahora con \nesas tonterías!",
+        "IT": "Coraline, non \nvoglio essere \ndisturbata con \nqueste sciocchezze."
+      }
+    },
+    {
+      "id": 67,
+      "base_chunk": 460,
+      "type": "group_6",
+      "texts": {
+        "JA": "もうイイ！\nママなんて知らない！",
+        "EN": "Fine, forget it.",
+        "FR": "Bon, très bien.",
+        "DE": "Okay, vergiss es.",
+        "ES": "Bien, olvídalo.",
+        "IT": "Ok, non \npreoccuparti."
+      }
+    },
+    {
+      "id": 68,
+      "base_chunk": 466,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ！\nネズミが……。",
+        "EN": "Hey, Mom. A mouse \nis....",
+        "FR": "Hé m'man. Il y a \nune souris...",
+        "DE": "Hey, Mama. Eine \nMaus ist...",
+        "ES": "Oye, mamá. Un \nratón es...",
+        "IT": "Ehi mamma. C'è un \ntopo che..."
+      }
+    },
+    {
+      "id": 69,
+      "base_chunk": 472,
+      "type": "group_6",
+      "texts": {
+        "JA": "ちょ、ちょっと、\n今は話しかけないで……。",
+        "EN": "Not right now \nCoraline！",
+        "FR": "Plus tard \nCoraline !",
+        "DE": "Nicht jetzt, \nCoraline!",
+        "ES": "¡Ahora no, \nCoraline!",
+        "IT": "Non ora Coraline!"
+      }
+    },
+    {
+      "id": 70,
+      "base_chunk": 478,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。\n聞いてほしいことが\nあるの。",
+        "EN": "Mom, I need to \ntalk to you about \nsomething.",
+        "FR": "Maman, il faut que \nje te parle de \nquelque chose.",
+        "DE": "Mama, ich muss mit \ndir über etwas \nreden.",
+        "ES": "Mamá, tengo que \nhablar contigo de \nuna cosa.",
+        "IT": "Mamma, ho bisogno \ndi dirti una cosa."
+      }
+    },
+    {
+      "id": 71,
+      "base_chunk": 484,
+      "type": "group_6",
+      "texts": {
+        "JA": "ん〜、いいわよ。\nちょうど今、ひとくぎり\nついたところだしね。",
+        "EN": "Fine, but make it \nquick.",
+        "FR": "Bon, je te donne \nune minute.",
+        "DE": "Schön, aber \nmach's kurz.",
+        "ES": "Bien, pero hazlo \nrápido.",
+        "IT": "Ok, ma fai veloce."
+      }
+    },
+    {
+      "id": 72,
+      "base_chunk": 490,
+      "type": "group_6",
+      "texts": {
+        "JA": "それで？　どうしたの？",
+        "EN": "And then what \nhappened?",
+        "FR": "Et après, \nqu'est-ce qu'il \ns'est passé ?",
+        "DE": "Und was ist dann \npassiert?",
+        "ES": "¿Y entonces qué \npasó?",
+        "IT": "E poi cos'è \nsuccesso?"
+      }
+    },
+    {
+      "id": 73,
+      "base_chunk": 496,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふーん？\nボタンの目、ねぇ。",
+        "EN": "...button eyes?",
+        "FR": "... des boutons à \nla place des yeux ?",
+        "DE": "... Knopfaugen?",
+        "ES": "¿...ojos de \nbotones?",
+        "IT": "... occhi con i \nbottoni?"
+      }
+    },
+    {
+      "id": 74,
+      "base_chunk": 502,
+      "type": "group_6",
+      "texts": {
+        "JA": "ほんとよ！\nほんとに、ほんと！\nママはね、ママだけ\nじゃないの！それに、\nパパもパパじゃないのよ。",
+        "EN": "It's true - you \nhave to believe \nme！",
+        "FR": "Je t'assure que \nc'est vrai !",
+        "DE": "Es ist wahr - du \nmusst mir glauben!",
+        "ES": "Es verdad, \n¡tienes que \ncreerme!",
+        "IT": "È vero, devi \ncredermi!"
+      }
+    },
+    {
+      "id": 75,
+      "base_chunk": 508,
+      "type": "group_6",
+      "texts": {
+        "JA": "あっちの世界にはね、\nママがもう一人いて、\nパパもいるの。みんな目が\nボタンでね。それに……\nあっちのママの料理は\nと〜ってもおいしいの！",
+        "EN": "There was an Other \nWorld with an \nOther Mother and \nFather. Both of \nthem have buttons \nfor eyes...and the \nother mother can \ncook chicken.",
+        "FR": "Il y avait un \nAutre Monde avec \nune Autre Mère et \nun Autre Père. \nIls avaient tous \nles deux des \nboutons à la \nplace des yeux... \net l’autre mère \na fait du poulet.",
+        "DE": "Da war eine andere \nWelt mit einer \nanderen Mutter und \neinem anderen \nVater. Beide haben \nKnöpfe statt \nAugen... und die \nandere Mutter kann \nHühnchen kochen.",
+        "ES": "Había Otro Mundo \ncon Otra Madre y \nOtro Padre. Ambos \ntenían botones en \nlugar de ojos... y \nla otra madre \nsabía cocinar \npollo.",
+        "IT": "C'era un altro \nmondo con un'altra \nmadre e un altro \npadre. Entrambi \navevano dei \nbottoni al posto \ndegli occhi... e \nl'altra madre sa \ncucinare il pollo."
+      }
+    },
+    {
+      "id": 76,
+      "base_chunk": 514,
+      "type": "group_6",
+      "texts": {
+        "JA": "はいはい、すてきな話ね。",
+        "EN": "Great. That's a \nlovely story.",
+        "FR": "Bon, c'est une \nsuper histoire.",
+        "DE": "Toll. Das ist eine \nhübsche \nGeschichte.",
+        "ES": "Genial. Es una \nhistoria \nencantadora.",
+        "IT": "Fantastico! Un \nbellissimo \nracconto."
+      }
+    },
+    {
+      "id": 77,
+      "base_chunk": 520,
+      "type": "group_6",
+      "texts": {
+        "JA": "信じてないでしょ。",
+        "EN": "You don't believe \nme, do you?",
+        "FR": "Tu ne me crois \npas, c'est ça ?",
+        "DE": "Du glaubst mir \nnicht, was?",
+        "ES": "No me crees, \n¿verdad?",
+        "IT": "Non mi credi, vero?"
+      }
+    },
+    {
+      "id": 78,
+      "base_chunk": 526,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんなことないわよ。\nでも、そういう話がもっと\n好きな人とお話ししてきた\n方がいいんじゃない？",
+        "EN": "Maybe you should \nask someone else.  \nYou know, get a \nsecond opinion.",
+        "FR": "Parles-en à \nquelqu’un \nd’autre et tu \nverras bien ce \nqu’il en pense.",
+        "DE": "Vielleicht \nsolltest du noch \njemanden fragen. \nEine zweite \nMeinung einholen, \nweißt du.",
+        "ES": "Quizás deberías \ncontárselo a \nalguien más.  Ya \nsabes, buscar una \nsegunda opinión.",
+        "IT": "Forse dovresti \nchiedere a qualcun \naltro. Sai, una \nseconda opinione."
+      }
+    },
+    {
+      "id": 79,
+      "base_chunk": 532,
+      "type": "group_6",
+      "texts": {
+        "JA": "地下室のミス・スピンクと\nミス・フォーシブルなら、\nあなたのお話を大歓迎して\nくれると思うわよ。",
+        "EN": "I’m sure Ms. \nSpink and Ms. \nForcible in the \nbasement will be \nhappy to listen to \nyour story.",
+        "FR": "Tiens, essaie les \ndemoiselles Spink \net Forcible. Je \nsuis sûre \nqu’elles seront \nravies de \nt’écouter.",
+        "DE": "Bestimmt hören \nsich Ms. Spink und \nMs. Forcible im \nUntergeschoss gern \ndeine Geschichte \nan.",
+        "ES": "Seguro que a la \nSra. Spink y a la \nSra. Forcible del \nsótano les \nencantará \nescuchar tu \nhistoria.",
+        "IT": "Sono sicura che \nMiss Spink e Miss \nForcible nello \nscantinato \nsarebbero felici \ndi ascoltare la \ntua storia."
+      }
+    },
+    {
+      "id": 80,
+      "base_chunk": 538,
+      "type": "group_6",
+      "texts": {
+        "JA": "もぉ…………。",
+        "EN": "Fine.",
+        "FR": "Bon.",
+        "DE": "Gut. ",
+        "ES": "Bien.",
+        "IT": "Ok."
+      }
+    },
+    {
+      "id": 81,
+      "base_chunk": 544,
+      "type": "group_6",
+      "texts": {
+        "JA": "それじゃ、ママはまた\n仕事をしなきゃ。\nミス・スピンクと\nミス・フォーシブルに\nよろしく言っておいて。",
+        "EN": "Now I have to go \nback to work. \nPlease say hello \nto Ms. Spink and \nMs. Forcible for \nme.",
+        "FR": "Allez, j’ai du \ntravail. Passe le \nbonjour aux \ndemoiselles d’en \nbas pour moi.",
+        "DE": "Und jetzt muss ich \narbeiten. Bitte \ngrüße Ms. Spink \nund Ms. Forcible \nvon mir.",
+        "ES": "Ahora tengo que \nvolver a mi \ntrabajo. Saluda a \nla Sra. Spink y a \nla Sra. Forcible \nde mi parte.",
+        "IT": "Ora devo tornare \nal lavoro. \nSalutami Miss \nSpink e Miss \nForcible."
+      }
+    },
+    {
+      "id": 82,
+      "base_chunk": 550,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。\nあの黒い鍵はどこに\nあるの？",
+        "EN": "Hey, Mom. Where is \nthat black key?",
+        "FR": "Hé, m'man. Elle \nest où la clé \nnoire ?",
+        "DE": "Hey, Mama. Wo ist \nder schwarze \nSchlüssel?",
+        "ES": "Oye, mamá \n¿Dónde está la \nllave negra?",
+        "IT": "Ehi mamma. Dov'è \nquella chiave nera?"
+      }
+    },
+    {
+      "id": 83,
+      "base_chunk": 556,
+      "type": "group_6",
+      "texts": {
+        "JA": "あなたも、あきらめが悪い\nわねぇ。まぁ、いいわ。\nキッチンの棚に入ってる\nから、好きにしなさい。",
+        "EN": "You just don't \nknow when to quit, \ndo you? The key is \nin the drawer in \nthe kitchen.",
+        "FR": "Tu ne t’arrêtes \njamais hein ? La \nclé est dans le \ntiroir de la \ncuisine.",
+        "DE": "Du weißt einfach \nnicht, wann es \ngenug ist, was? \nDer Schlüssel ist \nin der Schublade \nin der Küche.",
+        "ES": "No sabes cuándo \nparar, ¿verdad? \nLa llave está en \nel cajón de la \ncocina.",
+        "IT": "Non capisci \nproprio quando è \nil caso di \nsmetterla, vero? \nLa chiave è nel \ncassetto in cucina."
+      }
+    },
+    {
+      "id": 84,
+      "base_chunk": 562,
+      "type": "group_6",
+      "texts": {
+        "JA": "ミス・スピンクと\nミス・フォーシブルに\nよろしくね。彼女たちなら、\nまちがいなくあなたの\nお話しを気に入って\nくれるわよ。",
+        "EN": "And tell Ms. Spink \nand Ms. Forcible \nthat I said hi. I \nbet they'll love \nyour story.",
+        "FR": "Passe le bonjour \naux Demoiselles \npour moi. Ton \nhistoire va \nsûrement leur \nplaire.",
+        "DE": "Und grüß Ms. \nSpink und Ms. \nForcible von mir. \nIch wette, denen \ngefällt deine \nGeschichte.",
+        "ES": "Y dales saludos a \nla Sra. Spink y a \nla Sra. Forcible. \nApuesto a que les \nencantará tu \nhistoria.",
+        "IT": "E saluta Miss \nSpink e Miss \nForcible da parte \nmia. Sono sicura \nche ameranno il \ntuo racconto."
+      }
+    },
+    {
+      "id": 85,
+      "base_chunk": 568,
+      "type": "group_6",
+      "texts": {
+        "JA": "もう、会ってきたわ。",
+        "EN": "I already visited \nthem.",
+        "FR": "Je suis déjà \nallée les voir.",
+        "DE": "Ich habe sie schon \nbesucht.",
+        "ES": "Ya las he visitado.",
+        "IT": "Sono andata a \ntrovarle."
+      }
+    },
+    {
+      "id": 86,
+      "base_chunk": 574,
+      "type": "group_6",
+      "texts": {
+        "JA": "そう、よかったわね。\nやっぱり、気に入って\nくれたでしょう？",
+        "EN": "And they loved \nyour story, didn't \nthey?",
+        "FR": "Ah oui ? Ton \nhistoire leur a \nplu alors ?",
+        "DE": "Und, hat ihnen \ndeine Geschichte \ngefallen?",
+        "ES": "Y les ha \nencantado, \n¿verdad?",
+        "IT": "Il tuo racconto le \nha fatte \nimpazzire, non è \ncosì?"
+      }
+    },
+    {
+      "id": 87,
+      "base_chunk": 580,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒い鍵\nを手に入れました。",
+        "EN": "You got a Black \nKey.",
+        "FR": "Tu as obtenu une \nclé noire.",
+        "DE": "Du hast einen \nschwarzen \nSchlüssel.",
+        "ES": "Has conseguido una \nLlave Negra.",
+        "IT": "Hai una chiave \nnera."
+      }
+    },
+    {
+      "id": 88,
+      "base_chunk": 586,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\n電源がつきっぱなしの\nままね。",
+        "EN": "Somebody left the \nlight on?",
+        "FR": "Quelqu'un a \nlaissé la \nlumière \nallumée...",
+        "DE": "Hat jemand das \nLicht angelassen?",
+        "ES": "¿Alguien se ha \ndejado la luz \nencendida?",
+        "IT": "Qualcuno ha \nlasciato la luce \naccesa?"
+      }
+    },
+    {
+      "id": 89,
+      "base_chunk": 592,
+      "type": "group_6",
+      "texts": {
+        "JA": "おっかしいなぁ。ママ、\nどこいっちゃったの\nかしら？",
+        "EN": "This is \nodd...Where did \nMom go? ",
+        "FR": "C'est bizarre... \noù elle est \npassée maman ?",
+        "DE": "Das ist komisch... \nWo ist Mama hin?",
+        "ES": "Qué extraño... \n¿Dónde habrá \nido mamá? ",
+        "IT": "Che strano... Dove \nsarà la mamma?"
+      }
+    },
+    {
+      "id": 90,
+      "base_chunk": 598,
+      "type": "group_6",
+      "texts": {
+        "JA": "もぉっ！\nあたしをおいて、\n二人だけで出かけちゃう\nなんて！",
+        "EN": "Why would they go \nout and leave me \nalone?",
+        "FR": "Pourquoi ils \nsortiraient sans \nmoi ?",
+        "DE": "Wieso gehen sie \nweg und lassen \nmich allein?",
+        "ES": "¿Por qué se \nmarchan y me dejan \nsola?",
+        "IT": "Perché dovrebbero \nuscire e lasciarmi \nqui da sola?"
+      }
+    },
+    {
+      "id": 91,
+      "base_chunk": 604,
+      "type": "group_6",
+      "texts": {
+        "JA": "あっちのママが言った\nとおり！二人とも、\nあたしのことなんて、\nなんとも思ってないんだわ。",
+        "EN": "The Other Mother \nwas right... they \nreally don't care \nabout me.",
+        "FR": "L'Autre mère \navait raison... \nils se fichent \nbien de ce que je \nfais moi.",
+        "DE": "Die andere Mutter \nhatte Recht... ich \nbin ihnen wirklich \negal.",
+        "ES": "La Otra Madre \ntiene razón... en \nrealidad no se \npreocupan por mí.",
+        "IT": "L'altra mamma \naveva ragione... a \nloro non importa \nnulla di me."
+      }
+    },
+    {
+      "id": 92,
+      "base_chunk": 610,
+      "type": "group_6",
+      "texts": {
+        "JA": "もぉ〜。ほんっと\n信じられない。ご飯だって\n食べてないのに、だまって\n二人ででかけちゃうなんて！",
+        "EN": "I can't believe \nthey took off and \nleft me with \nnothing to eat！",
+        "FR": "Je n'y crois pas ! \nIls sont partis et \nne m'ont rien \nlaissé à manger !",
+        "DE": "Nicht zu fassen, \ndass sie weg sind \nund mir nichts zu \nessen dagelassen \nhaben!",
+        "ES": "¡No puedo creerme \nque se hayan \nmarchado sin \ndejarme nada de \ncomer!",
+        "IT": "Non ci posso \ncredere, sono \nandati via e mi \nhanno lasciato qui \nsenza niente da \nmangiare!"
+      }
+    },
+    {
+      "id": 93,
+      "base_chunk": 616,
+      "type": "group_6",
+      "texts": {
+        "JA": "ぜったい！あっちのママの\nほうがいいわよ。",
+        "EN": "The Other Mother \nis soooo much \nbetter than my \nreal Mom.",
+        "FR": "L'Autre Mère est \nbien mieux que ma \nvraie mère.",
+        "DE": "Die andere Mutter \nist soooo viel \nbesser als meine \nechte Mama.",
+        "ES": "La Otra Madre es \nmuuucho mejor que \nmi mamá \nauténtica.",
+        "IT": "L'altra mamma è \nmolto più \nsimpatica della \nmia vera mamma."
+      }
+    },
+    {
+      "id": 94,
+      "base_chunk": 622,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒い鍵\nを手に入れました。",
+        "EN": "You got a Black \nKey.",
+        "FR": "Tu as obtenu une \nclé noire.",
+        "DE": "Du hast einen \nschwarzen \nSchlüssel.",
+        "ES": "Has conseguido una \nLlave Negra.",
+        "IT": "Hai una chiave \nnera."
+      }
+    },
+    {
+      "id": 95,
+      "base_chunk": 628,
+      "type": "group_6",
+      "texts": {
+        "JA": "あいもかわらず、\nロクなもんが\n入ってないわよね。",
+        "EN": "As always, there's \nnothing good \ninside.",
+        "FR": "Comme \nd’habitude, il \nn’y a rien de \nbon.",
+        "DE": "Wie immer ist \nnichts Gutes drin.",
+        "ES": "Como siempre, no \nhay nada bueno \ndentro.",
+        "IT": "Nulla di buono qui \ndentro. Come al \nsolito..."
+      }
+    },
+    {
+      "id": 96,
+      "base_chunk": 634,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママもいないし……\nこれから、料理は、\nあっちのママに\nつくってもらおうかなぁ。",
+        "EN": "Mom's not around \neither... Maybe \nI'll have the \nother Mom cook for \nme from now on.",
+        "FR": "Maman n’est pas \nlà non plus... À \npartir de \nmaintenant, je \ndemanderai à mon \nAutre Mère de \npréparer mes \nrepas.",
+        "DE": "Mama ist auch \nnicht da... \nVielleicht lasse \nich ab jetzt die \nandere Mutter für \nmich kochen.",
+        "ES": "Mamá no está por \naquí... Quizás a \npartir de ahora \ntenga que hacerme \nla comida la Otra \nMadre.",
+        "IT": "E la mamma non \nc'è... Potrei \nchiedere all'altra \nmamma di cucinare \nper me da ora in \npoi."
+      }
+    },
+    {
+      "id": 97,
+      "base_chunk": 640,
+      "type": "group_6",
+      "texts": {
+        "JA": "おっかしいなぁ。\nママ、どこいっちゃったの\nかしら？",
+        "EN": "This is \nodd...Where did \nMom go? ",
+        "FR": "C'est bizarre... \noù elle est \npassée maman ?",
+        "DE": "Das ist komisch... \nWo ist Mama hin?",
+        "ES": "Qué extraño... \n¿Dónde habrá \nido mamá? ",
+        "IT": "Che strano... Dove \nsarà la mamma?"
+      }
+    },
+    {
+      "id": 98,
+      "base_chunk": 646,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ、ママ……。\n本当に、あたしを\nおいてどっかに\n行っちゃったの？\nそれとも…………。",
+        "EN": "Dad... Mom... Did \nyou really leave \nme all alone? ",
+        "FR": "Papa... maman... \nvous ne m'auriez \npas laissée toute \nseule, si ?!",
+        "DE": "Papa... Mama... \nHabt ihr mich \nwirklich ganz \nallein gelassen?",
+        "ES": "Papá...mamá... \n¿De verdad me \nhabéis dejado \nsola? ",
+        "IT": "Papà... Mamma... \nmi avete davvero \nlasciata qui da \nsola?"
+      }
+    },
+    {
+      "id": 99,
+      "base_chunk": 652,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママ……パパ……。\nもう、ご飯がおいしく\nないなんて、言わない。",
+        "EN": "Mom... Dad... I \nwon't say our \nmeals are lousy.",
+        "FR": "Maman... papa... \nje ne dirai plus \nque les repas ne \nsont pas bons.",
+        "DE": "Mama... Papa... \nIch will nicht \nsagen, dass unser \nEssen lausig ist.",
+        "ES": "Mamá... Papá... \nNo quería decir \nque nuestras \ncomidas sean \nasquerosas.",
+        "IT": "Mamma... Papà.... \nNon dirò più che \ni vostri piatti \nfanno schifo."
+      }
+    },
+    {
+      "id": 100,
+      "base_chunk": 658,
+      "type": "group_6",
+      "texts": {
+        "JA": "だから…………。",
+        "EN": "So....",
+        "FR": "Dis...",
+        "DE": "Also...",
+        "ES": "Lo....",
+        "IT": "Mi..."
+      }
+    },
+    {
+      "id": 101,
+      "base_chunk": 664,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママ…………。",
+        "EN": "Mom....",
+        "FR": "Maman...",
+        "DE": "Mama...",
+        "ES": "Mamá...",
+        "IT": "Mamma..."
+      }
+    },
+    {
+      "id": 102,
+      "base_chunk": 670,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママ……\n今、どこにいるの？\n……あたし、ママたちを\n助けられなかったの？",
+        "EN": "WHERE ARE \nYOU?！?！?",
+        "FR": "OÙ ÊTES-VOUS ??!",
+        "DE": "WO SEID IHR?!?!",
+        "ES": "¿¡¿¡¿DÓNDE \nESTÁIS?!?!?",
+        "IT": "DOVE SIETE?!?!?!"
+      }
+    },
+    {
+      "id": 103,
+      "base_chunk": 676,
+      "type": "group_6",
+      "texts": {
+        "JA": "ママ……パパ……\nどこにいるの？\nようやく、もどって\nこれたと思ったのに……。",
+        "EN": "Mom... Dad... \nwhere are you?  I \nthought I could \nfinally go home, \nbut...",
+        "FR": "Maman... papa... \noù êtes-vous ? \nJe pensais que \nj'allais enfin \nrentrer mais...",
+        "DE": "Mama... Papa... wo \nseid ihr?  Ich \ndachte, ich \nkönnte endlich \nnach Hause, aber...",
+        "ES": "Mamá... Papá... \n¿dónde estáis?  \nPensaba que, por \nfin, volvería a \ncasa, pero...",
+        "IT": "Mamma... Papà... \nDove siete? \nPensavo di poter \nfinalmente tornare \na casa, ma..."
+      }
+    },
+    {
+      "id": 104,
+      "base_chunk": 682,
+      "type": "group_6",
+      "texts": {
+        "JA": "ようやく……またパパの\n料理が食べられると\n思ったのに…………。",
+        "EN": "I thought I could \nfinally eat my \ndad's meals \nagain...",
+        "FR": "Moi qui pensais \nque j'allais enfin \npouvoir manger les \nrepas de mon \npère...",
+        "DE": "Ich dachte, ich \nkönnte endlich \ndas Essen meines \nVaters wieder \nessen...",
+        "ES": "Pensaba que por \nfin podría volver \na comer las \ncomidas de mi \npapá...",
+        "IT": "Eeeh? Coooomeeee?!"
+      }
+    },
+    {
+      "id": 105,
+      "base_chunk": 688,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 106,
+      "base_chunk": 694,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒いカギを\nさがしてみよう。\n見つけたらカギを\nタッチしてね。",
+        "EN": "Look for a black \nkey. Touch it when \nyou find it.",
+        "FR": "Cherche une clé \nnoire. Pointe-la \ndès que tu l’as \ntrouvée.",
+        "DE": "Suche den \nschwarzen \nSchlüssel. \nBerühre ihn, wenn \ndu ihn findest.",
+        "ES": "Busca una llave \nnegra. Tócala \ncuando la \nencuentres.",
+        "IT": "Cerca una chiave \nnera. Quando la \ntrovi, toccala."
+      }
+    }
+  ]
+}

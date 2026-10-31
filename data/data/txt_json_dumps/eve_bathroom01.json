@@ -1,0 +1,136 @@
+{
+  "file": "eve_bathroom01.bin",
+  "total_dialogues": 10,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 12,
+      "type": "group_6",
+      "texts": {
+        "JA": "わーお！",
+        "EN": "Wow！",
+        "FR": "Ouah !",
+        "DE": "Wow!",
+        "ES": "¡Guau!",
+        "IT": "Wow!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 18,
+      "type": "group_6",
+      "texts": {
+        "JA": "なにこれ。\n虫がいっぱい！",
+        "EN": "What's in here? \nIt's full of \nbugs！ ",
+        "FR": "Il y a quoi \nlà-dedans ? Des \ninsectes ! ",
+        "DE": "Was ist hier drin? \nDas sind lauter \nKäfer!",
+        "ES": "¿Qué hay ahí? \n¡Está lleno de \nbichos! ",
+        "IT": "Cosa c'è dentro? \nÈ pieno di \ninsetti!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 24,
+      "type": "group_6",
+      "texts": {
+        "JA": "うは、すご。\nまーだ、こんなにいるよ。",
+        "EN": "Ugh！ Bugs galore！",
+        "FR": "Berk ! Plein \nd'insectes !",
+        "DE": "Ih! Haufenweise \nKäfer!",
+        "ES": "¡Puaj! ¡Bichos a \nmogollón!",
+        "IT": "Aah! Quanti \ninsetti!"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 30,
+      "type": "group_6",
+      "texts": {
+        "JA": "バスルームで虫たたき",
+        "EN": "Bug smashing in \nthe bathroom",
+        "FR": "Écrabouillage \nd’insectes.",
+        "DE": "Käfer \nzerquetschen im \nBadezimmer.",
+        "ES": "Caza de bichos en \nel baño",
+        "IT": "A caccia di \ninsetti in bagno."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 36,
+      "type": "group_6",
+      "texts": {
+        "JA": "バスルームには、かさかさと\n動き回る虫がいっぱい！",
+        "EN": "The bathroom is \nfull of disgusting \nbugs！",
+        "FR": "La salle de bains \nest pleine \nd’insectes \ndégoûtants !",
+        "DE": "Das Badezimmer ist \nvoller ekliger \nKäfer!",
+        "ES": "¡El baño está \nlleno de bichos \nque se mueven!",
+        "IT": "Il bagno è pieno \ndi insetti \ndisgustosi!"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 42,
+      "type": "group_6",
+      "texts": {
+        "JA": "タッチペンで虫をたたいて、\n退治しよう。",
+        "EN": "Get rid of them by \nswatting them off \nthe wall！",
+        "FR": "Débarrasse-toi \nd’eux en les \nécrasant sur les \nmurs !",
+        "DE": "Werde sie los, \nindem du sie an \nder Wand \nzerklatschst!",
+        "ES": "¡Líbrate de \nellos a manotazos!",
+        "IT": "Eliminali \nschiacciandoli \ncontro la parete!"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 48,
+      "type": "group_6",
+      "texts": {
+        "JA": "緑色の虫をたたくと、\n残り時間が増えて、",
+        "EN": "Smash a green bug, \nyou get more time,",
+        "FR": "Si tu écrases un \ninsecte vert, tu \ngagnes du temps.",
+        "DE": "Durch das \nZerquetschen von \ngrünen Käfern \ngewinnst du mehr \nZeit.",
+        "ES": "Si aplastas un \nbicho verde, \nconsigues más \ntiempo.",
+        "IT": "Se schiacci un \ninsetto verde, \nguadagni più \ntempo."
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 54,
+      "type": "group_6",
+      "texts": {
+        "JA": "紫色の虫をたたくと、\n虫が速く動きだすよ",
+        "EN": "Smash a purple \nbug, the bugs move \nfaster.",
+        "FR": "Si tu écrases un \ninsecte violet, \nles insectes vont \nplus vite.",
+        "DE": "Das Zerquetschen \nvon lila Käfern \nbeschleunigt die \nKäfer.",
+        "ES": "Si aplastas un \nbicho morado, los \nbichos se mueven \nmás rápido.",
+        "IT": "Se schiacci un \ninsetto viola, gli \naltri diventano \npiù veloci."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 60,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒いスニーカー\nを見つけました。",
+        "EN": "You found a pair \nof Black Sneakers.",
+        "FR": "Tu as trouvé des \nbaskets noires.",
+        "DE": "Du hast ein Paar \nschwarze \nTurnschuhe \ngefunden.",
+        "ES": "Has encontrado \nunas Zapatillas \nNegras.",
+        "IT": "Hai trovato un \npaio di Scarpe da \nginnastica nere."
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 66,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

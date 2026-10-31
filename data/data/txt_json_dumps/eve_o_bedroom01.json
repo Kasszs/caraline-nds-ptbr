@@ -1,0 +1,617 @@
+{
+  "file": "eve_o_bedroom01.bin",
+  "total_dialogues": 47,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 41,
+      "type": "group_6",
+      "texts": {
+        "JA": "こんにちわ！\nコラライン！\nこんにちわ！",
+        "EN": "Hello！ Coraline！ \nHello！",
+        "FR": "Hé ! Coraline ! \nSalut !",
+        "DE": "Hallo! Coraline! \nHallo!",
+        "ES": "¡Hola! \n¡Coraline! ¡Hola!",
+        "IT": "Ciao! Coraline! \nCiao!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 47,
+      "type": "group_6",
+      "texts": {
+        "JA": "しゃべった！？",
+        "EN": "You can talk too?",
+        "FR": "Toi aussi tu \nparles ?",
+        "DE": "Du kannst auch \nsprechen?",
+        "ES": "¿Tú también \nsabes hablar?",
+        "IT": "Anche tu parli?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 53,
+      "type": "group_6",
+      "texts": {
+        "JA": "あたりまえだぜ、ベイビー。\n元気かい？",
+        "EN": "Of course！ How \nare you?",
+        "FR": "Évidemment ! \nComment vas-tu ?",
+        "DE": "Natürlich! Wie \ngeht's dir?",
+        "ES": "¡Por supuesto! \n¿Cómo estás?",
+        "IT": "Certo! Come stai?"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 59,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ、進軍だ！\nいざ、ベッドに！\nゆけ、夢の世界へ！！",
+        "EN": "Hey, you！ Keep on \nmarching - \nstraight to bed！",
+        "FR": "Hé, toi ! Va te \ncoucher ! En \navant, marche !",
+        "DE": "Hey, du! Schön \nweiter marschieren \n- direkt ins Bett!",
+        "ES": "¡Eh, tú! ¡No te \npares, directa a \nla cama!",
+        "IT": "Ehi tu! Continua a \ncamminare, dritta \na letto!"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 65,
+      "type": "group_6",
+      "texts": {
+        "JA": "あはははは！\nスゴイ！　こんなの\n信じられないわ！",
+        "EN": "Wow, you guys are \nterrific！",
+        "FR": "Ouah, vous êtes \nsuper !",
+        "DE": "Wow, ihr seid ja \nunglaublich!",
+        "ES": "¡Guau, sois \nincreíbles!",
+        "IT": "Wow, ma siete \nfavolosi!"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 71,
+      "type": "group_6",
+      "texts": {
+        "JA": "気に入ってくれた？",
+        "EN": "Do you like them?",
+        "FR": "Ils te plaisent ?",
+        "DE": "Gefallen sie dir?",
+        "ES": "¿Te gustan?",
+        "IT": "Ti piacciono?"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 77,
+      "type": "group_6",
+      "texts": {
+        "JA": "もちろん！",
+        "EN": "Absolutely！",
+        "FR": "Oh oui !",
+        "DE": "Auf jeden Fall!",
+        "ES": "¡Pues claro!",
+        "IT": "Un sacco!"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 83,
+      "type": "group_6",
+      "texts": {
+        "JA": "よかったわ。\nあなたのために、用意した\n特別な部屋なのよ。",
+        "EN": "Good. This room \nwas made special, \njust for you.",
+        "FR": "Tant mieux. Cette \nchambre, on l'a \nfaite pour toi.",
+        "DE": "Gut. Dieses Zimmer \nwurde speziell \nfür dich gemacht.",
+        "ES": "Bien. Esta \nhabitación se ha \nhecho \nespecialmente para \nti.",
+        "IT": "Bene. Ho voluto \nrendere questa \nstanza speciale \nproprio per te."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 89,
+      "type": "group_6",
+      "texts": {
+        "JA": "ハハッ！\n今日は、ステキな夢を\n見られるにちがいないよ！",
+        "EN": "I'm sure you'll \nhave sweet dreams \ntonight！",
+        "FR": "Je suis sûr que \ntu feras de beaux \nrêves ce soir !",
+        "DE": "Bestimmt werde ich \nheute was Schönes \nträumen!",
+        "ES": "¡Seguro que esta \nnoche tendrás \ndulces sueños!",
+        "IT": "Sono sicuro che \nfarai sogni \nbellissimi \nstanotte!"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 95,
+      "type": "group_6",
+      "texts": {
+        "JA": "さあ。お休みなさい、\nコラライン。\n忘れないでね。わたしたち\nのことを…………。",
+        "EN": "Good night, our \nlittle Coraline. ",
+        "FR": "Bonne nuit, douce \nCoraline !",
+        "DE": "Gute Nacht, unsere \nkleine Coraline. ",
+        "ES": "Buenas noches, \npequeña Coraline. ",
+        "IT": "Buonanotte, mia \npiccola Coraline."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 101,
+      "type": "group_6",
+      "texts": {
+        "JA": "ここは……？\nあたしの部屋？",
+        "EN": "Where am I...? My \nreal room?",
+        "FR": "Où est-ce que je \nsuis ? Dans ma \nvraie chambre ?",
+        "DE": "Wo bin ich...? \nMein echtes Zimmer?",
+        "ES": "¿Dónde estoy...? \n¿Mi auténtica \nhabitación?",
+        "IT": "Dove sono...? La \nmia vera stanza?"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 107,
+      "type": "group_6",
+      "texts": {
+        "JA": "夢なんかじゃ……\nなかったよね？\nボタンのママの料理も、\nパパの歌も、あたしを\n歓迎してくれた\nおもちゃたちも。",
+        "EN": "The dinner and the \ntoys my...other \nparents gave me \nwere great.",
+        "FR": "Le repas... les \njouets que mes... \nautres parents \nm'ont donnés... \nc’est super ici.",
+        "DE": "Das Essen und die \nSpielsachen, die \nmir meine... \nanderen Eltern \ngegeben haben, \nwaren toll.",
+        "ES": "La cena y los \njuguetes que me \nhan dado mis... \notros padres han \nsido geniales.",
+        "IT": "La cena e i \ngiocattoli, tutto \nquello che... mi \nhanno dato i miei \naltri genitori è \nfantastico."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 113,
+      "type": "group_6",
+      "texts": {
+        "JA": "また、\n会いに行けるかな……。",
+        "EN": "I wonder if I can \ngo back.",
+        "FR": "Je me demande si \nje peux rentrer.",
+        "DE": "Ich frage mich, ob \nich zurück kann.",
+        "ES": "Me pregunto si \npodría volver.",
+        "IT": "Mi chiedo se \nriuscirò a \ntornare indietro."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 119,
+      "type": "group_6",
+      "texts": {
+        "JA": "こんにちわ！\nコラライン！\nこんにちわ！",
+        "EN": "Hello！ Coraline！ \nHello！",
+        "FR": "Hé ! Coraline ! \nSalut !",
+        "DE": "Hallo! Coraline! \nHallo!",
+        "ES": "¡Hola! \n¡Coraline! ¡Hola!",
+        "IT": "Ciao! Coraline! \nCiao!"
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 125,
+      "type": "group_6",
+      "texts": {
+        "JA": "おかえり、ベイビー。\nまっていたぜ。",
+        "EN": "Welcome back！ I \nwas waiting for \nyou.",
+        "FR": "Content de te \nrevoir ! Je \nt'attendais.",
+        "DE": "Willkommen \nzurück! Ich hab \nauf dich gewartet.",
+        "ES": "¡Bienvenida! \nEstaba \nesperándote.",
+        "IT": "Bentornata! Ti \nstavo aspettando."
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 131,
+      "type": "group_6",
+      "texts": {
+        "JA": "進軍！　進軍せよ！！",
+        "EN": "March on！ March \non！！",
+        "FR": "En avant toute !",
+        "DE": "Weiter \nmarschieren! \nWeiter marschieren!",
+        "ES": "¡En marcha! \n¡¡En marcha!!",
+        "IT": "Avanti, avanti!"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 137,
+      "type": "group_6",
+      "texts": {
+        "JA": "く〜るく〜るく〜る\nく〜るく〜るく〜る\nく〜るく〜るく〜る\nく〜るく〜るく〜る",
+        "EN": "Cuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo ",
+        "FR": "Coucou coucou \ncoucou coucou \ncoucou coucou \ncoucou coucou \ncoucou coucou ",
+        "DE": "Kuckuck kuckuck \nkuckuck kuckuck \nkuckuck kuckuck \nkuckuck kuckuck ",
+        "ES": "Cucú cucú cucú \ncucú cucú cucú \ncucú cucú cucú \ncucú ",
+        "IT": "Cucù cucù cucù \ncucù cucù Cucù \ncucù cucù cucù \ncucù"
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 143,
+      "type": "group_6",
+      "texts": {
+        "JA": "トンボのヘアピン\nを見つけました。",
+        "EN": "You found a \nDragonfly Hairpin.",
+        "FR": "Tu as trouvé une \népingle libellule.",
+        "DE": "Du hast eine \nLibellen-\nHaarspange ",
+        "ES": "Has encontrado una \nHorquilla de \nLibélula.",
+        "IT": "Hai trovato un \nfermaglio per \ncapelli a forma di \nlibellula."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 149,
+      "type": "group_6",
+      "texts": {
+        "JA": "プレゼント！\nぼくらからのプレゼント！",
+        "EN": "Here's the present \nfrom us！",
+        "FR": "Voici un cadeau de \nnotre part à \nnous !",
+        "DE": "Hier ist das \nGeschenk von uns!",
+        "ES": "¡Aquí está \nnuestro regalo!",
+        "IT": "Questo è il \nnostro regalo!"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 155,
+      "type": "group_6",
+      "texts": {
+        "JA": "ありがとう！\n本当にうれしいわ。",
+        "EN": "Thanks, that's so \nnice of you！.",
+        "FR": "Merci, vous êtes \nvraiment gentils.",
+        "DE": "Danke, das ist so \nnett von dir!",
+        "ES": "¡Gracias, muy \namable por tu \nparte!",
+        "IT": "Grazie, che \ngentili!"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 161,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン！\nコラライン！\nボタンの目をつけよう！\nコラライン！",
+        "EN": "Coraline！ \nCoraline！ Get \nbutton eyes, \nCoraline！",
+        "FR": "Coraline ! \nCoraline ! Mets \ndes boutons, \nCoraline !",
+        "DE": "Coraline! \nCoraline! Nimm \nKnopfaugen, \nCoraline!",
+        "ES": "¡Coraline! \n¡Coraline! \n¡Consigue los \nojos de botones, \nCoraline!",
+        "IT": "Coraline! \nCoraline! Fatti \nmettere i bottoni \nsugli occhi, \nCoraline!"
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 167,
+      "type": "group_6",
+      "texts": {
+        "JA": "よぉ、ベイビー。\n早くボタンを\nつけちまいなよ。\nクールに決まってるぜ。",
+        "EN": "HEY Coraline！ Get \nbuttons eyes now. \nThen you will be \ncool, too！",
+        "FR": "Hé Coraline ! \nMets des boutons \nsur tes yeux. Tu \nseras comme tout \nle monde !",
+        "DE": "HEY, Coraline! Hol \ndir jetzt \nKnopfaugen. Dann \nbist du auch cool!",
+        "ES": "¡Eh, Coraline! \nConsigue ojos de \nbotones. ¡Y \ntambién serás \nelegante!",
+        "IT": "Ehi Coraline! \nFatti cucire i \nbottoni sugli \nocchi! Così sarai \nbellissima anche \ntu!"
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 173,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボタンだ！　ボタンだ！",
+        "EN": "Buttons！ Buttons！",
+        "FR": "Des boutons ! Des \nboutons !",
+        "DE": "Knöpfe! Knöpfe!",
+        "ES": "¡Botones! \n¡Botones!",
+        "IT": "Bottoni! Bottoni!"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 179,
+      "type": "group_6",
+      "texts": {
+        "JA": "く〜るく〜るく〜る\nく〜るく〜るく〜る\nく〜るく〜るく〜る\nく〜るく〜るく〜る",
+        "EN": "Cuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo ",
+        "FR": "Coucou coucou \ncoucou coucou \ncoucou coucou \ncoucou coucou \ncoucou coucou ",
+        "DE": "Kuckuck kuckuck \nkuckuck kuckuck \nkuckuck kuckuck \nkuckuck kuckuck ",
+        "ES": "Cucú cucú cucú \ncucú cucú cucú \ncucú cucú cucú \ncucú ",
+        "IT": "Cucù cucù cucù \ncucù cucù Cucù \ncucù cucù cucù \ncucù"
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 185,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうだ……。\nいつも、この世界で寝たら、\n次の朝は本当の世界に\n帰ってたんだっけ。",
+        "EN": "You know what... \neverytime I fell \nasleep in this \nworld, I woke up \nin the real world.",
+        "FR": "C'est bizarre... \nà chaque fois que \nje m'endors ici, \nje me réveille \ndans le monde \nréel.",
+        "DE": "Weißt du was... \nImmer, wenn ich in \ndieser Welt \neingeschlafen bin, \nbin ich in der \nechten Welt \naufgewacht.",
+        "ES": "Ya sé... cada vez \nque me duermo en \neste mundo, \ndespierto en el \nmundo real.",
+        "IT": "Sai una cosa... \nogni volta che mi \naddormento in \nquesto mondo, mi \nrisveglio nel \nmondo reale."
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 191,
+      "type": "group_6",
+      "texts": {
+        "JA": "もしかしたら、\nここで寝たら帰られるかも。\nどうしよう、\n寝てみようかしら……？",
+        "EN": "I might be able to \nwake up in the \nreal world when I \ngo to sleep here. \nWhat should I \ndo?...Should I \nsleep here?",
+        "FR": "Peut-être que je \nme réveillerai \ndans le monde \nréel si je me \ncouche. \nQu’est-ce que je \nfais ? Je dors ici \n?",
+        "DE": "Vielleicht wache \nich in der echten \nWelt auf, wenn ich \nhier einschlafe. \nWas soll ich \ntun?... Soll ich \nhier schlafen?",
+        "ES": "Quizá pueda \ndespertar en el \nmundo real cuando \nme duerma aquí. \n¿Qué debería \nhacer?...¿Dormirme \n",
+        "IT": "Potrei \nrisvegliarmi nel \nmondo reale quando \nvado a dormire \nqui. Cosa dovrei \nfare? ... \nAddormentarmi qui?"
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 197,
+      "type": "group_6",
+      "texts": {
+        "JA": "神さま……。\nパパ……ママ……。\nきっと、\nこれで帰られるから。",
+        "EN": "Mom and Dad... \nI'll be home... \nsoon.",
+        "FR": "Maman... Papa... \nJe vais \nbientôt...rentrer.",
+        "DE": "Mama und Papa... \nIch bin bald... zu \nHause.",
+        "ES": "Papá y mamá... \nVolveré a casa... \npronto.",
+        "IT": "Mamma e papà... \nsarò presto... a \ncasa."
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 203,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ〜……\nすっごい悪夢を\n見ちゃった……。それに、\nここ、は…………？",
+        "EN": "Wow, that was the \nworst nightmare \nI've ever had.",
+        "FR": "Oh là là, je \nn'avais jamais \nfait un cauchemar \npareil !",
+        "DE": "Wow, das war der \nschlimmste \nAlbtraum meines \nLebens.",
+        "ES": "Guau, ha sido la \npeor pesadilla que \nhe tenido nunca.",
+        "IT": "Wow, è stato il \npeggiore incubo \ndella mia vita."
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 209,
+      "type": "group_6",
+      "texts": {
+        "JA": "うそ……。\n本当の世界に\n帰ってないわ……。",
+        "EN": "Oh no... I'm still \nin the other \nworld！",
+        "FR": "Oh non... je suis \ntoujours dans \nl'autre monde !",
+        "DE": "Oh nein... Ich bin \nimmer noch in der \nanderen Welt!",
+        "ES": "Oh, no... ¡Sigo \nen el otro mundo!",
+        "IT": "Oh no... sono \nancora nell'altro \nmondo!"
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 215,
+      "type": "group_6",
+      "texts": {
+        "JA": "こんなのって……\nこんなのって……。\nもぅ、\nどうしたらいいのよっ！！",
+        "EN": "What do I do?",
+        "FR": "Qu’est-ce que je \nfais ?",
+        "DE": "Was tu ich nur?",
+        "ES": "¿Qué hago?",
+        "IT": "Cosa faccio ora?"
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 221,
+      "type": "group_6",
+      "texts": {
+        "JA": "恐ろしいユメ……\nコララインは、もとの\n世界に帰れるのだろうか。",
+        "EN": "Nightmare... can \nCoraline go back \nto the real world?",
+        "FR": "Quel cauchemar... \nCoraline \nretournera-t-elle \ndans le monde \nréel ?",
+        "DE": "Ein Albtraum... \nkann Coraline \nzurück in die \nechte Welt?",
+        "ES": "Una pesadilla.... \n¿podrá Coraline \nvolver al mundo \nreal?",
+        "IT": "Un incubo... \nriuscirà Coraline \na tornare nel \nmondo reale?"
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 227,
+      "type": "group_6",
+      "texts": {
+        "JA": "悪夢に捕まらないように\n逃げよう。もし捕まって\nしまったら、タッチペンで\nこすって逃げ出そう。",
+        "EN": "Run away from the \nnightmare！ If you \nget caught, get \naway by rubbing \nthe Touch Screen \nwith the stylus.",
+        "FR": "Échappe-toi de ce \ncauchemar ! Si tu \nte fais attraper, \néchappe-toi en \nfrottant le stylet \nsur l’écran \ntactile.",
+        "DE": "Lauf weg vor dem \nAlbtraum! Wenn du \ngefangen wirst, \nentkommst du, \nindem du mit dem \nTouchpen auf den \nBildschirm \nstreichst.",
+        "ES": "¡Escapa de la \npesadilla! Si te \natrapa, escapa \nfrotando la \npantalla táctil \ncon el lápiz.",
+        "IT": "Sfuggi all'incubo! \nSe ti prende, \nliberati \nstrofinando lo \nschermo con lo \nstilo."
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 233,
+      "type": "group_6",
+      "texts": {
+        "JA": "たまに走って来る黒猫を\nタッチすると、一緒に\n歩いてくれるよ。",
+        "EN": "Sometimes, if you \ntouch the black \ncat when it's \nrunning, it might \ncome walk with you.",
+        "FR": "Si tu touches le \nchat pendant \nqu’il court, il \nviendra parfois \nmarcher à côté \nde toi.",
+        "DE": "Manchmal kommt die \nKatze mit, wenn du \nsie während des \nLaufens berührst.",
+        "ES": "A veces, si tocas \nal gato negro \ncuando está \ncorriendo, puede \nvenir a andar \ncontigo.",
+        "IT": "A volte, se tocchi \nil gatto mentre \nsta correndo, \nverrà in giro con \nte."
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 239,
+      "type": "group_6",
+      "texts": {
+        "JA": "そのとき、もう一度\n黒猫をタッチすると・・・。",
+        "EN": "And if you touch \nthe black cat one \nmore time...",
+        "FR": "Et si tu touches \nle chat encore une \nfois...",
+        "DE": "Und wenn du die \nKatze noch einmal \nberührst...",
+        "ES": "Y si tocas al gato \nnegro una vez \nmás...",
+        "IT": "E se tocchi il \ngatto un'altra \nvolta..."
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 245,
+      "type": "group_6",
+      "texts": {
+        "JA": "青いブーツ\nを見つけました。",
+        "EN": "You found a pair \nof Blue Boots.",
+        "FR": "Tu as trouvé une \npaire de bottes \nbleues.",
+        "DE": "Du hast ein Paar \nblaue Stiefel \ngefunden.",
+        "ES": "Has encontrado \nunas Botas Azules.",
+        "IT": "Hai trovato un \npaio di Stivali \nblu."
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 251,
+      "type": "group_6",
+      "texts": {
+        "JA": "よぉ、ベイビー。\nクールなブーツだろ？\nボタンとぴったりだぜ。",
+        "EN": "Hey, These boots \nare cool, aren't \nthey? They are \nperfect for \nbuttons.",
+        "FR": "Hé, Elles sont \nbelles ces bottes \nnon ? Parfaites \npour des boutons !",
+        "DE": "Hey! Diese Stiefel \nsind cool, was? \nDie sind perfekt \nfür Knöpfe.",
+        "ES": "Eh. Esas botas son \nelegantes, \n¿verdad? Son \nperfectas para \ngastar los botones.",
+        "IT": "Ehi, Questi \nstivali sono \nstupendi, non è \nvero? Si intonano \nperfettamente con \ni bottoni."
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 257,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン！\nコラライン！\nボタンの目をつけよう！\nコラライン！",
+        "EN": "Coraline！ \nCoraline！ Get \nbutton eyes, \nCoraline！",
+        "FR": "Coraline ! \nCoraline ! Mets \ndes boutons, \nCoraline !",
+        "DE": "Coraline! \nCoraline! Nimm \nKnopfaugen, \nCoraline!",
+        "ES": "¡Coraline! \n¡Coraline! \n¡Consigue los \nojos de botones, \nCoraline!",
+        "IT": "Coraline! \nCoraline! Fatti \nmettere i bottoni \nsugli occhi, \nCoraline!"
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 263,
+      "type": "group_6",
+      "texts": {
+        "JA": "よぉ、ベイビー。\n早くボタンを\nつけちまいなよ。クールに\n決まってるぜ。",
+        "EN": "HEY Coraline！ Get \nbuttons eyes now. \nThen you will be \ncool, too！",
+        "FR": "Hé Coraline ! \nMets des boutons \nsur tes yeux. Tu \nseras comme tout \nle monde !",
+        "DE": "HEY, Coraline! Hol \ndir jetzt \nKnopfaugen. Dann \nbist du auch cool!",
+        "ES": "¡Eh, Coraline! \nConsigue ojos de \nbotones. ¡Y \ntambién serás \nelegante!",
+        "IT": "Ehi Coraline! \nFatti cucire i \nbottoni sugli \nocchi! Così sarai \nbellissima anche \ntu!"
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 269,
+      "type": "group_6",
+      "texts": {
+        "JA": "ボタンだ！ボタンだ！",
+        "EN": "Buttons！ Buttons！",
+        "FR": "Des boutons ! Des \nboutons !",
+        "DE": "Knöpfe! Knöpfe!",
+        "ES": "¡Botones! \n¡Botones!",
+        "IT": "Bottoni! Bottoni!"
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 275,
+      "type": "group_6",
+      "texts": {
+        "JA": "く〜るく〜るく〜るく〜る\nく〜るく〜るく〜るく〜る\nく〜るく〜るく〜るく〜る",
+        "EN": "Cuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo \ncuckoo cuckoo ",
+        "FR": "Coucou coucou \ncoucou coucou \ncoucou coucou \ncoucou coucou \ncoucou coucou ",
+        "DE": "Kuckuck kuckuck \nkuckuck kuckuck \nkuckuck kuckuck \nkuckuck kuckuck ",
+        "ES": "Cucú cucú cucú \ncucú cucú cucú \ncucú cucú cucú \ncucú ",
+        "IT": "Cucù cucù cucù \ncucù cucù Cucù \ncucù cucù cucù \ncucù"
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 281,
+      "type": "group_6",
+      "texts": {
+        "JA": "うーん……。\n見つからないわ。",
+        "EN": "Hmm...... I can't \nfind it.",
+        "FR": "Mince... Je ne \ntrouve rien du \ntout.",
+        "DE": "Hmm... Ich kann es \nnicht finden.",
+        "ES": "Hmm... No lo \nencuentro la llave.",
+        "IT": "Hmm... Non riesco \na trovarlo."
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 287,
+      "type": "group_6",
+      "texts": {
+        "JA": "穴の空いた石には\n不思議な力があります。",
+        "EN": "The 100 year old \ncandy has a \nmagical power.",
+        "FR": "Le bonbon \ncentenaire a un \npouvoir magique.",
+        "DE": "Das 100 Jahre alte \nBonbon hat \nZauberkräfte.",
+        "ES": "El caramelo de 100 \naños tiene \npoderes mágicos.",
+        "IT": "La caramella \nvecchia di \ncent'anni ha un \npotere magico."
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 293,
+      "type": "group_6",
+      "texts": {
+        "JA": "その力で、\n３人の幽霊たちの目を\n見つけることが\nできるのです。\nしかし、それが使える\n場所は限られています。",
+        "EN": "The power will \nhelp you find the \nthree ghosts' \neyes, but you can \nuse it only in a \nlimited area.",
+        "FR": "Le pouvoir magique \nt’aidera à \ntrouver trois yeux \nde fantôme mais \ntu ne peux pas \nl’utiliser \npartout.",
+        "DE": "Mit der \nZauberkraft kannst \ndu die Augen der \ndrei Geister \nfinden, aber sie \nwirkt nur in einem \nbegrenztem Bereich.",
+        "ES": "Los poderes te \nayudarán a \nencontrar los tres \nojos de los \nfantasmas, pero \nsólo puedes \nusarlo en un área \nlimitada.",
+        "IT": "Il potere ti \naiuterà a trovare \ni tre occhi dei \nfantasmi, ma puoi \nusarlo solo in \nun'area limitata."
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 299,
+      "type": "group_6",
+      "texts": {
+        "JA": "画面に石が\n表示されたら、石を\nタッチしてみましょう。\n穴の空いた石をのぞき\n見ることができます。",
+        "EN": "Touch the candy \nwhen it appears on \nthe screen. You \ncan peer inside \nthrough the hole.",
+        "FR": "Touche le bonbon \nlorsqu’il \napparaît sur \nl'écran tactile. \nTu peux voir ce \nqu’il y a à \nl’intérieur à \ntravers le trou.",
+        "DE": "Berühre das \nBonbon, wenn es \nauf dem Bildschirm \nerscheint. Du \nkannst durch das \nLoch schauen.",
+        "ES": "Toca el caramelo \ncuando aparezca en \nla pantalla \ntáctil. Puedes \nmirar a través \ndel agujero.",
+        "IT": "Tocca la caramella \nquando appare \nsullo schermo. \nPuoi sbirciare \nattraverso il buco."
+      }
+    },
+    {
+      "id": 44,
+      "base_chunk": 305,
+      "type": "group_6",
+      "texts": {
+        "JA": "穴の空いた石を覗いて、\nまわりをよく見て\nみましょう。画面の端を\nタッチすると画面が\nスクロールします。",
+        "EN": "Peer into the hole \nand look around. \nYou can scroll the \nviewing area by \ntouching the edge \nof the Touch \nScreen.",
+        "FR": "Regarde à travers \nle trou du bonbon. \nTu peux explorer \nles lieux en \ntouchant les bords \nde l’écran \ntactile.",
+        "DE": "Schau durch das \nLoch und sieh dich \num. Du kannst den \nBlickbereich \nändern, indem du \nden Rand des \nBildschirms \nberührst.",
+        "ES": "Mira dentro del \nagujero y examina \nlos alrededores. \nPuedes desplazar \nel área de \nvisualización \ntocando el borde \nde la pantalla \ntáctil.",
+        "IT": "Sbircia attraverso \nil buco e guardati \nintorno. Puoi far \nscorrere l'area \ninquadrata \ntoccando il bordo \ndello schermo."
+      }
+    },
+    {
+      "id": 45,
+      "base_chunk": 311,
+      "type": "group_6",
+      "texts": {
+        "JA": "幽霊たちの目を\n見つけたら、目に\nタッチしてください。",
+        "EN": "Touch the ghost's \neye when you find \nit！",
+        "FR": "Pointe l’œil de \nfantôme dès que \ntu le trouves !",
+        "DE": "Berühre das \nGeisterauge, wenn \ndu es findest!",
+        "ES": "¡Toca el ojo del \nfantasma cuando lo \nencuentres!",
+        "IT": "Tocca l'occhio del \nfantasma quando lo \ntrovi!"
+      }
+    },
+    {
+      "id": 46,
+      "base_chunk": 317,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

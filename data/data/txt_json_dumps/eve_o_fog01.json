@@ -1,0 +1,266 @@
+{
+  "file": "eve_o_fog01.bin",
+  "total_dialogues": 20,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 17,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわー。\nすっごい霧……\n迷っちゃいそうね。",
+        "EN": "Ugh！ This fog is \nso thick！...I am \nafraid we might \nget lost.",
+        "FR": "Ah mais il y a \ntrop de \nbrouillard ! On \nrisque de se \nperdre !",
+        "DE": "Uäh! Dieser Nebel \nist so dick!... \nIch fürchte, wir \nkönnten uns \nverlaufen.",
+        "ES": "¡Puaj! ¡Esta \nniebla es muy \nespesa!... Me temo \nque podemos \nperdernos.",
+        "IT": "Aagh! Questa \nnebbia è così \nfitta! Di questo \npasso ci perderemo."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 23,
+      "type": "group_6",
+      "texts": {
+        "JA": "すごい霧……。\nでも、もしかしたら、\nこの霧の森を抜けられたら、\n本当の世界に帰られるかも\n……。",
+        "EN": "The fog's so \nthick！ I might be \nable to go home if \nI could only get \nthrough this stuff.",
+        "FR": "Il y a trop de \nbrouillard ! Je \npourrais rentrer \nsi je pouvais \ntrouver mon \nchemin !",
+        "DE": "Der Nebel ist so \ndicht! Vielleicht \nkann ich nach \nHause, wenn ich \nnur durch diesen \nKram komme.",
+        "ES": "¡La niebla es muy \nespesa! Si pudiera \natravesarla, tal \nvez lograría \nllegar a casa.",
+        "IT": "Questa nebbia è \ncosì fitta! Forse \npotrei riuscire a \nrientrare a casa \nse solo riuscissi \na passare di lì."
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 29,
+      "type": "group_6",
+      "texts": {
+        "JA": "こんなところで会う\nなんてね。いったい何を\nしているの？",
+        "EN": "Fancy meeting you \nhere. What are you \ndoing?",
+        "FR": "Tu campes ici ou \nquoi ? Qu'est-ce \nque tu fais ?",
+        "DE": "Dass wir uns hier \ntreffen... Was \nmachst du so?",
+        "ES": "Me alegro de \nencontrarte aquí. \n¿Qué estás \nhaciendo?",
+        "IT": "Che bello \nrivederti. Cosa \nstai facendo?"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 35,
+      "type": "group_6",
+      "texts": {
+        "JA": "見てのとおりだ。\nいや、見てはいられない\nというべきか？",
+        "EN": "I'm having a look \nat the one place I \ncan't go...because \nthere is nothing \nto go to.",
+        "FR": "Je regarde là où \nje ne peux pas \naller...parce \nqu'il n'y a rien \ndedans.",
+        "DE": "Ich seh mir den \neinen Ort an, an \nden ich nicht \nkann... weil es \nnichts zum \nHingehen gibt.",
+        "ES": "Echar un vistazo \nal único lugar al \nque no puedo ir... \nporque no hay \nningún sitio \nadonde ir.",
+        "IT": "Sto dando \nun'occhiata \nall'unico posto in \ncui non posso \nandare... perché \nnon c'è un posto \nin cui andare."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 41,
+      "type": "group_6",
+      "texts": {
+        "JA": "なによ。",
+        "EN": "What?",
+        "FR": "Quoi ?",
+        "DE": "Was?",
+        "ES": "¿Qué?",
+        "IT": "Cosa?"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 47,
+      "type": "group_6",
+      "texts": {
+        "JA": "この森を行ったところで、\nなにもないぞ。この世界は、\nここで終わりだからな。",
+        "EN": "This is the end of \nthis world. ",
+        "FR": "C'est la limite de \nce monde.",
+        "DE": "Das ist das Ende \ndieser Welt.",
+        "ES": "Éste es el fin de \neste mundo. ",
+        "IT": "Questa è la fine \ndi questo mondo."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 53,
+      "type": "group_6",
+      "texts": {
+        "JA": "お、終わり？\n世界が？",
+        "EN": "The End?",
+        "FR": "La limite ?",
+        "DE": "Das Ende?",
+        "ES": "¿El Fin?",
+        "IT": "La Fine?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 59,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうだ。\nこの世界は、あの魔女が\nつくりあげた世界だ。だが、\n本当の世界と同じだけの\nものをつくる力など、\nだれにもない。",
+        "EN": "Yes. The Other \nMother only made \nthe parts of the \nworld she thought \nyou would like.",
+        "FR": "Oui. L'Autre Mère \na juste refait les \nendroits qu'elle \ns'est dit que tu \naimerais.",
+        "DE": "Ja. Die andere \nMutter hat nur die \nTeile der Welt \ngemacht, von denen \nsie dachte, sie \ngefallen dir. ",
+        "ES": "Sí. La Otra Madre \nsólo ha hecho las \npartes del mundo \nque pensaba que te \ngustarían.",
+        "IT": "Sì. L'altra madre \nha creato \nsolamente alcuni \npezzi di mondo, \nquelli che pensava \nti piacessero."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 65,
+      "type": "group_6",
+      "texts": {
+        "JA": "だから、魔女はあの屋敷の\n周りだけをつくって、\nあとは……こうして霧で\n覆ってしまったのだ。",
+        "EN": "So she made the \nPink Palace, a few \nthings nearby and \ncovered the rest \nwith a thick fog.",
+        "FR": "Alors elle a fait \nle palais rose, \ndeux ou trois \ntrucs autour... Et \nelle a recouvert \ntout le reste avec \ndu brouillard.",
+        "DE": "Also machte sie \nden Pinkfarbenen \nPalast, ein paar \nDinge aus der \nNähe und bedeckte \nden Rest mit \ndickem Nebel.",
+        "ES": "Por eso hizo el \nPalacio Rosa, \nalgunas cosas \ncercanas y cubrió \nel resto con una \nespesa niebla.",
+        "IT": "Quindi ha creato \nun Palazzo rosa, \nqualcosa nei \ndintorni, e ha \ncoperto tutto il \nresto con una \nfitta nebbia."
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 71,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんな……それじゃ。",
+        "EN": "So what do I do?",
+        "FR": "Alors je fais quoi \n?",
+        "DE": "Also, was soll ich \ntun?",
+        "ES": "Entonces, ¿qué \nhago?",
+        "IT": "E ora cosa faccio?"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 77,
+      "type": "group_6",
+      "texts": {
+        "JA": "うむ。\nもちろん、この先に\n進んでもなにもない。\n本当の世界に帰ることも\nできない。",
+        "EN": "The only thing you \ncan do, turn \naround and go back.",
+        "FR": "La seule chose que \ntu peux faire, \nc'est demi-tour.",
+        "DE": "Du kannst nur eins \nmachen, umkehren \nund zurück gehen.",
+        "ES": "Lo único que \npuedes hacer es \ndarte la vuelta y \nretroceder.",
+        "IT": "L'unica cosa che \npuoi fare è \ngirarti e tornare \nindietro."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 83,
+      "type": "group_6",
+      "texts": {
+        "JA": "ひきかえすことだな。\nもっとも、行きたい\nというものを止める\nつもりもないが。",
+        "EN": "If you try to keep \nwalking \nforward...don't \nsay I didn't warn \nyou.",
+        "FR": "Si tu continues \ntout droit... ne \nviens pas dire \naprès que je ne \nt'avais pas \nprévenue.",
+        "DE": "Wenn du versuchst, \nweiterzugehen... \nsag nicht, ich \nhätte dich nicht \ngewarnt.",
+        "ES": "Si intentas seguir \ncaminando hacia \ndelante... no \ndigas que no te \navisé.",
+        "IT": "Se continui a \ncamminare in \navanti... non dire \nche non ti avevo \navvertita."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 89,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、\nどうなっちゃってるの？\nここも……なんか真っ白。",
+        "EN": "Hey, what's going \non? ",
+        "FR": "Qu'est-ce qui se \npasse ?",
+        "DE": "Hey, was ist los?",
+        "ES": "Eh, ¿qué está \npasando? ",
+        "IT": "Ehi, cosa succede?"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 95,
+      "type": "group_6",
+      "texts": {
+        "JA": "ああ。\n魔女がアきてきたんだろう。",
+        "EN": "The Beldam is \ngetting tired. The \nworld she created \nis starting to \nfade.",
+        "FR": "La sorcière \ncommence à \nfatiguer. Son \nmonde est en train \nde disparaître.",
+        "DE": "Die Beldam wird \nmüde. Die Welt, \ndie sie geschaffen \nhat, fängt an zu \nverblassen.",
+        "ES": "La Beldam se está \ncansando. El mundo \nque ha creado \nempieza a \ndesaparecer.",
+        "IT": "La megera si sta \nstancando. Il \nmondo che ha \ncreato sta \ncominciando a \nsvanire."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 101,
+      "type": "group_6",
+      "texts": {
+        "JA": "あきてきた？",
+        "EN": "It's starting to \nfade?",
+        "FR": "De disparaître ?",
+        "DE": "Sie fängt an zu \nverblassen?",
+        "ES": "¿Empieza a \ndesaparecer?",
+        "IT": "Sta cominciando a \nsvanire?"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 107,
+      "type": "group_6",
+      "texts": {
+        "JA": "なかなか、うまくいかない\nからな。ここは、魔女が\nつくっていた世界だ。",
+        "EN": "The Beldam spun \nthis world into \nbeing.",
+        "FR": "C'est la sorcière \nqui a tissé ce \nmonde.",
+        "DE": "Die Beldam hat \ndiese Welt \nzusammengesponnen.",
+        "ES": "La Beldam creó \neste mundo.",
+        "IT": "È la megera che \ntiene in vita \ntutto questo mondo."
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 113,
+      "type": "group_6",
+      "texts": {
+        "JA": "魔女がつくるのをやめて\nしまえば……世界は\n溶けてなくなる。\n当然のことだ。",
+        "EN": "Once she gives it \nup, it fades away.",
+        "FR": "Si elle \nl'abandonne, il \ndisparaît.",
+        "DE": "Sobald sie \naufgibt, verblasst \nsie immer mehr.",
+        "ES": "Cuando esté \nderrotada, se \ndesvanecerá.",
+        "IT": "Una volta che lei \nlo abbandona, \nsvanisce."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 119,
+      "type": "group_6",
+      "texts": {
+        "JA": "それで？\nいつまで、こんなところに\nいるつもりだ。",
+        "EN": "And everything in \nthis world \ndisappears.",
+        "FR": "Et tout ce qui va \navec.",
+        "DE": "Und alles in \ndieser Welt \nverschwindet.",
+        "ES": "Y todo lo de este \nmundo \ndesaparecerá.",
+        "IT": "E ogni cosa in \nquesto mondo \nscompare."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 125,
+      "type": "group_6",
+      "texts": {
+        "JA": "世界といっしょに\nなくなってしまうぞ。\nおまえはネコではないの\nだからな。",
+        "EN": "We don't have much \ntime, Coraline.",
+        "FR": "Le temps presse, \nCoraline.",
+        "DE": "Wir haben nicht \nviel Zeit, \nCoraline.",
+        "ES": "No nos queda mucho \ntiempo, Coraline.",
+        "IT": "Non abbiamo molto \ntempo, Coraline."
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 131,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

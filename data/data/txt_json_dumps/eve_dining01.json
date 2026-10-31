@@ -1,0 +1,32 @@
+{
+  "file": "eve_dining01.bin",
+  "total_dialogues": 2,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 11,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれは……\nゆめじゃないよね？\nすばらしかった\nローストチキン！　\n今でも、あの、\nおいしさを思い出せるわ。",
+        "EN": "That can't be a \ndream....the food \nwas just too good！",
+        "FR": "Ce n'est pas \npossible que j'ai \nrêvé ça... le \npoulet était trop \nbon !",
+        "DE": "Das kann kein \nTraum gewesen \nsein... das Essen \nhat einfach zu gut \ngeschmeckt!",
+        "ES": "No puede ser un \nsueño... ¡la \ncomida estaba muy \nbuena!",
+        "IT": "Non può essere \nstato un sogno... \nla cena era troppo \nbuona!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 17,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

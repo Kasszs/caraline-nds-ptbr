@@ -1,0 +1,266 @@
+{
+  "file": "eve_bedroom01.bin",
+  "total_dialogues": 20,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 27,
+      "type": "group_6",
+      "texts": {
+        "JA": "……なんの音？\nなにかが、走り回ってる\nみたいな音がするけど……。",
+        "EN": "What's that sound? \nI hear something \nrunning around...",
+        "FR": "C'est quoi ce \nbruit? J'entends \nquelque chose \ncourir...",
+        "DE": "Was war das für \nein Geräusch? Ich \nhöre etwas \nherumlaufen...",
+        "ES": "¿Qué es ese \nsonido? He oído \nalgo que corría...",
+        "IT": "Cos'è questo \nrumore? Sembra \nqualcuno che \ncorre..."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 33,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、小さなあたしさん。\nあなたも聞こえたでしょ？\nなにかが走り回ってる\n音が。",
+        "EN": "Hey, little me！ I \nheard something \nrunning around. \nDid you hear it \ntoo? ",
+        "FR": "Hé, mini moi ! \nToi aussi tu as \nentendu quelque \nchose ?",
+        "DE": "Hey, kleines Ich!  \nIch hörte etwas \nherumlaufen. Hast \ndu das auch \ngehört? ",
+        "ES": "¡Eh, pequeña \nyo!  He oído algo \nque corría. ¿Lo \nhas oído tú \ntambién? ",
+        "IT": "Ehi, sorellina! Ho \nsentito qualcuno \nche correva. L'hai \nsentito anche tu? "
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 39,
+      "type": "group_6",
+      "texts": {
+        "JA": "それにしても、\n昨夜のパパの料理は\nヒドかったわよねぇ。\n音がなくても、\n眠れなかったもんね。",
+        "EN": "Anyway, \nyesterday's dinner \nwas terrible, \nwasn't it? Because \nof that, I \ncouldn't sleep \neven when it was \nquiet.",
+        "FR": "Quelle horreur ce \ndîner hier soir ! \nJe n’ai même \npas pu \nm’éclipser...",
+        "DE": "Jedenfalls war das \nAbendessen gestern \nfurchtbar, nicht \nwahr? Deshalb \nkonnte ich nicht \nschlafen, obwohl \nes ruhig war.",
+        "ES": "De todos modos, la \ncena de ayer fue \nespantosa, \n¿verdad? Debido a \neso, no pude \ndormir ni siquiera \ncuando todo estaba \nen silencio.",
+        "IT": "Comunque, la cena \ndi ieri era \ndavvero orribile. \nÈ per questo che \nnon sono riuscita \na dormire nemmeno \nquando ormai era \nsceso il silenzio."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 45,
+      "type": "group_6",
+      "texts": {
+        "JA": "さーて。それじゃ、\n正体をたしかめに\n行ってくるわね。\nあなたは、\nわたしのかわりに\nお休みしててねっ。",
+        "EN": "I'm going to find \nout what's making \nthat noise. Take a \ngood rest for me.",
+        "FR": "Il faut que \nj'aille voir d'où \npeut bien venir ce \nbruit. Allez, \nrepose-toi.",
+        "DE": "Ich werde \nrausfinden, was \ndieses Geräusch \nmacht. Ruh dich \nmal schön für \nmich aus.",
+        "ES": "Voy a descubrir \nqué está \nhaciendo ese \nruido. Descansa \npor mí.",
+        "IT": "Devo scoprire \ncos'è tutto \nquesto rumore. \nRiposa bene, mi \nraccomando."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 51,
+      "type": "group_6",
+      "texts": {
+        "JA": "ここは……？\nあたしの部屋？",
+        "EN": "Where am I...? My \nreal room?",
+        "FR": "Où est-ce que je \nsuis ? Dans ma \nvraie chambre ?",
+        "DE": "Wo bin ich...? \nMein echtes Zimmer?",
+        "ES": "¿Dónde estoy...? \n¿Mi auténtica \nhabitación?",
+        "IT": "Dove sono...? La \nmia vera stanza?"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 57,
+      "type": "group_6",
+      "texts": {
+        "JA": "夢なんかじゃ……\nなかったよね？\nボタンのママの料理も、\nパパの歌も、あたしを\n歓迎してくれた\nおもちゃたちも。",
+        "EN": "The dinner and the \ntoys my...other \nparents gave me \nwere great.",
+        "FR": "Le repas... les \njouets que mes... \nautres parents \nm'ont donnés... \nc’est super ici.",
+        "DE": "Das Essen und die \nSpielsachen, die \nmir meine... \nanderen Eltern \ngegeben haben, \nwaren toll.",
+        "ES": "La cena y los \njuguetes que me \nhan dado mis... \notros padres han \nsido geniales.",
+        "IT": "La cena e i \ngiocattoli, tutto \nquello che... mi \nhanno dato i miei \naltri genitori è \nfantastico."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 63,
+      "type": "group_6",
+      "texts": {
+        "JA": "また、\n会いに行けるかな……。",
+        "EN": "I wonder if I can \ngo back.",
+        "FR": "Je me demande si \nje peux rentrer.",
+        "DE": "Ich frage mich, ob \nich zurück kann.",
+        "ES": "Me pregunto si \npodría volver.",
+        "IT": "Mi chiedo se \nriuscirò a \ntornare indietro."
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 69,
+      "type": "group_6",
+      "texts": {
+        "JA": "ただいま。\n小さなあたしさん。",
+        "EN": "I'm home, little \nme！",
+        "FR": "Je suis rentrée, \nmini... moi !",
+        "DE": "Ich bin zu Hause, \nkleines Ich!",
+        "ES": "¡Estoy en casa, \npequeña yo!",
+        "IT": "Sono a casa, \nsorellina!"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 75,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ？　アレは本当に\nゆめだったのかな？",
+        "EN": "Was it all a dream?",
+        "FR": "Tu crois que j'ai \nrêvé ?",
+        "DE": "War das alles nur \nein Traum?",
+        "ES": "¿Ha sido todo un \nsueño?",
+        "IT": "Era solo un sogno?"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 81,
+      "type": "group_6",
+      "texts": {
+        "JA": "それにしても、あなたは\n本当にあたしにそっくりね。\nどうしてかしら？",
+        "EN": "The more I look at \nyou, the more you \nlook like me... \nwhy is that?",
+        "FR": "Plus je te regarde \net plus je trouve \nque tu me \nressembles... \nc'est bizarre non ?",
+        "DE": "Je mehr ich dich \nansehe, desto mehr \nsiehst du wie ich \naus... wie kommt \ndas?",
+        "ES": "Cuanto más te \nmiro, más te \npareces a mí... \n¿por qué?",
+        "IT": "Più ti guardo, \npiù mi somigli... \ncome mai?"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 87,
+      "type": "group_6",
+      "texts": {
+        "JA": "ここは……？\nあたしの部屋？",
+        "EN": "Where am I...? My \nreal room?",
+        "FR": "Où est-ce que je \nsuis ? Dans ma \nvraie chambre ?",
+        "DE": "Wo bin ich...? \nMein echtes Zimmer?",
+        "ES": "¿Dónde estoy...? \n¿Mi auténtica \nhabitación?",
+        "IT": "Dove sono...? La \nmia vera stanza?"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 93,
+      "type": "group_6",
+      "texts": {
+        "JA": "もどってきたんだわ……。",
+        "EN": "I'm back",
+        "FR": "Je suis de retour.",
+        "DE": "Ich bin wieder da.",
+        "ES": "He vuelto",
+        "IT": "Sono tornata."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 99,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん。\nぜったいに夢なんかじゃない。\nぜったいに。\nでも……………………。",
+        "EN": "This can't be a \ndream...",
+        "FR": "Je n'ai pas \nrêvé, c'est \nimpossible...",
+        "DE": "Das kann kein \nTraum sein...",
+        "ES": "Esto debe de ser \nun sueño...",
+        "IT": "Questo non può \nessere un sogno..."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 105,
+      "type": "group_6",
+      "texts": {
+        "JA": "人形がない？",
+        "EN": "Where's that doll?",
+        "FR": "Où elle est la \npoupée ?",
+        "DE": "Wo ist diese Puppe?",
+        "ES": "¿Dónde está esa \nmuñeca?",
+        "IT": "Dov'è quella \nbambola?"
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 111,
+      "type": "group_6",
+      "texts": {
+        "JA": "あの人形……あれが、\n魔女のスパイだったなんて。",
+        "EN": "I cannot believe \nthat doll was the \nBeldam's spy！",
+        "FR": "Je n'arrive pas à \ncroire que l'Autre \nMère se servait \nde la poupée pour \nm'espionner !",
+        "DE": "Nicht zu glauben, \ndass die Puppe der \nSpion der Beldam \nwar!",
+        "ES": "¡No puedo creer \nque esa muñeca \nfuese la espía de \nla Beldam!",
+        "IT": "Non posso credere \nche questa bambola \nfosse la spia \ndella megera!"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 117,
+      "type": "group_6",
+      "texts": {
+        "JA": "じゃあ、\nワイビーは…………。",
+        "EN": "I wonder what \nhappened to \nWybie...",
+        "FR": "Je me demande ce \nqui est arrivé à \nWybie...",
+        "DE": "Ich frage mich, \nwas mit Wybie \npassiert ist...",
+        "ES": "Me pregunto qué \nle habrá pasado a \nWybie...",
+        "IT": "Cosa sarà \nsuccesso a Wybie?"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 123,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ、ママ……。\n今、どこにいるの？？",
+        "EN": "Mom, Dad...? Where \nare you ?",
+        "FR": "Maman, papa... Où \nêtes-vous ?",
+        "DE": "Mama, Papa... Wo \nseid ihr ??",
+        "ES": "Mamá, papá... \n¿¿Dónde \nestáis??",
+        "IT": "Mamma, Papà... \nDove siete??"
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 129,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………。",
+        "EN": ".................\n",
+        "FR": "...",
+        "DE": ".................\n",
+        "ES": ".................\n",
+        "IT": "... ... ... .. .. .. .. .. \n"
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 135,
+      "type": "group_6",
+      "texts": {
+        "JA": "そっか、\nまだ終わってないんだ……。\nあのカギを……\nなんとかしなくちゃ。",
+        "EN": " Okay, time to \ntake care of that \nkey！",
+        "FR": "Bon, je vais \nm'occuper de cette \nclé !",
+        "DE": " Okay, Zeit, mich \num den Schlüssel \nzu kümmern!",
+        "ES": " ¡De acuerdo, es \nla hora de \nocuparse de esa \nllave!",
+        "IT": "Ok, è arrivato il \nmomento di \noccuparmi della \nchiave!"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 141,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

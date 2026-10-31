@@ -1,0 +1,890 @@
+{
+  "file": "eve_living01.bin",
+  "total_dialogues": 68,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 69,
+      "type": "group_6",
+      "texts": {
+        "JA": "あー。他の荷物は片づいて\nないくせに、これだけは\nしっかり出してあるのね。",
+        "EN": "Moving boxes is \nsooo boring！",
+        "FR": "C'est pas drôle \nles cartons !",
+        "DE": "Kisten schleppen \nist sooo \nlangweilig!",
+        "ES": "¡Mover cajas es \ntaaan aburrido!",
+        "IT": "Spostare scatoloni \nè così noioso!"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 75,
+      "type": "group_6",
+      "texts": {
+        "JA": "ミシガンかぁ。\n……引っ越してきた\nばかりなのに、もう\nミシガンがなつかしい\nなんて。",
+        "EN": "We just left \nMichigan, how \ncould I miss it \nalready?",
+        "FR": "On vient \nd'emménager et le \nMichigan me manque \ndéjà !",
+        "DE": "Wir haben Michigan \nerst verlassen, \nwie kann ich es \nschon vermissen?",
+        "ES": "Acabamos de dejar \nMichigan, y ya lo \necho de menos.",
+        "IT": "Abbiamo appena \nlasciato il \nMichigan, non \nriesco a credere \nche già mi manchi!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 81,
+      "type": "group_6",
+      "texts": {
+        "JA": "あーあ。\n帰りたいなぁ。",
+        "EN": "I wish I could go \nback.",
+        "FR": "Si seulement on \nn'avait pas \ndéménagé.",
+        "DE": "Ich wünschte, ich \nkönnte zurück.",
+        "ES": "Me gustaría \nvolver.",
+        "IT": "Magari potessi \ntornare indietro."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 87,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ〜あ……\nホント、いっつ見ても、\nユーウツな絵だわ。",
+        "EN": "This picture's \nsooooo boring！",
+        "FR": "Elle est vraiment \npas drôle cette \nphoto !",
+        "DE": "Dieses Bild ist \nsooooo langweilig!",
+        "ES": "¡Qué foto más \naburrida!",
+        "IT": "Questa foto è \ntrooooppo noiosa!"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 93,
+      "type": "group_6",
+      "texts": {
+        "JA": "なんだって、\nこんな絵をリビングに\nかざっておくのかなぁ。",
+        "EN": "Why on earth did \nwe keep this \npainting?",
+        "FR": "Mais pourquoi on a \ngardé ce tableau ?",
+        "DE": "Warum in aller \nWelt haben wir \ndieses Bild \nbehalten?",
+        "ES": "¿Por qué diablos \nconservamos este \ncuadro?",
+        "IT": "Ma perché diamine \nabbiamo tenuto \nquesto quadro?"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 99,
+      "type": "group_6",
+      "texts": {
+        "JA": "うーん。たしかに、\nこの部屋にはいったと\n思ったんだけどなぁ。\nあの変なネズミ、どこ\nいっちゃったのかなぁ？",
+        "EN": "I thought it ran \nin here... where \ndid it go?",
+        "FR": "Je rêve ou \nquoi... où elle \nest passée ?",
+        "DE": "Ich dachte, sie \nwäre hier \nreingelaufen... wo \nist sie hin?",
+        "ES": "Creía que se \nhabía ido \ncorriendo por \naquí... ¿dónde \nse ha metido?",
+        "IT": "Pensavo fosse \nentrato qui... \ndove sarà andato?"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 105,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれ？\nなんだろう、コレ……。",
+        "EN": "What is this?",
+        "FR": "C'est quoi ça ?",
+        "DE": "Was ist das?",
+        "ES": "¿Qué es esto?",
+        "IT": "Cos'è questo?"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 111,
+      "type": "group_6",
+      "texts": {
+        "JA": "とびら？\nでも、ヘン。なんで、\nとびらの上からカベ紙が\nはってあるわけ？",
+        "EN": "Why is the door \ncovered with \nwallpaper?",
+        "FR": "Pourquoi il y a du \npapier peint sur \ncette porte ?",
+        "DE": "Warum ist die Tür \nmit Tapete \nzugeklebt?",
+        "ES": "¿Por qué está \nempapelada la \npuerta?",
+        "IT": "Perché la porta \nè coperta dalla \ncarta da parati?"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 117,
+      "type": "group_6",
+      "texts": {
+        "JA": "それにしても、\nちっちゃなとびら。\nカベ紙で隠されてるって\nことは……\nヒミツのとびらってこと？",
+        "EN": "Wow！ A tiny \nlittle door！",
+        "FR": "Ouah ! Une toute \npetite porte !",
+        "DE": "Wow! Eine \nwinzigkleine Tür!",
+        "ES": "¡Guau! ¡Una \npuerta diminuta!",
+        "IT": "Wow! Una porticina \nminuscola!"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 123,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわー。\nなんかワクワクするわね。\nでも、どうやったら\n開けられるかな？",
+        "EN": "How do I open it?",
+        "FR": "Comment elle \ns'ouvre ?",
+        "DE": "Wie mache ich sie \nauf?",
+        "ES": "¿Cómo se abre?",
+        "IT": "Come si aprirà?"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 129,
+      "type": "group_6",
+      "texts": {
+        "JA": "はい。\nそれじゃ、このカギを\nつかって、\n開けてみなさい。",
+        "EN": "Here. Use this key \nto open the door.",
+        "FR": "Tiens. Ouvre la \nporte avec cette \nclé.",
+        "DE": "Hier. Öffne die \nTür mit diesem \nSchlüssel.",
+        "ES": "Aquí. Usa esta \nllave para abrir \nla puerta.",
+        "IT": "Ecco. Usa questa \nchiave per aprire \nla porta."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 135,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒いカギ\nを受け取りました。",
+        "EN": "You got a Black \nKey.",
+        "FR": "Tu as obtenu une \nclé noire.",
+        "DE": "Du hast einen \nschwarzen \nSchlüssel.",
+        "ES": "Has conseguido una \nLlave Negra.",
+        "IT": "Hai una chiave \nnera."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 141,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、ママ。\nカギはあるけど、\nノブがないよ？",
+        "EN": "Mom, there's a \nkeyhole, but no \nknob.",
+        "FR": "Il y a une serrure \nmais pas de \npoignée.",
+        "DE": "Mama, da ist ein \nSchlüsselloch, \naber kein Knauf.",
+        "ES": "Mamá, tiene \ncerradura, pero no \ntirador.",
+        "IT": "Mamma, c'è una \nserratura, ma non \nc'è maniglia."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 147,
+      "type": "group_6",
+      "texts": {
+        "JA": "カギをさしこんで。\nそのカギを取っ手にして、\nひっぱれば開くように\nなってるのよ。",
+        "EN": "Insert the key \ninto the keyhole, \nthen turn the key \nand pull on it.  ",
+        "FR": "Mets la clé dans \nle trou de la \nserrure. Après, \ntourne-la et tire \ndessus.",
+        "DE": "Steck den \nSchlüssel ins \nSchlüsselloch, \ndreh ihn um und \nzieh dran.",
+        "ES": "Inserta la llave \nen la cerradura, \ngírala y tira de \nella.  ",
+        "IT": "Inserisci la \nchiave nella \nserratura, poi \ngira la chiave e \ntirala."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 153,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふーん。なるほど。",
+        "EN": "Well, okay... ",
+        "FR": "Euh, d'accord...",
+        "DE": "Also, okay...",
+        "ES": "Vale, de \nacuerdo... ",
+        "IT": "Oh, ok."
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 159,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、なにコレ！？\nレンガのカベ……？\nぜんっぜんオモシロク\nないじゃない！",
+        "EN": "A brick wall? Who \nwould make a door \nfor a brick wall?！",
+        "FR": "Un mur en briques \n? Pourquoi ils ont \nmis une porte \nalors ?!",
+        "DE": "Eine Mauer? Wer \nbaut eine Tür vor \neine Mauer?",
+        "ES": "¿Una pared de \nladrillo? \n¡¿Quién haría \nuna puerta para \nuna pared de \nladrillo?!",
+        "IT": "Un muro di \nmattoni? A cosa \nserve una porta su \nun muro di mattoni?"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 165,
+      "type": "group_6",
+      "texts": {
+        "JA": "そーゆうことよ。\nとびらの向こうは、\nただのカベ。",
+        "EN": "I don't know, \nCoraline.  It's \njust a door to a \nwall.",
+        "FR": "Je ne sais pas... \nÉcoute, c'est \njuste une porte \navec un mur \nderrière.",
+        "DE": "Ich weiß es \nnicht, Coraline. \nEs ist eine Tür \nzu einer Mauer.",
+        "ES": "No lo sé, \nCoraline.  Es una \npuerta que da a \nuna pared.",
+        "IT": "Non lo so, \nCoraline. È solo \nuna porta che dà \nsu un muro."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 171,
+      "type": "group_6",
+      "texts": {
+        "JA": "だいたい、このカベの\n向こうは外なのよ？\nとうぜん、カベがある\nだろうってコトぐらい\n分かるでしょう？",
+        "EN": "Alright Coraline, \nwe made a deal, \nnow please leave \nme alone.",
+        "FR": "Allez Coraline, \nmaintenant que tu \nas vu, laisse-moi \ntravailler.",
+        "DE": "Also gut, \nCoraline, wir \nhaben was \nabgemacht, jetzt \nlass mich bitte in \nRuhe.",
+        "ES": "De acuerdo, \nCoraline, \nteníamos un \ntrato. Ahora, \ndéjame sola.",
+        "IT": "Ascolta, Coraline, \navevamo un patto. \nOra, per favore, \nlasciami in pace."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 177,
+      "type": "group_6",
+      "texts": {
+        "JA": "あーあ。\nほんとツマンナイ\nところだわ。\nね。小さなあたしだって、\nそう思うでしょ？",
+        "EN": "What a boring \nhouse！",
+        "FR": "Il n'y a rien à \nfaire ici !",
+        "DE": "Was für ein \nlangweiliges Haus!",
+        "ES": "¡Qué casa tan \naburrida!",
+        "IT": "Che casa noiosa!"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 183,
+      "type": "group_6",
+      "texts": {
+        "JA": "ミシガンに帰りたい\nなぁ……。みんな、\nあたしを忘れないで\nくれるといいんだけど\n……。",
+        "EN": "I want to go back \nto Michigan soo \nbad. I hope \neveryone remembers \nme...",
+        "FR": "Je veux retourner \ndans le \nMichigan... \nJ’espère \nqu’ils ne \nm’ont pas \noubliée... ",
+        "DE": "Ich möchte so \ngern nach Michigan \nzurück. Ich \nhoffe, alle \nerinnern sich noch \nan mich...",
+        "ES": "Quiero volver a \nMichigan. Espero \nque todos se \nacuerden de mí...",
+        "IT": "Mi piacerebbe un \nsacco tornare nel \nMichigan. Spero \nche tutti si \nricordino ancora \ndi me..."
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 189,
+      "type": "group_6",
+      "texts": {
+        "JA": "どうしたの？\nそのとびらの向こうが\n気になるんでしょ？\n早く開けてみなさい。",
+        "EN": "What happened? \nYou're curious \nwhat's behind the \ndoor, aren't you? \nOpen it. ",
+        "FR": "Qu'est-ce qu'il y \na ? Tu veux savoir \nce qu'il y a \nderrière la \nporte, c'est ça ? \nOuvre-la.",
+        "DE": "Was ist passiert? \nDu bist neugierig, \nwas hinter der \nTür ist, nicht \nwahr? Mach sie auf.",
+        "ES": "¿Qué pasa? \n¿Sientes \ncuriosidad por lo \nque hay detrás de \nla puerta? \nÁbrela. ",
+        "IT": "Cosa succede? Sei \ncurioso di vedere \ncosa c'è oltre la \nporta, non è \nvero? Aprila."
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 195,
+      "type": "group_6",
+      "texts": {
+        "JA": "はい。\nそれじゃ、このカギを\nつかって、\n開けてみなさい。",
+        "EN": "Here. Use this key \nto open the door.",
+        "FR": "Tiens. Ouvre la \nporte avec cette \nclé.",
+        "DE": "Hier. Öffne die \nTür mit diesem \nSchlüssel.",
+        "ES": "Aquí. Usa esta \nllave para abrir \nla puerta.",
+        "IT": "Ecco. Usa questa \nchiave per aprire \nla porta."
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 201,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒いカギ\nを受け取りました。",
+        "EN": "You got a Black \nKey.",
+        "FR": "Tu as obtenu une \nclé noire.",
+        "DE": "Du hast einen \nschwarzen \nSchlüssel.",
+        "ES": "Has conseguido una \nLlave Negra.",
+        "IT": "Hai una chiave \nnera."
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 207,
+      "type": "group_6",
+      "texts": {
+        "JA": "それにしても、レンガの\nカベだなんて……\n気の利かないジョーク\nそのものだわ。がっかり！",
+        "EN": "That brick wall is \nso stupid... I am \nsoooo \ndisappointed！",
+        "FR": "Il est nul ce \nmur... Pff, \nc’est vraiment \npas marrant ici !",
+        "DE": "Diese Mauer ist so \ndoof... Ich bin \nsoooo enttäuscht!",
+        "ES": "Esa pared de \nladrillo es una \nlata... ¡Qué \ndecepción!",
+        "IT": "Questo muro di \nmattoni non ha \nalcun senso... \nSono davvero \ndelusa!"
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 213,
+      "type": "group_6",
+      "texts": {
+        "JA": "うーん。\nまた、\nいなくなっちゃった。",
+        "EN": "Mmmm. It \ndisappeared again.",
+        "FR": "Mince... Elle a \nencore disparu.",
+        "DE": "Mmmm. Es ist \nwieder \nverschwunden.",
+        "ES": "Mmmm. Ha vuelto a \ndesaparecer.",
+        "IT": "Hmm. Sparito di \nnuovo."
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 219,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nカギがささってる……。\nママがやったのかしら？",
+        "EN": "Hey...there's the \nkey in the lock... \nDid Mom do that?",
+        "FR": "Oh mais la clé \nest dans la \nserrure... C'est \nmaman qui l'a mise \nlà ?",
+        "DE": "Hey... da steckt \nder Schlüssel im \nSchloss... Was das \nMama?",
+        "ES": "Eh... la llave \nestá en la \ncerradura... ¿Lo \nha hecho mamá?",
+        "IT": "Ehi... c'è la \nchiave nella \ntoppa... L'avrà \nlasciata la mamma?"
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 225,
+      "type": "group_6",
+      "texts": {
+        "JA": "わーお！\nなにこれ、信じられる？",
+        "EN": "Whoa...",
+        "FR": "Ouah...",
+        "DE": "Boah...",
+        "ES": "Guau...",
+        "IT": "Wow..."
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 231,
+      "type": "group_6",
+      "texts": {
+        "JA": "レンガのカベが\nなくなって……トンネルが\nできてるなんて！！\nすっごいわ！！",
+        "EN": "The brick wall is \ngone...and there's \na tunnel inside！",
+        "FR": "Le mur en briques \na disparu... et il \ny a un tunnel !!",
+        "DE": "Die Mauer ist \nweg... und da ist \nein Tunnel!",
+        "ES": "Ya no está la \npared de \nladrillo... ¡y \nhay un túnel \ndentro!",
+        "IT": "Il muro di mattoni \nè scomparso... e \nc'è un tunnel qui \ndentro!"
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 237,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ〜あ……ホント、\nいっつ見ても、\nユーウツな絵だわ。",
+        "EN": "This picture's \nsooooo boring！",
+        "FR": "Elle est vraiment \npas drôle cette \nphoto !",
+        "DE": "Dieses Bild ist \nsooooo langweilig!",
+        "ES": "¡Qué foto más \naburrida!",
+        "IT": "Questa foto è \ntrooooppo noiosa!"
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 243,
+      "type": "group_6",
+      "texts": {
+        "JA": "あっちの世界で見た\n絵の方が、なんばいも\nイイわよね。",
+        "EN": "The one I saw in \nthe other world is \nmuch cooler.",
+        "FR": "Celle que j'ai vue \ndans l'autre monde \nest bien mieux.",
+        "DE": "Das, was ich in \nder anderen Welt \ngesehen hab, ist \nviel cooler.",
+        "ES": "La que vi en el \notro mundo es \nmucho más \ninteresante.",
+        "IT": "Quella che ho \nvisto nell'altro \nmondo mi piace \nmolto di più."
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 249,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれが、ゆめだったなんて\n思いたくない…………。",
+        "EN": "I hope it wasn't a \ndream.",
+        "FR": "J'espère que je \nn'ai pas rêvé.",
+        "DE": "Ich hoffe, das war \nkein Traum.",
+        "ES": "Espero que no \nfuese un sueño.",
+        "IT": "Spero che non \nfosse solo un \nsogno."
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 255,
+      "type": "group_6",
+      "texts": {
+        "JA": "そう、あの鍵があれば……\nもしかして！",
+        "EN": "If I get the key, \nmaybe I can...",
+        "FR": "Si j'avais la \nclé, je pourrais \npeut-être...",
+        "DE": "Wenn ich den \nSchlüssel kriege, \nkann ich \nvielleicht...",
+        "ES": "Si consiguiese la \nllave, quizás \npodría...",
+        "IT": "Se riesco a \nprocurarmi la \nchiave, forse \npotrei..."
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 261,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんな！\n…………やっぱり、\nあれはゆめだったの？",
+        "EN": "No, it has to be a \ndream！",
+        "FR": "Non, j'ai \nsûrement rêvé !",
+        "DE": "Nein, das muss ein \nTraum gewesen sein!",
+        "ES": "No, ¡tiene que \nser un sueño!",
+        "IT": "No, doveva essere \nun sogno!"
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 267,
+      "type": "group_6",
+      "texts": {
+        "JA": "危険？でも、\nゆめだったのなら\n危険なんて\nあるわけない……。",
+        "EN": "Dangerous? How can \na dream be \ndangerous.",
+        "FR": "Comment un rêve \npourrait-il être \ndangereux ?",
+        "DE": "Gefährlich? Wie \nkann ein Traum \ngefährlich sein?",
+        "ES": "¿Peligroso? \n¿Cómo puede ser \npeligroso un \nsueño?",
+        "IT": "Pericoloso? Come \npuò essere \npericoloso un \nsogno?"
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 273,
+      "type": "group_6",
+      "texts": {
+        "JA": "そう、あの鍵があれば……\nもしかして！",
+        "EN": "If I get the key, \nmaybe I can...",
+        "FR": "Si j'avais la \nclé, je pourrais \npeut-être...",
+        "DE": "Wenn ich den \nSchlüssel kriege, \nkann ich \nvielleicht...",
+        "ES": "Si consiguiese la \nllave, quizás \npodría...",
+        "IT": "Se riesco a \nprocurarmi la \nchiave, forse \npotrei..."
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 279,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、これ……ほんとに？？\nし、信じられる？？　\nこんなことって……。",
+        "EN": "Is this for real?",
+        "FR": "Je rêve ou quoi ?",
+        "DE": "Ist das denn \nwirklich?",
+        "ES": "¿Es real?",
+        "IT": "Ma è vero?"
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 285,
+      "type": "group_6",
+      "texts": {
+        "JA": "扉が閉まってる。\nママが閉めたのかな？\nカギもないし……。",
+        "EN": "The door's locked. \nDid Mom lock it? I \ncan't find the \nkey...",
+        "FR": "La porte est \nfermée. C'est \nmaman qui l'a \nfermée ? Je ne \ntrouve pas la \nclé...",
+        "DE": "Die Tür ist \nabgeschlossen. Hat \nMama sie \nabgeschlossen? Ich \nfinde den \nSchlüssel nicht...",
+        "ES": "La puerta está \ncerrada. ¿La ha \ncerrado mamá? No \nencuentro la \nllave...",
+        "IT": "La porta è chiusa \na chiave. L'avrà \nchiusa la mamma? \nNon riesco a \ntrovare la \nchiave..."
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 291,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうだ。\nあっちのママが、カギを\nもって来なさいって\n言ってたっけ。",
+        "EN": "Oh！ I remember \nnow...the Other \nMother told me to \nbring it to her.",
+        "FR": "Ah oui, je me \nsouviens... \nl'Autre Mère m'a \ndit de lui \napporter.",
+        "DE": "Oh, jetzt weiß \nich's wieder... \ndie andere Mutter \nsagte, ich soll \nihn ihr bringen.",
+        "ES": "Oh, ya recuerdo... \nla Otra Madre me \ndijo que se la \nllevase.",
+        "IT": "Oh, adesso \nricordo... l'altra \nmamma mi ha \nchiesto di \nportargliela."
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 297,
+      "type": "group_6",
+      "texts": {
+        "JA": "黒いカギ\nを取りました。",
+        "EN": "Black Key has been \npicked up.",
+        "FR": "Une clé noire a \nété ramassée.",
+        "DE": "Schwarzer \nSchlüssel wurde \naufgehoben.",
+        "ES": "Se ha recogido la \nLlave Negra.",
+        "IT": "La chiave nera è \nstata presa."
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 303,
+      "type": "group_6",
+      "texts": {
+        "JA": "いやよ。\nもう絶対に、あんたの\nところになんか\n戻らないわ……。",
+        "EN": "No way！ I will \nnever come back \nhere....",
+        "FR": "Jamais de la vie ! \nJe ne reviendrai \njamais ici !",
+        "DE": "Niemals! Ich werde \nnie wieder \nherkommen...",
+        "ES": "¡Ni hablar! No \nvolveré por aquí \nnunca...",
+        "IT": "Scordatelo! Non \ntornerò mai più \nqui..."
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 309,
+      "type": "group_6",
+      "texts": {
+        "JA": "また、パパとママと一緒に\n動物園に行って\nみたいな……。",
+        "EN": "I want to go to \nthe zoo with Mom \nand Dad again.",
+        "FR": "Je veux retourner \nau zoo avec mes \nparents.",
+        "DE": "Ich will wieder \nmit Mama und Papa \nin den Zoo gehen.",
+        "ES": "Quiero volver a ir \nal zoo con mamá y \npapá.",
+        "IT": "Voglio andare allo \nzoo con la mamma e \nil papà."
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 315,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん、間違いないわ。\n本当の世界に戻って\nきたのね。",
+        "EN": "Now I'm sure I'm \nback in the real \nworld.",
+        "FR": "Bon, une chose est \nsûre, je suis \nbien dans le monde \nréel.",
+        "DE": "Jetzt bin ich \nsicher, dass ich \nwieder in der \nechten Welt bin.",
+        "ES": "Seguro que estoy \nde vuelta al mundo \nreal.",
+        "IT": "Ora sono sicura di \nessere di nuovo \nnel mondo reale."
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 321,
+      "type": "group_6",
+      "texts": {
+        "JA": "それにしても、\nこんな絵のどこが\nいいのかしら。",
+        "EN": "Anyway, what's so \nimportant about \nthis picture?",
+        "FR": "De toute façon, \nqu'est-ce qu'elle \na de si important \ncette photo ?",
+        "DE": "Aber was ist denn \nan diesem Bild so \nwichtig?",
+        "ES": "De todos modos, \n¿qué es tan \nimportante de esta \nfoto?",
+        "IT": "Comunque, cosa \nc'è di così \nimportante in \nquesta foto?"
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 327,
+      "type": "group_6",
+      "texts": {
+        "JA": "もう、絶対にアイツの\n世界になんて行かないわ。\n魔女の思い通りになんか\nならないんだから！",
+        "EN": "I won't go to the \nOther World again. \nI won't let her \nget me！",
+        "FR": "Je ne retournerai \njamais dans \nl'Autre Monde. \nElle ne m'aura \npas !",
+        "DE": "Ich geh nicht mehr \nin die andere Welt \nzurück. Ich lass \nnicht zu, dass sie \nmich holt!",
+        "ES": "No volveré a ir \nal Otro Mundo. \n¡No dejaré que \nme atrape!",
+        "IT": "Non tornerò \nnell'altro mondo. \nNon le permetterò \ndi catturarmi!"
+      }
+    },
+    {
+      "id": 44,
+      "base_chunk": 333,
+      "type": "group_6",
+      "texts": {
+        "JA": "また、パパとママと一緒に\n動物園に行って\nみたいな……。",
+        "EN": "I want to go to \nthe zoo with Mom \nand Dad again.",
+        "FR": "Je veux retourner \nau zoo avec mes \nparents.",
+        "DE": "Ich will wieder \nmit Mama und Papa \nin den Zoo gehen.",
+        "ES": "Quiero volver a ir \nal zoo con mamá y \npapá.",
+        "IT": "Voglio andare allo \nzoo con la mamma e \nil papà."
+      }
+    },
+    {
+      "id": 45,
+      "base_chunk": 339,
+      "type": "group_6",
+      "texts": {
+        "JA": "うん、間違いないわ。\n本当の世界に戻って\nきたのね。",
+        "EN": "Now I'm sure I'm \nback in the real \nworld.",
+        "FR": "Bon, une chose est \nsûre, je suis \nbien dans le monde \nréel.",
+        "DE": "Jetzt bin ich \nsicher, dass ich \nwieder in der \nechten Welt bin.",
+        "ES": "Seguro que estoy \nde vuelta al mundo \nreal.",
+        "IT": "Ora sono sicura di \nessere di nuovo \nnel mondo reale."
+      }
+    },
+    {
+      "id": 46,
+      "base_chunk": 345,
+      "type": "group_6",
+      "texts": {
+        "JA": "それにしても、\nこんな絵のどこが\nいいのかしら。",
+        "EN": "Anyway, what's so \nimportant about \nthis picture?",
+        "FR": "De toute façon, \nqu'est-ce qu'elle \na de si important \ncette photo ?",
+        "DE": "Aber was ist denn \nan diesem Bild so \nwichtig?",
+        "ES": "De todos modos, \n¿qué es tan \nimportante de esta \nfoto?",
+        "IT": "Comunque, cosa \nc'è di così \nimportante in \nquesta foto?"
+      }
+    },
+    {
+      "id": 47,
+      "base_chunk": 351,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ……ママ……。\n助けなきゃ……。",
+        "EN": "Dad... Mom... I \nhave to save them.",
+        "FR": "Papa... maman... \nil faut que je les \nvoie.",
+        "DE": "Papa... Mama... \nIch muss sie \nretten.",
+        "ES": "Papá... Mamá... \nTengo que \nsalvarlos.",
+        "IT": "Papà... Mamma... \nDevo salvarli."
+      }
+    },
+    {
+      "id": 48,
+      "base_chunk": 357,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nどうしたの、黒ネコちゃん。",
+        "EN": "What's going on, \nCat?",
+        "FR": "Qu'est-ce qui \nt'arrive, le chat ?",
+        "DE": "Was ist los, Katze?",
+        "ES": "¿Qué está \npasando, Gato?",
+        "IT": "Che succede, gatto?"
+      }
+    },
+    {
+      "id": 49,
+      "base_chunk": 363,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ……ママ……。\n助けなきゃ……。",
+        "EN": "Dad... Mom... I \nhave to save them.",
+        "FR": "Papa... maman... \nil faut que je les \nvoie.",
+        "DE": "Papa... Mama... \nIch muss sie \nretten.",
+        "ES": "Papá... Mamá... \nTengo que \nsalvarlos.",
+        "IT": "Papà... Mamma... \nDevo salvarli."
+      }
+    },
+    {
+      "id": 50,
+      "base_chunk": 369,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ！　見つけた！！",
+        "EN": "Oh...I see you！",
+        "FR": "Oh, tu es là toi !",
+        "DE": "Oh... Ich sehe \ndich!",
+        "ES": "Oh... ¡Ya te veo!",
+        "IT": "Oh... sei qui!"
+      }
+    },
+    {
+      "id": 51,
+      "base_chunk": 375,
+      "type": "group_6",
+      "texts": {
+        "JA": "こいつが……あたしを\n見張って……。それに、\nあの子たちも……。",
+        "EN": "The doll that was \nspying on me and \nthe kids.",
+        "FR": "La poupée qui \nespionne les \nenfants !",
+        "DE": "Die Puppe hat mich \nund die Kinder \nausspioniert.",
+        "ES": "La muñeca que me \nespiaba a mí y a \nlos niños.",
+        "IT": "La bambola che \nspiava me e gli \naltri bambini."
+      }
+    },
+    {
+      "id": 52,
+      "base_chunk": 381,
+      "type": "group_6",
+      "texts": {
+        "JA": "こんな人形！\n燃やしてやるわよっ！",
+        "EN": "I know how to take \ncare ot it！",
+        "FR": "Tu ne perds rien \npour attendre !",
+        "DE": "Ich weiß, wie ich \ndamit umgehen muss!",
+        "ES": "¡Sé cómo \nocuparme de ti!",
+        "IT": "Ora so proprio \ncosa farne!"
+      }
+    },
+    {
+      "id": 53,
+      "base_chunk": 387,
+      "type": "group_6",
+      "texts": {
+        "JA": "はぁ〜〜〜〜〜〜。\nこ、こわかったぁ……。\nでも、これでオワリ。\nオワリ、よね？",
+        "EN": "Whew！ I was \nsoooo  scared！ \nBut I guess that \nwas it.....that \nwas it right?",
+        "FR": "Ouf ! J'ai \nvraiment eu peur ! \nMais on a réussi. \nHein ? Dis, on a \nréussi oui ?",
+        "DE": "Puh! Ich hatte \nsooolche Angst! \nAber ich schätze, \ndas war's. ... das \nwar's doch... \nnicht wahr?",
+        "ES": "¡Uf! ¡Qué miedo \nhe pasado! Pero se \nsupone que ya \nestá. ...Se ha \nacabado, ¿verdad?",
+        "IT": "Fiu! Ero \nterrorizzaaata! Ma \nsembra che ce \nl'abbiamo \nfatta. ... è \nfinita qui... \ngiusto?"
+      }
+    },
+    {
+      "id": 54,
+      "base_chunk": 393,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうだ。\nパパとママは、\nどうなったのかしら。",
+        "EN": "Oh yeah. I wonder \nwhat happened to \nMom and Dad.",
+        "FR": "Ah oui. Je me \ndemande ce que \nsont devenus mes \nparents.",
+        "DE": "Ach ja. Ich frage \nmich, was mit Mama \nund Papa passiert \nist.",
+        "ES": "Oh, sí. Me \npregunto qué les \nhabrá pasado a \nmamá y a papá.",
+        "IT": "Oh già. Chissà \ncos'è successo a \nmamma e papà?"
+      }
+    },
+    {
+      "id": 55,
+      "base_chunk": 399,
+      "type": "group_6",
+      "texts": {
+        "JA": "……スノーグローブの\nなかにパパとママがいる、\nってわけじゃないみたいね。\nだとしたら、\nパパとママはどこ？",
+        "EN": "...It's not like \nMom and Dad are \ninside the \nSnowglobe, I \nthink. But then, \nwhere could they \nbe?",
+        "FR": "...Ça \nm’étonnerait \nque mes parents \nsoient dans la \nboule à neige. \nMais je ne vois \npas où ils \npourraient \nêtre ailleurs !",
+        "DE": "... Ich glaube \nnicht, dass Mama \nund Papa in der \nSchneekugel sind. \nAber wo könnten \nsie denn sein?",
+        "ES": "...No parece que \nmamá y papá \nestén dentro de \nla Bola de nieve, \ncreo. Pero \nentonces, ¿dónde \npueden estar?",
+        "IT": "... Non saranno \ncerto dentro la \nsfera di neve, no? \nMa dove si sono \ncacciati, allora?"
+      }
+    },
+    {
+      "id": 56,
+      "base_chunk": 405,
+      "type": "group_6",
+      "texts": {
+        "JA": "それとも……もう、\n家にいるのかしら……。\nううん、きっとそうよ！",
+        "EN": "It has to be here！",
+        "FR": "Elle doit bien \nêtre quelque \npart !",
+        "DE": "Sie muss hier sein!",
+        "ES": "¡Tiene que estar \naquí!",
+        "IT": "Dev'essere qui!"
+      }
+    },
+    {
+      "id": 57,
+      "base_chunk": 411,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ……ママ……。\nきっと、きっと家に\nいるのよね？",
+        "EN": "Mom...Dad, you're \nhere, aren't you?",
+        "FR": "Maman... Papa... \nVous êtes là, je \nle sais !",
+        "DE": "Mama... Papa, ihr \nseid hier, nicht \nwahr?",
+        "ES": "Mamá...papá, \n¿estáis aquí?",
+        "IT": "Mamma... Papà, \nsiete qui, vero?"
+      }
+    },
+    {
+      "id": 58,
+      "base_chunk": 417,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふふふ。\nなんでだろ。なんか、\nこの絵を見たら\n少し安心しちゃたわ。",
+        "EN": "I don't know why, \nbut I'm relieved \nto see this \npicture.",
+        "FR": "Je ne sais pas \npourquoi mais je \nsuis contente de \nvoir cette photo.",
+        "DE": "Ich weiß nicht, \nwarum, aber ich \nbin erleichtert, \nwenn ich dieses \nBild sehe.",
+        "ES": "No sé por qué, \npero me alivia ver \nesta foto.",
+        "IT": "Non so perché, ma \nmi solleva vedere \nquesta foto."
+      }
+    },
+    {
+      "id": 59,
+      "base_chunk": 423,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふぅ……………………。\nもうゼッタイ、\nあんなヤツのところに\nなんか行かないわ……。",
+        "EN": "I'm never going \nback there...",
+        "FR": "Maman, papa ?",
+        "DE": "Mama... Papa?",
+        "ES": "¿Mamá...papá?",
+        "IT": "Mamma... papà?"
+      }
+    },
+    {
+      "id": 60,
+      "base_chunk": 429,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも、よかった……。\nパパとママがかえって\nきてくれて。",
+        "EN": "Oh boy...... I am \nglad they're back.",
+        "FR": "Oh là là... Je \nsuis vraiment \ncontente qu'ils \nsoient revenus.",
+        "DE": "Oh Mann...... Bin \nich froh, dass sie \nwieder da sind.",
+        "ES": "Oh, vaya...... Me \nalegro de que \nhayan vuelto.",
+        "IT": "Oddio....... Sono \ncontenta che siano \ntornati."
+      }
+    },
+    {
+      "id": 61,
+      "base_chunk": 435,
+      "type": "group_6",
+      "texts": {
+        "JA": "あとはカギを\nすててしまえば……\nまたパパとママと\nおでかけできるわよね？",
+        "EN": "All I have to do \nis throw away the \nkey. ",
+        "FR": "Je n'ai plus qu'à \njeter la clé.",
+        "DE": "Jetzt muss ich nur \nnoch den \nSchlüssel \nwegwerfen.",
+        "ES": "Lo único que \ntengo es hacer es \ntirar la llave. ",
+        "IT": "Tutto quello che \ndevo fare è \nbuttare via la \nchiave."
+      }
+    },
+    {
+      "id": 62,
+      "base_chunk": 441,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 63,
+      "base_chunk": 447,
+      "type": "group_6",
+      "texts": {
+        "JA": "カギをまわしてみよう！\nトビラはひらくかな？",
+        "EN": "Turn the key. Can \nyou open the door?",
+        "FR": "Tourne la clé. Tu \npeux ouvrir la \nporte ?",
+        "DE": "Dreh den \nSchlüssel um. \nKannst du die Tür \nöffnen?",
+        "ES": "Gira una llave. \n¿Puedes abrir la \npuerta?",
+        "IT": "Gira la chiave. \nRiesci ad aprire \nla porta?"
+      }
+    },
+    {
+      "id": 64,
+      "base_chunk": 453,
+      "type": "group_6",
+      "texts": {
+        "JA": "人形が魔女の\nスパイだった！\n人形を暖炉に\n放り込んでしまおう！",
+        "EN": "The doll turned \nout to be a spy \nfrom the Beldam. \nThrow it into the \nfireplace.",
+        "FR": "La poupée est un \nespion de \nl’Autre Mère. \nJette-la dans le \nfeu.",
+        "DE": "Die Puppe hat sich \nals Spion der \nBeldam entpuppt. \nWirf sie in den \nKamin.",
+        "ES": "La muñeca ha \nresultado ser una \nespía de la \nBeldam. Lánzala a \nla chimenea.",
+        "IT": "La bambola era una \nspia della Beldam! \nButtala nel \ncaminetto."
+      }
+    },
+    {
+      "id": 65,
+      "base_chunk": 459,
+      "type": "group_6",
+      "texts": {
+        "JA": "ぼくらは見てる\nぼくらは待ってる。\nぼくらはたくさん。",
+        "EN": "We are small, we \nare many. ",
+        "FR": "Nous sommes \npetits... nous \nsommes partout.",
+        "DE": "Wir sind klein, \nwir sind viele.",
+        "ES": "Somos pequeños, \nsomos muchos. ",
+        "IT": "Siamo piccoli, \nsiamo tanti."
+      }
+    },
+    {
+      "id": 66,
+      "base_chunk": 465,
+      "type": "group_6",
+      "texts": {
+        "JA": "ぼくらは小さい。\n僕らは、キミがこの世に\nたつ前からここにいる。",
+        "EN": "In the walls and \nunder floors. \nWe're beside your \nevery step. when \nshall we lead you \nthrough the door?",
+        "FR": "Sur les murs, sous \nles planchers. \nQuand nous \nlaisseras-tu te \nconduire derrière \nla porte ?",
+        "DE": "In den Wänden und \nunter den Böden. Wir \nsind bei jedem Schritt \nneben dir. Wann sollen \nwir dich durch die \nTür führen?",
+        "ES": "En las paredes y bajo \nlos suelos. Estamos \njunto a tus pasos; \n¿cuándo te haremos \npasar a través de \nla puerta?",
+        "IT": "Dentro i muri e \nsotto i pavimenti. \nSiamo sempre accanto \na te. Quand'è che ti \nfaremo entrare da \nquella porta?"
+      }
+    },
+    {
+      "id": 67,
+      "base_chunk": 471,
+      "type": "group_6",
+      "texts": {
+        "JA": "いつ、あの扉の向こうへ\n案内しようか。",
+        "EN": "When shall we lead \nyou through the \ndoor?",
+        "FR": "Quand \npourrons-nous te \nconduire derrière \nla porte ?",
+        "DE": "Wann sollen wir \ndich durch die \nTür führen?",
+        "ES": "¿Cuándo te \nharemos cruzar la \npuerta?",
+        "IT": "Quand'è che ti \nfaremo entrare da \nquella porta?"
+      }
+    }
+  ]
+}

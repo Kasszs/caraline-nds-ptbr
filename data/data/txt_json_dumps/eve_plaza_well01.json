@@ -1,0 +1,1148 @@
+{
+  "file": "eve_plaza_well01.bin",
+  "total_dialogues": 89,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 14,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………女の子のあと\nをつけるような\nマネはしないでっ、て。\nストーカーみたいよ。",
+        "EN": "...and you will \nhelp me how, by \nstalking me?",
+        "FR": "Ah oui, et comment \n? En me suivant \npartout ?",
+        "DE": "... und wie willst \ndu mir helfen, \nindem du mich \nverfolgst?",
+        "ES": "...y cómo me \nayudarás, \n¿acechándome?",
+        "IT": "...in che modo, \nimportunandomi?"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 20,
+      "type": "group_6",
+      "texts": {
+        "JA": "あった！\nこれね、井戸って。",
+        "EN": "This must be the \nwell！",
+        "FR": "Ça doit être le \npuits !",
+        "DE": "Das muss der \nBrunnen sein!",
+        "ES": "¡Esto debe de ser \nel pozo!",
+        "IT": "Questo deve essere \nil pozzo!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 26,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも、蓋がしまってる……\nあたし一人で\nあけられるかなぁ。",
+        "EN": "The lid's \nclosed... can I \nget it open?",
+        "FR": "Il est fermé... \ncomment je \npourrais l'ouvrir ?",
+        "DE": "Der Deckel ist \nzu... krieg ich \nden auf?",
+        "ES": "La tapa está \ncerrada... ¿se \npodrá abrir?",
+        "IT": "Il coperchio è \nchiuso... \nriuscirò ad \naprirlo?"
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 32,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、あー。\nそれなら、オイラが\n手伝うよ。",
+        "EN": "Um, I think I can \nhelp you, if you \nwant.",
+        "FR": "Hmm, je peux \nt'aider si tu veux.",
+        "DE": "Ähm, ich glaube, \nich kann dir \nhelfen, wenn du \nwillst.",
+        "ES": "Um, creo que puedo \nayudarte, si \nquieres.",
+        "IT": "Hmm, forse posso \naiutarti, se vuoi."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 38,
+      "type": "group_6",
+      "texts": {
+        "JA": "ご、ごめんよ。\nで、どうする？　\n手伝わないほうが\nいいかい？",
+        "EN": "What, you don't \nwant my help?",
+        "FR": "Tu ne veux pas que \nje t'aide ?",
+        "DE": "Was, du willst \nmeine Hilfe nicht?",
+        "ES": "¿Qué? ¿No \nquieres que te \nayude?",
+        "IT": "Come, non vuoi il \nmio aiuto?"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 44,
+      "type": "group_6",
+      "texts": {
+        "JA": "ううん。\n手伝って。",
+        "EN": "Fine, you can help.",
+        "FR": "Si, vas-y, dis-moi.",
+        "DE": "Okay, du kannst \nmir helfen.",
+        "ES": "Bien, puedes \nayudarme.",
+        "IT": "Ok, aiutami."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 50,
+      "type": "group_6",
+      "texts": {
+        "JA": "開いた！\nうっわー。確かに\n底なしに深そう。",
+        "EN": "Wow, I can't see \nthe bottom.",
+        "FR": "Ouah, on ne voit \nmême pas le fond.",
+        "DE": "Wow, ich sehe den \nGrund gar nicht.",
+        "ES": "Guau, no se ve el \nfondo.",
+        "IT": "Wow, non si vede \nil fondo."
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 56,
+      "type": "group_6",
+      "texts": {
+        "JA": "た、たしかめて\nみるかい。",
+        "EN": "Hey, check this \nout...",
+        "FR": "Hé, regarde...",
+        "DE": "Hey, sieh dir das \nan...",
+        "ES": "Eh, mira esto...",
+        "IT": "Ehi, guarda qui..."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 62,
+      "type": "group_6",
+      "texts": {
+        "JA": "へええ。\n石がおちた音が、ずいぶん\nあとから聞こえて\nきたわね。",
+        "EN": "It took so long to \nhear the stone hit \nthe water.",
+        "FR": "La pierre en a mis \ndu temps pour \narriver dans l'eau.",
+        "DE": "Es hat lange \ngedauert, bis man \nden Stein aufs \nWasser aufschlagen \nhörte.",
+        "ES": "La piedra ha \ntardado mucho en \nllegar al agua.",
+        "IT": "C'è voluto un \nsacco per sentire \nla pietra che \ntoccava l'acqua."
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 68,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、ああ。\nこの井戸は、とても\n深いんだ。",
+        "EN": "It's deep alright.",
+        "FR": "Ben oui, il est \nprofond.",
+        "DE": "Ganz schön tief.",
+        "ES": "Es bastante \nprofundo.",
+        "IT": "È davvero \nprofondo."
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 74,
+      "type": "group_6",
+      "texts": {
+        "JA": "もし落ちたら、\nぜったいにのぼって\nこれない。\nき、気をつけないと。",
+        "EN": "If you fall down \nthere, you'll \nnever come back \nup. Be careful.",
+        "FR": "Surtout ne tombe \npas dedans sinon \ntu ne pourrais pas \nremonter.",
+        "DE": "Wenn du da \nreinfällst, \nkommst du nie \nwieder raus. Sei \nvorsichtig.",
+        "ES": "Si te caes ahí, \nno lograrás \nsubir. Ten cuidado.",
+        "IT": "Se cadi qui, non \nriuscirai mai a \nrisalire. Stai \nattenta!"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 80,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうね。\nあ。あと、手伝って\nくれてありがとう。",
+        "EN": "Gee, thanks.",
+        "FR": "Ouoh, merci.",
+        "DE": "Mann, danke.",
+        "ES": "¡No me digas! \n¡Gracias!",
+        "IT": "Ehi, grazie!"
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 86,
+      "type": "group_6",
+      "texts": {
+        "JA": "い、いや。なんでも\nないさ。\nそ、それより、\nよかったらキミの名前を\n教えてくれないか？",
+        "EN": "No sweat. By the \nway, what's your \nname?",
+        "FR": "‘Y a pas de \nquoi. Tu \nt’appelles \ncomment au fait ?",
+        "DE": "Kein Problem. \nÜbrigens, wie \nheißt du \neigentlich?",
+        "ES": "Ningún problema. \nPor cierto, \n¿cómo te llamas?",
+        "IT": "Di niente. A \nproposito, come ti \nchiami?"
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 92,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン",
+        "EN": "Coraline.  \nCoraline Jones.",
+        "FR": "Coraline. Coraline \nJones.",
+        "DE": "Coraline. Coraline \nJones.",
+        "ES": "Coraline.  \nCoraline Jones.",
+        "IT": "Coraline. Coraline \nJones."
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 98,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラ……\nなんだって？",
+        "EN": "Caroline?",
+        "FR": "Caroline ?",
+        "DE": "Caroline?",
+        "ES": "¿Caroline?",
+        "IT": "Caroline?"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 104,
+      "type": "group_6",
+      "texts": {
+        "JA": "コ・ラ・ラ・イ・ン。\n変な名前だなんて\n感想はもう聞き\n飽きてるわ。",
+        "EN": "Co....ra...line. ",
+        "FR": "Co....ra...line.",
+        "DE": "Co... ra... line. ",
+        "ES": "Co....ra...line. ",
+        "IT": "Co... ra... line."
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 110,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、ああ、\nゴメン。",
+        "EN": "Interesting.  It's \nnice to meet a \nwater witch named \nCaroline.",
+        "FR": "Ah... Alors \nenchanté, \nMademoiselle \nCaroline la \nsorcière \naquatique.",
+        "DE": "Interessant. Ist \nnett, eine \nWasserhexe namens \nCaroline kennen zu \nlernen.",
+        "ES": "Interesante. \nEncantado de \nconocer a una \nzahorí llamada \nCaroline.",
+        "IT": "Interessante. È \nbello conoscere \nuna strega \ndell'acqua che si \nchiama Caroline."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 116,
+      "type": "group_6",
+      "texts": {
+        "JA": "お、おわびに……\nこれをプレゼント\nするよ。",
+        "EN": "Oh, I almost \nforgot... I \nbrought this for \nyou.",
+        "FR": "Oh, j'allais \noublier... Je t'ai \napporté ça.",
+        "DE": "Oh, ich hätte es \nfast vergessen... \nIch hab dir das \nhier mitgebracht.",
+        "ES": "Oh, casi se me \nolvida... He \ncomprado esto para \nti.",
+        "IT": "Oh, quasi \ndimenticavo... ti \nho portato questo."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 122,
+      "type": "group_6",
+      "texts": {
+        "JA": "人形？\nなんか……あたしに\nそっくり。",
+        "EN": "A Doll? This looks \njust like me.",
+        "FR": "Une poupée ? Dis \ndonc, elle me \nressemble !",
+        "DE": "Eine Puppe? Die \nsieht ja aus wie \nich.",
+        "ES": "¿Una muñeca? Se \nparece a mí.",
+        "IT": "Una bambola? Mi \nassomiglia molto."
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 128,
+      "type": "group_6",
+      "texts": {
+        "JA": "そう。そうなんだよ。\nビックリだろ？\nオイラのおばあちゃんが\n持ってた人形\nなんだけどさ。",
+        "EN": "Yeah... this was \nmy grandma's.",
+        "FR": "Ouais... c'était \nà ma grand-mère.",
+        "DE": "Ja... sie gehörte \nmeiner Oma.",
+        "ES": "Sí... era de mi \nabuela.",
+        "IT": "Sì... era di mia \nnonna."
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 134,
+      "type": "group_6",
+      "texts": {
+        "JA": "アンタを見たとき、\nこう――ビビッと\nきたんだ。きっと、\nこの人形はアンタの\nもんになるんだろうって。",
+        "EN": "When I saw you, I \nthought it was an \nodd coincidence, \nso I thought you \nwould like to have \nit.",
+        "FR": "Ouais, quand je \nt’ai vue, je me \nsuis dit que \nc’était une \nsacrée \ncoïncidence... et \nque ça te ferait \nplaisir.",
+        "DE": "Als ich dich sah, \nfand ich, das sei \nein komischer \nZufall, und \ndachte, vielleicht \nwillst du sie \nhaben.",
+        "ES": "Cuando te vi, \npensé que era una \nextraña \ncoincidencia, así \nque supuse que te \ngustaría tenerla.",
+        "IT": "Quando ti ho visto \nho pensato che \nfosse una strana \ncoincidenza, \nallora ho pensato \nche ti avrebbe \nfatto piacere \naverla."
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 140,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふふーん。\n不思議なハナシね。",
+        "EN": "Um, okay, if you \nsay so.",
+        "FR": "Euh, oui... \npourquoi pas.",
+        "DE": "Äh, okay, wenn du \nmeinst.",
+        "ES": "Um, vale, si tú \nlo dices.",
+        "IT": "Ehm, sì, certo, \nse lo dici tu."
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 146,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも、ありがとう。\nだいじにするわ。",
+        "EN": "But thanks... I'll \ntake good care of \nit.",
+        "FR": "Merci, j'en \nprendrai bien soin.",
+        "DE": "Aber danke... Ich \nwerde gut drauf \naufpassen.",
+        "ES": "Pero gracias... \ncuidaré de ella.",
+        "IT": "Comunque grazie... \nmi prenderò cura \ndi lei."
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 152,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、ああ。そうして\nくれると、\nおばあちゃんも喜ぶよ。\nそ、それじゃ……また。",
+        "EN": "Alright Jonesy, I \nneed to head \nhome.  Next time \nyou go water \nwitching, watch \nout for poison \noak！",
+        "FR": "Allez, moi je dois \nrentrer. Si tu \nreviens jeter tes \nsorts par ici, \nfais attention aux \norties !",
+        "DE": "Alles klar, \nJonesy, ich muss \nnach Hause. Wenn \ndu das nächste \nMal Wasserzaubern \ngehst, gib auf die \nGifteiche Acht! ",
+        "ES": "Bueno, Jonesy, \ntengo que irme a \ncasa.  La próxima \nvez que busques \nagua, ¡cuidado \ncon el roble \nvenenoso!",
+        "IT": "Ok, ragazzina, ora \ndevo tornare a \ncasa. La prossima \nvolta che vai a \nfare delle magie \nacquatiche, stai \nattenta alla \nquercia velenosa!"
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 158,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワイビーから\n人形をもらいました。",
+        "EN": "A doll has been \ngiven by Wybie.",
+        "FR": "Wybie a donné une \npoupée.",
+        "DE": "Eine Puppe von \nWybie erhalten.",
+        "ES": "Wybie ha entregado \nuna muñeca.",
+        "IT": "Wybie ha regalato \nuna bambola."
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 164,
+      "type": "group_6",
+      "texts": {
+        "JA": "うーん。\nホントずいぶん深いなぁ。\n井戸の底まで、\nどれくらいあるのかしら。",
+        "EN": "Wow, I wonder how \ndeep this is.",
+        "FR": "Ouah, je me \ndemande si c'est \nprofond.",
+        "DE": "Wow, ich frage \nmich, wie tief das \nist.",
+        "ES": "Guau, me pregunto \nqué profundidad \ntiene.",
+        "IT": "Wow, chissà \nquanto è profondo."
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 170,
+      "type": "group_6",
+      "texts": {
+        "JA": "この井戸なら……。",
+        "EN": "This well will \nwork.....",
+        "FR": "Ce puits fera \nl'affaire...",
+        "DE": "Das mit dem \nBrunnen wird \nfunktionieren...",
+        "ES": "Este pozo \nvaldrá...",
+        "IT": "Questo pozzo fa al \ncaso nostro......"
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 176,
+      "type": "group_6",
+      "texts": {
+        "JA": "これだけ深いんだもの。\nいくら魔女だって、カギを\nとりもどすことなんて\nできないはずよ。",
+        "EN": "It's so deep. I \nbet even the \nBeldam can't pick \nup the key.",
+        "FR": "Il est profond... \nJe parie que même \nla sorcière ne \npourra pas aller \nchercher la clé.",
+        "DE": "Er ist so tief. \nIch wette, nicht \nmal die Beldam \nkann sich den \nSchlüssel holen.",
+        "ES": "Es muy profundo. \nApuesto que ni \nsiquiera la Beldam \npodrá coger la \nllave.",
+        "IT": "È molto profondo. \nScommetto che \nnemmeno la megera \nsarà in grado di \nripescare la \nchiave."
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 182,
+      "type": "group_6",
+      "texts": {
+        "JA": "……え？",
+        "EN": ".......Eh?",
+        "FR": "?!?",
+        "DE": "....... Äh?",
+        "ES": "¿.......Eh?",
+        "IT": "........ Eh?"
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 188,
+      "type": "group_6",
+      "texts": {
+        "JA": "きゃあっ！！",
+        "EN": "Ahhhhhhh！！",
+        "FR": "Ahhhhhhhhh !!",
+        "DE": "Ahhhhhhh!!",
+        "ES": "¡¡Ahhhhhhh!!",
+        "IT": "Aaaahhh!!!"
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 194,
+      "type": "group_6",
+      "texts": {
+        "JA": "カ、カギが……！！",
+        "EN": "The Key！",
+        "FR": "La clé !!",
+        "DE": "Der Schlüssel! ",
+        "ES": "¡La Llave!",
+        "IT": "La chiave! "
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 200,
+      "type": "group_6",
+      "texts": {
+        "JA": "ダ、ダメ！\nカギをアイツに\nわたすわけには……。",
+        "EN": "NOOOooo！ I can't \ngive it to her.....",
+        "FR": "Nooooon ! Je ne \npeux pas lui \ndonner...",
+        "DE": "NEEEIIIN! Ich darf \nihn ihr nicht \ngeben...",
+        "ES": "¡NOOOooo! No se \nla puedo dar a \nella...",
+        "IT": "Noooooooo! Non \nposso \ndargliela........"
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 206,
+      "type": "group_6",
+      "texts": {
+        "JA": "きゃあああっ！！",
+        "EN": "NO！",
+        "FR": "NON !",
+        "DE": "NEIN!",
+        "ES": "¡NO!",
+        "IT": "NO! "
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 212,
+      "type": "group_6",
+      "texts": {
+        "JA": "な、なによコレ……。\nク、クモの糸！？\nう、うごけない……。",
+        "EN": "What is this? \nSpider's thread！? \nI..I can't move.",
+        "FR": "Qu'est-ce que \nc'est que ça ? \nUne toile \nd'araignée ? Je \nsuis bloquée !",
+        "DE": "Was ist das? \nSpinnweben!? \nIch... ich kann \nmich nicht bewegen.",
+        "ES": "¿Qué es esto? \n¿¡Tela de \naraña!? No...no \npuedo moverme.",
+        "IT": "Ma cos'è...?  Una \nragnatela!? ...\nNon... non riesco \na muovermi."
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 218,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、このヤロウ！\nコララインを、\n放せぇぇぇっ！！",
+        "EN": "Let Coraline \nGOOOooooo！！",
+        "FR": "Tu vas lâcher \nCoraline ouiii ?!!",
+        "DE": "Lass Coraline \nLOOOooooos!!",
+        "ES": "¡¡Suelta a \nCoralineeeee!!",
+        "IT": "Lascia andare \nCoooralliiiiiine!!"
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 224,
+      "type": "group_6",
+      "texts": {
+        "JA": "うおおおおおおおおおっっ！",
+        "EN": "Grrrrrrrrr----！",
+        "FR": "Grrrr...",
+        "DE": "Grrrrrrrrr...!",
+        "ES": "¡Grrrrrrrrr----!",
+        "IT": "Grrrrrrr...!"
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 230,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワ、ワイビー！？",
+        "EN": "Wybie！?",
+        "FR": "Wybie !?",
+        "DE": "Wybie!?",
+        "ES": "¿¡Wybie!?",
+        "IT": "Wybie!?"
+      }
+    },
+    {
+      "id": 37,
+      "base_chunk": 236,
+      "type": "group_6",
+      "texts": {
+        "JA": "ん……もうっ！\nは、はやくこの糸を\nなんとかしなきゃ……！",
+        "EN": " I have to break \nthe strings \nNOW----！",
+        "FR": "Je dois couper les \nficelles !!",
+        "DE": " Ich muss die \nSchnüre JETZT \nzerreißen...!",
+        "ES": " ¡Tengo que \nromper las \nataduras AHORA----!",
+        "IT": "Devo rompere \nquesti fili \nSUBITO----!"
+      }
+    },
+    {
+      "id": 38,
+      "base_chunk": 242,
+      "type": "group_6",
+      "texts": {
+        "JA": "よ、ようやく…………。",
+        "EN": "Finally-----",
+        "FR": "Ça y est.",
+        "DE": "Endlich...",
+        "ES": "Por fin-----",
+        "IT": "Finalmente------"
+      }
+    },
+    {
+      "id": 39,
+      "base_chunk": 248,
+      "type": "group_6",
+      "texts": {
+        "JA": "そ、それより……\nワ、ワイビーは？",
+        "EN": "WYBIE?",
+        "FR": "WYBIE ?",
+        "DE": "WYBIE?",
+        "ES": "¿WYBIE?",
+        "IT": "WYBIE?"
+      }
+    },
+    {
+      "id": 40,
+      "base_chunk": 254,
+      "type": "group_6",
+      "texts": {
+        "JA": "まさか……\nまさか井戸に……！？",
+        "EN": "Don't tell me you \nfell in the \nwell---！?",
+        "FR": "Ne me dis pas que \ntu es tombé dans \nle puits ?!!",
+        "DE": "Erzähl mir nicht, \ndass du in den \nBrunnen gefallen \nbist...!?",
+        "ES": "¿¡No me digas \nque te caíste en \nel pozo---!?",
+        "IT": "Non dirmi che sei \ncaduto nel \npozzo...!?"
+      }
+    },
+    {
+      "id": 41,
+      "base_chunk": 260,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワ、ワイビー！？",
+        "EN": "Wybie！?",
+        "FR": "Wybie !?",
+        "DE": "Wybie!?",
+        "ES": "¿¡Wybie!?",
+        "IT": "Wybie!?"
+      }
+    },
+    {
+      "id": 42,
+      "base_chunk": 266,
+      "type": "group_6",
+      "texts": {
+        "JA": "へ、へへへ……。\nまだ、落ちちゃいないぜ。",
+        "EN": "Ha ha ha---- here \nI am.",
+        "FR": "Ha ha ha ! Je suis \nlà.",
+        "DE": "Ha ha ha... hier \nbin ich.",
+        "ES": "Ja ja ja---- aquí \nestoy.",
+        "IT": "Ha ha ha... Sono \nqui."
+      }
+    },
+    {
+      "id": 43,
+      "base_chunk": 272,
+      "type": "group_6",
+      "texts": {
+        "JA": "……………………\nよ、よかったぁ〜。",
+        "EN": "....................... \n",
+        "FR": "... Wybie !",
+        "DE": "....................... \n",
+        "ES": "....................... \n",
+        "IT": "......................... \n"
+      }
+    },
+    {
+      "id": 44,
+      "base_chunk": 278,
+      "type": "group_6",
+      "texts": {
+        "JA": "いや……まだ、\n「よかった」は、\nは、早いんだ。\nア、アイツも、\nまだ落ちちゃいない。",
+        "EN": "This hand is here \ntoo！",
+        "FR": "Et la main aussi !",
+        "DE": "Diese Hand ist \nauch hier!",
+        "ES": "¡Esa mano \ntambién está \naquí!",
+        "IT": "Anche questa mano \nè qui!"
+      }
+    },
+    {
+      "id": 45,
+      "base_chunk": 284,
+      "type": "group_6",
+      "texts": {
+        "JA": "え？",
+        "EN": "What?",
+        "FR": "Quoi ?",
+        "DE": "Was?",
+        "ES": "¿Qué?",
+        "IT": "Come?!?"
+      }
+    },
+    {
+      "id": 46,
+      "base_chunk": 290,
+      "type": "group_6",
+      "texts": {
+        "JA": "オ、オイラのからだを\nよじ登ってきてやがる……。\nくそっ！\nこのまま落ちるしか……。",
+        "EN": "It's climbing up \nmy body- I'll fall \nif you don't get \nit off！！！",
+        "FR": "Elle me grimpe \ndessus ! Je vais \ntomber si tu ne \nl'enlèves pas.",
+        "DE": "Sie klettert an \nmir hoch... Ich \nstürze, wenn du \nsie mir nicht \nabnimmst!!!",
+        "ES": "Está subiendo por \nmi cuerpo. \n¡¡¡Me caeré si \nno me la quitas de \nencima!!!",
+        "IT": "Mi si sta \narrampicando \naddosso... Cadrò \nse non la mandi \nvia!!!"
+      }
+    },
+    {
+      "id": 47,
+      "base_chunk": 296,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんなの！\nダメに決まってる！\nワイビー。あんたは、\nしっかりつかまっていてよ！！",
+        "EN": "Don't give up！ \nHold on Wybie！",
+        "FR": "Tiens bon, Wybie !!",
+        "DE": "Nicht aufgeben! \nHalte durch, Wybie!",
+        "ES": "¡No te rindas! \n¡Aguanta, Wybie!",
+        "IT": "Non arrenderti! \nTieniti forte \nWybie!"
+      }
+    },
+    {
+      "id": 48,
+      "base_chunk": 302,
+      "type": "group_6",
+      "texts": {
+        "JA": "は、はは………。\nあはははは。",
+        "EN": "Wybie！",
+        "FR": "Wybie !",
+        "DE": "Wybie!",
+        "ES": "¡Wybie!",
+        "IT": "Wybie!"
+      }
+    },
+    {
+      "id": 49,
+      "base_chunk": 308,
+      "type": "group_6",
+      "texts": {
+        "JA": "よ、よかった……\nホントによかったわ。\nあなたが落ちちゃわ\nなくって。",
+        "EN": "I’m so glad you \ndidn't fall！",
+        "FR": "Je suis contente \nque tu ne sois pas \ntombé !",
+        "DE": "Ich bin so froh, \ndass du nicht \ngestürzt bist!",
+        "ES": "¡Me alegro mucho \nde que no te hayas \ncaído!",
+        "IT": "Sono così felice \nche non sei caduto!"
+      }
+    },
+    {
+      "id": 50,
+      "base_chunk": 314,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、ああ……。\nそれに……アイツを\nやっつけることができた。",
+        "EN": "I'm glad we \nmanaged to beat \nthat thing.",
+        "FR": "Et moi je suis \ncontent qu'on ait \ndégommé ce truc.",
+        "DE": "Ich bin froh, dass \nwir das Ding \nschlagen konnten.",
+        "ES": "Y yo me alegro de \nque hayamos \nvencido a esa cosa.",
+        "IT": "Io sono felice, \nperché abbiamo \nbattuto quella \ncosa."
+      }
+    },
+    {
+      "id": 51,
+      "base_chunk": 320,
+      "type": "group_6",
+      "texts": {
+        "JA": "そうね。\nありがとう。\nあなたのおかげね。",
+        "EN": "That's right.  I \ncouldn't have done \nit without you.",
+        "FR": "Oui. Je n'aurais \njamais réussi \nsans toi.",
+        "DE": "Stimmt.  Ohne dich \nhätte ich das \nnicht geschafft.",
+        "ES": "Eso es.  No \npodría haberlo \nhecho sin ti.",
+        "IT": "Hai ragione. Non \nci sarei mai \nriuscita senza di \nte."
+      }
+    },
+    {
+      "id": 52,
+      "base_chunk": 326,
+      "type": "group_6",
+      "texts": {
+        "JA": "でも、\nどうしてここに来たの？",
+        "EN": "But why did you \ncome here in the \nfirst place?",
+        "FR": "Mais au fait \npourquoi tu es \nvenu ?",
+        "DE": "Aber warum bist du \nüberhaupt hierher \ngekommen?",
+        "ES": "Pero, ¿por qué \nviniste aquí?",
+        "IT": "Ma comunque, mi \nspieghi che ci \nfacevi qui?"
+      }
+    },
+    {
+      "id": 53,
+      "base_chunk": 332,
+      "type": "group_6",
+      "texts": {
+        "JA": "は、はは！\nそ、そういえば、\nお礼は、この黒ネコにも\n言ってやってよ。",
+        "EN": "It wasn't my idea.",
+        "FR": "Ce n'est pas moi \nqui en ai eu \nl'idée.",
+        "DE": "Das war nicht \nmeine Idee.",
+        "ES": "No fue idea mía.",
+        "IT": "Non è stata una \nmia idea."
+      }
+    },
+    {
+      "id": 54,
+      "base_chunk": 338,
+      "type": "group_6",
+      "texts": {
+        "JA": "コイツが、オイラを\n呼びに来てくれたのさ。",
+        "EN": "It was the Cat's.",
+        "FR": "Mais le chat.",
+        "DE": "Sondern die der \nKatze.",
+        "ES": "Fue del Gato.",
+        "IT": "Me l'ha suggerito \nil gatto."
+      }
+    },
+    {
+      "id": 55,
+      "base_chunk": 344,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふふ……。そっか、また\nアナタにたすけられたのね。\nありがとう。",
+        "EN": "Well, thanks to \nthe both of you.",
+        "FR": "Alors merci à \ntous les deux.",
+        "DE": "Na, vielen Dank \neuch beiden.",
+        "ES": "Bueno, gracias a \nlos dos.",
+        "IT": "Beh, grazie a \ntutti e due."
+      }
+    },
+    {
+      "id": 56,
+      "base_chunk": 350,
+      "type": "group_6",
+      "texts": {
+        "JA": "そ、それと……オイラ、\nキミにあやまらなくちゃ\nいけない。",
+        "EN": "Oh..I also owe you \nan apology.",
+        "FR": "Oh... et je te \ndois des excuses.",
+        "DE": "Oh... Ich schulde \ndir auch eine \nEntschuldigung.",
+        "ES": "Oh...También te \ndebo una disculpa.",
+        "IT": "Oh... e ti devo \nanche le mie scuse."
+      }
+    },
+    {
+      "id": 57,
+      "base_chunk": 356,
+      "type": "group_6",
+      "texts": {
+        "JA": "あやまる？\nどうして？",
+        "EN": "Why?",
+        "FR": "Pourquoi ?",
+        "DE": "Warum?",
+        "ES": "¿Por qué?",
+        "IT": "Perché?"
+      }
+    },
+    {
+      "id": 58,
+      "base_chunk": 362,
+      "type": "group_6",
+      "texts": {
+        "JA": "こ、これを見てみなよ。",
+        "EN": "Look at this.",
+        "FR": "Regarde.",
+        "DE": "Sieh dir das an.",
+        "ES": "Mira esto.",
+        "IT": "Guarda qui."
+      }
+    },
+    {
+      "id": 59,
+      "base_chunk": 368,
+      "type": "group_6",
+      "texts": {
+        "JA": "これって…………。",
+        "EN": "What is it?",
+        "FR": "C'est quoi ?",
+        "DE": "Was ist das?",
+        "ES": "¿Qué es esto?",
+        "IT": "Che cos'è?"
+      }
+    },
+    {
+      "id": 60,
+      "base_chunk": 374,
+      "type": "group_6",
+      "texts": {
+        "JA": "オイラのばあちゃんと、\nその妹の写真さ。",
+        "EN": "A photo of my \ngrandma and her \nsister.",
+        "FR": "Une photo de ma \ngrand-mère et de \nsa sœur.",
+        "DE": "Ein Foto meiner \nOma und ihrer \nSchwester.",
+        "ES": "Una foto de mi \nabuela y su \nhermana.",
+        "IT": "Una foto di mia \nnonna e sua \nsorella."
+      }
+    },
+    {
+      "id": 61,
+      "base_chunk": 380,
+      "type": "group_6",
+      "texts": {
+        "JA": "人形が映っているだろう？\nしかも、ばあちゃんの妹に\nそっくりだ。",
+        "EN": "Can't you see the \ndoll? It's just \nlike my grandma's \nsister.",
+        "FR": "Regarde la \npoupée ! C'est le \nportrait craché \nde ma grand-tante.",
+        "DE": "Siehst du die \nPuppe nicht? Die \nist genau wie die \nder Schwester \nmeiner Oma.",
+        "ES": "¿No ves la \nmuñeca? Es como \nla hermana de mi \nabuela.",
+        "IT": "Ma non vedi la \nbambola? È uguale \nalla sorella di \nmia nonna."
+      }
+    },
+    {
+      "id": 62,
+      "base_chunk": 386,
+      "type": "group_6",
+      "texts": {
+        "JA": "キミは、正しかったんだ。\nあの人形こそ、\nばあちゃんの妹をさらった\n元凶だったんだな……。",
+        "EN": "You were right. \nThe doll was used \nto lure her away.",
+        "FR": "Tu avais raison. \nLa poupée a servi \nd'appât.",
+        "DE": "Du hattest Recht. \nMit der Puppe \nwurde sie \nweggelockt.",
+        "ES": "Tenías razón. La \nmuñeca se \nutilizó para \natraerla.",
+        "IT": "Avevi ragione. La \nbambola era un \nmezzo per \nattirarla lontano \nda casa sua."
+      }
+    },
+    {
+      "id": 63,
+      "base_chunk": 392,
+      "type": "group_6",
+      "texts": {
+        "JA": "そっか。あの子が、\nあなたのおばあちゃんの\n妹だったんだ。\n助けてあげられて、\nよかった――。",
+        "EN": "That girl was your \ngrandma's sister. \nI'm so glad that I \nwas able to help \nher---.",
+        "FR": "Cette petite \nfille, c'était \nbien sa sœur. Je \nsuis contente \nd'avoir pu \nl'aider...",
+        "DE": "Das Mädchen war \ndie Schwester \ndeiner Oma. Ich \nbin so froh, dass \nich ihr helfen \nkonnte...",
+        "ES": "Esa chica era la \nhermana de tu \nabuela. Estoy muy \ncontenta de \nhaberla podido \nayudar---.",
+        "IT": "Quella bambina era \nla sorella di tua \nnonna. Sono molto \nfelice di averla \naiutata..."
+      }
+    },
+    {
+      "id": 64,
+      "base_chunk": 398,
+      "type": "group_6",
+      "texts": {
+        "JA": "コラライン。\nほんとうに――\nほんとうに、悪かったと\n思ってる。",
+        "EN": "And I should have \nbelieved you.",
+        "FR": "Et j'aurais dû te \ncroire.",
+        "DE": "Und ich hätte dir \nglauben sollen.",
+        "ES": "Y yo debí haberte \ncreído.",
+        "IT": "E io avrei dovuto \ncrederti."
+      }
+    },
+    {
+      "id": 65,
+      "base_chunk": 404,
+      "type": "group_6",
+      "texts": {
+        "JA": "オイラが、きみを\n信じなかったばかりに――。",
+        "EN": "Sorry Coraline.",
+        "FR": "Désolé Coraline.",
+        "DE": "Tut mir leid, \nCoraline.",
+        "ES": "Lo siento, \nCoraline.",
+        "IT": "Mi dispiace, \nCoraline."
+      }
+    },
+    {
+      "id": 66,
+      "base_chunk": 410,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふふっ。\nはじめてじゃない？\nわたしを、ちゃんと\nコララインって\n呼んでくれたのは。",
+        "EN": "That's the first \ntime you've called \nme Coraline.",
+        "FR": "C'est la première \nfois que tu \nm'appelles \nCoraline !",
+        "DE": "Jetzt hast du mich \nzum ersten Mal \nCoraline genannt!!",
+        "ES": "¡¡Es la primera \nvez que me llamas \nCoraline!!",
+        "IT": "Questa è la prima \nvolta che mi \nchiami Coraline!"
+      }
+    },
+    {
+      "id": 67,
+      "base_chunk": 416,
+      "type": "group_6",
+      "texts": {
+        "JA": "え？\nあ、ああ――。",
+        "EN": "Yeah... I know...",
+        "FR": "Oui...je sais...",
+        "DE": "Ja... Ich weiß...",
+        "ES": "Sí... Lo sé...",
+        "IT": "Sì... lo so..."
+      }
+    },
+    {
+      "id": 68,
+      "base_chunk": 422,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワイビー。あなたが、\nあたしを助けてくれたのよ。\nこっちの世界でも、\nあっちの世界でも、ね。",
+        "EN": "Wybie, You saved \nmy life both in \nthis world and in \nthe other world.",
+        "FR": "Wybie, tu m'as \nsauvé la vie deux \nfois. Dans le \nmonde réel et \ndans l'Autre Monde.",
+        "DE": "Wybie, du hast mir \ndas Leben \ngerettet, sowohl \nin dieser Welt als \nauch in der \nanderen Welt.",
+        "ES": "Wybie, me has \nsalvado la vida en \neste mundo y en el \nOtro Mundo.",
+        "IT": "Wybie, mi hai \nsalvato la vita in \nquesto mondo e \nnell'altro."
+      }
+    },
+    {
+      "id": 69,
+      "base_chunk": 428,
+      "type": "group_6",
+      "texts": {
+        "JA": "ぜーんぶ話してあげる。\n時間はいくらでもあるわ。\n今日は、\nまだ始まったばかり\nなんだから――。",
+        "EN": "Let me tell you \nthe whole story...",
+        "FR": "Je vais tout te \nraconter depuis le \ndébut...",
+        "DE": "Ich will dir die \nganze Geschichte \nerzählen...",
+        "ES": "Déjame que te \ncuente toda la \nhistoria...",
+        "IT": "Lascia che ti \nracconti tutta la \nstoria...."
+      }
+    },
+    {
+      "id": 70,
+      "base_chunk": 434,
+      "type": "group_6",
+      "texts": {
+        "JA": "ぼくらは見てる\nぼくらは待ってる。\nぼくらはたくさん。\nぼくらは小さい。",
+        "EN": "We are small, we \nare many. ",
+        "FR": "Nous sommes \npetits... nous \nsommes partout.",
+        "DE": "Wir sind klein, \nwir sind viele.",
+        "ES": "Somos pequeños, \nsomos muchos. ",
+        "IT": "Siamo piccoli, \nsiamo tanti."
+      }
+    },
+    {
+      "id": 71,
+      "base_chunk": 440,
+      "type": "group_6",
+      "texts": {
+        "JA": "僕らは、キミがこの世に\nたつ前からここにいる。\nいつ、あの扉の向こうへ\n案内しようか。",
+        "EN": "In the walls and \nunder floors. \nWe're beside your \nevery step. when \nshall we lead you \nthrough the door?",
+        "FR": "Sur les murs, sous \nles planchers. \nQuand nous \nlaisseras-tu te \nconduire derrière \nla porte ?",
+        "DE": "In den Wänden und \nunter den Böden. \nWir sind bei jedem \nSchritt neben dir. \nWann sollen wir dich \ndurch die Tür führen?",
+        "ES": "En las paredes y bajo \nlos suelos. Estamos \njunto a tus pasos; \n¿cuándo te haremos \npasar a través de \nla puerta?",
+        "IT": "Dentro i muri e sotto \ni pavimenti. Siamo \nsempre accanto a te. \nQuand'è che ti \nfaremo entrare da \nquella porta?"
+      }
+    },
+    {
+      "id": 72,
+      "base_chunk": 446,
+      "type": "group_6",
+      "texts": {
+        "JA": "キミも見てごらん。\nボタンの目をした\n人形が――。",
+        "EN": "Can't you \nsee...... the doll \nwith the button \neyes----?",
+        "FR": "Ouvre les yeux... \nUne poupée... des \nboutons sur les \nyeux...",
+        "DE": "Siehst du nicht... \nDie Puppe mit den \nKnopfaugen...?",
+        "ES": "¿No ves... a la \nmuñeca con los \nojos de \nbotones----?",
+        "IT": "Non vedi... La \nbambola con i \nbottoni al posto \ndegli occhi...?"
+      }
+    },
+    {
+      "id": 73,
+      "base_chunk": 452,
+      "type": "group_6",
+      "texts": {
+        "JA": "大変！　ワイビーが井戸に\n落ちてしまった。それに、\n魔女の右手がワイビーの\n体を登ってこようと\nしている！",
+        "EN": "Oh no！ Wybie fell \ndown the well. And \nthe witch's right \nhand is trying to \nclimb up Wybie's \nbody！",
+        "FR": "Oh non ! Wybie est \ntombé dans le \npuits et la main \ndroite de \nl’Autre Mère \nlui grimpe dessus !",
+        "DE": "Oh nein! Wybie ist \nin den Brunnen \ngefallen, und die \nrechte Hand der \nBeldam klettert an \nseinem Körper \nhoch!",
+        "ES": "¡Oh, no! Wybie se \nha caído al pozo. \n¡Y la mano \nderecha de la \nbruja está \nintentando subir \npor el cuerpo de \nWybie!",
+        "IT": "Oh no! Wybie è \ncaduto nel pozzo e \nla mano destra \ndella strega sta \ncercando di \narrampicarsi su di \nlui!"
+      }
+    },
+    {
+      "id": 74,
+      "base_chunk": 458,
+      "type": "group_6",
+      "texts": {
+        "JA": "タッチペンで魔女の右手を\n叩いて、井戸の底に\n落とすんだ！\nでも、ワイビーを\n叩いたらダメだよ。",
+        "EN": "Touch the Beldam's \nhand with the \nstylus and drop it \ninto the well. \nDon't hit Wybie, \nthough！",
+        "FR": "Frappe la main de \nl’Autre Mère \navec le stylet et \nfais-la tomber \ndans le puits. \nAttention à ne \npas frapper \nWybie !",
+        "DE": "Haue mit dem \nTouchpen auf die \nHand der Beldam \nund wirf sie in \nden Brunnen. \nSchlage aber nicht \nauf Wybie!",
+        "ES": "Golpea a la mano \nderecha de la \nBeldam con el \nlápiz para que \ncaiga al pozo. \nPero no golpees a \nWybie.",
+        "IT": "Colpisci la mano \ndella Beldam con \nlo stilo e falla \ncadere nel pozzo. \nAttenta a non \ncolpire Wybie, \nperò!"
+      }
+    },
+    {
+      "id": 75,
+      "base_chunk": 464,
+      "type": "group_6",
+      "texts": {
+        "JA": "魔女の右手はどんどん\n速く動くようになるから、\n落ち着いて確実に叩こう。",
+        "EN": "The witch's right \nhand will move \nfaster and faster, \nso pay attention \nand tap accurately.",
+        "FR": "La main ira de \nplus en plus vite \nalors fais \nattention et \npointe avec \nprécision.",
+        "DE": "Die Hand wird \nimmer schneller, \nalso pass gut auf \nund tippe sie \ngenau an.",
+        "ES": "La mano derecha de \nla bruja se mueve \ncada vez más \nrápido, así que \npresta atención y \ntoca con \nprecisión.",
+        "IT": "Fa' attenzione e \ntocca lo schermo \nal momento giusto+ \nla mano diventerà \nsempre più veloce."
+      }
+    },
+    {
+      "id": 76,
+      "base_chunk": 470,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 77,
+      "base_chunk": 476,
+      "type": "group_6",
+      "texts": {
+        "JA": "井戸の深さを調べるなら\n石を落とすのがイチバン！\n小石をタッチし、\n井戸までスライド\nさせてみよう。",
+        "EN": "Dropping a stone \nis the best way to \nmeasure the depth \nof the well. Touch \nthe stone and drag \nit to the well.",
+        "FR": "Pour savoir si le puits \nest profond, jette une \npierre à l’intérieur. \nPointe la pierre \net glisse-la \njusqu’au puits.",
+        "DE": "Die Tiefe eines \nBrunnens misst man am \nbesten, indem man \neinen Stein hineinwirft. \nBerühre den Stein und \nzieh ihn zum Brunnen.",
+        "ES": "Soltar una piedra es \nla mejor forma de \nmedir la profundidad \ndel pozo. Toca la \npiedra y arrástrala \nhasta el pozo.",
+        "IT": "Il sistema migliore per \nmisurare la profondità \ndi un pozzo è buttarci \ndentro una pietra. \nTocca la pietra e \ntrascinala sul pozzo."
+      }
+    },
+    {
+      "id": 78,
+      "base_chunk": 482,
+      "type": "group_6",
+      "texts": {
+        "JA": "ワイビーが井戸に\n落ちた！？早く魔女の糸\nをきって、ワイビーを\n助けにいかないと……！",
+        "EN": "Did Wybie just \nfall into the \nwell?！ Cut the \nBeldam's thread \nand go to help \nhim！   ",
+        "FR": "Wybie vient de \ntomber dans le \npuits ?! Coupe la \ntoile de l’Autre \nMère et va \nl’aider !",
+        "DE": "Ist Wybie eben in \nden Brunnen \ngefallen?! \nSchneide den Faden \nder Beldam durch \nund hilf ihm!",
+        "ES": "¿Se ha caído \nWybie en el pozo? \n¡Corta el hilo de \nla Beldam y ve a \nayudarle!   ",
+        "IT": "Wybie è caduto \nnel pozzo?! Taglia \nil filo della \nBeldam e vai ad \naiutarlo!   "
+      }
+    },
+    {
+      "id": 79,
+      "base_chunk": 488,
+      "type": "group_6",
+      "texts": {
+        "JA": "Coraline DS\n \n- STAFF -",
+        "EN": "ART Inc.,\n \nLead Program\n Mitsunori Takemoto",
+        "FR": "Program\n Hirokazu Kizu\n Kouji Iida",
+        "DE": "Game Design\n Toyoharu Moriyama\n Aya Sakurai\n Masumi Yanagawa",
+        "ES": "Art Director\n Toshihiro Hirosawa",
+        "IT": "3D Lead Artist\n Tomoyuki Watanabe\n \n2D Lead Artist\n Kinuko Nagasato"
+      }
+    },
+    {
+      "id": 80,
+      "base_chunk": 494,
+      "type": "group_6",
+      "texts": {
+        "JA": "3D Character Artists\n Hiroko Kinjo\n Satoko Azami",
+        "EN": "3D Map Artists\n Tmomoyuki Watanabe\n Satoko Azami",
+        "FR": "Motion Artists\n Hiroko Kinjo\n Satoko Azami",
+        "DE": "2D Artists\n Kinuko Nagasato\n Kayoko Komori\n Tomoyuki Shirota\n Yoko Hyodo",
+        "ES": "Direction\n Tsuyoshi Yagi",
+        "IT": "Special Thanks \n Hiroyuki Otsuki\n Koichi Sakagami\n Toshio Inomata"
+      }
+    },
+    {
+      "id": 81,
+      "base_chunk": 500,
+      "type": "group_6",
+      "texts": {
+        "JA": "Special Thanks \n Yusuke Hata\n Hiroyuki Kishiura \n Shintaro Motobe",
+        "EN": "D3Publisher of America, Inc.\n \nSenior Producer\n Tim Ramage",
+        "FR": "Assistant Producer\n Steven J. Kasparek, Jr.",
+        "DE": "Localization Manager\n Alex Coward",
+        "ES": "Translation\n Miki Takahashi\n Satomi Aihara",
+        "IT": "Lead Tester\n Joshua Farrell"
+      }
+    },
+    {
+      "id": 82,
+      "base_chunk": 506,
+      "type": "group_6",
+      "texts": {
+        "JA": "Testers\n Steve Ferenchak\n Travis Simmons\n John Halfhill\n Anna M. Peterson\n Geoffrey F. Cain",
+        "EN": "First Party Specialist\n Drew Johnson",
+        "FR": "Customer Service Specialist\n Tyler Kimmel",
+        "DE": "Managers of Support Services\n Joe Fletcher\n Jeremy S. Barnes",
+        "ES": "Support Services \n General Office Manager\n  Michael Greene",
+        "IT": "Vice President of \n Product Development\n  Peter Andrew"
+      }
+    },
+    {
+      "id": 83,
+      "base_chunk": 512,
+      "type": "group_6",
+      "texts": {
+        "JA": "Vice President of Marketing\n  Alison Quirion",
+        "EN": "Marketing Manager\n  Fernando Bustamante",
+        "FR": "Associate Marketing Manager\n  Issei Shimizu",
+        "DE": "Publicity Manager\n  Tamara Sanderson",
+        "ES": "Marketing Coordinator\n  Kaori Takasue",
+        "IT": "Vice President of Licensing\n /Business Development\n  Bill Anker"
+      }
+    },
+    {
+      "id": 84,
+      "base_chunk": 518,
+      "type": "group_6",
+      "texts": {
+        "JA": "Associate Manager of Licensing\nMayumi Dietrich",
+        "EN": "Associate Manager of \n Business Development\n  Jon Virtes",
+        "FR": "Vice President of \n Sales & Operations\n  Kim Motika",
+        "DE": "Director of Sales \n & Operations\n  John Costeines",
+        "ES": "Executive Vice President/COO\n Yoji Takenaka",
+        "IT": "President and CEO\n Yuji Itoh"
+      }
+    },
+    {
+      "id": 85,
+      "base_chunk": 524,
+      "type": "group_6",
+      "texts": {
+        "JA": "D3Publisher of Europe, Ltd.\nManaging Director\n Adam Roberts",
+        "EN": "Senior European Sales Manager\n Liam Taylor",
+        "FR": "Sales Executive\n Peter Silver",
+        "DE": "PR and Marketing Manager\n Suzanne Sutton",
+        "ES": "Operations Manager\n Jen Wilder",
+        "IT": "Focus Features\n Laika Entertainment\n Universal Pictures"
+      }
+    },
+    {
+      "id": 86,
+      "base_chunk": 530,
+      "type": "single",
+      "texts": {
+        "EN": "Universal Pictures Digital \n Platforms Group\n- Bill Kispert\n- Gary Lokum\n- Kam Naderi "
+      }
+    },
+    {
+      "id": 87,
+      "base_chunk": 531,
+      "type": "single",
+      "texts": {
+        "EN": "Additional Writing\n Tom Gastall"
+      }
+    },
+    {
+      "id": 88,
+      "base_chunk": 532,
+      "type": "single",
+      "texts": {
+        "EN": "Special Thanks\n Racehorse Studios\n Studiopolis\n Blindlight LLC\n Eric Weiss\n Mike Patterson"
+      }
+    }
+  ]
+}

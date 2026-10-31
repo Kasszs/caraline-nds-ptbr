@@ -1,0 +1,487 @@
+{
+  "file": "eve_tree_map01.bin",
+  "total_dialogues": 37,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 30,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれ？さっきと同じ\nようなところに\n来ちゃったわね。",
+        "EN": "I feel like I've \nbeen here before.",
+        "FR": "J'ai l'impression \nd'être déjà \nvenue.",
+        "DE": "Mir ist, als wär \nich schon mal hier \ngewesen.",
+        "ES": "Me siento como si \nya hubiese estado \naquí.",
+        "IT": "Mi sembra di \nessere già stata \nqui."
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 36,
+      "type": "group_6",
+      "texts": {
+        "JA": "もしかして……迷った？",
+        "EN": "Where the heck am \nI?",
+        "FR": "Mais c'est quoi \ncet endroit ?",
+        "DE": "Wo zum Kuckuck bin \nich?",
+        "ES": "¿Dónde narices \nestoy?",
+        "IT": "Ma dove diavolo \nsono?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 42,
+      "type": "group_6",
+      "texts": {
+        "JA": "ごきげんよう。\n黒ネコちゃん。",
+        "EN": "Hello, Mr.Cat.",
+        "FR": "Bonjour M. le Chat.",
+        "DE": "Nochmal hallo, \nHerr Kater.",
+        "ES": "Hola, Sr. Gato.",
+        "IT": "Salve di nuovo, \nsignor gatto."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 48,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれ？\nまた会ったわね、\n黒ネコちゃん。",
+        "EN": "Let's see if \nyou're any \nfriendlier this \ntime.",
+        "FR": "Tu vas être \ngentil cette \nfois-ci j'espère.",
+        "DE": "Mal sehen, ob du \ndiesmal \nfreundlicher bist.",
+        "ES": "Veamos si eres \nmás amistoso esta \nvez.",
+        "IT": "Vediamo se \nstavolta ti mostri \npiù amichevole."
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 54,
+      "type": "group_6",
+      "texts": {
+        "JA": "ところでさ。\nこのあたりに井戸は\nないかな？さがしてるん\nだけど、知らない？",
+        "EN": "By the way, do you \nknow anything \nabout an old well?",
+        "FR": "Tu as entendu \nparler du puits \ntoi ?",
+        "DE": "Ach übrigens, \nweißt du was von \neinem alten \nBrunnen?",
+        "ES": "Por cierto, \n¿sabes algo \nacerca de un viejo \npozo?",
+        "IT": "A proposito, sai \nniente di un \nvecchio pozzo?"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 60,
+      "type": "group_6",
+      "texts": {
+        "JA": "やっぱ、知らないか。\n知ってたって、黒ネコが\nしゃべるわけも\nないしねぇ。",
+        "EN": "Then again, if you \nknew anything, how \ncould you possibly \ntell me?",
+        "FR": "Remarque, je ne \nvois pas comment \ntu me le dirais !",
+        "DE": "Aber, na ja, wenn \ndu was wüsstest, \nwie könntest du's \nmir denn sagen?",
+        "ES": "Entonces, si te \nenteras de algo, \n¿podrías \ndecírmelo?",
+        "IT": "Ma d'altronde, \nanche se lo \nsapessi, come \nfaresti a dirmelo?"
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 66,
+      "type": "group_6",
+      "texts": {
+        "JA": "となると、\nやっぱコイツの\nでばんよね！",
+        "EN": "It's time to try \nthis baby out！",
+        "FR": "Voyons voir si ça \nmarche !",
+        "DE": "Es wird Zeit, das \nDing mal \nauszuprobieren!",
+        "ES": "¡Es el momento de \nprobar este trasto!",
+        "IT": "È ora di provare \nquest'aggeggio!"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 72,
+      "type": "group_6",
+      "texts": {
+        "JA": "ダウダウダウダウ\nダウジング〜。\n水の力をさがしだせ。",
+        "EN": "Magic dowser, \nmagic \ndowser...show... \nme... the... \nwell...",
+        "FR": "Baguette... ô ma \nbelle baguette... \ndis-moi, où est \nle... puits ?!",
+        "DE": "Wünschelrute, \nWünschelrute... \nzeig... mir... den \nBrunnen...",
+        "ES": "Varita mágica, \nvarita mágica... \nmuéstrame... \nme... el... pozo...",
+        "IT": "Magica bacchetta, \nbacchetta \nmagica... \nmostrami... il ... \npozzo..."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 78,
+      "type": "group_6",
+      "texts": {
+        "JA": "ダウダウダウダウ\nダウジング〜。\nあたしを、ふかくて、\nふしぎな、井戸に\nみちびいて〜。",
+        "EN": "Magic dowser, \nmagic \ndowser...show... \nme... the \nwell！！！",
+        "FR": "Baguette... ô ma \nbelle baguette... \ndis-moi, où est \nle... puits ?!",
+        "DE": "Wünschelrute, \nWünschelrute... \nzeig... mir... den \nBrunnen!!!",
+        "ES": "¡¡¡Varita \nmágica, varita \nmágica... \nmuéstrame... \nme... el pozo!!!",
+        "IT": "Magica bacchetta, \nbacchetta \nmagica... \nmostrami... il \npozzo!"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 84,
+      "type": "group_6",
+      "texts": {
+        "JA": "へっ！　おいおい、\nどっこのイナカもんだよ、\nお前。",
+        "EN": "Water witching \nhuh...",
+        "FR": "Tu te prends pour \nune sorcière \nmaintenant ?",
+        "DE": "Wasserzauberei, \nhm...",
+        "ES": "Buscando agua, \n¿eh?",
+        "IT": "Stregonerie \nsull'acqua eh?"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 90,
+      "type": "group_6",
+      "texts": {
+        "JA": "そんなんで、\n探しものが見つかる\nなんて、ホンキで\n思ってんのかい？",
+        "EN": "Doesn't that stuff \nonly work in the \nmovies?",
+        "FR": "Ça ne marche que \ndans les films \nça !",
+        "DE": "Funktioniert so \nwas nicht nur in \nFilmen?",
+        "ES": "¿No sabes que \nesas cosas sólo \nfuncionan en las \npelículas?",
+        "IT": "Guarda che quella \nroba funziona solo \nnei film!"
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 96,
+      "type": "group_6",
+      "texts": {
+        "JA": "だ、だれよ、アナタ！",
+        "EN": "You know, I don't \nlike being stalked \nby psycho nerds... \nor their cats.",
+        "FR": "Toi et ton chat, \nvous n’allez \nquand même pas me \nsuivre partout !",
+        "DE": "Weißt du, ich \nwerde nicht gern \nvon Psychoten \nbeschattet... oder \nvon ihren Katzen.",
+        "ES": "Oye, no me gusta \nque me acechen \ntontos \npsicópatas... ni \nsus gatos.",
+        "IT": "Sai, non è che \nami molto essere \nimportunata da \nnerd psicotici... \nné dai loro gatti."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 102,
+      "type": "group_6",
+      "texts": {
+        "JA": "ははっ、オイラかい？\nオイラはワイビー。",
+        "EN": "Heh... I'm Wybie. \nWybie's short for \nWyborne...not my \nidea, of course.",
+        "FR": "Salut... mon \nprénom, c’est \nWyborne, mais on \nm'appelle Wybie...",
+        "DE": "Heh... Ich bin \nWybie. Wybie ist \ndie Abkürzung \nfür Wyborne... \ndas war natürlich \nnicht meine Idee.",
+        "ES": "Eh... Me llamo \nWybie. Wybie es la \nabreviatura de \nWyborne...no fue \nidea mía, por \nsupuesto.",
+        "IT": "Comunque mi chiamo \nWybie, diminutivo \ndi Wyborne... non \nè stata una mia \nidea, naturalmente."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 108,
+      "type": "group_6",
+      "texts": {
+        "JA": "アンタ、あのピンクパレス\nに引っ越してきた子だろ？\nよ、よろしくな。",
+        "EN": "You're the girl \nwho moved into the \nPink Palace, \nright? ",
+        "FR": "C’est toi qui as \nemménagé au \npalais rose, non ?",
+        "DE": "Du bist das \nMädchen, das in \nden Pinkfarbenen \nPalast eingezogen \nist, stimmt's?",
+        "ES": "Eres la chica que \nse ha mudado al \nPalacio Rosa, \n¿verdad? ",
+        "IT": "Tu sei la \nragazzina che si \nè trasferita nel \nPalazzo rosa, \ngiusto?"
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 114,
+      "type": "group_6",
+      "texts": {
+        "JA": "…………………。",
+        "EN": "............\n",
+        "FR": "...",
+        "DE": ".....................。\n",
+        "ES": "..............\n",
+        "IT": ".....................。\n"
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 120,
+      "type": "group_6",
+      "texts": {
+        "JA": "あー、そ、それでさ。\nアンタ、なに探して\nたんだい？",
+        "EN": "So are you looking \nfor water?",
+        "FR": "Tu cherches de \nl'eau, c'est ça ?",
+        "DE": "Du suchst also \nWasser?",
+        "ES": "Entonces, ¿estás \nbuscando agua?",
+        "IT": "Allora, stai \ncercando l'acqua?"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 126,
+      "type": "group_6",
+      "texts": {
+        "JA": "……井戸よ。\n井戸をさがしてたの。",
+        "EN": "No, I'm actually \nlooking for the \nold well.  It's \nsupposed to be \naround here \nsomewhere.",
+        "FR": "Non, c’est le \nvieux puits que je \ncherche. Il est \nsensé être \nquelque part par \nlà.",
+        "DE": "Nein, ich suche \nnach dem alten \nBrunnen. Er soll \nhier irgendwo sein.",
+        "ES": "No, en realidad \nestoy buscando el \nviejo pozo. Se \nsupone que está \npor aquí cerca.",
+        "IT": "No, in realtà sto \ncercando il \nvecchio pozzo. \nDeve essere qui da \nqualche parte."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 132,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、ああ、井戸ね。\n井戸なら、この先を\n行けばすぐに見つかるさ。",
+        "EN": "Oh, that's easy... \njust keep walking \ndown the road.",
+        "FR": "Ah, oui. C'est \nfacile, tu n'as \nqu'à descendre la \nrue...",
+        "DE": "Oh, das ist \nleicht... geh \neinfach immer die \nStraße entlang.",
+        "ES": "Oh, es fácil... \nsigue bajando por \nel camino.",
+        "IT": "Oh, ma è \nfacile... segui \nquesta strada."
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 138,
+      "type": "group_6",
+      "texts": {
+        "JA": "そ。ありがと。",
+        "EN": "Oh. Okay....",
+        "FR": "Ah. Merci...",
+        "DE": "Oh. Okay....",
+        "ES": "Oh. Vale....",
+        "IT": "Oh. D'accordo..."
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 144,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、あー。\nあのさ、オイラ、なんか\n気にさわるようなこと、\n言ったかな。",
+        "EN": "What did I do to \ntick you off, \nanyway?",
+        "FR": "Pourquoi tu dis \nça ? Je ne t’ai \nrien fait moi !",
+        "DE": "Was hab ich bloß \ngetan, das dich so \närgert?",
+        "ES": "¿Qué he hecho \npara fastidiarte?",
+        "IT": "Ma scusa, cos'ho \nfatto per farti \narrabbiare così \ntanto?"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 150,
+      "type": "group_6",
+      "texts": {
+        "JA": "……さあねぇ。\n女の子のあとをつける\nようなマネはしない\nほうがいいって\nことじゃない？",
+        "EN": "I don't know, \nwhere should I \nstart?",
+        "FR": "Je ne sais pas... \nJe commence où ?",
+        "DE": "Keine Ahnung, wo \nsoll ich anfangen?",
+        "ES": "No lo sé, ¿por \ndónde empiezo?",
+        "IT": "Hmm, non so, da \ndove vuoi che \ncominci?"
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 156,
+      "type": "group_6",
+      "texts": {
+        "JA": "ごきげんよう。\n黒猫ちゃん。なーんか、\n今日はよくアナタを\n見るわね。",
+        "EN": "Hello again, Cat.",
+        "FR": "Re-bonjour, le \nchat.",
+        "DE": "Hallo, Katze.",
+        "ES": "Hola otra vez, \nGato.",
+        "IT": "Salve di nuovo, \ngatto."
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 162,
+      "type": "group_6",
+      "texts": {
+        "JA": "ふうん？\n心配してくれてるのね。",
+        "EN": "You really do like \nme, don't you?",
+        "FR": "Ça te plait de me \nsuivre, hein ?",
+        "DE": "Du magst mich \nwirklich gern, was?",
+        "ES": "Yo te caigo bien, \n¿verdad?",
+        "IT": "Allora ti piaccio \nveramente, eh?"
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 168,
+      "type": "group_6",
+      "texts": {
+        "JA": "わかってる。\nストーカーみたいな男の子\nだったけど、でも悪いヤツ\nってわけじゃないみたいよ。",
+        "EN": "I know... he acts \nlike a stalker, \nand a \nknow-it-all...and \nhe's \nannoying...ugh.",
+        "FR": "Ah... ça \nl’amuse de me \nsuivre et \nd’avoir réponse \nà tout... mais il \nm’agace moi.",
+        "DE": "Ich weiß... Er \nbenimmt sich wie \nein Stalker und \nein \nBesserwisser... \nund er nervt... \nöh.",
+        "ES": "Es verdad... \nactúa como un \nacosador y un \nsabelotodo...Además, \nun pesado...puaj.",
+        "IT": "Lo so... mi \nimportuna, ed è \nun saputello... e \nuno scocciatore... \naah."
+      }
+    },
+    {
+      "id": 24,
+      "base_chunk": 174,
+      "type": "group_6",
+      "texts": {
+        "JA": "行っちゃった。\n友だちにはなれそうも\nないかしら。",
+        "EN": "And away you go. \nYou know, I don't \nthink I could ever \nhandle being \nfriends with Wybie.",
+        "FR": "C’est ça, \nva-t-en. Tu sais, \nmoi je ne pourrais \npas être amie \navec Wybie.",
+        "DE": "Und los geht's. \nWeißt du, ich \nglaube, ich würde \nes nicht schaffen, \nmit Wybie \nbefreundet zu sein.",
+        "ES": "Y poco más. No \ncreo que llegue a \nhacer buenas migas \ncon Wybie.",
+        "IT": "E così via. Sai, \nnon so se sarei \nmai in grado di \ngestire questa \namicizia con Wybie."
+      }
+    },
+    {
+      "id": 25,
+      "base_chunk": 180,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    },
+    {
+      "id": 26,
+      "base_chunk": 186,
+      "type": "group_6",
+      "texts": {
+        "JA": "井戸を見つけよう！\n画面をタッチしてね。",
+        "EN": "Look for the \nwell！ Please \ntouch the Touch \nScreen.",
+        "FR": "Cherche le puits ! \nToucher l’écran \ntactile s’il te \nplaît.",
+        "DE": "Such den Brunnen! \nBitte berühre den \nBildschirm.",
+        "ES": "¡Busca el pozo! \nToca la pantalla \ntáctil.",
+        "IT": "Cerca il pozzo! \nTocca lo schermo."
+      }
+    },
+    {
+      "id": 27,
+      "base_chunk": 192,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ。ダンゴムシだ。",
+        "EN": "Look. It's a pill \nbug.",
+        "FR": "Regarde, un \ncloporte.",
+        "DE": "Sieh nur. Es ist \nein Pillendreher.",
+        "ES": "Mira. Es una \ncochinilla.",
+        "IT": "Guarda. È un \ninsetto palla."
+      }
+    },
+    {
+      "id": 28,
+      "base_chunk": 198,
+      "type": "group_6",
+      "texts": {
+        "JA": "わ！\nおっきなムカデ\nみーつけた。",
+        "EN": "Wow！ I found a \nlarge centipede.",
+        "FR": "Ouah ! J'ai \ntrouvé un gros \nmille-pattes.",
+        "DE": "Wow! Ich habe \neinen großen \nTausendfüßer \ngefunden.",
+        "ES": "¡Guau! He \nencontrado un \nciempiés enorme.",
+        "IT": "Wow! Ho trovato un \ngrosso millepiedi."
+      }
+    },
+    {
+      "id": 29,
+      "base_chunk": 204,
+      "type": "group_6",
+      "texts": {
+        "JA": "ナメクジでベトベトだわ。\nでも、かわいい〜。",
+        "EN": "Ugh, my hands are \nsticky from the \nslug. But it's \ncute.",
+        "FR": "Ahhh, mes mains \nsont toutes \ncollantes. Mais \nj'aime bien les \nlimaces.",
+        "DE": "Öh, meine Hände \nsind von der \nNacktschnecke ganz \nklebrig. Aber sie \nist niedlich.",
+        "ES": "Puaj, tengo las \nmanos pegajosas \npor culpa de la \nbabosa. Pero es \nbonita.",
+        "IT": "Agh... Mi ha \nappiccicato tutte \nle mani con la \nbava. Ma è carino."
+      }
+    },
+    {
+      "id": 30,
+      "base_chunk": 210,
+      "type": "group_6",
+      "texts": {
+        "JA": "わ……なんか逃げてった。\nいまの、\nなんだったのかしら？",
+        "EN": "Hey.....Something \nran away. What was \nthat?",
+        "FR": "Hé, j'ai entendu \ncourir. C'était \nquoi ?",
+        "DE": "Hey... Da ist was \nweggelaufen. Was \nwar das?",
+        "ES": "Eh... Algo ha \nsalido corriendo. \n¿Qué es esto?",
+        "IT": "Ehi... Qualcuno \nstava scappando \nvia. Che cos'era?"
+      }
+    },
+    {
+      "id": 31,
+      "base_chunk": 216,
+      "type": "group_6",
+      "texts": {
+        "JA": "んふふ。\nダンゴムシが\nいっぱーい。\nころころころ\nころころころ……。",
+        "EN": "Aha. Tons of pill \nbugs. Rollin', \nrollin', rollin', \nrollin'.....",
+        "FR": "Ahh... Il y a des \ncloportes partout. \nÇa grouille \ngrouille \ngrouille...",
+        "DE": "Aha. Unmengen an \nPillendrehern... \nRollen, rollen, \nrollen, rollen...",
+        "ES": "Ajá Montones de \ncochinillas. \nRodando, rodando, \nrodando, rodando...",
+        "IT": "Aha. Milioni di \ninsetti palla. \nRotolano, \nrotolano, \nrotolano, \nrotolano......"
+      }
+    },
+    {
+      "id": 32,
+      "base_chunk": 222,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、アリの\n巣はっけーん。",
+        "EN": "Oh, I found an ant \nnest.",
+        "FR": "Oh, une \nfourmilière.",
+        "DE": "Oh, ich hab ein \nAmeisennest \ngefunden.",
+        "ES": "Oh, he encontrado \nun hormiguero.",
+        "IT": "Oh, ho trovato un \nnido di formiche."
+      }
+    },
+    {
+      "id": 33,
+      "base_chunk": 228,
+      "type": "group_6",
+      "texts": {
+        "JA": "ちぇっ。\nハズレだわ。\nなーんにも、いないなんて。",
+        "EN": "Tut！ I drew a \nblank. There's \nnothing.",
+        "FR": "Chut ! Il n'y a \nrien.",
+        "DE": "Ts! Das war eine \nNiete. Da ist \nnichts.",
+        "ES": "¡Vaya! No he \nconseguido nada. \nNo hay nada.",
+        "IT": "Oh! Ho preso un \nabbaglio. Non c'è \nniente."
+      }
+    },
+    {
+      "id": 34,
+      "base_chunk": 234,
+      "type": "group_6",
+      "texts": {
+        "JA": "あら。\nこんなところに\nボタンが落ちてる。",
+        "EN": "Look, there's a \nbutton on the \nfloor.",
+        "FR": "Tiens, il y a un \nbouton par terre.",
+        "DE": "Sieh nur, da liegt \nein Knopf auf dem \nBoden.",
+        "ES": "Mira, hay un \nbotón en el suelo.",
+        "IT": "Guarda, c'è un \nbottone qui per \nterra."
+      }
+    },
+    {
+      "id": 35,
+      "base_chunk": 240,
+      "type": "group_6",
+      "texts": {
+        "JA": "あ、卵だ！\nあたし知ってる。\nこれテントウムシの卵よね。",
+        "EN": "Ah！ An egg！ I \nknow this！ This \nis a ladybug egg.",
+        "FR": "Ah ! Un œuf ! Je \nsuis sûre que \nc'est un œuf de \ncoccinelle !",
+        "DE": "Ah! Ein Ei! Das \nkenne ich! Das ist \nein \nMarienkäfer-Ei.",
+        "ES": "¡Ah! ¡Un huevo! \n¡Sé lo que es! \nEs un huevo de \nmariquita.",
+        "IT": "Ah! Un uovo! Lo \nriconosco! È un \nuovo di coccinella."
+      }
+    },
+    {
+      "id": 36,
+      "base_chunk": 246,
+      "type": "group_6",
+      "texts": {
+        "JA": "うわ、すごいニオイ……。\nなんだろ、この虫。",
+        "EN": "Argh！ It smells \nawful. What is \nthis bug?",
+        "FR": "Ahhh, ça sent \nmauvais ! C'est \nquoi cet insecte ?!",
+        "DE": "Argh! Es stinkt \nfürchterlich. Was \nist das für ein \nKäfer?",
+        "ES": "¡Argh! Huele \nhorrible. ¿Qué \nes este bicho?",
+        "IT": "Puah! Che puzza! \nChe razza di \ninsetto è questo?"
+      }
+    }
+  ]
+}

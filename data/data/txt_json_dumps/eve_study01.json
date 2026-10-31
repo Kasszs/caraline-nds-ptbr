@@ -1,0 +1,318 @@
+{
+  "file": "eve_study01.bin",
+  "total_dialogues": 24,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 27,
+      "type": "group_6",
+      "texts": {
+        "JA": "おや、どうしたんだい？\n探検は終わったのかい？",
+        "EN": "So how did you do? \nAre you all done \nexploring?",
+        "FR": "Alors, tu as fini \nd'explorer ? Tu \ntrouves ça \ncomment ?",
+        "DE": "Und, wie war's? \nBist du fertig mit \ndem Erkunden?",
+        "ES": "¿Cómo te ha ido? \n¿Has acabado de \nexplorar todo?",
+        "IT": "Allora, cosa ne \npensi? Hai finito \nl'esplorazione?"
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 33,
+      "type": "group_6",
+      "texts": {
+        "JA": "探検の次には、\nそーだなぁ、例えば\n青いものを数えるとか、\nネズミの足跡を探して\nみるとか\n……。",
+        "EN": "Why don't you see \nif you've explored \nall the rooms in \nthe house...or \nbetter \nyet...unpack?",
+        "FR": "Et si tu allais \nexplorer toutes \nles pièces de la \nmaison... ou \nattends, tu \npréfères \ndéfaire les \ncartons ? ",
+        "DE": "Schau doch mal \nnach, ob du schon \nalle Räume im \nHaus erkundet \nhast... oder noch \nbesser... pack was \naus?",
+        "ES": "¿Por qué no \nmiras si has \nexplorado todas \nlas habitaciones \nde la casa? ¿O \naún mejor...y si \ndesembalas?",
+        "IT": "Perché non visiti \ntutte le stanze \ndella casa... o \nancora meglio... \nperché non svuoti \ngli scatoloni?"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 39,
+      "type": "group_6",
+      "texts": {
+        "JA": "ほら、やることなんて\nイッパイ見つかるだろ？",
+        "EN": "There are many \nthings to do in \nthis big house.",
+        "FR": "Elle est grande \ncette maison, il y \na plein de choses \nà faire.",
+        "DE": "In diesem großen \nHaus gibt's viel \nzu tun.",
+        "ES": "Hay mucho que \nhacer en esta casa \ntan grande.",
+        "IT": "Ci sono molte cose \nda fare in una \ncasa così grande."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 45,
+      "type": "group_6",
+      "texts": {
+        "JA": "あああああ。\nデータが消えて\nしまった……。",
+        "EN": "Noooo！！！ My \nwork！！ My \nwork！！ I can't \nbelieve it's gone！",
+        "FR": "Nooooon ! Mon \narticle !! Il est \ncomplètement \nfichu !!",
+        "DE": "Neeeiiiin! Meine \nArbeit!! Meine \nArbeit!! Nicht zu \nfassen, dass sie \nweg ist!",
+        "ES": "¡¡¡Noooo!!! \n¡¡Mi trabajo!! \n¡¡Mi trabajo!! \n¡Lo he perdido \ntodo!",
+        "IT": "Nooo! Il mio \nlavoro!! Il mio \nlavoro!!! È \nandato tutto in \nfumo!!!"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 51,
+      "type": "group_6",
+      "texts": {
+        "JA": "せっかく書いた記事が\nパーだよ。どうしたら……\nどうしよう……。",
+        "EN": "This is no time \nfor games, \nCoraline. I lost \nall my work！",
+        "FR": "Je n'ai pas le \ntemps Coraline ! \nIl faut que je \nrecommence tout !",
+        "DE": "Dies ist nicht die \nZeit für Spiele, \nCoraline. Ich habe \nmeine ganze Arbeit \nverloren!",
+        "ES": "No es momento de \njuegos, Coraline. \n¡He perdido todo \nmi trabajo!",
+        "IT": "Non è ora di \nscherzare, \nCoraline. Ho perso \ntutto il mio \nlavoro!"
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 57,
+      "type": "group_6",
+      "texts": {
+        "JA": "やあ。コラライン。\nすてきな人形をもっている\nじゃないか。\n探検ごっこの次は\n人形あそびかい？　\nとってもグッドじゃないか。",
+        "EN": "Hello, \nCoraline...and... \ndoll who looks \nlike Coraline.",
+        "FR": "Salut, Coraline... \nDis donc, elle te \nressemble cette \npoupée...",
+        "DE": "Hallo, Coraline... \nund... Puppe, die \nwie Coraline \naussieht.",
+        "ES": "Hola, \nCoraline...y... \nmuñeca que se \nparece a Coraline.",
+        "IT": "Ciao Coraline... \ne ... bambola che \nsomiglia a \nCoraline."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 63,
+      "type": "group_6",
+      "texts": {
+        "JA": "ああ、そうだ。\nこうしよう！この記事\nなら、楽しくてだれもが\n踊りだすぞぉ。",
+        "EN": "When this article \nis done, everyone \nis going to love \nit.",
+        "FR": "J’ai presque \nfini mon article. \nIls vont \nl’adorer.",
+        "DE": "Den Artikel werden \nalle lieben, wenn \ner fertig ist.",
+        "ES": "Cuando este \nartículo esté \nterminado, le va a \nencantar a todo el \nmundo.",
+        "IT": "Quando l'avrò \nfinito, questo \narticolo farà \nimpazzire tutti!"
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 69,
+      "type": "group_6",
+      "texts": {
+        "JA": "あああああ。\nデータが消えて\nしまった……。",
+        "EN": "Noooo！！！ My \nwork！！ My \nwork！！ I can't \nbelieve it's gone！",
+        "FR": "Nooooon ! Mon \narticle !! Il est \ncomplètement \nfichu !!",
+        "DE": "Neeeiiiin! Meine \nArbeit!! Meine \nArbeit!! Nicht zu \nfassen, dass sie \nweg ist!",
+        "ES": "¡¡¡Noooo!!! \n¡¡Mi trabajo!! \n¡¡Mi trabajo!! \n¡Lo he perdido \ntodo!",
+        "IT": "Nooo! Il mio \nlavoro!! Il mio \nlavoro!!! È \nandato tutto in \nfumo!!!"
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 75,
+      "type": "group_6",
+      "texts": {
+        "JA": "せっかく書いた記事が\nパーだよ。どうしたら……\nどうしよう……。",
+        "EN": "This is no time \nfor games, \nCoraline. I lost \nall my work！",
+        "FR": "Je n'ai pas le \ntemps Coraline ! \nIl faut que je \nrecommence tout !",
+        "DE": "Dies ist nicht die \nZeit für Spiele, \nCoraline. Ich habe \nmeine ganze Arbeit \nverloren!",
+        "ES": "No es momento de \njuegos, Coraline. \n¡He perdido todo \nmi trabajo!",
+        "IT": "Non è ora di \nscherzare, \nCoraline. Ho perso \ntutto il mio \nlavoro!"
+      }
+    },
+    {
+      "id": 9,
+      "base_chunk": 81,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、パパ。\n聞いてくれる？",
+        "EN": "Hey, Dad. Guess \nwhat? ",
+        "FR": "Bonjour, p'pa !",
+        "DE": "Hey, Papa. Rate \nmal was?",
+        "ES": "Eh, papá. ¿Sabes \nqué? ",
+        "IT": "Ehi papà. \nIndovina un po'?"
+      }
+    },
+    {
+      "id": 10,
+      "base_chunk": 87,
+      "type": "group_6",
+      "texts": {
+        "JA": "オーゥ！\nごめんよ、コラライン。",
+        "EN": "Oh！ Sorry, \nCoraline.",
+        "FR": "Oh ! Désolé \nCoraline.",
+        "DE": "Oh! Tut mir leid, \nCoraline.",
+        "ES": "¡Oh! Lo siento, \nCoraline.",
+        "IT": "Oh! Scusa, \nCoraline."
+      }
+    },
+    {
+      "id": 11,
+      "base_chunk": 93,
+      "type": "group_6",
+      "texts": {
+        "JA": "たった今、バラと\nコガネムシの関係に\nついて、いいネタを\nおもいついたんだ！",
+        "EN": "Just now I had a \nbreakthrough about \nthe relationship \nbetween roses and \nthe gold beetles！",
+        "FR": "Je viens juste de \npercer le mystère \nde la relation \nentre les roses et \nles coléoptères !",
+        "DE": "Ich hatte gerade \neinen Durchbruch \nin Bezug auf das \nVerhältnis \nzwischen Rosen und \nGoldkäfern!",
+        "ES": "¡Justo ahora he \nlogrado un gran \navance en la \nrelación entre \nlas rosas y los \nescarabajos \ndorados!",
+        "IT": "Ho appena fatto \nuna sensazionale \nscoperta sulla \nrelazione tra le \nrose e gli \nscarabei dorati."
+      }
+    },
+    {
+      "id": 12,
+      "base_chunk": 99,
+      "type": "group_6",
+      "texts": {
+        "JA": "オーゥ！そうだ！\nコガネムシがとんできて、\n８の字をおどると……",
+        "EN": "When the gold \nbeetles fly in and \ndance a figure \neight....",
+        "FR": "Lorsque les \ncoléoptères les \napprochent en \nfaisant comme un \nhuit...",
+        "DE": "Wenn die \nGoldkäfer \nangeflogen kommen \nund eine Acht \ntanzen...",
+        "ES": "Cuando los \nescarabajos \ndorados vuelan y \nbailan \ndescribiendo un \nocho...",
+        "IT": "Quando lo scarabeo \ndorato vola \nintorno alla rosa \nin una danza a \nforma di 8..."
+      }
+    },
+    {
+      "id": 13,
+      "base_chunk": 105,
+      "type": "group_6",
+      "texts": {
+        "JA": "ねぇ、パパ。\n聞いてくれる？",
+        "EN": "Hey, Dad. Guess \nwhat? ",
+        "FR": "Bonjour, p'pa !",
+        "DE": "Hey, Papa. Rate \nmal was?",
+        "ES": "Eh, papá. ¿Sabes \nqué? ",
+        "IT": "Ehi papà. \nIndovina un po'?"
+      }
+    },
+    {
+      "id": 14,
+      "base_chunk": 111,
+      "type": "group_6",
+      "texts": {
+        "JA": "オーゥ！\nごめんよ、コラライン。",
+        "EN": "Oh！ Sorry, \nCoraline.",
+        "FR": "Oh ! Désolé \nCoraline.",
+        "DE": "Oh! Tut mir leid, \nCoraline.",
+        "ES": "¡Oh! Lo siento, \nCoraline.",
+        "IT": "Oh! Scusa, \nCoraline."
+      }
+    },
+    {
+      "id": 15,
+      "base_chunk": 117,
+      "type": "group_6",
+      "texts": {
+        "JA": "たった今、バラと\nハエトリグモの関係に\nついて、いいネタを\nおもいついたんだ！",
+        "EN": "I just had a \nbreakthrough about \nthe relationship \nbetween roses and \nthe jumping \nspiders！",
+        "FR": "Je viens juste de \npercer le mystère \nde la relation \nentre les roses et \nles araignées \nsauteuses !",
+        "DE": "Ich hatte gerade \neinen Durchbruch \nin Bezug auf das \nVerhältnis \nzwischen Rosen und \nSpringspinnen! ",
+        "ES": "¡Justo ahora he \nlogrado un gran \navance en la \nrelación entre \nlas rosas y las \narañas saltarinas!",
+        "IT": "Ho appena fatto \nuna sensazionale \nscoperta sulla \nrelazione tra le \nrose e i ragni \nsaltatori!"
+      }
+    },
+    {
+      "id": 16,
+      "base_chunk": 123,
+      "type": "group_6",
+      "texts": {
+        "JA": "うんうん、そうそう。\nバラがうつむいて\nいるときは、\nハエトリグモを……",
+        "EN": "When the roses \nstand their heads \ndown, the jumping \nspiders....",
+        "FR": "Lorsque les roses \ninclinent leur \ntête vers le bas, \nles araignées...",
+        "DE": "Wenn die Rosen die \nKöpfe hängen \nlassen, sind die \nSpringspinnen...",
+        "ES": "Cuando las rosas \nhincan sus \ncabezas, las \narañas \nsaltarinas...",
+        "IT": "Quando le rose \nabbassano la \ntesta, i ragni \nsaltatori..."
+      }
+    },
+    {
+      "id": 17,
+      "base_chunk": 129,
+      "type": "group_6",
+      "texts": {
+        "JA": "あれ？\nパパいないのかな。",
+        "EN": "Hmm...Is Dad out \nrunning errands?",
+        "FR": "Hmm, je me demande \nsi papa est sorti.",
+        "DE": "Hmm... Ist Papa \nweg, Besorgungen \nmachen?",
+        "ES": "Hmm... ¿Papá \nestá haciendo \nrecados?",
+        "IT": "Hmm... Papà è \nuscito a fare \ndelle commissioni?"
+      }
+    },
+    {
+      "id": 18,
+      "base_chunk": 135,
+      "type": "group_6",
+      "texts": {
+        "JA": "あっれぇ？\nパパもいない……二人とも、\nどこ行っちゃったのかしら。",
+        "EN": "Uh-oh, Dad's out, \ntoo... where did \nthey go?",
+        "FR": "Ah, papa n'est pas \nlà non plus. Où \nest-ce qu'ils sont \npartis ?",
+        "DE": "Oh je, Papa ist \nauch weg... wo \nsind sie hin?",
+        "ES": "Oh-oh, papá \ntambién está \nfuera... ¿dónde \nse han ido?",
+        "IT": "Oh-oh, anche papà \nè uscito... ma \ndove saranno \nandati?"
+      }
+    },
+    {
+      "id": 19,
+      "base_chunk": 141,
+      "type": "group_6",
+      "texts": {
+        "JA": "もぉっ！\nあたしをおいて、二人だけで\n出かけちゃうなんて！",
+        "EN": "Why would they go \nout and leave me \nalone?",
+        "FR": "Pourquoi ils \nsortiraient sans \nmoi ?",
+        "DE": "Wieso gehen sie \nweg und lassen \nmich allein?",
+        "ES": "¿Por qué se \nmarchan y me dejan \nsola?",
+        "IT": "Perché dovrebbero \nuscire e lasciarmi \nqui da sola?"
+      }
+    },
+    {
+      "id": 20,
+      "base_chunk": 147,
+      "type": "group_6",
+      "texts": {
+        "JA": "あっちのママが言ったとおり！\n二人とも、あたしのこと\nなんて、なんとも思って\nないんだわ。",
+        "EN": "The Other Mother \nwas right... they \nreally don't care \nabout me.",
+        "FR": "L'Autre mère \navait raison... \nils se fichent \nbien de ce que je \nfais moi.",
+        "DE": "Die andere Mutter \nhatte Recht... ich \nbin ihnen wirklich \negal.",
+        "ES": "La Otra Madre \ntiene razón... en \nrealidad no se \npreocupan por mí.",
+        "IT": "L'altra mamma \naveva ragione... a \nloro non importa \nnulla di me."
+      }
+    },
+    {
+      "id": 21,
+      "base_chunk": 153,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ……。\nまだ帰ってないのかな。",
+        "EN": "Dad... where are \nyou?",
+        "FR": "Papa... tu es où ?",
+        "DE": "Papa... wo bist du?",
+        "ES": "¿Papá... dónde \nestás?",
+        "IT": "Papà... dove sei?"
+      }
+    },
+    {
+      "id": 22,
+      "base_chunk": 159,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパ……。",
+        "EN": "Dad...",
+        "FR": "Papa...",
+        "DE": "Papa....",
+        "ES": "Papá...",
+        "IT": "Papà..."
+      }
+    },
+    {
+      "id": 23,
+      "base_chunk": 165,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}

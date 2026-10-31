@@ -1,0 +1,118 @@
+{
+  "file": "eve_hallway2f01.bin",
+  "total_dialogues": 9,
+  "dialogues": [
+    {
+      "id": 0,
+      "base_chunk": 12,
+      "type": "single",
+      "texts": {
+        "EN": ""
+      }
+    },
+    {
+      "id": 1,
+      "base_chunk": 17,
+      "type": "group_6",
+      "texts": {
+        "JA": "なにかしら？\nなんかヘンな\n虫がいるわ！",
+        "EN": "Woah！ Look at the \nweird bugs！",
+        "FR": "Oh, quels drôles \nd'insectes !",
+        "DE": "Woah! Sieh nur die \nkomischen Käfer!",
+        "ES": "¡Guau! ¡Qué \nbichos tan \nextraños!",
+        "IT": "Wow! Guarda che \nstrani insetti!"
+      }
+    },
+    {
+      "id": 2,
+      "base_chunk": 23,
+      "type": "group_6",
+      "texts": {
+        "JA": "カマドウマ\nを見つけました。",
+        "EN": "You found a Cave \nCricket.",
+        "FR": "Tu as trouvé un \ngrillon des caves.",
+        "DE": "Du hast eine \nHöhlengrille \ngefunden.",
+        "ES": "Has encontrado un \nGrillo de Cueva.",
+        "IT": "Hai trovato un \ngrillo delle \ncaverne."
+      }
+    },
+    {
+      "id": 3,
+      "base_chunk": 29,
+      "type": "group_6",
+      "texts": {
+        "JA": "へへへ〜。\nピョンピョンとびまわって\nカワイイ〜。宝モノに\nしちゃおっと。",
+        "EN": "It's so cute！  \nI'll have to hold \non to this！",
+        "FR": "Je l'adore ! Je \nvais le garder !",
+        "DE": "Das ist so \nniedlich! Das will \nich behalten!",
+        "ES": "¡Qué bonito es!  \n¡Tendré que \nconservar esto!",
+        "IT": "Che meraviglia! Mi \npiace un sacco!"
+      }
+    },
+    {
+      "id": 4,
+      "base_chunk": 35,
+      "type": "group_6",
+      "texts": {
+        "JA": "パパもママも寝てるのね。",
+        "EN": "Mom and Dad are \nsleeping.",
+        "FR": "Maman et papa se \nsont endormis.",
+        "DE": "Mama und Papa \nschlafen.",
+        "ES": "Mamá y papá \nestán durmiendo.",
+        "IT": "Mamma e papà \ndormono."
+      }
+    },
+    {
+      "id": 5,
+      "base_chunk": 41,
+      "type": "group_6",
+      "texts": {
+        "JA": "おこさないでいてあげよ。",
+        "EN": "I'd better not \ndisturb them.",
+        "FR": "Il vaut mieux ne \npas les déranger.",
+        "DE": "Ich störe sie \nlieber nicht.",
+        "ES": "Mejor no los \nmolestaré.",
+        "IT": "Meglio non \ndisturbarli."
+      }
+    },
+    {
+      "id": 6,
+      "base_chunk": 47,
+      "type": "group_6",
+      "texts": {
+        "JA": "二人とも、\nまだ寝てるのね。",
+        "EN": "Both of them are \nstill sleeping.",
+        "FR": "Ils dorment tous \nles deux.",
+        "DE": "Beide schlafen \nimmer noch.",
+        "ES": "Ambos siguen \ndurmiendo.",
+        "IT": "Stanno ancora \ndormendo entrambi."
+      }
+    },
+    {
+      "id": 7,
+      "base_chunk": 53,
+      "type": "group_6",
+      "texts": {
+        "JA": "まぁ、仕方ないか。\n昨日は、ずいぶん\nはしゃいでいたもんねぇ。",
+        "EN": "Well, no wonder. \nThey partied all \nday.",
+        "FR": "Pas étonnant. Ils \nont fait la fête \ntoute la journée.",
+        "DE": "Na, kein Wunder. \nSie haben den \nganzen Tag \ngefeiert.",
+        "ES": "Bueno, no me \nextraña. Han \nestado de juerga \ntodo el día.",
+        "IT": "Beh, non mi \nstupisce. Hanno \nfesteggiato tutto \nil giorno."
+      }
+    },
+    {
+      "id": 8,
+      "base_chunk": 59,
+      "type": "group_6",
+      "texts": {
+        "JA": "？\nボタンが落ちてるわ。\nママが落としたのかしら。",
+        "EN": "I wonder where \nthis button came \nfrom...",
+        "FR": "Je me demande \nd'où il vient ce \nbouton.",
+        "DE": "Ich frage mich, wo \ndieser Knopf \nherkam...",
+        "ES": "Me pregunto de \ndónde habrá \nsalido este \nbotón...",
+        "IT": "Chissà da dove \nviene questo \nbottone."
+      }
+    }
+  ]
+}
