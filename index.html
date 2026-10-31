@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Coraline (Nintendo DS) — Tradução PT-BR</title>
+  <title>Coraline (Nintendo DS) - Traducao PT-BR</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Nunito:wght@400;600;700;800&family=VT323&display=swap" rel="stylesheet">
@@ -14,7 +14,6 @@
       --bg-card-hover: #19213d;
       --accent-yellow: #fcd036;
       --accent-cyan: #3df2ff;
-      --accent-pink: #ff3377;
       --text-main: #f0f4ff;
       --text-muted: #95a3c3;
       --border-color: #273359;
@@ -47,14 +46,12 @@
     }
 
     .badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.5rem;
+      display: inline-block;
       background: rgba(252, 208, 54, 0.12);
       border: 1px solid var(--accent-yellow);
       color: var(--accent-yellow);
       padding: 0.35rem 1rem;
-      border-radius: 999px;
+      border-radius: 4px;
       font-size: 0.85rem;
       font-weight: 700;
       margin-bottom: 1rem;
@@ -68,13 +65,12 @@
       color: var(--accent-yellow);
       letter-spacing: 2px;
       margin-bottom: 0.5rem;
-      text-shadow: 0 0 25px rgba(252, 208, 54, 0.3);
     }
 
     .subtitle {
-      font-size: 1.2rem;
+      font-size: 1.15rem;
       color: var(--text-muted);
-      max-width: 700px;
+      max-width: 750px;
       margin: 0 auto 1.5rem;
     }
 
@@ -88,9 +84,8 @@
     .btn {
       display: inline-flex;
       align-items: center;
-      gap: 0.5rem;
-      padding: 0.8rem 1.6rem;
-      border-radius: 8px;
+      padding: 0.75rem 1.5rem;
+      border-radius: 6px;
       font-weight: 700;
       text-decoration: none;
       transition: all 0.25s ease;
@@ -101,13 +96,11 @@
     .btn-primary {
       background: var(--accent-yellow);
       color: #0b0f19;
-      box-shadow: 0 4px 15px rgba(252, 208, 54, 0.3);
     }
 
     .btn-primary:hover {
       background: #ffe066;
       transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(252, 208, 54, 0.45);
     }
 
     .btn-secondary {
@@ -138,9 +131,6 @@
       font-size: 1.8rem;
       color: var(--accent-yellow);
       margin-bottom: 1rem;
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
     }
 
     .section-desc {
@@ -149,7 +139,6 @@
       margin-bottom: 2rem;
     }
 
-    /* Grid de Explicação Humana */
     .grid-cards {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -159,28 +148,18 @@
     .card {
       background: var(--bg-card);
       border: 1px solid var(--border-color);
-      border-radius: 12px;
+      border-radius: 8px;
       padding: 1.8rem;
       transition: all 0.3s ease;
-      position: relative;
-      overflow: hidden;
     }
 
     .card:hover {
       background: var(--bg-card-hover);
-      transform: translateY(-4px);
       border-color: rgba(61, 242, 255, 0.4);
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
-    }
-
-    .card-icon {
-      font-size: 2.2rem;
-      margin-bottom: 1rem;
-      display: inline-block;
     }
 
     .card h3 {
-      font-size: 1.3rem;
+      font-size: 1.25rem;
       color: #fff;
       margin-bottom: 0.75rem;
     }
@@ -201,11 +180,10 @@
       font-size: 0.88rem;
     }
 
-    /* Simulador Interativo do DS */
     .simulator-container {
       background: var(--bg-card);
-      border: 2px solid var(--border-color);
-      border-radius: 16px;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
       padding: 2rem;
       display: flex;
       flex-direction: column;
@@ -215,18 +193,17 @@
 
     .ds-frame {
       background: #1c2238;
-      border: 8px solid #2a3455;
-      border-radius: 14px;
+      border: 6px solid #2a3455;
+      border-radius: 8px;
       padding: 1rem;
-      box-shadow: inset 0 0 15px rgba(0,0,0,0.8), 0 8px 30px rgba(0,0,0,0.5);
       width: 100%;
       max-width: 520px;
     }
 
     .ds-screen {
       background-color: var(--ds-screen-bg);
-      border: 2px solid #000;
-      border-radius: 6px;
+      border: 1px solid #000;
+      border-radius: 4px;
       padding: 1rem;
       aspect-ratio: 256 / 192;
       display: flex;
@@ -247,8 +224,8 @@
 
     .ds-dialogue-box {
       background: rgba(8, 12, 24, 0.85);
-      border: 2px solid #3d4a73;
-      border-radius: 8px;
+      border: 1px solid #3d4a73;
+      border-radius: 6px;
       padding: 0.8rem 1rem;
       min-height: 80px;
       position: relative;
@@ -276,13 +253,12 @@
       width: 100%;
       background: #090d1a;
       border: 1px solid var(--border-color);
-      border-radius: 8px;
+      border-radius: 6px;
       color: #fff;
       padding: 0.85rem 1rem;
       font-size: 1rem;
       font-family: inherit;
       outline: none;
-      transition: border-color 0.2s;
     }
 
     .ds-input:focus {
@@ -295,7 +271,7 @@
       align-items: center;
       background: rgba(0, 0, 0, 0.3);
       padding: 0.5rem 1rem;
-      border-radius: 6px;
+      border-radius: 4px;
       font-size: 0.88rem;
     }
 
@@ -310,7 +286,6 @@
     .status-warn { background: rgba(255, 215, 0, 0.2); color: #ffd700; }
     .status-overflow { background: rgba(255, 69, 0, 0.2); color: #ff4500; }
 
-    /* Passos / Tutorial */
     .steps-container {
       display: flex;
       flex-direction: column;
@@ -322,18 +297,18 @@
       gap: 1.2rem;
       background: var(--bg-card);
       border: 1px solid var(--border-color);
-      border-radius: 10px;
+      border-radius: 8px;
       padding: 1.4rem;
       align-items: flex-start;
     }
 
     .step-num {
-      width: 36px;
-      height: 36px;
+      width: 32px;
+      height: 32px;
       background: var(--accent-yellow);
       color: #0b0f19;
       font-weight: 800;
-      border-radius: 50%;
+      border-radius: 4px;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -368,65 +343,59 @@
 <body>
 
   <header>
-    <div class="badge">🧵 Projeto Oficial de Localização</div>
+    <div class="badge">Projeto de Localizacao</div>
     <h1>Coraline</h1>
-    <p class="subtitle">Tradução em Português do Brasil (PT-BR) para Nintendo DS com suporte completo a acentos e ferramentas de engenharia reversa.</p>
+    <p class="subtitle">Tradução em Português do Brasil (PT-BR) para Nintendo DS com suporte a caracteres acentuados e ferramentas de edicao.</p>
     <div class="header-buttons">
       <a href="https://github.com/Kasszs/caraline-nds-ptbr" class="btn btn-primary" target="_blank">
-        Ver Repositório no GitHub ↗
+        Repositorio no GitHub
       </a>
-      <a href="#como-funciona" class="btn btn-secondary">
-        Como a Mágica Acontece ↓
+      <a href="#funcionamento" class="btn btn-secondary">
+        Documentacao Tecnica
       </a>
     </div>
   </header>
 
   <main>
 
-    <!-- SEÇÃO: COMO FUNCIONA (LINGUAGEM HUMANA) -->
-    <section id="como-funciona">
-      <h2 class="section-title">🗝️ Como Funciona por Dentro (De Forma Bem Humana)</h2>
-      <p class="section-desc">Você já teve curiosidade de saber como um jogo antigo de Nintendo DS guarda as suas falas e como uma tradução é colocada dentro dele? Aqui está a história real dos bastidores:</p>
+    <section id="funcionamento">
+      <h2 class="section-title">Funcionamento Tecnico do Projeto</h2>
+      <p class="section-desc">Detalhamento sobre a arquitetura de arquivos, codificacao de caracteres e processos de extracao e insercao de dados na ROM:</p>
 
       <div class="grid-cards">
         <div class="card">
-          <div class="card-icon">📁</div>
-          <h3>1. Onde as falas moram?</h3>
+          <h3>1. Arquivos de Dialogo (eve_*.bin)</h3>
           <p>
-            Dentro da ROM existem 38 arquivos que começam com o nome <span class="highlight-code">eve_*.bin</span> (de *evento*). Cada cômodo da mansão (o banheiro, a sala da Outra Mãe, o jardim misterioso) tem um arquivo próprio. Dentro de cada um, as falas de todos os idiomas ficam empilhadas como andares de um prédio. Nós colocamos nosso Português no lugar do Inglês!
+            A ROM armazena os dialogos em 38 arquivos com prefixo <span class="highlight-code">eve_*.bin</span> no diretorio interno <span class="highlight-code">data/data/txt/</span>. Cada arquivo corresponde a uma area ou evento do jogo. Os textos estao organizados em blocos contendo seis idiomas paralelos; a traducao em portugues foi alocada na faixa do idioma ingles.
           </p>
         </div>
 
         <div class="card">
-          <div class="card-icon">⚡</div>
-          <h3>2. O Mistério dos Acentos (ARM9)</h3>
+          <h3>2. Codificacao de Caracteres e Executavel ARM9</h3>
           <p>
-            No início, ao digitar palavras como <em>"coração"</em> ou <em>"você"</em>, o jogo mostrava símbolos japoneses quebrados (<span class="highlight-code">ﾃｩ</span>). O executável do DS ignorava acentos no modo inglês. Descobrimos que trocando <strong>um único byte</strong> no endereço <span class="highlight-code">0x0E04</span> (de <span class="highlight-code">0x02</span> para <span class="highlight-code">0x01</span>), o jogo ativa o decodificador UTF-8 nativo e libera todos os nossos acentos!
+            Originalmente, a rotina associada ao idioma ingles nao realizava a decodificacao de caracteres UTF-8. A alteracao do byte no offset <span class="highlight-code">0x0E04</span> do arquivo <span class="highlight-code">arm9.bin</span> do valor <span class="highlight-code">0x02</span> para <span class="highlight-code">0x01</span> ativa a decodificacao UTF-8 compativel com a fonte oficial europeia (<span class="highlight-code">coraline_font.NFTR</span>).
           </p>
         </div>
 
         <div class="card">
-          <div class="card-icon">📏</div>
-          <h3>3. A Telinha e os Limites</h3>
+          <h3>3. Dimensoes e Limites de Exibicao</h3>
           <p>
-            A tela do Nintendo DS é bem pequena (apenas 256 por 192 pixels!). A caixa de diálogo só suporta frases com no máximo <strong>140 pixels de largura</strong> e até <strong>3 linhas</strong> por fala. Se passar disso, a fala corta na metade. Por isso, criamos um simulador que mede cada letrinha antes de enviar para o jogo.
+            A resolucao do Nintendo DS e de 256 por 192 pixels. A caixa de dialogo comporta textos com largura maxima de <strong>140 pixels</strong> e ate <strong>3 linhas</strong> por exibicao. A ferramenta de edicao utiliza as metricas da fonte para validar a largura de cada linha e evitar truncamento no jogo.
           </p>
         </div>
 
         <div class="card">
-          <div class="card-icon">🎨</div>
-          <h3>4. As Texturas (NITRO 2D)</h3>
+          <h3>4. Texturas e Modulos de Overlay</h3>
           <p>
-            Nem tudo é texto puro: avisos como <em>"Touch the Screen"</em> são desenhos armazenados no formato Nitro (<span class="highlight-code">.NCGR</span> com paleta <span class="highlight-code">.NCLR</span>). Criamos uma ferramenta que transforma esses dados em arquivos PNG comuns, para podermos traduzir a arte no Photoshop e colocar de volta no jogo sem perder qualidade!
+            Graficos de interface utilizam o formato NITRO (<span class="highlight-code">.NCGR</span> com paleta <span class="highlight-code">.NCLR</span>). A ferramenta de texturas converte esses arquivos para PNG para edicao externa. Nomes de itens e minijogos residem nos modulos dinamicos de memoria <span class="highlight-code">overlay_0000.bin</span> e <span class="highlight-code">overlay_0001.bin</span>.
           </p>
         </div>
       </div>
     </section>
 
-    <!-- SEÇÃO: SIMULADOR INTERATIVO -->
     <section>
-      <h2 class="section-title">📺 Teste Você Mesmo no Simulador de Tela</h2>
-      <p class="section-desc">Digite qualquer frase abaixo para testar a nossa simulação em tempo real da caixa de diálogo do Nintendo DS:</p>
+      <h2 class="section-title">Simulador de Caixa de Texto</h2>
+      <p class="section-desc">Insira um texto no campo abaixo para verificar a estimativa de largura e quebra de linhas para a resolucao do console:</p>
 
       <div class="simulator-container">
         <div class="ds-frame">
@@ -439,50 +408,49 @@
         </div>
 
         <div class="ds-controls">
-          <input type="text" id="demoInput" class="ds-input" value="BESOUROS DE CHOCOLATE? Tem uma pata saindo da sua boca..." placeholder="Escreva algo em português...">
+          <input type="text" id="demoInput" class="ds-input" value="BESOUROS DE CHOCOLATE? Tem uma pata saindo da sua boca..." placeholder="Digite um texto...">
           <div class="stats-meter">
             <span>Largura estimada: <strong id="pixelCount">138</strong> / 140 px</span>
-            <span class="badge-status status-ok" id="statusBadge">✔ Cabe na caixa</span>
+            <span class="badge-status status-ok" id="statusBadge">Dentro do limite</span>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- SEÇÃO: PASSO A PASSO -->
     <section>
-      <h2 class="section-title">🚀 Como Aplicar no Seu Próprio Jogo</h2>
-      <p class="section-desc">Se você tem uma cópia do jogo Coraline em formato .NDS, veja como é simples jogar com a nossa tradução:</p>
+      <h2 class="section-title">Instrucoes de Insercao na ROM</h2>
+      <p class="section-desc">Procedimento para insercao dos arquivos modificados em uma copia descompactada da ROM:</p>
 
       <div class="steps-container">
         <div class="step-item">
           <div class="step-num">1</div>
           <div class="step-content">
-            <h4>Baixe o Repositório</h4>
-            <p>Clone ou baixe o repositório <strong>caraline-nds-ptbr</strong> pelo GitHub na sua máquina.</p>
+            <h4>Obter os Arquivos do Repositorio</h4>
+            <p>Clone ou baixe o conteudo do repositorio caraline-nds-ptbr para o seu ambiente local.</p>
           </div>
         </div>
 
         <div class="step-item">
           <div class="step-num">2</div>
           <div class="step-content">
-            <h4>Descompacte a ROM</h4>
-            <p>Use o programa <strong>dslazy</strong> ou <strong>ndstool</strong> para extrair os arquivos da ROM original de Coraline para uma pasta chamada <span class="highlight-code">NDS_UNPACK</span>.</p>
+            <h4>Extrair a ROM Original</h4>
+            <p>Utilize um software de manipulacao de arquivos NDS (como dslazy ou ndstool) para extrair o conteudo da ROM para o diretorio de trabalho.</p>
           </div>
         </div>
 
         <div class="step-item">
           <div class="step-num">3</div>
           <div class="step-content">
-            <h4>Injete Tudo com 1 Comando</h4>
-            <p>Execute no terminal: <span class="highlight-code">python aplicar_traducao.py</span>. O script copiará os 38 arquivos traduzidos, as texturas, os nomes dos itens e aplicará o patch dos acentos automaticamente.</p>
+            <h4>Executar o Script de Insercao</h4>
+            <p>Execute no terminal o comando: <span class="highlight-code">python aplicar_traducao.py</span>. O script transferira os arquivos de dialogo, modulos de overlay, texturas e verificara o patch UTF-8 no arquivo arm9.bin.</p>
           </div>
         </div>
 
         <div class="step-item">
           <div class="step-num">4</div>
           <div class="step-content">
-            <h4>Recompile e Divirta-se!</h4>
-            <p>Pelo dslazy, clique no botão <strong>NDS BUILD</strong> para gerar sua nova ROM (.nds) com a história inteira de Coraline em bom português!</p>
+            <h4>Reconstruir a ROM</h4>
+            <p>Realize a montagem do arquivo .nds final atraves do utilitario de reconstrucao.</p>
           </div>
         </div>
       </div>
@@ -491,8 +459,8 @@
   </main>
 
   <footer>
-    <p>Projeto de Fãs para Fãs • Desenvolvido com carinho para a preservação e acessibilidade de Coraline (NDS).</p>
-    <p><a href="https://github.com/Kasszs/caraline-nds-ptbr" target="_blank">Acesse o código-fonte no GitHub</a></p>
+    <p>Projeto de Traducao e Localizacao - Coraline (Nintendo DS).</p>
+    <p><a href="https://github.com/Kasszs/caraline-nds-ptbr" target="_blank">Repositorio de Codigo-Fonte no GitHub</a></p>
   </footer>
 
   <script>
@@ -505,7 +473,6 @@
       const text = input.value || "...";
       output.innerText = text;
       
-      // Estimativa baseada na largura média de 8px por caractere na fonte NFTR
       const longestLine = text.split('\n').reduce((a, b) => a.length > b.length ? a : b, "");
       const estimatedPx = Math.min(240, Math.round(longestLine.length * 7.5));
       
@@ -513,13 +480,13 @@
       
       if (estimatedPx <= 135) {
         statusBadge.className = "badge-status status-ok";
-        statusBadge.innerText = "✔ Cabe na caixa";
+        statusBadge.innerText = "Dentro do limite";
       } else if (estimatedPx <= 140) {
         statusBadge.className = "badge-status status-warn";
-        statusBadge.innerText = "⚠ Quase no limite";
+        statusBadge.innerText = "Limite proximo";
       } else {
         statusBadge.className = "badge-status status-overflow";
-        statusBadge.innerText = "✖ Estoura o limite!";
+        statusBadge.innerText = "Limite excedido";
       }
     }
 
