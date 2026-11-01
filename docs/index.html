@@ -14,6 +14,7 @@
       --bg-card-hover: #19213d;
       --accent-yellow: #fcd036;
       --accent-cyan: #3df2ff;
+      --accent-orange: #ff9933;
       --text-main: #f0f4ff;
       --text-muted: #95a3c3;
       --border-color: #273359;
@@ -45,18 +46,34 @@
       background: linear-gradient(180deg, rgba(18, 24, 45, 0.8) 0%, rgba(10, 13, 26, 0.95) 100%);
     }
 
+    .badge-group {
+      display: flex;
+      justify-content: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 1rem;
+    }
+
     .badge {
       display: inline-block;
-      background: rgba(252, 208, 54, 0.12);
-      border: 1px solid var(--accent-yellow);
-      color: var(--accent-yellow);
-      padding: 0.35rem 1rem;
+      padding: 0.35rem 0.85rem;
       border-radius: 4px;
-      font-size: 0.85rem;
+      font-size: 0.8rem;
       font-weight: 700;
-      margin-bottom: 1rem;
       letter-spacing: 0.5px;
       text-transform: uppercase;
+    }
+
+    .badge-status {
+      background: rgba(255, 153, 51, 0.15);
+      border: 1px solid var(--accent-orange);
+      color: var(--accent-orange);
+    }
+
+    .badge-version {
+      background: rgba(61, 242, 255, 0.12);
+      border: 1px solid var(--accent-cyan);
+      color: var(--accent-cyan);
     }
 
     h1 {
@@ -138,6 +155,77 @@
       font-size: 1.05rem;
       margin-bottom: 2rem;
     }
+
+    /* Caixa de Alerta */
+    .alert-box {
+      background: rgba(255, 153, 51, 0.08);
+      border-left: 4px solid var(--accent-orange);
+      border-top: 1px solid var(--border-color);
+      border-right: 1px solid var(--border-color);
+      border-bottom: 1px solid var(--border-color);
+      border-radius: 6px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .alert-box h4 {
+      color: var(--accent-orange);
+      font-size: 1.05rem;
+      margin-bottom: 0.4rem;
+      font-weight: 700;
+    }
+
+    .alert-box p {
+      color: var(--text-main);
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    /* Tabela de Status */
+    .status-table-container {
+      overflow-x: auto;
+      margin-bottom: 2rem;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.95rem;
+    }
+
+    th, td {
+      padding: 1rem 1.25rem;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    th {
+      background: #141a33;
+      color: var(--accent-yellow);
+      font-weight: 700;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:nth-child(even) {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .progress-pill {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      font-weight: 700;
+    }
+
+    .pill-complete { background: rgba(50, 205, 50, 0.15); color: #32cd32; border: 1px solid rgba(50, 205, 50, 0.3); }
+    .pill-progress { background: rgba(255, 153, 51, 0.15); color: var(--accent-orange); border: 1px solid rgba(255, 153, 51, 0.3); }
+    .pill-pending { background: rgba(149, 163, 195, 0.15); color: var(--text-muted); border: 1px solid rgba(149, 163, 195, 0.3); }
 
     .grid-cards {
       display: grid;
@@ -275,7 +363,7 @@
       font-size: 0.88rem;
     }
 
-    .badge-status {
+    .status-meter-pill {
       padding: 0.2rem 0.6rem;
       border-radius: 4px;
       font-weight: 700;
@@ -343,21 +431,90 @@
 <body>
 
   <header>
-    <div class="badge">Projeto de Localizacao</div>
+    <div class="badge-group">
+      <span class="badge badge-status">Status: Em Desenvolvimento</span>
+      <span class="badge badge-version">Versao: 0.8.0-beta</span>
+    </div>
     <h1>Coraline</h1>
-    <p class="subtitle">Tradução em Português do Brasil (PT-BR) para Nintendo DS com suporte a caracteres acentuados e ferramentas de edicao.</p>
+    <p class="subtitle">Traducao em Portugues do Brasil (PT-BR) para Nintendo DS com suporte a caracteres acentuados e ferramentas integradas de edicao.</p>
     <div class="header-buttons">
       <a href="https://github.com/Kasszs/caraline-nds-ptbr" class="btn btn-primary" target="_blank">
         Repositorio no GitHub
       </a>
-      <a href="#funcionamento" class="btn btn-secondary">
-        Documentacao Tecnica
+      <a href="#status-roadmap" class="btn btn-secondary">
+        Status e Roadmap
       </a>
     </div>
   </header>
 
   <main>
 
+    <!-- SECAO: STATUS E ROADMAP -->
+    <section id="status-roadmap">
+      <div class="alert-box">
+        <h4>Status do Projeto: Em Desenvolvimento Ativo</h4>
+        <p>Este projeto encontra-se em estagio beta de desenvolvimento. O enredo principal, as rotinas do executavel ARM9 e a suite de ferramentas encontram-se operacionais. A adaptacao das texturas secundarias e os testes integrais in-game permanecem em execucao.</p>
+      </div>
+
+      <h2 class="section-title">Progresso dos Componentes</h2>
+      <p class="section-desc">Visao detalhada sobre o estagio de implementacao de cada modulo do projeto:</p>
+
+      <div class="status-table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Componente</th>
+              <th>Progresso</th>
+              <th>Descricao</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Roteiro e Dialogos</strong></td>
+              <td><span class="progress-pill pill-complete">100% Concluido</span></td>
+              <td>Todos os 38 arquivos eve_*.bin traduzidos e auditados sem excesso de pixels.</td>
+            </tr>
+            <tr>
+              <td><strong>Patch UTF-8 (ARM9)</strong></td>
+              <td><span class="progress-pill pill-complete">100% Concluido</span></td>
+              <td>Ativacao da decodificacao UTF-8 compativel com a fonte oficial europeia.</td>
+            </tr>
+            <tr>
+              <td><strong>Menus e Sistema</strong></td>
+              <td><span class="progress-pill pill-complete">100% Concluido</span></td>
+              <td>Telas de salvamento, menu de pausa e 54 personagens traduzidos no executavel.</td>
+            </tr>
+            <tr>
+              <td><strong>Overlays (Itens/Minijogos)</strong></td>
+              <td><span class="progress-pill pill-complete">100% Concluido</span></td>
+              <td>Nomes dos itens em overlay_0000.bin e titulos de minijogos em overlay_0001.bin.</td>
+            </tr>
+            <tr>
+              <td><strong>Ferramentas de Edicao</strong></td>
+              <td><span class="progress-pill pill-complete">100% Concluido</span></td>
+              <td>CoralineTextEditor e CoralineTextureTool com interface grafica e atalhos Windows.</td>
+            </tr>
+            <tr>
+              <td><strong>Texturas Graficas (NITRO 2D)</strong></td>
+              <td><span class="progress-pill pill-progress">35% Em Andamento</span></td>
+              <td>Telas principais traduzidas; graficos e elementos secundarios em andamento.</td>
+            </tr>
+            <tr>
+              <td><strong>Revisao In-Game</strong></td>
+              <td><span class="progress-pill pill-progress">50% Em Andamento</span></td>
+              <td>Validacao de contexto e playtesting em emuladores e console real via flashcard.</td>
+            </tr>
+            <tr>
+              <td><strong>Patch XDelta</strong></td>
+              <td><span class="progress-pill pill-pending">Pendente</span></td>
+              <td>Previsto para ser gerado e distribuido apos o playtesting integral.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- SECAO: FUNCIONAMENTO TECNICO -->
     <section id="funcionamento">
       <h2 class="section-title">Funcionamento Tecnico do Projeto</h2>
       <p class="section-desc">Detalhamento sobre a arquitetura de arquivos, codificacao de caracteres e processos de extracao e insercao de dados na ROM:</p>
@@ -393,6 +550,7 @@
       </div>
     </section>
 
+    <!-- SECAO: SIMULADOR -->
     <section>
       <h2 class="section-title">Simulador de Caixa de Texto</h2>
       <p class="section-desc">Insira um texto no campo abaixo para verificar a estimativa de largura e quebra de linhas para a resolucao do console:</p>
@@ -411,12 +569,13 @@
           <input type="text" id="demoInput" class="ds-input" value="BESOUROS DE CHOCOLATE? Tem uma pata saindo da sua boca..." placeholder="Digite um texto...">
           <div class="stats-meter">
             <span>Largura estimada: <strong id="pixelCount">138</strong> / 140 px</span>
-            <span class="badge-status status-ok" id="statusBadge">Dentro do limite</span>
+            <span class="status-meter-pill status-ok" id="statusBadge">Dentro do limite</span>
           </div>
         </div>
       </div>
     </section>
 
+    <!-- SECAO: INSTRUCOES -->
     <section>
       <h2 class="section-title">Instrucoes de Insercao na ROM</h2>
       <p class="section-desc">Procedimento para insercao dos arquivos modificados em uma copia descompactada da ROM:</p>
@@ -442,7 +601,7 @@
           <div class="step-num">3</div>
           <div class="step-content">
             <h4>Executar o Script de Insercao</h4>
-            <p>Execute no terminal o comando: <span class="highlight-code">python aplicar_traducao.py</span>. O script transferira os arquivos de dialogo, modulos de overlay, texturas e verificara o patch UTF-8 no arquivo arm9.bin.</p>
+            <p>Execute no terminal o comando: <span class="highlight-code">python aplicar_traducao.py</span>. O script transferira os arquivos de dialogo, modulos de overlay, texturas e atualizara o arquivo arm9.bin.</p>
           </div>
         </div>
 
@@ -479,13 +638,13 @@
       pixelCount.innerText = estimatedPx;
       
       if (estimatedPx <= 135) {
-        statusBadge.className = "badge-status status-ok";
+        statusBadge.className = "status-meter-pill status-ok";
         statusBadge.innerText = "Dentro do limite";
       } else if (estimatedPx <= 140) {
-        statusBadge.className = "badge-status status-warn";
+        statusBadge.className = "status-meter-pill status-warn";
         statusBadge.innerText = "Limite proximo";
       } else {
-        statusBadge.className = "badge-status status-overflow";
+        statusBadge.className = "status-meter-pill status-overflow";
         statusBadge.innerText = "Limite excedido";
       }
     }

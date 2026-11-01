@@ -1,0 +1,331 @@
+{
+  "file": "arm9.bin",
+  "type": "arm9_menus_and_system",
+  "total_groups": 54,
+  "groups": [
+    {
+      "id": 0,
+      "description": "Personagem: Vênus",
+      "orig_en": "Venus",
+      "text": "Vênus"
+    },
+    {
+      "id": 1,
+      "description": "Personagem: Outra Spink?",
+      "orig_en": "Other Spink?",
+      "text": "Outra Spink?"
+    },
+    {
+      "id": 2,
+      "description": "Personagem: Menino fantasma",
+      "orig_en": "Boy ghost",
+      "text": "Menino fantasma"
+    },
+    {
+      "id": 3,
+      "description": "Personagem: Garota Alta fantasma",
+      "orig_en": "Tall Girl ghost",
+      "text": "Garota Alta fantasma"
+    },
+    {
+      "id": 4,
+      "description": "Personagem: Doce Menina fantasma",
+      "orig_en": "Sweet Girl ghost",
+      "text": "Doce Menina fantasma"
+    },
+    {
+      "id": 5,
+      "description": "Tag de Fala: A voz do Menino fantasma",
+      "orig_en": "The voice of Boy ghost",
+      "text": "A voz do Menino fantasma"
+    },
+    {
+      "id": 6,
+      "description": "Tag de Fala: A voz da Garota Alta fantasma",
+      "orig_en": "The voice of Tall Girl ghost",
+      "text": "A voz da Garota Alta fantasma"
+    },
+    {
+      "id": 7,
+      "description": "Tag de Fala: A voz da Doce Menina fantasma",
+      "orig_en": "The voice of Sweet Girl ghost",
+      "text": "A voz da Doce Menina fantasma"
+    },
+    {
+      "id": 8,
+      "description": "Personagem: Menino anjo",
+      "orig_en": "Boy angel",
+      "text": "Menino anjo"
+    },
+    {
+      "id": 9,
+      "description": "Personagem: Garota Alta anjo",
+      "orig_en": "Tall Girl angel",
+      "text": "Garota Alta anjo"
+    },
+    {
+      "id": 10,
+      "description": "Personagem: Doce Menina anjo",
+      "orig_en": "Sweet Girl angel",
+      "text": "Doce Menina anjo"
+    },
+    {
+      "id": 11,
+      "description": "Personagem: Papagaio de Brinquedo",
+      "orig_en": "The Toy Parrot",
+      "text": "Papagaio de Brinquedo"
+    },
+    {
+      "id": 12,
+      "description": "Personagem: Libélula de Brinquedo",
+      "orig_en": "The Toy Dragonfly",
+      "text": "Libélula de Brinquedo"
+    },
+    {
+      "id": 13,
+      "description": "Personagem: Esqueleto de Dinossauro",
+      "orig_en": "The Dinosaur Skeleton",
+      "text": "Esqueleto de Dinossauro"
+    },
+    {
+      "id": 14,
+      "description": "Personagem: Tanque de Brinquedo",
+      "orig_en": "The Toy Tank",
+      "text": "Tanque de Brinquedo"
+    },
+    {
+      "id": 15,
+      "description": "Personagem: Casco de Tartaruga",
+      "orig_en": "Turtle Shell",
+      "text": "Casco de Tartaruga"
+    },
+    {
+      "id": 16,
+      "description": "Personagem: Outro Wybie",
+      "orig_en": "Other Wybie",
+      "text": "Outro Wybie"
+    },
+    {
+      "id": 17,
+      "description": "Salvamento: Slot 1 (DADOS 1:)",
+      "orig_en": "DATA1:",
+      "text": "DADOS 1:"
+    },
+    {
+      "id": 18,
+      "description": "Salvamento: Slot 2 (DADOS 2:)",
+      "orig_en": "DATA2:",
+      "text": "DADOS 2:"
+    },
+    {
+      "id": 19,
+      "description": "Salvamento: Slot 3 (DADOS 3:)",
+      "orig_en": "DATA3:",
+      "text": "DADOS 3:"
+    },
+    {
+      "id": 20,
+      "description": "Salvamento: Slot Vazio (SEM DADOS)",
+      "orig_en": "NO DATA",
+      "text": "SEM DADOS"
+    },
+    {
+      "id": 21,
+      "description": "Mensagem: Você está bem?",
+      "orig_en": "\nAre You All Right?\n\n",
+      "text": "\nVocê está bem?\n\n"
+    },
+    {
+      "id": 22,
+      "description": "Confirmação: Sobrescrever dados de Coraline?",
+      "orig_en": "Are you sure you \nwish to overwrite\nthe Coraline data?\n",
+      "text": "Deseja sobrescrever\nos dados salvos\nde Coraline?\n"
+    },
+    {
+      "id": 23,
+      "description": "Confirmação: Voltar ao início sem salvar?",
+      "orig_en": "Return to the title\nwithout saving?\n",
+      "text": "Voltar ao início\nsem salvar?\n"
+    },
+    {
+      "id": 24,
+      "description": "Menu Pausa: Botão ITENS",
+      "orig_en": "ITEMS",
+      "text": "ITENS"
+    },
+    {
+      "id": 25,
+      "description": "Menu Pausa: Botão ROUPAS (FIGURINOS)",
+      "orig_en": "COSTUMES",
+      "text": "ROUPAS"
+    },
+    {
+      "id": 26,
+      "description": "Menu Pausa: Botão SALVAR",
+      "orig_en": "SAVE",
+      "text": "SALVAR"
+    },
+    {
+      "id": 27,
+      "description": "Menu Pausa: Botão SAIR",
+      "orig_en": "QUIT",
+      "text": "SAIR"
+    },
+    {
+      "id": 28,
+      "description": "Personagem: Coraline",
+      "orig_en": "Coraline",
+      "text": "Coraline"
+    },
+    {
+      "id": 29,
+      "description": "Personagem: Mel",
+      "orig_en": "Mel",
+      "text": "Mel"
+    },
+    {
+      "id": 30,
+      "description": "Tag de Fala: Voz da Mel",
+      "orig_en": "Mel's voice",
+      "text": "Voz da Mel"
+    },
+    {
+      "id": 31,
+      "description": "Personagem: Charlie",
+      "orig_en": "Charlie",
+      "text": "Charlie"
+    },
+    {
+      "id": 32,
+      "description": "Personagem: Gigante Azul (Bobinsky)",
+      "orig_en": "Blue Giant",
+      "text": "Gigante Azul"
+    },
+    {
+      "id": 33,
+      "description": "Tag de Fala: A voz do Gigante Azul",
+      "orig_en": "The voice of Blue Giant",
+      "text": "A voz do Gigante Azul"
+    },
+    {
+      "id": 34,
+      "description": "Personagem: Sr. Bobinsky",
+      "orig_en": "Mr.Bobinsky",
+      "text": "Sr. Bobinsky"
+    },
+    {
+      "id": 35,
+      "description": "Tag de Fala: A voz do menino",
+      "orig_en": "The voice of the boy",
+      "text": "A voz do menino"
+    },
+    {
+      "id": 36,
+      "description": "Personagem: Wybie",
+      "orig_en": "Wybie",
+      "text": "Wybie"
+    },
+    {
+      "id": 37,
+      "description": "Tag de Fala: Voz",
+      "orig_en": "Voice",
+      "text": "Voz"
+    },
+    {
+      "id": 38,
+      "description": "Tag de Fala: A voz da senhora",
+      "orig_en": "The voice of the lady",
+      "text": "A voz da senhora"
+    },
+    {
+      "id": 39,
+      "description": "Personagem: Senhora",
+      "orig_en": "Lady",
+      "text": "Senhora"
+    },
+    {
+      "id": 40,
+      "description": "Personagem: Srta. Spink",
+      "orig_en": "Ms.Spink",
+      "text": "Srta. Spink"
+    },
+    {
+      "id": 41,
+      "description": "Personagem: Srta. Forcible",
+      "orig_en": "Ms.Forcible",
+      "text": "Srta. Forcible"
+    },
+    {
+      "id": 42,
+      "description": "Personagem: O Gato",
+      "orig_en": "The Cat",
+      "text": "O Gato"
+    },
+    {
+      "id": 43,
+      "description": "Tag de Fala: Voz Familiar",
+      "orig_en": "Familiar Voice",
+      "text": "Voz Familiar"
+    },
+    {
+      "id": 44,
+      "description": "Tag de Fala: Voz da Mel?",
+      "orig_en": "Mel's voice?",
+      "text": "Voz da Mel?"
+    },
+    {
+      "id": 45,
+      "description": "Personagem: Mel?",
+      "orig_en": "Mel?",
+      "text": "Mel?"
+    },
+    {
+      "id": 46,
+      "description": "Personagem: Outra Mãe",
+      "orig_en": "Other Mother",
+      "text": "Outra Mãe"
+    },
+    {
+      "id": 47,
+      "description": "Tag de Fala: A voz da Outra Mãe",
+      "orig_en": "The voice of Other Mother",
+      "text": "A voz da Outra Mãe"
+    },
+    {
+      "id": 48,
+      "description": "Personagem: Outra Mãe?",
+      "orig_en": "Other Mother?",
+      "text": "Outra Mãe?"
+    },
+    {
+      "id": 49,
+      "description": "Personagem: A Beldam",
+      "orig_en": "The Beldam",
+      "text": "A Beldam"
+    },
+    {
+      "id": 50,
+      "description": "Personagem: Outro Pai",
+      "orig_en": "Other Father",
+      "text": "Outro Pai"
+    },
+    {
+      "id": 51,
+      "description": "Personagem: Outro Sr. Bobinsky",
+      "orig_en": "Other Mr.Bobinsky",
+      "text": "Outro Sr. Bobinsky"
+    },
+    {
+      "id": 52,
+      "description": "Personagem: Cão de olhos de botão",
+      "orig_en": "Dog with button eyes",
+      "text": "Cão de olhos de botão"
+    },
+    {
+      "id": 53,
+      "description": "Personagem: Sereia",
+      "orig_en": "Mermaid",
+      "text": "Sereia"
+    }
+  ]
+}

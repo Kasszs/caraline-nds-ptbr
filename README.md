@@ -1,48 +1,64 @@
 # Coraline (Nintendo DS) - Traducao em Portugues do Brasil (PT-BR)
 
-Projeto de traducao, localizacao e desenvolvimento de ferramentas para a versao de Nintendo DS do jogo Coraline.
+[![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow.svg)](https://github.com/Kasszs/caraline-nds-ptbr)
+[![Versao](https://img.shields.io/badge/Versao-0.8.0--beta-orange.svg)](https://github.com/Kasszs/caraline-nds-ptbr)
+[![Progresso Geral](https://img.shields.io/badge/Progresso-85%25-blue.svg)](https://github.com/Kasszs/caraline-nds-ptbr)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+
+Suite de traducao, localizacao e ferramentas de engenharia reversa para a versao de Nintendo DS do jogo Coraline.
+
+> [!IMPORTANT]
+> **Status do Projeto: Em Desenvolvimento Ativo (WIP)**  
+> Este projeto encontra-se em estagio beta de desenvolvimento. O enredo principal, as rotinas do executavel e as ferramentas de suporte estao operacionais, mas a traducao das texturas secundarias e o playtesting integral in-game permanecem em andamento.
 
 ---
 
-## Visao Geral
+## Status do Projeto e Roadmap
 
-Este repositorio contem os dados, arquivos traduzidos e ferramentas necessarias para a localizacao de Coraline (Nintendo DS) em Portugues do Brasil:
+| Componente | Progresso | Detalhes |
+| :--- | :---: | :--- |
+| **Roteiro e Dialogos** | 100% | Todos os 38 arquivos `eve_*.bin` traduzidos e auditados |
+| **Patch ARM9 (UTF-8)** | 100% | Offset `0x0E04 = 0x01` para suporte a acentos da lingua portuguesa |
+| **Menus e Sistema** | 100% | Telas de salvamento, menu de pausa e 54 personagens mapeados |
+| **Overlays Binarios** | 100% | Nomes de itens (`overlay_0000.bin`) e minijogos (`overlay_0001.bin`) |
+| **Ferramentas de Edicao** | 100% | `CoralineTextEditor` e `CoralineTextureTool` com interface grafica |
+| **Texturas Graficas (NITRO 2D)** | 35% | Telas principais adaptadas; graficos contextuais pendentes |
+| **Revisao In-Game (Playtesting)** | 50% | Validacao parcial em emuladores e console real |
+| **Patch Distribuivel (XDelta)** | Pendente | Programado para a conclusao da etapa de revisao |
 
-- Arquivos de dialogos e eventos (arquivos eve_*.bin) traduzidos.
-- Nomes de itens e minijogos adaptados nos modulos de overlay.
-- Texturas graficas adaptadas para o idioma portugues.
-- Ferramentas desenvolvidas em Python para edicao de textos, simulacao de renderizacao na resolucao nativa do console e conversao de texturas.
+### Checklist de Implementacao
+
+- [x] Engenharia reversa dos formatos de texto e analise de limites da caixa de dialogo (140 px, 3 linhas)
+- [x] Traducao completa dos 38 arquivos de evento (`eve_*.bin`)
+- [x] Implementacao da ativacao de decodificacao UTF-8 no executavel `arm9.bin`
+- [x] Localizacao das strings do executavel (SALVAR, SAIR, ITENS, ROUPAS e 54 tags de personagens)
+- [x] Correcao de posicionamento horizontal do botao SALVAR (X=128 px) para evitar sobreposicao
+- [x] Traducao da tabela de itens em `overlay_0000.bin` e minijogos em `overlay_0001.bin`
+- [x] Desenvolvimento do `CoralineTextEditor.py` com simulador de tela baseado na fonte real (`.NFTR`)
+- [x] Desenvolvimento do `CoralineTextureTool.py` com suporte a formatos NITRO 2D e controle de zoom
+- [x] Rotina automatizada de recompilacao da ROM via `ndstool` com preservacao de cabecalho (64 MB)
+- [ ] Conclusao da adaptacao grafica das texturas restantes no diretorio `texturas_exportadas/`
+- [ ] Playtesting integral de ponta a ponta para validacao de contexto, formatacao e estabilidade
+- [ ] Geracao de patch no formato XDelta para aplicacao direta na ROM americana limpa
 
 ---
 
-## Funcionamento Tecnico do Jogo e da Traducao
+## Recursos das Ferramentas
 
-### 1. Estrutura dos Arquivos de Dialogo (eve_*.bin)
-A ROM do jogo organiza os textos dos eventos em 38 arquivos com prefixo `eve_` localizados no diretorio `data/data/txt/`.
-Cada arquivo corresponde a uma area ou evento especifico (como `eve_living01.bin` ou `eve_bathroom01.bin`).
-Internamente, os dialogos estao organizados em blocos contendo seis faixas de idioma: Japones, Ingles, Frances, Alemao, Espanhol e Italiano. Este projeto utiliza a faixa correspondente ao idioma ingles para a insercao dos textos traduzidos em portugues.
+### 1. CoralineTextEditor.py
+- **Simulador Real NDS (256x192)**: Renderiza o texto caractere por caractere utilizando os glifos extraidos da fonte bitmap proprietaria (`coraline_font.NFTR`, 15x16 px, 3 bpp com antialiasing e sombra).
+- **Medicao Geometrica em Pixels**: Alerta em tempo real sobre excesso de largura e quebras de linha que ultrapassem a area util da caixa de dialogo.
+- **Referencia Canonica**: Exibicao paralela com o texto em ingles extraido da versao oficial americana limpa (`txt_backup_original`).
+- **Edicao do Executavel ARM9**: Gerenciamento direto das 54 entradas mestre do executavel (menus, telas de salvamento e nomes de personagens), incluindo exportacao e importacao em lote via JSON.
+- **Gerenciamento de Overlays**: Edicao dos arquivos `overlay_0000.bin` e `overlay_0001.bin`.
+- **Patch Integrado**: Aplicacao do byte UTF-8 no executavel com verificacao de estado.
+- **Recompilacao Integrada**: Execucao do `ndstool` com preservacao de cabecalho (offset `0x14 = 0x09`), assegurando compatibilidade com emuladores e flashcards.
 
-### 2. Decodificacao de Caracteres e Modificacao no Executavel ARM9
-Originalmente, a rotina de decodificacao de texto associada ao idioma ingles no executavel principal (`arm9.bin`) nao suportava caracteres acentuados. A insercao de caracteres da codificacao UTF-8 resultava em falhas de renderizacao ou no encerramento inesperado do jogo.
-
-A alteracao do byte localizado no offset `0x0E04` do valor `0x02` para `0x01` modifica a rotina de tratamento de texto. Com essa alteracao, o executavel passa a utilizar o decodificador UTF-8 compativel com a fonte europeia (`coraline_font.NFTR`), permitindo a exibicao correta de todos os caracteres acentuados da lingua portuguesa (a, e, i, o, u, c e respectivas variacoes).
-
-### 3. Restricoes de Resolucao e Limites da Caixa de Texto
-A resolucao de tela do Nintendo DS e de 256 por 192 pixels. No jogo, a area util da caixa de dialogo comporta textos com largura maxima de 140 pixels e ate tres linhas por exibicao.
-Textos que excedem esses limites sao truncados ou exibidos de forma incorreta. A ferramenta `CoralineTextEditor` utiliza as metricas da fonte original para simular a caixa de dialogo em tempo real, indicando se a largura das linhas esta em conformidade com os limites do jogo.
-
-### 4. Modulos de Overlay (overlay_*.bin)
-Para otimizar o uso da memoria RAM do console, partes do codigo e tabelas de texto sao carregadas dinamicamente em modulos de overlay:
-- `overlay_0000.bin`: Armazena a tabela de identificadores e nomes dos itens do inventario.
-- `overlay_0001.bin`: Armazena os textos e titulos relativos aos minijogos.
-
-### 5. Graficos e Texturas (Formato NITRO 2D)
-Elementos visuais de interface utilizam os formatos padrao da arquitetura NITRO da Nintendo:
-- `.NCGR`: Dados graficos dos blocos de pixels.
-- `.NCLR`: Tabelas de paleta de cores.
-- `.NSCR`: Mapas de posicionamento de tiles na tela.
-
-A ferramenta `CoralineTextureTool.py` converte esses arquivos para o formato PNG preservando as informacoes de paleta, permitindo a edicao grafica externa e a posterior reinjecao no formato original da ROM.
+### 2. CoralineTextureTool.py
+- **Formatos Suportados**: `.NCGR`, `.NCBR` (graficos em tiles), `.NCLR` (paletas de cores de 16 e 256 cores) e `.NSCR` (telas e tilemaps).
+- **Fluxo de Trabalho**: Exportacao das texturas para `texturas_exportadas/` e reinjecao automatizada a partir de arquivos PNG editados com geracao de backup.
+- **Interface com Zoom**: Visualizacao de 1x a 4x com fundo xadrez para transparencia.
+- **Modo CLI**: Execucao por linha de comando para automacoes e scripts externos.
 
 ---
 
@@ -50,21 +66,23 @@ A ferramenta `CoralineTextureTool.py` converte esses arquivos para o formato PNG
 
 ```text
 caraline-nds-ptbr/
-├── CoralineTextEditor.py       # Editor de dialogos com simulador de tela
-├── CoralineTextureTool.py      # Utilitario de extracao e reinjecao de texturas
+├── CoralineTextEditor.py       # Aplicacao principal de edicao de textos
+├── CoralineTextureTool.py      # Aplicacao de gerenciamento e conversao de texturas
+├── Iniciar_Editor_Coraline.bat # Atalho de inicializacao do editor de textos
+├── Iniciar_Editor_Texturas.bat # Atalho de inicializacao do editor de texturas
 ├── patch_arm9.py               # Script para aplicacao da correcao UTF-8 no executavel
-├── aplicar_traducao.py         # Script para insercao dos arquivos na pasta da ROM
-├── Iniciar_Editor_Coraline.bat # Script de inicializacao no Windows
+├── aplicar_traducao.py         # Script para injecao dos arquivos traduzidos na ROM
 ├── requirements.txt            # Dependencias do ambiente Python
 ├── data/
 │   └── data/
 │       ├── coraline_font.NFTR      # Arquivo de fonte principal do jogo
 │       ├── coraline_font2.NFTR     # Arquivo de fonte secundaria
 │       ├── txt/                    # Arquivos eve_*.bin traduzidos
-│       ├── txt_backup_original/    # Arquivos eve_*.bin originais para comparacao
-│       ├── txt_json_dumps/         # Estrutura dos textos exportada em formato JSON
+│       │   └── auditoria_caixa_pixels.txt
+│       ├── txt_backup_original/    # Arquivos originais em ingles para comparacao
+│       ├── txt_json_dumps/         # Estrutura dos textos e strings do ARM9 em JSON
 │       └── info/
-│           └── touchthescreen.NCGR # Textura modificada no formato do console
+│           └── touchthescreen.NCGR # Textura compilada no formato do console
 ├── overlay/
 │   ├── overlay_0000.bin           # Nomes de itens traduzidos
 │   └── overlay_0001.bin           # Textos de minijogos traduzidos
@@ -72,35 +90,34 @@ caraline-nds-ptbr/
 │   ├── touchthescreen.png         # Textura traduzida em formato PNG
 │   └── touchthescreen.meta.json   # Metadados de paleta e dimensoes
 └── docs/
-    └── index.html                 # Pagina informativa do projeto
+    └── index.html                 # Pagina informativa e documentacao web
 ```
 
 ---
 
-## Instrucoes de Uso
+## Instrucoes de Execucao
 
-### Requisitos
+### Pre-requisitos
 - Python versao 3.8 ou superior.
-- Instalacao das dependencias:
+- Instalacao das dependencias necessarias:
   ```bash
   pip install -r requirements.txt
   ```
 
-### Edicao de Textos
-Para iniciar o editor grafico de textos:
+### Utilizacao dos Editores
+No ambiente Windows, utilize os atalhos:
+- `Iniciar_Editor_Coraline.bat` para o editor de textos.
+- `Iniciar_Editor_Texturas.bat` para o editor de texturas.
+
+Via terminal:
 ```bash
 python CoralineTextEditor.py
+python CoralineTextureTool.py
 ```
 
-### Aplicacao da Traducao na ROM
-Para inserir os arquivos modificados em uma pasta contendo os arquivos extraidos da ROM (via dslazy ou ndstool):
+### Insercao da Traducao na ROM
+Para injetar as modificacoes em uma pasta contendo os arquivos extraidos da ROM original (via dslazy ou ndstool):
 ```bash
 python aplicar_traducao.py [caminho_da_pasta_descompactada]
 ```
-O script executa as seguintes etapas:
-1. Copia dos arquivos `eve_*.bin` para `data/data/txt/`.
-2. Atualizacao dos arquivos `overlay_0000.bin` e `overlay_0001.bin`.
-3. Insercao das texturas modificadas.
-4. Verificacao e aplicacao da correcao de acentuacao UTF-8 no arquivo `arm9.bin`.
-
-Apos a execucao, a ROM pode ser reconstruida utilizando o software correspondente.
+O script atualizara os arquivos de dialogo, modulos de overlay, texturas e as strings do executavel `arm9.bin`. Apos a conclusao, a ROM pode ser reconstruida.

@@ -1,4 +1,4 @@
-﻿"""
+"""
 CoralineTextureTool.py - Extrator e Injetor de Texturas para Coraline DS (NDS)
 Compatível com arquivos NITRO-CHARACTER 2D: .NCGR, .NCBR, .NCLR, .NSCR.
 
@@ -44,7 +44,12 @@ except Exception:
 # ==============================================================================
 # CONFIGURAÇÕES E CONSTANTES PADRÃO
 # ==============================================================================
-DEFAULT_UNPACK_ROOT = os.path.dirname(os.path.abspath(__file__))
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+if os.path.exists(os.path.join(SCRIPT_DIR, "data", "data")):
+    DEFAULT_UNPACK_ROOT = SCRIPT_DIR
+else:
+    DEFAULT_UNPACK_ROOT = r"C:\Users\Kassio\Downloads\dslazy\NDS_UNPACK"
+
 DEFAULT_DATA_DIR = os.path.join(DEFAULT_UNPACK_ROOT, "data", "data")
 DEFAULT_FIXED_EXPORT_DIR = os.path.join(DEFAULT_UNPACK_ROOT, "texturas_exportadas")
 

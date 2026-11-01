@@ -1,4 +1,4 @@
-﻿"""
+"""
 Coraline (Nintendo DS) - Tradutor & Editor de Textos Profissional
 Autor: Ferramenta desenvolvida para ROMhacking e Tradução Fiel
 Compatível com todos os 38 arquivos eve_*.bin e overlays.
@@ -23,7 +23,12 @@ except Exception:
 # ==============================================================================
 # CONFIGURAÇÕES E CONSTANTES
 # ==============================================================================
-DEFAULT_ROOT = os.path.dirname(os.path.abspath(__file__))
+# Diretório base dinâmico (permite rodar de qualquer pasta ou clone do repositório)
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+if os.path.exists(os.path.join(SCRIPT_DIR, "data", "data", "txt")):
+    DEFAULT_ROOT = SCRIPT_DIR
+else:
+    DEFAULT_ROOT = r"C:\Users\Kassio\Downloads\dslazy\NDS_UNPACK"
 TXT_DIR = os.path.join(DEFAULT_ROOT, "data", "data", "txt")
 TXT_ORIGINAL_DIR = os.path.join(DEFAULT_ROOT, "data", "data", "txt_backup_original")
 OVERLAY_DIR = os.path.join(DEFAULT_ROOT, "overlay")
@@ -750,6 +755,230 @@ class OverlayArchive:
                 count += 1
         return count
 
+
+# ==============================================================================
+# GERENCIADOR DO EXECUTÁVEL ARM9 (MENUS, SALVAMENTO, BOTÕES E PERSONAGENS)
+# ==============================================================================
+class Arm9Archive:
+    """
+    Gerenciador e editor das 54 entradas mestre do executável ARM9 (arm9.bin):
+      - Botões do Menu de Pausa (SALVAR, SAIR, ITENS, ROUPAS)
+      - Mensagens e Telas de Salvamento (DADOS 1, 2, 3, SEM DADOS, Sobrescrever, etc.)
+      - Nomes de Personagens e Tags de Fala (Gigante Azul, O Gato, A Beldam, etc.)
+      - Tabela de ponteiros de 32-bit (0x5E080) e String Pool seguro (0x5E630)
+      - Auto-ajuste de espaçamento horizontal (0x5E014) para evitar sobreposição 'SALVARSAIR'
+      - Compatível com a interface de diálogos do editor.
+    """
+    RAM_BASE = 0x02000000
+    TABLE_BASE = 0x5E080
+    TOTAL_GROUPS = 54
+    POOL_START = 0x5E630
+    POOL_MAX = 0x5F000
+    SAVE_X_TABLE = 0x5E014
+
+    GROUP_DESCRIPTIONS = [
+        "Personagem: Vênus",
+        "Personagem: Outra Spink?",
+        "Personagem: Menino fantasma",
+        "Personagem: Garota Alta fantasma",
+        "Personagem: Doce Menina fantasma",
+        "Tag de Fala: A voz do Menino fantasma",
+        "Tag de Fala: A voz da Garota Alta fantasma",
+        "Tag de Fala: A voz da Doce Menina fantasma",
+        "Personagem: Menino anjo",
+        "Personagem: Garota Alta anjo",
+        "Personagem: Doce Menina anjo",
+        "Personagem: Papagaio de Brinquedo",
+        "Personagem: Libélula de Brinquedo",
+        "Personagem: Esqueleto de Dinossauro",
+        "Personagem: Tanque de Brinquedo",
+        "Personagem: Casco de Tartaruga",
+        "Personagem: Outro Wybie",
+        "Salvamento: Slot 1 (DADOS 1:)",
+        "Salvamento: Slot 2 (DADOS 2:)",
+        "Salvamento: Slot 3 (DADOS 3:)",
+        "Salvamento: Slot Vazio (SEM DADOS)",
+        "Mensagem: Você está bem?",
+        "Confirmação: Sobrescrever dados de Coraline?",
+        "Confirmação: Voltar ao início sem salvar?",
+        "Menu Pausa: Botão ITENS",
+        "Menu Pausa: Botão ROUPAS (FIGURINOS)",
+        "Menu Pausa: Botão SALVAR",
+        "Menu Pausa: Botão SAIR",
+        "Personagem: Coraline",
+        "Personagem: Mel",
+        "Tag de Fala: Voz da Mel",
+        "Personagem: Charlie",
+        "Personagem: Gigante Azul (Bobinsky)",
+        "Tag de Fala: A voz do Gigante Azul",
+        "Personagem: Sr. Bobinsky",
+        "Tag de Fala: A voz do menino",
+        "Personagem: Wybie",
+        "Tag de Fala: Voz",
+        "Tag de Fala: A voz da senhora",
+        "Personagem: Senhora",
+        "Personagem: Srta. Spink",
+        "Personagem: Srta. Forcible",
+        "Personagem: O Gato",
+        "Tag de Fala: Voz Familiar",
+        "Tag de Fala: Voz da Mel?",
+        "Personagem: Mel?",
+        "Personagem: Outra Mãe",
+        "Tag de Fala: A voz da Outra Mãe",
+        "Personagem: Outra Mãe?",
+        "Personagem: A Beldam",
+        "Personagem: Outro Pai",
+        "Personagem: Outro Sr. Bobinsky",
+        "Personagem: Cão de olhos de botão",
+        "Personagem: Sereia",
+    ]
+
+    def __init__(self, filepath):
+        self.filepath = filepath
+        self.filename = os.path.basename(filepath)
+        self.raw_data = bytearray()
+        self.dialogues = []
+        self.is_modified = False
+        self.load()
+
+    def load(self):
+        with open(self.filepath, "rb") as f:
+            self.raw_data = bytearray(f.read())
+
+        # Tenta carregar referência original limpa
+        orig_raw = None
+        for cand in [self.filepath + ".bak_pre_menu_trans",
+                     self.filepath + ".bak",
+                     os.path.join(os.path.dirname(self.filepath), "CLEAN_USA_UNPACK", "arm9.bin")]:
+            if os.path.exists(cand):
+                try:
+                    with open(cand, "rb") as f:
+                        orig_raw = bytearray(f.read())
+                    break
+                except Exception:
+                    pass
+
+        self.dialogues = []
+        for g in range(self.TOTAL_GROUPS):
+            group_off = self.TABLE_BASE + g * 24
+            slot_texts = {}
+            for slot in range(6):
+                ptr_off = group_off + slot * 4
+                ram_ptr = struct.unpack_from("<I", self.raw_data, ptr_off)[0]
+                foff = ram_ptr - self.RAM_BASE
+                if 0 <= foff < len(self.raw_data):
+                    s_bytes = self.raw_data[foff:].split(b"\x00")[0]
+                    try:
+                        s_txt = s_bytes.decode("utf-8")
+                    except Exception:
+                        s_txt = s_bytes.decode("shift_jis", errors="replace")
+                else:
+                    s_txt = ""
+                slot_texts[slot] = s_txt
+
+            orig_slot_texts = {}
+            if orig_raw:
+                for slot in range(6):
+                    ptr_off = group_off + slot * 4
+                    ram_ptr = struct.unpack_from("<I", orig_raw, ptr_off)[0]
+                    foff = ram_ptr - self.RAM_BASE
+                    if 0 <= foff < len(orig_raw):
+                        s_bytes = orig_raw[foff:].split(b"\x00")[0]
+                        try:
+                            s_txt = s_bytes.decode("utf-8")
+                        except Exception:
+                            s_txt = s_bytes.decode("shift_jis", errors="replace")
+                    else:
+                        s_txt = ""
+                    orig_slot_texts[slot] = s_txt
+            else:
+                orig_slot_texts = dict(slot_texts)
+
+            desc = self.GROUP_DESCRIPTIONS[g] if g < len(self.GROUP_DESCRIPTIONS) else f"Grupo #{g}"
+
+            self.dialogues.append({
+                "base_chunk": g,
+                "type": "group_6",
+                "texts": slot_texts,
+                "orig_texts": orig_slot_texts,
+                "chunk_indices": [g],
+                "description": desc,
+            })
+        self.is_modified = False
+
+    def update_dialogue(self, diag_idx, lang_slot, new_text):
+        if diag_idx < 0 or diag_idx >= len(self.dialogues):
+            return
+        self.dialogues[diag_idx]["texts"][lang_slot] = new_text
+        self.is_modified = True
+
+    def save(self, backup=True):
+        if backup and os.path.exists(self.filepath):
+            bak = self.filepath + ".bak"
+            if not os.path.exists(bak):
+                with open(self.filepath, "rb") as s, open(bak, "wb") as d:
+                    d.write(s.read())
+
+        # Reconstrói o pool de strings em POOL_START
+        cursor = self.POOL_START
+        group_ram_addrs = []
+
+        for g in range(self.TOTAL_GROUPS):
+            text = self.dialogues[g]["texts"].get(1, "")
+            raw = text.encode("utf-8") + b"\x00"
+            if cursor + len(raw) > self.POOL_MAX:
+                raise ValueError(f"String pool do arm9.bin estourou em 0x{cursor:x} (máximo: 0x{self.POOL_MAX:x})!")
+            self.raw_data[cursor:cursor + len(raw)] = raw
+            group_ram_addrs.append(cursor + self.RAM_BASE)
+            cursor += len(raw)
+
+        # Atualiza a tabela de ponteiros (todos os 6 slots apontam para a string)
+        for g, ram_ptr in enumerate(group_ram_addrs):
+            group_off = self.TABLE_BASE + g * 24
+            for slot in range(6):
+                ptr_off = group_off + slot * 4
+                struct.pack_into("<I", self.raw_data, ptr_off, ram_ptr)
+
+        # Ajusta posição X de SAVE (128) para não colidir com SAIR
+        for slot in range(6):
+            struct.pack_into("<H", self.raw_data, self.SAVE_X_TABLE + slot * 2, 128)
+
+        # Garante UTF-8 no slot Inglês (byte 0x0e04 = 0x01)
+        if len(self.raw_data) > 0x0e04:
+            self.raw_data[0x0e04] = 0x01
+
+        with open(self.filepath, "wb") as f:
+            f.write(self.raw_data)
+        self.is_modified = False
+
+    def export_json(self, out_path):
+        export_data = {
+            "file": self.filename,
+            "type": "arm9_menus_and_system",
+            "total_groups": len(self.dialogues),
+            "groups": []
+        }
+        for idx, d in enumerate(self.dialogues):
+            export_data["groups"].append({
+                "id": idx,
+                "description": d.get("description", ""),
+                "orig_en": d.get("orig_texts", {}).get(1, ""),
+                "text": d["texts"].get(1, "")
+            })
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(export_data, f, ensure_ascii=False, indent=2)
+
+    def import_json(self, in_path, target_lang_slot=1):
+        with open(in_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        count = 0
+        for grp in data.get("groups", []):
+            g_id = grp["id"]
+            if g_id < len(self.dialogues):
+                self.update_dialogue(g_id, target_lang_slot, grp["text"])
+                count += 1
+        return count
+
 # ==============================================================================
 # SIMULADOR VISUAL DA TELA NINTENDO DS (CANVAS 256x192)
 # ==============================================================================
@@ -792,6 +1021,48 @@ class DSPreviewCanvas(tk.Canvas):
         if title:
             self.current_title = title
         self.draw_screen()
+
+    def recompile_rom_action(self):
+        """Recompila a ROM (current.nds) usando ndstool preservando o cabeçalho de 64 MB."""
+        ndstool = os.path.join(os.path.dirname(DEFAULT_ROOT), "ndstool.exe")
+        target_nds = os.path.join(os.path.dirname(DEFAULT_ROOT), "current.nds")
+        if not os.path.exists(ndstool):
+            messagebox.showerror("Erro", f"ndstool.exe não encontrado em:\n{ndstool}")
+            return
+
+        try:
+            if self.current_archive and self.current_archive.is_modified:
+                self.save_current_file()
+
+            cmd = [
+                ndstool,
+                "-c", target_nds,
+                "-9", "NDS_UNPACK/arm9.bin",
+                "-7", "NDS_UNPACK/arm7.bin",
+                "-y9", "NDS_UNPACK/y9.bin",
+                "-y7", "NDS_UNPACK/y7.bin",
+                "-d", "NDS_UNPACK/data",
+                "-y", "NDS_UNPACK/overlay",
+                "-t", "NDS_UNPACK/banner.bin",
+                "-h", "NDS_UNPACK/header.bin"
+            ]
+            res = subprocess.run(cmd, cwd=os.path.dirname(DEFAULT_ROOT), capture_output=True, text=True)
+            if res.returncode != 0:
+                messagebox.showerror("Erro na Recompilação", f"Erro no ndstool:\n{res.stderr}")
+                return
+
+            # Preserva cabeçalho de 64 MB (0x14 = 0x09)
+            with open(target_nds, "r+b") as f:
+                f.seek(0x14)
+                f.write(bytes([0x09]))
+
+            sz_mb = os.path.getsize(target_nds) / (1024 * 1024)
+            messagebox.showinfo("ROM Recompilada!",
+                                f"ROM recompilada com sucesso em:\n{target_nds}\n\n"
+                                f"Tamanho: {sz_mb:.2f} MB\n"
+                                f"Cabeçalho de 64 MB preservado (compatível com DeSmuME e Flashcards)!")
+        except Exception as e:
+            messagebox.showerror("Erro ao Recompilar", f"Falha na recompilação:\n{e}")
 
     def toggle_guides(self):
         self.show_guides = not self.show_guides
@@ -1000,6 +1271,7 @@ class CoralineTextEditorApp:
         self._load_config()
         self.layout = TextBoxLayout(self.font, self.box_width, self.box_lines)
         self.current_archive = None
+        self.original_archive = None
         self.current_file_path = ""
         self.current_diag_idx = 0
         self.ref_lang = 1    # 1 = Inglês
@@ -1151,6 +1423,9 @@ class CoralineTextEditorApp:
 
         btn_texture_tool = ttk.Button(lang_box, text="🎨 Editor de Texturas", style="Magic.TButton", command=self.open_texture_tool)
         btn_texture_tool.pack(side="left", padx=4)
+
+        btn_repack = ttk.Button(lang_box, text="⚙ Recompilar ROM (current.nds)", style="Success.TButton", command=self.recompile_rom_action)
+        btn_repack.pack(side="left", padx=4)
 
         # ----------------------------------------------------------------------
         # CORPO PRINCIPAL (3 COLUNAS)
@@ -1438,20 +1713,25 @@ class CoralineTextEditorApp:
 
     def load_directory(self, folder_path):
         self.all_files = []
-        # Carrega arquivos de diálogos de data/data/txt
-        if os.path.exists(folder_path):
-            for f in sorted(os.listdir(folder_path)):
-                if f.endswith(".bin") and f.startswith("eve_"):
-                    full_p = os.path.join(folder_path, f)
-                    self.all_files.append((f, full_p))
+        # 1. Carrega o executável principal arm9.bin (Menus, Salvamento, Botões e Personagens)
+        arm9_path = os.path.join(DEFAULT_ROOT, "arm9.bin")
+        if os.path.exists(arm9_path):
+            self.all_files.append(("arm9.bin (Menus & Sistema)", arm9_path))
 
-        # Carrega overlays de overlay/
+        # 2. Carrega overlays de overlay/ (Itens e Minijogos)
         if os.path.exists(OVERLAY_DIR):
             for ov in ["overlay_0000.bin", "overlay_0001.bin"]:
                 full_ov = os.path.join(OVERLAY_DIR, ov)
                 if os.path.exists(full_ov):
                     lbl = f"{ov} (Itens)" if "0000" in ov else f"{ov} (Minijogos)"
                     self.all_files.append((lbl, full_ov))
+
+        # 3. Carrega arquivos de diálogos de data/data/txt
+        if os.path.exists(folder_path):
+            for f in sorted(os.listdir(folder_path)):
+                if f.endswith(".bin") and f.startswith("eve_"):
+                    full_p = os.path.join(folder_path, f)
+                    self.all_files.append((f, full_p))
 
         self.filter_files()
         if self.all_files:
@@ -1488,15 +1768,23 @@ class CoralineTextEditorApp:
         try:
             self.current_file_path = filepath
             fname = os.path.basename(filepath)
-            if fname.startswith("overlay_"):
+            if fname == "arm9.bin":
+                self.current_archive = Arm9Archive(filepath)
+                self.original_archive = None
+                display_title = "arm9.bin (Menus, Salvar, Botões & Personagens)"
+            elif fname.startswith("overlay_"):
                 ov_type = "items" if "0000" in fname else "minigames"
                 self.current_archive = OverlayArchive(filepath, ov_type)
-                # Adapta itens de overlay para visualizador
-                # Para simplificar na UI, criamos um adaptador compatível
+                bak_cand = filepath + ".bak"
+                self.original_archive = OverlayArchive(bak_cand, ov_type) if os.path.exists(bak_cand) else None
+                display_title = f"{fname} ({'Itens' if '0000' in fname else 'Minijogos'})"
             else:
                 self.current_archive = BinScriptArchive(filepath)
+                orig_cand = os.path.join(TXT_ORIGINAL_DIR, fname)
+                self.original_archive = BinScriptArchive(orig_cand) if os.path.exists(orig_cand) else None
+                display_title = fname
 
-            self.lbl_current_file_title.config(text=f"{fname} ({len(self.current_archive.dialogues)} falas)")
+            self.lbl_current_file_title.config(text=f"{display_title} ({len(self.current_archive.dialogues)} falas)")
             self.populate_dialogues_list()
         except Exception as e:
             messagebox.showerror("Erro ao abrir arquivo", f"Não foi possível abrir o arquivo:\n{e}")
@@ -1513,11 +1801,18 @@ class CoralineTextEditorApp:
 
         query = self.diag_search_var.get().lower()
         for idx, d in enumerate(self.current_archive.dialogues):
-            ref_t = d["texts"].get(self.ref_lang, d["texts"].get(1, "")).replace("\n", " ")
+            if self.original_archive and idx < len(self.original_archive.dialogues) and self.ref_lang in self.original_archive.dialogues[idx]["texts"]:
+                ref_t = self.original_archive.dialogues[idx]["texts"][self.ref_lang].replace("\n", " ")
+            elif "orig_texts" in d and self.ref_lang in d.get("orig_texts", {}):
+                ref_t = d["orig_texts"][self.ref_lang].replace("\n", " ")
+            else:
+                ref_t = d["texts"].get(self.ref_lang, d["texts"].get(1, "")).replace("\n", " ")
+
             tar_raw = d["texts"].get(self.target_lang, "")
             tar_t = tar_raw.replace("\n", " ")
+            desc = d.get("description", "")
 
-            if query and (query not in ref_t.lower() and query not in tar_t.lower()):
+            if query and (query not in ref_t.lower() and query not in tar_t.lower() and query not in desc.lower()):
                 continue
 
             # Status: vazio / original / traduzido + encaixe em PIXELS
@@ -1536,8 +1831,9 @@ class CoralineTextEditorApp:
                     status = "✔ Cabe"
                     tag = ("good",)
 
+            col_ref = f"[{desc}] {ref_t}" if desc else ref_t
             self.tree_diags.insert("", "end", iid=str(idx), tags=tag,
-                                   values=(f"{idx+1}", ref_t[:45], tar_t[:45], status))
+                                   values=(f"{idx+1}", col_ref[:50], tar_t[:45], status))
 
         # Seleciona o primeiro diálogo
         children = self.tree_diags.get_children()
@@ -1560,11 +1856,17 @@ class CoralineTextEditorApp:
         if not self.current_archive or idx >= len(self.current_archive.dialogues):
             return
         diag = self.current_archive.dialogues[idx]
-        ref_text = diag["texts"].get(self.ref_lang, diag["texts"].get(1, ""))
+        if self.original_archive and idx < len(self.original_archive.dialogues) and self.ref_lang in self.original_archive.dialogues[idx]["texts"]:
+            ref_text = self.original_archive.dialogues[idx]["texts"][self.ref_lang]
+        elif "orig_texts" in diag and self.ref_lang in diag.get("orig_texts", {}):
+            ref_text = diag["orig_texts"][self.ref_lang]
+        else:
+            ref_text = diag["texts"].get(self.ref_lang, diag["texts"].get(1, ""))
         target_text = diag["texts"].get(self.target_lang, "")
 
+        desc_extra = f" | {diag['description']}" if "description" in diag else ""
         self.lbl_editing_diag_info.config(
-            text=f"Fala #{idx+1} de {len(self.current_archive.dialogues)} (Base Chunk #{diag['base_chunk']})"
+            text=f"Fala #{idx+1} de {len(self.current_archive.dialogues)} (Base Chunk #{diag['base_chunk']}){desc_extra}"
         )
 
         # Atualiza caixa de referência
@@ -1827,6 +2129,48 @@ class CoralineTextEditorApp:
         self.populate_dialogues_list()
         if self.current_archive:
             self.load_dialogue_to_editor(self.current_diag_idx)
+
+    def recompile_rom_action(self):
+        """Recompila a ROM (current.nds) usando ndstool preservando o cabeçalho de 64 MB."""
+        ndstool = os.path.join(os.path.dirname(DEFAULT_ROOT), "ndstool.exe")
+        target_nds = os.path.join(os.path.dirname(DEFAULT_ROOT), "current.nds")
+        if not os.path.exists(ndstool):
+            messagebox.showerror("Erro", f"ndstool.exe não encontrado em:\n{ndstool}")
+            return
+
+        try:
+            if self.current_archive and self.current_archive.is_modified:
+                self.save_current_file()
+
+            cmd = [
+                ndstool,
+                "-c", target_nds,
+                "-9", "NDS_UNPACK/arm9.bin",
+                "-7", "NDS_UNPACK/arm7.bin",
+                "-y9", "NDS_UNPACK/y9.bin",
+                "-y7", "NDS_UNPACK/y7.bin",
+                "-d", "NDS_UNPACK/data",
+                "-y", "NDS_UNPACK/overlay",
+                "-t", "NDS_UNPACK/banner.bin",
+                "-h", "NDS_UNPACK/header.bin"
+            ]
+            res = subprocess.run(cmd, cwd=os.path.dirname(DEFAULT_ROOT), capture_output=True, text=True)
+            if res.returncode != 0:
+                messagebox.showerror("Erro na Recompilação", f"Erro no ndstool:\n{res.stderr}")
+                return
+
+            # Preserva cabeçalho de 64 MB (0x14 = 0x09)
+            with open(target_nds, "r+b") as f:
+                f.seek(0x14)
+                f.write(bytes([0x09]))
+
+            sz_mb = os.path.getsize(target_nds) / (1024 * 1024)
+            messagebox.showinfo("ROM Recompilada!",
+                                f"ROM recompilada com sucesso em:\n{target_nds}\n\n"
+                                f"Tamanho: {sz_mb:.2f} MB\n"
+                                f"Cabeçalho de 64 MB preservado (compatível com DeSmuME e Flashcards)!")
+        except Exception as e:
+            messagebox.showerror("Erro ao Recompilar", f"Falha na recompilação:\n{e}")
 
     def toggle_guides(self):
         self.ds_canvas.toggle_guides()
